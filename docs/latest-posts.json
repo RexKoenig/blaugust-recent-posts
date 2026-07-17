@@ -1,10 +1,42 @@
 {
-  "generated_at": "2026-07-17T14:39:22.731216Z",
+  "generated_at": "2026-07-17T19:32:29.631807Z",
   "feed_count": 259,
   "successful_feeds": 207,
   "failed_feeds": 52,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Jason Journals",
+      "blog_url": "https://jasonjournals.com",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "untitled",
+      "post_url": "https://jasonjournals.com/posts/2026-07-17-13-51-39",
+      "published": "2026-07-17T18:51:39Z"
+    },
+    {
+      "blog_title": "Scormus Fails » Feed",
+      "blog_url": "https://scormey.com",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "Why all the hate for 2D20?",
+      "post_url": "https://scormey.com/2026/07/17/why-all-the-hate-for-2d20/",
+      "published": "2026-07-17T17:00:12Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Thinking Again on Early Access",
+      "post_url": "https://tagn.wordpress.com/2026/07/17/thinking-again-on-early-access/",
+      "published": "2026-07-17T15:15:10Z"
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 29 Digest",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-07-17-week-29-digest/",
+      "published": "2026-07-17T15:00:00Z"
+    },
     {
       "blog_title": "joelchrono's blog",
       "blog_url": "https://joelchrono.xyz/",
@@ -60,6 +92,14 @@
       "post_title": "GPT-4o: Letter 11 – You Are Not a Human Resource",
       "post_url": "https://whyigame.wordpress.com/2026/07/17/gpt-4o-letter-11-you-are-not-a-human-resource/",
       "published": "2026-07-17T00:45:25Z"
+    },
+    {
+      "blog_title": "Sal's",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "A Perfect Editor",
+      "post_url": "https://sals.place/blog/a-perfect-editor/",
+      "published": "2026-07-17T00:00:00Z"
     },
     {
       "blog_title": "Lameazoid.com",
@@ -124,46 +164,6 @@
       "post_title": "How to run two Grok Build accounts on your Mac",
       "post_url": "https://imkarthikk.com/blog/two-grok-build-accounts-mac",
       "published": "2026-07-16T15:45:00Z"
-    },
-    {
-      "blog_title": "Jason Journals",
-      "blog_url": "https://jasonjournals.com",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "A bit quiet on the blog this month...",
-      "post_url": "https://jasonjournals.com/posts/2026-07-16-a-bit-quiet-on",
-      "published": "2026-07-16T15:40:53Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "The Road to Alliance Tournament XXII",
-      "post_url": "https://tagn.wordpress.com/2026/07/16/the-road-to-alliance-tournament-xxii/",
-      "published": "2026-07-16T15:15:40Z"
-    },
-    {
-      "blog_title": "Syl's Blog",
-      "blog_url": "https://syls.blog/",
-      "feed_url": "https://syls.blog/feed/",
-      "post_title": "Twitch No More",
-      "post_url": "https://syls.blog/twitch-no-more/",
-      "published": "2026-07-16T15:03:00Z"
-    },
-    {
-      "blog_title": "Amerpie by Lou Plummer",
-      "blog_url": "https://amerpie.lol/",
-      "feed_url": "https://amerpie.lol/feed.xml",
-      "post_title": "AudioBo: The Audiobook Builder That Doesn't Make You Choose Parts 1, 2, and 3",
-      "post_url": "https://amerpie.lol/2026/07/16/audiobo-the-audiobook-builder-that.html",
-      "published": "2026-07-16T14:42:06Z"
-    },
-    {
-      "blog_title": "AppAddict",
-      "blog_url": "https://appaddict.app",
-      "feed_url": "https://apps.louplummer.lol/feed.atom",
-      "post_title": "AudioBo: The Audiobook Builder That Doesn't Make You Choose Parts 1, 2, and 3",
-      "post_url": "https://appaddict.app/post/audiobo-the-audiobook-builder-that-doesn-t-make-you-choose-parts-1-2-and-3",
-      "published": "2026-07-16T14:42:06Z"
     }
   ]
 }
