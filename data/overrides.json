@@ -1,0 +1,38 @@
+{
+  "https://3rdworldecol.neocities.org/RSS.xml": {
+    "title": "Third World Ecologist",
+    "website_url": "https://3rdworldecol.neocities.org/"
+  },
+  "https://syntheticdulips.wordpress.com/feed/": {
+    "title": "Synthetic Dulips",
+    "website_url": "https://syntheticdulips.wordpress.com/"
+  },
+  "https://fightmagicitem.run/atom.xml": {
+    "title": "Fight, Magic, Item, Run?",
+    "website_url": "https://fightmagicitem.run/"
+  },
+  "https://itsthebageler.com/feed/": {
+    "title": "It's The Bageler!",
+    "website_url": "https://itsthebageler.com/"
+  },
+  "https://medium.com/feed/@alexandergoodhand": {
+    "title": "Alexander Goodhand on Medium",
+    "website_url": "https://medium.com/@alexandergoodhand"
+  },
+  "https://journal.miso.town/atom?url=https://mormoroi.com/_parts/rss.html": {
+    "title": "mormoroi",
+    "website_url": "https://mormoroi.com/"
+  },
+  "https://girlgoblin.ca/feed/": {
+    "title": "Girl Goblin",
+    "website_url": "https://girlgoblin.ca/"
+  },
+  "https://orbitalmartian.vercel.app/feed.xml": {
+    "title": "OrbitalMartian",
+    "website_url": "https://orbitalmartian.polymaths.page/"
+  },
+  "https://aboyandhiscomputer.neocities.org/feed.xml": {
+    "title": "A Boy And His Computer",
+    "website_url": "https://aboyandhiscomputer.org/"
+  }
+}

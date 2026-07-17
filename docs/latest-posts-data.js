@@ -1,0 +1,2 @@
+window.__blaugustRecentPostsData={"generated_at":null,"feed_count":259,"successful_feeds":0,"failed_feeds":0,"post_count":0,"posts":[]};
+if(typeof window.__cmpRenderBlaugustRecentPosts==='function'){window.__cmpRenderBlaugustRecentPosts(window.__blaugustRecentPostsData);}

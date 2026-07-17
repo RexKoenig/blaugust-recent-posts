@@ -1,0 +1,217 @@
+<!--
+  BLAUGUST RECENT POSTS WIDGET
+  Before pasting into Squarespace, replace YOUR-GITHUB-USERNAME below.
+  The repository name assumes: blaugust-recent-posts
+-->
+<div
+  class="cmp-recent-posts"
+  id="cmp-recent-posts"
+  data-source="https://YOUR-GITHUB-USERNAME.github.io/blaugust-recent-posts/latest-posts-data.js"
+>
+  <div class="cmp-recent-header">
+    <h2>Recently published around the Blaugust community</h2>
+    <p>The newest posts from blogs in the Blaugust directory.</p>
+  </div>
+  <p class="cmp-recent-status" role="status">Loading recent posts…</p>
+  <ol class="cmp-recent-list" hidden></ol>
+  <p class="cmp-recent-updated" hidden></p>
+</div>
+
+<style>
+  .cmp-recent-posts {
+    width: 100%;
+    margin: 0 0 3rem;
+    padding: 1.35rem;
+    border: 1px solid rgba(127, 127, 127, 0.35);
+    border-radius: 0.65rem;
+    font: inherit;
+    color: inherit;
+    box-sizing: border-box;
+  }
+
+  .cmp-recent-header {
+    margin-bottom: 1.15rem;
+    padding-bottom: 0.9rem;
+    border-bottom: 1px solid rgba(127, 127, 127, 0.28);
+  }
+
+  .cmp-recent-header h2 {
+    margin: 0 0 0.35rem;
+  }
+
+  .cmp-recent-header p,
+  .cmp-recent-status,
+  .cmp-recent-updated {
+    margin: 0;
+    opacity: 0.76;
+  }
+
+  .cmp-recent-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem 1.6rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    counter-reset: cmp-recent;
+  }
+
+  .cmp-recent-list li {
+    min-width: 0;
+    margin: 0;
+    padding-left: 1.75rem;
+    position: relative;
+    counter-increment: cmp-recent;
+  }
+
+  .cmp-recent-list li::before {
+    content: counter(cmp-recent) ".";
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0.55;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .cmp-recent-title {
+    display: block;
+    color: inherit;
+    font-weight: 600;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  .cmp-recent-title:hover,
+  .cmp-recent-title:focus-visible {
+    text-decoration-thickness: 2px;
+  }
+
+  .cmp-recent-meta {
+    margin-top: 0.2rem;
+    font-size: 0.9em;
+    line-height: 1.35;
+    opacity: 0.72;
+  }
+
+  .cmp-recent-blog {
+    color: inherit;
+  }
+
+  .cmp-recent-updated {
+    margin-top: 1.15rem;
+    padding-top: 0.8rem;
+    border-top: 1px solid rgba(127, 127, 127, 0.2);
+    font-size: 0.85em;
+  }
+
+  @media (max-width: 700px) {
+    .cmp-recent-posts {
+      padding: 1.1rem;
+    }
+
+    .cmp-recent-list {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<script>
+(function () {
+  "use strict";
+
+  var root = document.getElementById("cmp-recent-posts");
+  if (!root) return;
+
+  var list = root.querySelector(".cmp-recent-list");
+  var status = root.querySelector(".cmp-recent-status");
+  var updated = root.querySelector(".cmp-recent-updated");
+
+  function makeLink(className, text, href) {
+    var link = document.createElement("a");
+    link.className = className;
+    link.textContent = text;
+    link.href = href;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    return link;
+  }
+
+  function formatPostDate(value) {
+    var date = new Date(value);
+    if (Number.isNaN(date.getTime())) return "Date unavailable";
+    return new Intl.DateTimeFormat("en-GB", {
+      day: "numeric",
+      month: "short",
+      year: "numeric"
+    }).format(date);
+  }
+
+  function formatUpdated(value) {
+    var date = new Date(value);
+    if (Number.isNaN(date.getTime())) return "";
+    return new Intl.DateTimeFormat("en-GB", {
+      day: "numeric",
+      month: "long",
+      year: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
+      timeZone: "Europe/London",
+      timeZoneName: "short"
+    }).format(date);
+  }
+
+  window.__cmpRenderBlaugustRecentPosts = function (data) {
+    list.replaceChildren();
+    var posts = data && Array.isArray(data.posts) ? data.posts : [];
+
+    if (!posts.length) {
+      status.textContent = "No recent posts are available yet. The feed updater may still be completing its first run.";
+      status.hidden = false;
+      list.hidden = true;
+      updated.hidden = true;
+      return;
+    }
+
+    posts.forEach(function (post) {
+      var item = document.createElement("li");
+      item.appendChild(makeLink("cmp-recent-title", post.post_title, post.post_url));
+
+      var meta = document.createElement("div");
+      meta.className = "cmp-recent-meta";
+      meta.appendChild(makeLink("cmp-recent-blog", post.blog_title, post.blog_url));
+      meta.appendChild(document.createTextNode(" · "));
+
+      var time = document.createElement("time");
+      time.dateTime = post.published;
+      time.textContent = formatPostDate(post.published);
+      meta.appendChild(time);
+      item.appendChild(meta);
+      list.appendChild(item);
+    });
+
+    status.hidden = true;
+    list.hidden = false;
+
+    var refreshed = formatUpdated(data.generated_at);
+    if (refreshed) {
+      updated.textContent = "Feed list last refreshed " + refreshed + ".";
+      updated.hidden = false;
+    }
+  };
+
+  if (window.__blaugustRecentPostsData) {
+    window.__cmpRenderBlaugustRecentPosts(window.__blaugustRecentPostsData);
+    return;
+  }
+
+  var script = document.createElement("script");
+  script.src = root.getAttribute("data-source") + "?v=" + Date.now();
+  script.async = true;
+  script.onerror = function () {
+    status.textContent = "The recent-post list could not be loaded at present.";
+  };
+  document.head.appendChild(script);
+})();
+</script>

@@ -1,0 +1,11 @@
+<!--
+  NON-JAVASCRIPT FALLBACK
+  Replace YOUR-GITHUB-USERNAME, then paste into a Squarespace Code Block.
+  The fixed height can be adjusted after seeing the result on your site.
+-->
+<iframe
+  src="https://YOUR-GITHUB-USERNAME.github.io/blaugust-recent-posts/"
+  title="Recently published around the Blaugust community"
+  loading="lazy"
+  style="width:100%;height:1250px;border:0;overflow:hidden;"
+></iframe>

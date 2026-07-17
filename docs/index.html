@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blaugust recent posts</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 1rem; font: 16px/1.45 system-ui, sans-serif; color: CanvasText; background: Canvas; }
+    .panel { max-width: 1100px; margin: auto; }
+    h2 { margin: 0 0 .3rem; font-size: 1.55rem; }
+    .intro, .status, .updated { opacity: .72; }
+    .intro { margin: 0 0 1rem; }
+    ol { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1rem 1.6rem; margin: 0; padding-left: 1.8rem; }
+    li { padding-left: .2rem; min-width: 0; }
+    .title { display: block; color: inherit; font-weight: 650; overflow-wrap: anywhere; }
+    .meta { margin-top: .2rem; font-size: .9rem; opacity: .72; }
+    .meta a { color: inherit; }
+    .updated { margin-top: 1rem; font-size: .85rem; }
+    @media (max-width:700px) { ol { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <main class="panel">
+    <h2>Recently published around the Blaugust community</h2>
+    <p class="intro">The newest posts from blogs in the Blaugust directory.</p>
+    <p class="status">Loading recent posts…</p>
+    <ol hidden></ol>
+    <p class="updated" hidden></p>
+  </main>
+  <script>
+    (function(){
+      var list=document.querySelector('ol'), status=document.querySelector('.status'), updated=document.querySelector('.updated');
+      function link(text,href,cls){var a=document.createElement('a');a.textContent=text;a.href=href;a.className=cls||'';a.target='_blank';a.rel='noopener noreferrer';return a;}
+      function dateText(value,withTime){var d=new Date(value);if(Number.isNaN(d.getTime()))return '';var opts=withTime?{day:'numeric',month:'long',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Europe/London',timeZoneName:'short'}:{day:'numeric',month:'short',year:'numeric'};return new Intl.DateTimeFormat('en-GB',opts).format(d);}
+      window.__cmpRenderBlaugustRecentPosts=function(data){var posts=data&&Array.isArray(data.posts)?data.posts:[];list.replaceChildren();if(!posts.length){status.textContent='No recent posts are available yet.';return;}posts.forEach(function(p){var li=document.createElement('li');li.appendChild(link(p.post_title,p.post_url,'title'));var meta=document.createElement('div');meta.className='meta';meta.appendChild(link(p.blog_title,p.blog_url));meta.appendChild(document.createTextNode(' · '+dateText(p.published,false)));li.appendChild(meta);list.appendChild(li);});status.hidden=true;list.hidden=false;var t=dateText(data.generated_at,true);if(t){updated.textContent='Feed list last refreshed '+t+'.';updated.hidden=false;}};
+      var s=document.createElement('script');s.src='latest-posts-data.js?v='+Date.now();s.onerror=function(){status.textContent='The recent-post list could not be loaded at present.';};document.head.appendChild(s);
+    })();
+  </script>
+</body>
+</html>
