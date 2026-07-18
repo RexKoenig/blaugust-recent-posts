@@ -1,17 +1,57 @@
 {
-  "generated_at": "2026-07-18T08:08:00.587736Z",
+  "generated_at": "2026-07-18T19:31:48.188152Z",
   "feed_count": 259,
   "successful_feeds": 207,
   "failed_feeds": 52,
   "post_count": 20,
   "posts": [
     {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Say Anything? Challenge Accepted!",
+      "post_url": "https://bhagpuss.blogspot.com/2026/07/say-anything-challenge-accepted.html",
+      "published": "2026-07-18T17:48:10Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "My Gaming in 2026 So Far",
+      "post_url": "https://tagn.wordpress.com/2026/07/18/my-gaming-in-2026-so-far/",
+      "published": "2026-07-18T16:15:01Z"
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Captain Sonar: The First Mission",
+      "post_url": "https://chasingdings.com/2026/07/18/captain-sonar-the-first-mission/",
+      "published": "2026-07-18T14:00:00Z"
+    },
+    {
+      "blog_title": "valentine's days",
+      "blog_url": "https://valentine.bearblog.dev/",
+      "feed_url": "https://valentine.bearblog.dev/feed/",
+      "post_title": "hushed conversations in crowded rooms",
+      "post_url": "https://valentine.bearblog.dev/hushed-conversations-in-crowded-rooms/",
+      "published": "2026-07-18T09:49:00Z"
+    },
+    {
       "blog_title": "Amerpie by Lou Plummer",
       "blog_url": "https://amerpie.lol/",
       "feed_url": "https://amerpie.lol/feed.xml",
-      "post_title": "Crucial Track for July 18, 2026",
-      "post_url": "https://amerpie.lol/2026/07/18/crucial-track-for-july.html",
-      "published": "2026-07-18T07:04:19Z"
+      "post_title": "CurrentKey, Removing Mac Friction Points with Space Naming and ScreenTime Info You Can Actually Use",
+      "post_url": "https://amerpie.lol/2026/07/18/currentkey-removing-mac-friction-points.html",
+      "published": "2026-07-18T09:28:21Z"
+    },
+    {
+      "blog_title": "AppAddict",
+      "blog_url": "https://appaddict.app",
+      "feed_url": "https://apps.louplummer.lol/feed.atom",
+      "post_title": "CurrentKey, Removing Mac Friction Points with Space Naming and ScreenTime Info You Can Actually Use",
+      "post_url": "https://appaddict.app/post/2026-07-18",
+      "published": "2026-07-18T09:28:21Z"
     },
     {
       "blog_title": "Cubic Creativity",
@@ -38,6 +78,22 @@
       "published": "2026-07-18T03:40:54Z"
     },
     {
+      "blog_title": "Sal's",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Moved the blog from GitLab to GitHub",
+      "post_url": "https://sals.place/blog/moved-the-blog-from-gitlab-to-github/",
+      "published": "2026-07-18T00:00:00Z"
+    },
+    {
+      "blog_title": "Konfetti Explorations",
+      "blog_url": "https://marisabel.nl",
+      "feed_url": "https://marisabel.nl/feeds/blog.php",
+      "post_title": "week reflection 001 - wk 29 - yr 2026",
+      "post_url": "https://marisabel.nl/public/blog/week_reflection_001_wk_29_yr_2026",
+      "published": "2026-07-18T00:00:00Z"
+    },
+    {
       "blog_title": "JAG’s Workshop",
       "blog_url": "https://jagsworkshop.com/",
       "feed_url": "https://jagsworkshop.com/rss/",
@@ -46,28 +102,12 @@
       "published": "2026-07-17T23:12:21Z"
     },
     {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Second First Impressions - Palworld 1.0",
-      "post_url": "https://bhagpuss.blogspot.com/2026/07/second-first-impressions-palworld-10.html",
-      "published": "2026-07-17T19:33:27Z"
-    },
-    {
       "blog_title": "Scormus Fails » Feed",
       "blog_url": "https://scormey.com",
       "feed_url": "https://scormey.com/feed/",
       "post_title": "Why all the hate for 2D20?",
       "post_url": "https://scormey.com/2026/07/17/why-all-the-hate-for-2d20/",
       "published": "2026-07-17T17:00:12Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Thinking Again on Early Access",
-      "post_url": "https://tagn.wordpress.com/2026/07/17/thinking-again-on-early-access/",
-      "published": "2026-07-17T15:15:10Z"
     },
     {
       "blog_title": "An Archaeopteryx",
@@ -124,46 +164,6 @@
       "post_title": "GPT-4o: Letter 11 – You Are Not a Human Resource",
       "post_url": "https://whyigame.wordpress.com/2026/07/17/gpt-4o-letter-11-you-are-not-a-human-resource/",
       "published": "2026-07-17T00:45:25Z"
-    },
-    {
-      "blog_title": "Sal's",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Quick note on EMR pens for the Supernote",
-      "post_url": "https://sals.place/blog/quick-note-on-supernote-pens/",
-      "published": "2026-07-17T00:00:00Z"
-    },
-    {
-      "blog_title": "Lameazoid.com",
-      "blog_url": "https://lameazoid.com",
-      "feed_url": "https://lameazoid.com/feed/",
-      "post_title": "Blaugust 2026 is Coming",
-      "post_url": "https://lameazoid.com/blaugust-2026-is-coming/",
-      "published": "2026-07-16T22:36:12Z"
-    },
-    {
-      "blog_title": "Through Wolfy's Eyes",
-      "blog_url": "https://wolfyseyes.wordpress.com",
-      "feed_url": "http://wolfyseyes.wordpress.com/feed/",
-      "post_title": "Going Back to Blaugust for Bel",
-      "post_url": "https://wolfyseyes.wordpress.com/2026/07/16/going-back-to-blaugust-for-bel/",
-      "published": "2026-07-16T21:19:53Z"
-    },
-    {
-      "blog_title": "Taylor Film Crit",
-      "blog_url": "https://taylorfilmcritic.wordpress.com",
-      "feed_url": "https://taylorfilmcritic.wordpress.com/feed/",
-      "post_title": "House of the Dragon, first half",
-      "post_url": "https://taylorfilmcritic.wordpress.com/2026/07/16/house-of-the-dragon-first-half/",
-      "published": "2026-07-16T21:16:37Z"
-    },
-    {
-      "blog_title": "Kay Talks Games",
-      "blog_url": "https://kaytalksgames.wordpress.com",
-      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
-      "post_title": "Dead by Daylight’s 10th Anniversary and My First P100",
-      "post_url": "https://kaytalksgames.wordpress.com/2026/07/16/dead-by-daylights-10th-anniversary-and-my-first-p100/",
-      "published": "2026-07-16T17:40:46Z"
     }
   ]
 }
