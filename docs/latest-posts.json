@@ -1,10 +1,66 @@
 {
-  "generated_at": "2026-07-19T08:32:41.062624Z",
+  "generated_at": "2026-07-19T19:31:39.918459Z",
   "feed_count": 259,
-  "successful_feeds": 206,
-  "failed_feeds": 53,
+  "successful_feeds": 207,
+  "failed_feeds": 52,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Amerpie by Lou Plummer",
+      "blog_url": "https://amerpie.lol/",
+      "feed_url": "https://amerpie.lol/feed.xml",
+      "post_title": "Big Mattress - Not a Front for the Mob After All",
+      "post_url": "https://amerpie.lol/2026/07/19/big-mattress-not-a-front.html",
+      "published": "2026-07-19T18:25:00Z"
+    },
+    {
+      "blog_title": "Living Out Loud",
+      "blog_url": "https://louplummer.lol/",
+      "feed_url": "https://louplummer.lol/feed/",
+      "post_title": "Big Mattress - Not a Front for the Mob After All",
+      "post_url": "https://louplummer.lol/big-mattress-mob/",
+      "published": "2026-07-19T18:25:00Z"
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "Oliver De Coque & his Expo 76",
+      "post_url": "https://amf.didiermary.fr/oliver-de-coque-expo-76/",
+      "published": "2026-07-19T16:58:56Z"
+    },
+    {
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "I am wanting to be wanting after a trip to the ER",
+      "post_url": "https://angrybunnyman.com/i-am-wanting-to-be-wanting-after-a-trip-to-the-er/",
+      "published": "2026-07-19T16:00:00Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "TAGN Fantasy Critic League 2026 – Week Twenty-Nine and The Incident at Galley House",
+      "post_url": "https://tagn.wordpress.com/2026/07/19/tagn-fantasy-critic-league-2026-week-twenty-nine/",
+      "published": "2026-07-19T15:15:59Z"
+    },
+    {
+      "blog_title": "KABALYERO (Blogging for the Wife and Kids!)",
+      "blog_url": "https://www.kabalyero.info/",
+      "feed_url": "https://www.kabalyero.info/feeds/posts/default?alt=rss",
+      "post_title": "Fish Tanks for Xundra's or XS Fishing Breedable Fish!",
+      "post_url": "https://www.kabalyero.info/2026/07/fish-tanks-for-xundras-or-xs-fishing.html",
+      "published": "2026-07-19T12:23:40Z"
+    },
+    {
+      "blog_title": "Battle Stance",
+      "blog_url": "https://battlestance.org",
+      "feed_url": "https://battlestance.org/feed/",
+      "post_title": "Torment VII",
+      "post_url": "https://battlestance.org/2026/07/19/torment-vii/",
+      "published": "2026-07-19T12:23:26Z"
+    },
     {
       "blog_title": "Ubergeek Kelly's World- Life, technology, science, rants",
       "blog_url": "https://www.kgadams.net",
@@ -38,6 +94,14 @@
       "published": "2026-07-19T01:49:18Z"
     },
     {
+      "blog_title": "Sal's",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "So long, ball!",
+      "post_url": "https://sals.place/blog/so-long-ball/",
+      "published": "2026-07-19T00:00:00Z"
+    },
+    {
       "blog_title": "Lameazoid.com",
       "blog_url": "https://lameazoid.com",
       "feed_url": "https://lameazoid.com/feed/",
@@ -52,14 +116,6 @@
       "post_title": "Say Anything? Challenge Accepted!",
       "post_url": "https://bhagpuss.blogspot.com/2026/07/say-anything-challenge-accepted.html",
       "published": "2026-07-18T17:48:10Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "My Gaming in 2026 So Far",
-      "post_url": "https://tagn.wordpress.com/2026/07/18/my-gaming-in-2026-so-far/",
-      "published": "2026-07-18T16:15:01Z"
     },
     {
       "blog_title": "Chasing Dings!",
@@ -78,14 +134,6 @@
       "published": "2026-07-18T09:49:00Z"
     },
     {
-      "blog_title": "Amerpie by Lou Plummer",
-      "blog_url": "https://amerpie.lol/",
-      "feed_url": "https://amerpie.lol/feed.xml",
-      "post_title": "CurrentKey, Removing Mac Friction Points with Space Naming and ScreenTime Info You Can Actually Use",
-      "post_url": "https://amerpie.lol/2026/07/18/currentkey-removing-mac-friction-points.html",
-      "published": "2026-07-18T09:28:21Z"
-    },
-    {
       "blog_title": "AppAddict",
       "blog_url": "https://appaddict.app",
       "feed_url": "https://apps.louplummer.lol/feed.atom",
@@ -102,14 +150,6 @@
       "published": "2026-07-18T07:00:00Z"
     },
     {
-      "blog_title": "Sal's",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Moved the blog from GitLab to GitHub",
-      "post_url": "https://sals.place/blog/moved-the-blog-from-gitlab-to-github/",
-      "published": "2026-07-18T00:00:00Z"
-    },
-    {
       "blog_title": "Konfetti Explorations",
       "blog_url": "https://marisabel.nl",
       "feed_url": "https://marisabel.nl/feeds/blog.php",
@@ -124,46 +164,6 @@
       "post_title": "Why all the hate for 2D20?",
       "post_url": "https://scormey.com/2026/07/17/why-all-the-hate-for-2d20/",
       "published": "2026-07-17T17:00:12Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 29 Digest",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-07-17-week-29-digest/",
-      "published": "2026-07-17T15:00:00Z"
-    },
-    {
-      "blog_title": "joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "One of those webinars",
-      "post_url": "https://joelchrono.xyz/blog/one-of-those-webinars/",
-      "published": "2026-07-17T14:15:00Z"
-    },
-    {
-      "blog_title": "Endgame Viable",
-      "blog_url": "https://endgameviable.com/",
-      "feed_url": "http://endgameviable.com/feed/",
-      "post_title": "Trying Rise of the Ronin on the PS5",
-      "post_url": "https://endgameviable.com/post/2026/07/rise-of-the-ronin/",
-      "published": "2026-07-17T12:48:56Z"
-    },
-    {
-      "blog_title": "Kimberly Hirsh",
-      "blog_url": "https://kimberlyhirsh.com/",
-      "feed_url": "https://kimberlyhirsh.com/feed.xml",
-      "post_title": "📚 For my birthday, stop the Federal Government gaining control of your local school libraries.",
-      "post_url": "https://kimberlyhirsh.com/2026/07/17/for-my-birthday-stop-the.html",
-      "published": "2026-07-17T12:02:05Z"
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Create",
-      "post_url": "https://martinschuhmann.com/create",
-      "published": "2026-07-17T09:15:00Z"
     }
   ]
 }
