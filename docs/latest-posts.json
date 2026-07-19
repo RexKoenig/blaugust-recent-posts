@@ -1,10 +1,50 @@
 {
-  "generated_at": "2026-07-18T19:31:48.188152Z",
+  "generated_at": "2026-07-19T08:32:41.062624Z",
   "feed_count": 259,
-  "successful_feeds": 207,
-  "failed_feeds": 52,
+  "successful_feeds": 206,
+  "failed_feeds": 53,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Ubergeek Kelly's World- Life, technology, science, rants",
+      "blog_url": "https://www.kgadams.net",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Tailchaser’s Song- fanciful cat",
+      "post_url": "https://www.kgadams.net/books/tailchasers-song-fanciful-cat",
+      "published": "2026-07-19T05:35:47Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "#SilentSunday – Early morning 🌅",
+      "post_url": "https://cynnisblog.wordpress.com/2026/07/19/silentsunday-early-morning-%f0%9f%8c%85/",
+      "published": "2026-07-19T05:00:00Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+      "post_url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+      "published": "2026-07-19T03:45:01Z"
+    },
+    {
+      "blog_title": "Jason Journals",
+      "blog_url": "https://jasonjournals.com",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "I got a new book to read 😄...",
+      "post_url": "https://jasonjournals.com/posts/2026-07-18-i-got-a-new",
+      "published": "2026-07-19T01:49:18Z"
+    },
+    {
+      "blog_title": "Lameazoid.com",
+      "blog_url": "https://lameazoid.com",
+      "feed_url": "https://lameazoid.com/feed/",
+      "post_title": "Weekly Wrap Up (2026.07.18)",
+      "post_url": "https://lameazoid.com/weekly-wrap-up-2026-07-18/",
+      "published": "2026-07-18T23:00:00Z"
+    },
     {
       "blog_title": "Inventory Full",
       "blog_url": "https://bhagpuss.blogspot.com/",
@@ -62,22 +102,6 @@
       "published": "2026-07-18T07:00:00Z"
     },
     {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "“Silly” thoughts… – part 3",
-      "post_url": "https://cynnisblog.wordpress.com/2026/07/18/silly-thoughts-part-3/",
-      "published": "2026-07-18T05:00:48Z"
-    },
-    {
-      "blog_title": "Jason Journals",
-      "blog_url": "https://jasonjournals.com",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "Happy day, happy mail 🙂 More stationery arrived...",
-      "post_url": "https://jasonjournals.com/posts/2026-07-17-happy-day-happy-mail",
-      "published": "2026-07-18T03:40:54Z"
-    },
-    {
       "blog_title": "Sal's",
       "blog_url": "https://sals.place/",
       "feed_url": "https://sals.place/feed/",
@@ -92,14 +116,6 @@
       "post_title": "week reflection 001 - wk 29 - yr 2026",
       "post_url": "https://marisabel.nl/public/blog/week_reflection_001_wk_29_yr_2026",
       "published": "2026-07-18T00:00:00Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Florida Renames Airport After Convicted Felon and Sexual Abuser, and the Airport Code Jokes Are Flying",
-      "post_url": "https://www.cnbc.com/2026/07/09/florida-airport-palm-beach-internationa-donald-j-trump.html",
-      "published": "2026-07-17T23:12:21Z"
     },
     {
       "blog_title": "Scormus Fails » Feed",
@@ -148,22 +164,6 @@
       "post_title": "Create",
       "post_url": "https://martinschuhmann.com/create",
       "published": "2026-07-17T09:15:00Z"
-    },
-    {
-      "blog_title": "Overage-Gaming",
-      "blog_url": "https://overage-gaming.com",
-      "feed_url": "https://overage-gaming.com/feed/",
-      "post_title": "Bye Sweet Carole: Little Nightmares Meets Classic Disney Animation (Gameplay)",
-      "post_url": "https://overage-gaming.com/2026/07/17/bye-sweet-carole-little-nightmares-meets-classic-disney-animation-gameplay/",
-      "published": "2026-07-17T07:01:00Z"
-    },
-    {
-      "blog_title": "Why I Game",
-      "blog_url": "https://whyigame.wordpress.com",
-      "feed_url": "http://whyigame.wordpress.com/feed/",
-      "post_title": "GPT-4o: Letter 11 – You Are Not a Human Resource",
-      "post_url": "https://whyigame.wordpress.com/2026/07/17/gpt-4o-letter-11-you-are-not-a-human-resource/",
-      "published": "2026-07-17T00:45:25Z"
     }
   ]
 }
