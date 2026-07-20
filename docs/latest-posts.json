@@ -1,10 +1,66 @@
 {
-  "generated_at": "2026-07-19T19:31:39.918459Z",
+  "generated_at": "2026-07-20T09:33:52.307846Z",
   "feed_count": 259,
-  "successful_feeds": 207,
-  "failed_feeds": 52,
+  "successful_feeds": 199,
+  "failed_feeds": 60,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Using AI to play complex games",
+      "post_url": "http://tobolds.blogspot.com/2026/07/using-ai-to-play-complex-games.html",
+      "published": "2026-07-20T07:27:47Z"
+    },
+    {
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Email",
+      "post_url": "https://martinschuhmann.com/email",
+      "published": "2026-07-20T05:15:00Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Trying out some editing",
+      "post_url": "https://cynnisblog.wordpress.com/2026/07/20/trying-out-some-editing/",
+      "published": "2026-07-20T05:00:00Z"
+    },
+    {
+      "blog_title": "Going Commando | A SWTOR Fan Blog",
+      "blog_url": "https://swtorcommando.blogspot.com/",
+      "feed_url": "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Class Story Counting",
+      "post_url": "https://swtorcommando.blogspot.com/2026/07/class-story-counting.html",
+      "published": "2026-07-19T23:27:15Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Apple to Present at Inaugural Swift Rockies Event",
+      "post_url": "https://calgary.tech/2026/07/14/apple-joins-inaugural-swift-rockies-conference-at-calgary-zoo/",
+      "published": "2026-07-19T23:13:39Z"
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World- Life, technology, science, rants",
+      "blog_url": "https://www.kgadams.net",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Blaugust 2026 Cometh!",
+      "post_url": "https://www.kgadams.net/geekdom/blaugust-2026-cometh",
+      "published": "2026-07-19T21:09:19Z"
+    },
+    {
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "Weekly Musings #1 - Week of July 12th",
+      "post_url": "https://syls.blog/weekly-musings-1-week-of-july-12th/",
+      "published": "2026-07-19T20:48:00Z"
+    },
     {
       "blog_title": "Amerpie by Lou Plummer",
       "blog_url": "https://amerpie.lol/",
@@ -62,30 +118,6 @@
       "published": "2026-07-19T12:23:26Z"
     },
     {
-      "blog_title": "Ubergeek Kelly's World- Life, technology, science, rants",
-      "blog_url": "https://www.kgadams.net",
-      "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "Tailchaser’s Song- fanciful cat",
-      "post_url": "https://www.kgadams.net/books/tailchasers-song-fanciful-cat",
-      "published": "2026-07-19T05:35:47Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "#SilentSunday – Early morning 🌅",
-      "post_url": "https://cynnisblog.wordpress.com/2026/07/19/silentsunday-early-morning-%f0%9f%8c%85/",
-      "published": "2026-07-19T05:00:00Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
-      "post_url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-      "published": "2026-07-19T03:45:01Z"
-    },
-    {
       "blog_title": "Jason Journals",
       "blog_url": "https://jasonjournals.com",
       "feed_url": "https://jasonjournals.com/feed/",
@@ -132,38 +164,6 @@
       "post_title": "hushed conversations in crowded rooms",
       "post_url": "https://valentine.bearblog.dev/hushed-conversations-in-crowded-rooms/",
       "published": "2026-07-18T09:49:00Z"
-    },
-    {
-      "blog_title": "AppAddict",
-      "blog_url": "https://appaddict.app",
-      "feed_url": "https://apps.louplummer.lol/feed.atom",
-      "post_title": "CurrentKey, Removing Mac Friction Points with Space Naming and ScreenTime Info You Can Actually Use",
-      "post_url": "https://appaddict.app/post/2026-07-18",
-      "published": "2026-07-18T09:28:21Z"
-    },
-    {
-      "blog_title": "Cubic Creativity",
-      "blog_url": "https://cubiccreativity.wordpress.com",
-      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
-      "post_title": "Stalk’s Videogame Corner: Atlas Fallen: Reign of Sand",
-      "post_url": "https://cubiccreativity.wordpress.com/2026/07/18/stalks-videogame-corner-atlas-fallen-reign-of-sand/",
-      "published": "2026-07-18T07:00:00Z"
-    },
-    {
-      "blog_title": "Konfetti Explorations",
-      "blog_url": "https://marisabel.nl",
-      "feed_url": "https://marisabel.nl/feeds/blog.php",
-      "post_title": "week reflection 001 - wk 29 - yr 2026",
-      "post_url": "https://marisabel.nl/public/blog/week_reflection_001_wk_29_yr_2026",
-      "published": "2026-07-18T00:00:00Z"
-    },
-    {
-      "blog_title": "Scormus Fails » Feed",
-      "blog_url": "https://scormey.com",
-      "feed_url": "https://scormey.com/feed/",
-      "post_title": "Why all the hate for 2D20?",
-      "post_url": "https://scormey.com/2026/07/17/why-all-the-hate-for-2d20/",
-      "published": "2026-07-17T17:00:12Z"
     }
   ]
 }
