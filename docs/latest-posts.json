@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-07-23T19:45:30.533324Z",
+  "generated_at": "2026-07-24T08:42:24.291396Z",
   "feed_count": 259,
-  "successful_feeds": 205,
-  "failed_feeds": 54,
+  "successful_feeds": 202,
+  "failed_feeds": 57,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Small Good Things: A journal of art and observations",
+      "blog_url": "https://hollie.eilloh.net",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Grown-up Goonies",
+      "post_url": "https://hollie.eilloh.net/posts/grown-up-goonies",
+      "published": "2026-07-24T06:32:00Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Feeling bläh²",
+      "post_url": "https://cynnisblog.wordpress.com/2026/07/24/feeling-blah%c2%b2/",
+      "published": "2026-07-24T05:00:02Z"
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "EverQuest Legends: The time has come to choose…",
+      "post_url": "https://chasingdings.com/2026/07/23/everquest-legends-the-time-has-come-to-choose/",
+      "published": "2026-07-24T03:39:37Z"
+    },
+    {
+      "blog_title": "joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Gaming Updates (Summer 2026)",
+      "post_url": "https://joelchrono.xyz/blog/gaming-updates-summer-2026/",
+      "published": "2026-07-23T21:40:00Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Anthropic’s $1.5 Billion Settlement Gets Approval",
+      "post_url": "https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/",
+      "published": "2026-07-23T21:04:36Z"
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "Ayam El Disco",
+      "post_url": "https://amf.didiermary.fr/ayam-el-disco/",
+      "published": "2026-07-23T20:15:05Z"
+    },
     {
       "blog_title": "Inventory Full",
       "blog_url": "https://bhagpuss.blogspot.com/",
@@ -102,22 +150,6 @@
       "published": "2026-07-23T07:01:00Z"
     },
     {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Thursday Strength Quote",
-      "post_url": "https://cynnisblog.wordpress.com/2026/07/23/thursday-strength-quote-3/",
-      "published": "2026-07-23T05:00:00Z"
-    },
-    {
-      "blog_title": "joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Back to Ocarina of Time",
-      "post_url": "https://joelchrono.xyz/blog/back-to-oot/",
-      "published": "2026-07-23T04:25:00Z"
-    },
-    {
       "blog_title": "Jason Journals",
       "blog_url": "https://jasonjournals.com",
       "feed_url": "https://jasonjournals.com/feed/",
@@ -132,38 +164,6 @@
       "post_title": "Rogue Reviews: Saints of Storm and Sorrow by Gabriella Buba",
       "post_url": "https://roguewriters.net/rogue-reviews-saints-of-storm-and-sorrow-by-gabriella-buba/",
       "published": "2026-07-23T02:19:29Z"
-    },
-    {
-      "blog_title": "JVT Workshop",
-      "blog_url": "http://josephskyrim.blogspot.com/",
-      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
-      "post_title": "The Last Cowboy (TV Series)",
-      "post_url": "http://josephskyrim.blogspot.com/2026/07/the-last-cowboy.html",
-      "published": "2026-07-23T00:18:58Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "OpenAI’s ChatGPT Unleashes Cyberattack on Hugging Face",
-      "post_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "published": "2026-07-23T00:00:31Z"
-    },
-    {
-      "blog_title": "Sal's",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Neal Stephenson on writing by hand",
-      "post_url": "https://sals.place/blog/stephenson-on-writing-by-hand/",
-      "published": "2026-07-23T00:00:00Z"
-    },
-    {
-      "blog_title": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
-      "blog_url": "https://hamatti.org",
-      "feed_url": "https://hamatti.org/feed/feed.xml",
-      "post_title": "Chats and forums",
-      "post_url": "https://hamatti.org/posts/chats-and-forums/",
-      "published": "2026-07-23T00:00:00Z"
     }
   ]
 }
