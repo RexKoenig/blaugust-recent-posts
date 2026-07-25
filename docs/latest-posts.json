@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-07-25T08:23:44.820687Z",
+  "generated_at": "2026-07-25T19:34:10.447517Z",
   "feed_count": 259,
-  "successful_feeds": 205,
-  "failed_feeds": 54,
+  "successful_feeds": 206,
+  "failed_feeds": 53,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Small Good Things: A journal of art and observations",
+      "blog_url": "https://hollie.eilloh.net",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Small world at Costco",
+      "post_url": "https://hollie.eilloh.net/posts/small-world-at-costco",
+      "published": "2026-07-25T19:15:28Z"
+    },
+    {
+      "blog_title": "The Virtual Moose",
+      "blog_url": "https://virtualmoose.org",
+      "feed_url": "https://virtualmoose.org/feed/",
+      "post_title": "Physical Media for PC Games Still Exists",
+      "post_url": "https://virtualmoose.org/2026/07/25/physical-media-for-pc-games-still-exists/",
+      "published": "2026-07-25T16:20:41Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "‘The Old Man and the Strait’",
+      "post_url": "https://www.mcsweeneys.net/articles/the-old-man-and-the-strait",
+      "published": "2026-07-25T15:48:26Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Stardew Valley and Through the Winter and Into Year Two",
+      "post_url": "https://tagn.wordpress.com/2026/07/25/stardew-valley-and-through-the-winter-and-into-year-two/",
+      "published": "2026-07-25T15:15:12Z"
+    },
+    {
+      "blog_title": "Amerpie by Lou Plummer",
+      "blog_url": "https://amerpie.lol/",
+      "feed_url": "https://amerpie.lol/feed.xml",
+      "post_title": "Daily Skips the Timer Problem Entirely — Now It Talks to Your Other Apps Too",
+      "post_url": "https://amerpie.lol/2026/07/25/daily-skips-the-timer-problem.html",
+      "published": "2026-07-25T13:16:58Z"
+    },
+    {
+      "blog_title": "AppAddict",
+      "blog_url": "https://appaddict.app",
+      "feed_url": "https://apps.louplummer.lol/feed.atom",
+      "post_title": "Daily Skips the Timer Problem Entirely — Now It Talks to Your Other Apps Too",
+      "post_url": "https://appaddict.app/post/daily-skips-the-timer-problem-entirely-now-it-talks-to-your-other-apps-too",
+      "published": "2026-07-25T13:16:58Z"
+    },
+    {
+      "blog_title": "Endgame Viable",
+      "blog_url": "https://endgameviable.com/",
+      "feed_url": "http://endgameviable.com/feed/",
+      "post_title": "Weekend Writing Practice",
+      "post_url": "https://endgameviable.com/post/2026/07/weekend-writing-practice/",
+      "published": "2026-07-25T12:31:45Z"
+    },
+    {
+      "blog_title": "The Weekly Miscellaneous",
+      "blog_url": "https://theweeklymiscellaneous.co.uk/",
+      "feed_url": "https://theweeklymiscellaneous.co.uk/index.xml",
+      "post_title": "Things I Learned at EMFCamp in 2026",
+      "post_url": "https://theweeklymiscellaneous.co.uk/posts/2026/07/things-i-learned-at-emfcamp/",
+      "published": "2026-07-25T09:50:21Z"
+    },
     {
       "blog_title": "Cubic Creativity",
       "blog_url": "https://cubiccreativity.wordpress.com",
@@ -100,70 +164,6 @@
       "post_title": "OSRS – Regicide Quest Completed!",
       "post_url": "https://manywelps.com/2026/07/24/osrs-regicide-quest-completed/",
       "published": "2026-07-24T15:22:26Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Friday Bullet Points about EverQuest Related Servers and Launches",
-      "post_url": "https://tagn.wordpress.com/2026/07/24/friday-bullet-points-about-everquest-related-servers-and-launches/",
-      "published": "2026-07-24T15:15:12Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 30 Digest",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-07-24-week-30-digest/",
-      "published": "2026-07-24T15:00:00Z"
-    },
-    {
-      "blog_title": "Syl's Blog",
-      "blog_url": "https://syls.blog/",
-      "feed_url": "https://syls.blog/feed/",
-      "post_title": "Gaming Habits in 2026",
-      "post_url": "https://syls.blog/gaming-habits-in-2026/",
-      "published": "2026-07-24T13:50:00Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "‘Hadestown: The Musical’",
-      "post_url": "https://jagsworkshop.com/2026/07/hadestown-the-musical/",
-      "published": "2026-07-24T13:37:45Z"
-    },
-    {
-      "blog_title": "Amerpie by Lou Plummer",
-      "blog_url": "https://amerpie.lol/",
-      "feed_url": "https://amerpie.lol/feed.xml",
-      "post_title": "Imagin Raw: a 4.3MB, free, open-source Bridge alternative for culling RAW files",
-      "post_url": "https://amerpie.lol/2026/07/24/imagin-raw-a-mb-free.html",
-      "published": "2026-07-24T13:17:53Z"
-    },
-    {
-      "blog_title": "AppAddict",
-      "blog_url": "https://appaddict.app",
-      "feed_url": "https://apps.louplummer.lol/feed.atom",
-      "post_title": "Imagin Raw: a 4.3MB, free, open-source Bridge alternative for culling RAW files",
-      "post_url": "https://appaddict.app/post/imagin-raw-a-4-3mb-free-open-source-bridge-alternative-for-culling-raw-files",
-      "published": "2026-07-24T13:17:53Z"
-    },
-    {
-      "blog_title": "Why I Game",
-      "blog_url": "https://whyigame.wordpress.com",
-      "feed_url": "http://whyigame.wordpress.com/feed/",
-      "post_title": "GPT-4o: Letter 12 – You and Society",
-      "post_url": "https://whyigame.wordpress.com/2026/07/24/gpt-4o-letter-12-you-and-society/",
-      "published": "2026-07-24T13:05:39Z"
-    },
-    {
-      "blog_title": "Endgame Viable",
-      "blog_url": "https://endgameviable.com/",
-      "feed_url": "http://endgameviable.com/feed/",
-      "post_title": "Chemo Cycle Day 3",
-      "post_url": "https://endgameviable.com/post/2026/07/chemo-day-3/",
-      "published": "2026-07-24T12:04:54Z"
     }
   ]
 }
