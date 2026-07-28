@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-07-28T08:51:10.878139Z",
+  "generated_at": "2026-07-28T19:52:37.962850Z",
   "feed_count": 259,
-  "successful_feeds": 204,
-  "failed_feeds": 55,
+  "successful_feeds": 206,
+  "failed_feeds": 53,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Kay Talks Games",
+      "blog_url": "https://kaytalksgames.wordpress.com",
+      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
+      "post_title": "GBA Novelties – Crash Bandicoot Purple: Ripto’s Rampage",
+      "post_url": "https://kaytalksgames.wordpress.com/2026/07/28/gba-novelties-crash-bandicoot-purple-riptos-rampage/",
+      "published": "2026-07-28T19:34:01Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "‘Stocks Go Up and Down’",
+      "post_url": "https://finance.yahoo.com/technology/article/apple-tops-5-trillion-market-cap-only-second-company-to-hit-the-milestone-134013795.html",
+      "published": "2026-07-28T18:08:15Z"
+    },
+    {
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "Anniversary Weekend",
+      "post_url": "https://syls.blog/anniversary-weekend/",
+      "published": "2026-07-28T15:39:00Z"
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Everquest for wimps",
+      "post_url": "http://tobolds.blogspot.com/2026/07/everquest-for-wimps.html",
+      "published": "2026-07-28T15:18:26Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "R.E.P.O. Initial Impressions",
+      "post_url": "https://tagn.wordpress.com/2026/07/28/r-e-p-o-initial-impressions/",
+      "published": "2026-07-28T15:15:01Z"
+    },
+    {
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "status",
+      "post_url": "https://angrybunnyman.com/status-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new-new/",
+      "published": "2026-07-28T12:53:04Z"
+    },
+    {
+      "blog_title": "Endgame Viable",
+      "blog_url": "https://endgameviable.com/",
+      "feed_url": "http://endgameviable.com/feed/",
+      "post_title": "Fixing YouTube Video Descriptions in Inoreader",
+      "post_url": "https://endgameviable.com/post/2026/07/fixing-youtube-descriptions-inoreader/",
+      "published": "2026-07-28T10:18:40Z"
+    },
+    {
+      "blog_title": "Amerpie by Lou Plummer",
+      "blog_url": "https://amerpie.lol/",
+      "feed_url": "https://amerpie.lol/feed.xml",
+      "post_title": "Crucial Track for July 28, 2026",
+      "post_url": "https://amerpie.lol/2026/07/28/crucial-track-for-july.html",
+      "published": "2026-07-28T09:48:29Z"
+    },
+    {
+      "blog_title": "AppAddict",
+      "blog_url": "https://appaddict.app",
+      "feed_url": "https://apps.louplummer.lol/feed.atom",
+      "post_title": "Quick Look Showdown: Peek, Looq, and Unfold",
+      "post_url": "https://appaddict.app/post/quick-look-showdown-peek-looq-and-unfold",
+      "published": "2026-07-28T08:58:15Z"
+    },
     {
       "blog_title": "Small Good Things: A journal of art and observations",
       "blog_url": "https://hollie.eilloh.net",
@@ -92,78 +164,6 @@
       "post_title": "Psychedelic Classics 3: Love’s a Real Thing",
       "post_url": "https://amf.didiermary.fr/psychedelic-classics-3-loves-a-real-thing/",
       "published": "2026-07-27T17:30:00Z"
-    },
-    {
-      "blog_title": "Scormus Fails » Feed",
-      "blog_url": "https://scormey.com",
-      "feed_url": "https://scormey.com/feed/",
-      "post_title": "The True Legacy",
-      "post_url": "https://scormey.com/2026/07/27/the-true-legacy/",
-      "published": "2026-07-27T17:00:04Z"
-    },
-    {
-      "blog_title": "The Sun and The Air",
-      "blog_url": "https://criminallyvulgar.dev/",
-      "feed_url": "https://criminallyvulgar.dev/feed/",
-      "post_title": "Speedrunning - A Matter of Time",
-      "post_url": "https://criminallyvulgar.dev/speedrunning-a-matter-of-time/",
-      "published": "2026-07-27T16:08:13Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Planning My Path to 50 Platinum Medals for Level 80 in Pokemon Go",
-      "post_url": "https://tagn.wordpress.com/2026/07/27/planning-my-path-to-50-platinum-medals-in-pokemon-go/",
-      "published": "2026-07-27T15:15:10Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Catzebo Carousel",
-      "post_url": "https://bhagpuss.blogspot.com/2026/07/catzebo-carousel.html",
-      "published": "2026-07-27T15:00:12Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "‘La La Land’s’ Iconic Poster Goes Through ‘Conversion Therapy’",
-      "post_url": "https://www.vulture.com/article/ryan-gosling-gay-little-wrist-la-la-land.html",
-      "published": "2026-07-27T14:48:27Z"
-    },
-    {
-      "blog_title": "Indiecator",
-      "blog_url": "https://indiecator.org",
-      "feed_url": "https://indiecator.home.blog/feed/",
-      "post_title": "Blaugust 2026 and AI",
-      "post_url": "https://indiecator.org/2026/07/27/blaugust-2026-and-ai/",
-      "published": "2026-07-27T14:26:17Z"
-    },
-    {
-      "blog_title": "Endgame Viable",
-      "blog_url": "https://endgameviable.com/",
-      "feed_url": "http://endgameviable.com/feed/",
-      "post_title": "Returning to Final Fantasy XIV",
-      "post_url": "https://endgameviable.com/post/2026/07/returning-to-ffxiv/",
-      "published": "2026-07-27T11:46:00Z"
-    },
-    {
-      "blog_title": "Going Commando | A SWTOR Fan Blog",
-      "blog_url": "https://swtorcommando.blogspot.com/",
-      "feed_url": "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Weekend Master Mode Flashpoint Pugs",
-      "post_url": "https://swtorcommando.blogspot.com/2026/07/weekend-master-mode-flashpoint-pugs.html",
-      "published": "2026-07-27T11:15:47Z"
-    },
-    {
-      "blog_title": "Many Welps",
-      "blog_url": "https://manywelps.com",
-      "feed_url": "https://manywelps.com/feed/",
-      "post_title": "OSRS – Wrapping Some Things Up",
-      "post_url": "https://manywelps.com/2026/07/27/osrs-wrapping-some-things-up/",
-      "published": "2026-07-27T11:00:00Z"
     }
   ]
 }
