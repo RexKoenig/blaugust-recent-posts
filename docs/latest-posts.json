@@ -1,10 +1,42 @@
 {
-  "generated_at": "2026-07-28T19:52:37.962850Z",
+  "generated_at": "2026-07-29T09:08:12.900657Z",
   "feed_count": 259,
-  "successful_feeds": 206,
-  "failed_feeds": 53,
+  "successful_feeds": 205,
+  "failed_feeds": 54,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Small Good Things: A journal of art and observations",
+      "blog_url": "https://hollie.eilloh.net",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Undersea Green is kind of amazing",
+      "post_url": "https://hollie.eilloh.net/posts/undersea-green-is-kind-of-amazing",
+      "published": "2026-07-29T08:40:01Z"
+    },
+    {
+      "blog_title": "Priest with a Cause - A World of Warcraft (Classic) blog",
+      "blog_url": "https://priestwithacause.blogspot.com/",
+      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Midnight Profession Goals Achieved!",
+      "post_url": "https://priestwithacause.blogspot.com/2026/07/midnight-profession-goals-achieved.html",
+      "published": "2026-07-29T07:54:48Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Koa’s “mad” jumps",
+      "post_url": "https://cynnisblog.wordpress.com/2026/07/29/koas-mad-jumps/",
+      "published": "2026-07-29T05:00:53Z"
+    },
+    {
+      "blog_title": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "blog_url": "https://hamatti.org",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "In the era of AI slop, human curation is even more important",
+      "post_url": "https://hamatti.org/posts/in-the-era-of-ai-slop-human-curation-is-even-more-important/",
+      "published": "2026-07-29T00:00:00Z"
+    },
     {
       "blog_title": "Kay Talks Games",
       "blog_url": "https://kaytalksgames.wordpress.com",
@@ -78,14 +110,6 @@
       "published": "2026-07-28T08:58:15Z"
     },
     {
-      "blog_title": "Small Good Things: A journal of art and observations",
-      "blog_url": "https://hollie.eilloh.net",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Cats are such butts (also movies!)",
-      "post_url": "https://hollie.eilloh.net/posts/cats-are-such-butts-also-movies",
-      "published": "2026-07-28T08:19:00Z"
-    },
-    {
       "blog_title": "Martin Schuhmann",
       "blog_url": "https://martinschuhmann.com/",
       "feed_url": "https://martinschuhmann.com/feed/",
@@ -108,14 +132,6 @@
       "post_title": "GPT-4o: Letter 13 – Life’s Changing Curves",
       "post_url": "https://whyigame.wordpress.com/2026/07/28/gpt-4o-letter-13-lifes-changing-curves/",
       "published": "2026-07-28T06:06:07Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Journal – Week 30, July 2026",
-      "post_url": "https://cynnisblog.wordpress.com/2026/07/28/journal-week-30-july-2026/",
-      "published": "2026-07-28T05:00:00Z"
     },
     {
       "blog_title": "Jason Journals",
@@ -142,28 +158,12 @@
       "published": "2026-07-28T00:06:25Z"
     },
     {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 31 Links",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-07-27-week-31-links/",
-      "published": "2026-07-27T22:25:05Z"
-    },
-    {
-      "blog_title": "joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "RetroAchievements, a football match, and visits - W30",
-      "post_url": "https://joelchrono.xyz/blog/2026-w30/",
-      "published": "2026-07-27T21:10:00Z"
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Psychedelic Classics 3: Love’s a Real Thing",
-      "post_url": "https://amf.didiermary.fr/psychedelic-classics-3-loves-a-real-thing/",
-      "published": "2026-07-27T17:30:00Z"
+      "blog_title": "Sal's",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Thoughts in progress: jj and my homelab",
+      "post_url": "https://sals.place/blog/jj-and-homelab-thoughts/",
+      "published": "2026-07-28T00:00:00Z"
     }
   ]
 }
