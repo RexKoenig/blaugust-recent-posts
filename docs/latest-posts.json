@@ -1,10 +1,50 @@
 {
-  "generated_at": "2026-07-29T19:42:17.845198Z",
+  "generated_at": "2026-07-30T08:49:15.727825Z",
   "feed_count": 259,
-  "successful_feeds": 205,
-  "failed_feeds": 54,
+  "successful_feeds": 203,
+  "failed_feeds": 56,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Overage-Gaming",
+      "blog_url": "https://overage-gaming.com",
+      "feed_url": "https://overage-gaming.com/feed/",
+      "post_title": "Armatus: Returnal Meets Devil May Cry in Demon-Infested Paris (Demo Gameplay)",
+      "post_url": "https://overage-gaming.com/2026/07/30/armatus-returnal-meets-devil-may-cry-in-demon-infested-paris-demo-gameplay/",
+      "published": "2026-07-30T07:01:00Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Thursday Strength Quote",
+      "post_url": "https://cynnisblog.wordpress.com/2026/07/30/thursday-strength-quote-4/",
+      "published": "2026-07-30T05:00:00Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Apple Introduces ‘Apple Upgrade’ Program (Plus Strong Incentives to Buy AppleCare)",
+      "post_url": "https://jagsworkshop.com/2026/07/apple-upgrade-program/",
+      "published": "2026-07-30T03:26:28Z"
+    },
+    {
+      "blog_title": "joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Games that bring back memories",
+      "post_url": "https://joelchrono.xyz/blog/games-that-bring-back-memories/",
+      "published": "2026-07-29T23:40:00Z"
+    },
+    {
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "Some advice: don't get your elbow tattooed or read things that bother you",
+      "post_url": "https://angrybunnyman.com/some-advice-dont-get-your-elbow-tattooed-or-reading-things-that-bother-you/",
+      "published": "2026-07-29T21:17:00Z"
+    },
     {
       "blog_title": "Dragonchasers",
       "blog_url": "https://dragonchasers.com/",
@@ -124,46 +164,6 @@
       "post_title": "Returning to Blaugust 2026",
       "post_url": "https://rieaglenest.wordpress.com/2026/07/29/returning-to-blaugust-2026/",
       "published": "2026-07-29T11:01:42Z"
-    },
-    {
-      "blog_title": "Endgame Viable",
-      "blog_url": "https://endgameviable.com/",
-      "feed_url": "http://endgameviable.com/feed/",
-      "post_title": "Back To Normal",
-      "post_url": "https://endgameviable.com/post/2026/07/back-to-normal/",
-      "published": "2026-07-29T09:46:15Z"
-    },
-    {
-      "blog_title": "Priest with a Cause - A World of Warcraft (Classic) blog",
-      "blog_url": "https://priestwithacause.blogspot.com/",
-      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Midnight Profession Goals Achieved!",
-      "post_url": "https://priestwithacause.blogspot.com/2026/07/midnight-profession-goals-achieved.html",
-      "published": "2026-07-29T07:54:48Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Koa’s “mad” jumps",
-      "post_url": "https://cynnisblog.wordpress.com/2026/07/29/koas-mad-jumps/",
-      "published": "2026-07-29T05:00:53Z"
-    },
-    {
-      "blog_title": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
-      "blog_url": "https://hamatti.org",
-      "feed_url": "https://hamatti.org/feed/feed.xml",
-      "post_title": "In the era of AI slop, human curation is even more important",
-      "post_url": "https://hamatti.org/posts/in-the-era-of-ai-slop-human-curation-is-even-more-important/",
-      "published": "2026-07-29T00:00:00Z"
-    },
-    {
-      "blog_title": "Kay Talks Games",
-      "blog_url": "https://kaytalksgames.wordpress.com",
-      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
-      "post_title": "GBA Novelties – Crash Bandicoot Purple: Ripto’s Rampage",
-      "post_url": "https://kaytalksgames.wordpress.com/2026/07/28/gba-novelties-crash-bandicoot-purple-riptos-rampage/",
-      "published": "2026-07-28T19:34:01Z"
     }
   ]
 }
