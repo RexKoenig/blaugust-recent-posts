@@ -1,17 +1,81 @@
 {
-  "generated_at": "2026-07-30T19:51:22.901500Z",
+  "generated_at": "2026-07-31T09:16:03.683392Z",
   "feed_count": 259,
-  "successful_feeds": 205,
-  "failed_feeds": 54,
+  "successful_feeds": 195,
+  "failed_feeds": 64,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Gridranger",
+      "blog_url": "https://blog.gridranger.dev/",
+      "feed_url": "https://gridranger.frama.io/feeds/all.atom.xml",
+      "post_title": "Blaugust 2026",
+      "post_url": "https://blog.gridranger.dev/blaugust-2026",
+      "published": "2026-07-31T21:05:00Z"
+    },
+    {
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "Games I Couldn't Stop Playing",
+      "post_url": "https://syls.blog/games-i-couldnt-stop-playing/",
+      "published": "2026-07-31T08:30:00Z"
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Budget Deckbuilding: Golgari Growth",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/07/31/budget-deckbuilding-golgari-growth/",
+      "published": "2026-07-31T07:00:00Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "The fear of…",
+      "post_url": "https://cynnisblog.wordpress.com/2026/07/31/the-fear-of/",
+      "published": "2026-07-31T05:00:37Z"
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "EverQuest Legends: The best laid plans of mice and cats…",
+      "post_url": "https://chasingdings.com/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/",
+      "published": "2026-07-31T03:36:22Z"
+    },
+    {
+      "blog_title": "Jason Journals",
+      "blog_url": "https://jasonjournals.com",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "Another Refurb Phone Winner",
+      "post_url": "https://jasonjournals.com/posts/another-refurb-phone-winner",
+      "published": "2026-07-31T00:53:15Z"
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "Project Hail Mary",
+      "post_url": "http://josephskyrim.blogspot.com/2026/07/project-hail-mary.html",
+      "published": "2026-07-31T00:14:30Z"
+    },
+    {
+      "blog_title": "Going Commando | A SWTOR Fan Blog",
+      "blog_url": "https://swtorcommando.blogspot.com/",
+      "feed_url": "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "A More Classic Experience in Our Future",
+      "post_url": "https://swtorcommando.blogspot.com/2026/07/a-more-classic-experience-in-our-future.html",
+      "published": "2026-07-30T23:45:32Z"
+    },
     {
       "blog_title": "JAG’s Workshop",
       "blog_url": "https://jagsworkshop.com/",
       "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "‘The Thomas Crown Affair’ on Internet Archive",
-      "post_url": "https://jagsworkshop.com/2026/07/the-thomas-crown-affair-2-movie-collection/",
-      "published": "2026-07-30T18:58:40Z"
+      "post_title": "Apple Reports Third Quarter Results, ‘Strongest June Quarter Ever’",
+      "post_url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "published": "2026-07-30T22:12:59Z"
     },
     {
       "blog_title": "Inventory Full",
@@ -20,14 +84,6 @@
       "post_title": "How Early It Was, How Early...",
       "post_url": "https://bhagpuss.blogspot.com/2026/07/how-early-it-was-how-early.html",
       "published": "2026-07-30T18:31:05Z"
-    },
-    {
-      "blog_title": "Jason Journals",
-      "blog_url": "https://jasonjournals.com",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "[Just over half-way through Bonhoeffer.]",
-      "post_url": "https://jasonjournals.com/posts/2026-07-30-just-over-half-way-through",
-      "published": "2026-07-30T18:00:54Z"
     },
     {
       "blog_title": "Can I Play Too?",
@@ -108,62 +164,6 @@
       "post_title": "Blankie, A Free and Open Source Ambient Sound Mixer is a Breath of Fresh Air, Right in Your Ear",
       "post_url": "https://amerpie.lol/2026/07/30/blankie-a-free-and-open.html",
       "published": "2026-07-30T11:28:31Z"
-    },
-    {
-      "blog_title": "AppAddict",
-      "blog_url": "https://appaddict.app",
-      "feed_url": "https://apps.louplummer.lol/feed.atom",
-      "post_title": "Blankie, A Free and Open Source Ambient Sound Mixer is a Breath of Fresh Air, Right in Your Ear",
-      "post_url": "https://appaddict.app/post/blankie-a-free-and-open-source-ambient-sound-mixer-is-a-breath-of-fresh-air-right-in-your-ear",
-      "published": "2026-07-30T11:28:31Z"
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "The Lord of Nothing",
-      "post_url": "http://tobolds.blogspot.com/2026/07/the-lord-of-nothing.html",
-      "published": "2026-07-30T07:04:31Z"
-    },
-    {
-      "blog_title": "Overage-Gaming",
-      "blog_url": "https://overage-gaming.com",
-      "feed_url": "https://overage-gaming.com/feed/",
-      "post_title": "Armatus: Returnal Meets Devil May Cry in Demon-Infested Paris (Demo Gameplay)",
-      "post_url": "https://overage-gaming.com/2026/07/30/armatus-returnal-meets-devil-may-cry-in-demon-infested-paris-demo-gameplay/",
-      "published": "2026-07-30T07:01:00Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Thursday Strength Quote",
-      "post_url": "https://cynnisblog.wordpress.com/2026/07/30/thursday-strength-quote-4/",
-      "published": "2026-07-30T05:00:00Z"
-    },
-    {
-      "blog_title": "joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Games that bring back memories",
-      "post_url": "https://joelchrono.xyz/blog/games-that-bring-back-memories/",
-      "published": "2026-07-29T23:40:00Z"
-    },
-    {
-      "blog_title": "Dragonchasers",
-      "blog_url": "https://dragonchasers.com/",
-      "feed_url": "http://dragonchasers.com/feed/",
-      "post_title": "A High-Five for the Solarpunk Devteam",
-      "post_url": "https://dragonchasers.com/2026/07/29/a-high-five-for-the-solarpunk-devteam/",
-      "published": "2026-07-29T18:48:08Z"
-    },
-    {
-      "blog_title": "| GamerLady P Blog",
-      "blog_url": "https://www.gamerlady.blog",
-      "feed_url": "https://gamerlady.blog/feed/",
-      "post_title": "Catching Up: The Games Version",
-      "post_url": "https://www.gamerlady.blog/catching-up-the-games-version/",
-      "published": "2026-07-29T17:52:19Z"
     }
   ]
 }
