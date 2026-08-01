@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-07-31T19:52:11.479705Z",
-  "feed_count": 259,
-  "successful_feeds": 207,
-  "failed_feeds": 52,
+  "generated_at": "2026-08-01T01:06:30.050004Z",
+  "feed_count": 278,
+  "successful_feeds": 216,
+  "failed_feeds": 62,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "You Don't Have to Blog",
+      "post_url": "https://brennan.day/you-dont-have-to-blog/",
+      "published": "2026-08-01T02:00:00Z"
+    },
+    {
+      "blog_title": "Gamers Esoteric",
+      "blog_url": "https://www.gamersesoteric.com/",
+      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
+      "post_title": "Blaugust 2026",
+      "post_url": "https://www.gamersesoteric.com/2026/07/blaugust-2026.html",
+      "published": "2026-08-01T01:06:16Z"
+    },
+    {
+      "blog_title": "Nerdy Bookahs",
+      "blog_url": "https://nerdybookahs.wordpress.com",
+      "feed_url": "http://nerdybookahs.wordpress.com/feed/",
+      "post_title": "Blaugust Day 1",
+      "post_url": "https://nerdybookahs.wordpress.com/2026/08/01/blaugust-day-1-2/",
+      "published": "2026-07-31T22:01:28Z"
+    },
     {
       "blog_title": "Gridranger",
       "blog_url": "https://blog.gridranger.dev/",
@@ -38,7 +62,7 @@
       "published": "2026-07-31T17:22:31Z"
     },
     {
-      "blog_title": "JAG’s Workshop",
+      "blog_title": "JAG's Workshop",
       "blog_url": "https://jagsworkshop.com/",
       "feed_url": "https://jagsworkshop.com/rss/",
       "post_title": "⚙︎ This Was Tim",
@@ -46,7 +70,7 @@
       "published": "2026-07-31T17:08:35Z"
     },
     {
-      "blog_title": "Scormus Fails » Feed",
+      "blog_title": "Scormus Fails",
       "blog_url": "https://scormey.com",
       "feed_url": "https://scormey.com/feed/",
       "post_title": "Genre Wars",
@@ -84,6 +108,14 @@
       "post_title": "Go Directly To Blaugust. Do Not Collect 200 Gold Pieces",
       "post_url": "https://bhagpuss.blogspot.com/2026/07/go-directly-to-blaugust-do-not-collect.html",
       "published": "2026-07-31T14:09:41Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Ugly undersides",
+      "post_url": "https://nomadwarmachine.co.uk/2026/07/31/ugly-undersides/",
+      "published": "2026-07-31T13:38:17Z"
     },
     {
       "blog_title": "Amerpie by Lou Plummer",
@@ -132,38 +164,6 @@
       "post_title": "PUNKTO | Safe(ish) Server Encryption",
       "post_url": "https://punkto.org/blog/safeish_server_encryption",
       "published": "2026-07-31T08:00:00Z"
-    },
-    {
-      "blog_title": "Cubic Creativity",
-      "blog_url": "https://cubiccreativity.wordpress.com",
-      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
-      "post_title": "Budget Deckbuilding: Golgari Growth",
-      "post_url": "https://cubiccreativity.wordpress.com/2026/07/31/budget-deckbuilding-golgari-growth/",
-      "published": "2026-07-31T07:00:00Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "The fear of…",
-      "post_url": "https://cynnisblog.wordpress.com/2026/07/31/the-fear-of/",
-      "published": "2026-07-31T05:00:37Z"
-    },
-    {
-      "blog_title": "Chasing Dings!",
-      "blog_url": "https://chasingdings.com",
-      "feed_url": "https://chasingdings.com/?feed=rss2",
-      "post_title": "EverQuest Legends: The best laid plans of mice and cats…",
-      "post_url": "https://chasingdings.com/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/",
-      "published": "2026-07-31T03:36:22Z"
-    },
-    {
-      "blog_title": "Jason Journals",
-      "blog_url": "https://jasonjournals.com",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "Another Refurb Phone Winner",
-      "post_url": "https://jasonjournals.com/posts/another-refurb-phone-winner",
-      "published": "2026-07-31T00:53:15Z"
     }
   ]
 }
