@@ -1,10 +1,106 @@
 {
-  "generated_at": "2026-08-02T19:33:37.759641Z",
+  "generated_at": "2026-08-03T10:05:02.105365Z",
   "feed_count": 278,
-  "successful_feeds": 227,
-  "failed_feeds": 51,
+  "successful_feeds": 228,
+  "failed_feeds": 50,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Inconsistent Software",
+      "blog_url": "https://www.inconsistent.software/",
+      "feed_url": "https://www.inconsistent.software/feed.xml",
+      "post_title": "Baugust 2026 Intro Post",
+      "post_url": "https://www.inconsistent.software/blog/2026/08-03-blaugust-2026-first-post/",
+      "published": "2026-08-03T16:22:00Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Rolling Stone",
+      "post_url": "https://nomadwarmachine.co.uk/2026/08/03/rolling-stone/",
+      "published": "2026-08-03T09:52:52Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "De ce un forum bate orice grup de chat",
+      "post_url": "https://thinkroot.xyz/de-ce-un-forum-bate-orice-grup-de-chat-458",
+      "published": "2026-08-03T09:36:59Z"
+    },
+    {
+      "blog_title": "thetangent.space",
+      "blog_url": "https://thetangent.space/",
+      "feed_url": "https://thetangent.space/feed.xml",
+      "post_title": "How the Miyoo Flip broke my heart",
+      "post_url": "https://thetangent.space/2026/hinge/",
+      "published": "2026-08-03T08:11:44Z"
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Budget Deckbuilding: Planeswalker Deck “Nissa, Nature’s Artisan”",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/08/03/budget-deckbuilding-planeswalker-deck-nissa-natures-artisan/",
+      "published": "2026-08-03T07:00:00Z"
+    },
+    {
+      "blog_title": "Small Good Things: A journal of art and observations",
+      "blog_url": "https://hollie.eilloh.net",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Off on adventure with family",
+      "post_url": "https://hollie.eilloh.net/posts/off-on-adventure-with-family",
+      "published": "2026-08-03T05:37:00Z"
+    },
+    {
+      "blog_title": "Cynni's Blog",
+      "blog_url": "https://cynnisblog.wordpress.com",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "#BooksIn2026 – July edition",
+      "post_url": "https://cynnisblog.wordpress.com/2026/08/03/booksin2026-july-edition/",
+      "published": "2026-08-03T05:00:24Z"
+    },
+    {
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Constraints",
+      "post_url": "https://martinschuhmann.com/constraints",
+      "published": "2026-08-03T05:00:00Z"
+    },
+    {
+      "blog_title": "Not all those who wander are lost",
+      "blog_url": "https://kavmac.com",
+      "feed_url": "https://kavmac.com/feed/",
+      "post_title": "A Month Without Belghast",
+      "post_url": "https://kavmac.com/a-month-without-belghast/",
+      "published": "2026-08-03T03:57:21Z"
+    },
+    {
+      "blog_title": "JAG's Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "In a Game of Marketing One-Upmanship, Anthropic’s Claude Hacks Three Sites",
+      "post_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "published": "2026-08-03T03:40:06Z"
+    },
+    {
+      "blog_title": "In An Age",
+      "blog_url": "https://inanage.com",
+      "feed_url": "http://inanage.com/feed/",
+      "post_title": "I Sorta Made a Logo",
+      "post_url": "https://inanage.com/2026/08/02/i-sorta-made-a-logo/",
+      "published": "2026-08-03T03:02:12Z"
+    },
+    {
+      "blog_title": "Gamers Esoteric",
+      "blog_url": "https://www.gamersesoteric.com/",
+      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
+      "post_title": "Prompt #2 for #RPGaDay2026",
+      "post_url": "https://www.gamersesoteric.com/2026/08/prompt-2-for-rpgaday2026.html",
+      "published": "2026-08-03T02:15:14Z"
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day",
@@ -14,156 +110,60 @@
       "published": "2026-08-03T02:00:00Z"
     },
     {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Hugh Masekela – Night In Tunisia",
-      "post_url": "https://amf.didiermary.fr/hugh-masekela-night-in-tunisia/",
-      "published": "2026-08-02T19:30:00Z"
+      "blog_title": "Casual Aggro",
+      "blog_url": "https://casualaggro.wordpress.com",
+      "feed_url": "http://casualaggro.wordpress.com/feed/",
+      "post_title": "Blaugust, Or When I Suddenly Remember I Have a Blog",
+      "post_url": "https://casualaggro.wordpress.com/2026/08/02/blaugust-or-when-i-suddenly-remember-i-have-a-blog/",
+      "published": "2026-08-03T01:13:58Z"
     },
     {
-      "blog_title": "Varun Barad - Curious Developer",
-      "blog_url": "https://varunbarad.com/",
-      "feed_url": "https://varunbarad.com/feed.xml",
-      "post_title": "📝 Format a date in Liquid",
-      "post_url": "https://varunbarad.com/blog/til-liquid-format-date.html",
-      "published": "2026-08-02T19:28:00Z"
+      "blog_title": "Beyond Tannhauser Gate",
+      "blog_url": "https://www.beyondtannhausergate.com/",
+      "feed_url": "http://www.beyondtannhausergate.com/feed/",
+      "post_title": "Blaugust 2026 Post Number 2",
+      "post_url": "https://www.beyondtannhausergate.com/2026/08/02/blaugust-2026-post-number-2/",
+      "published": "2026-08-03T01:11:00Z"
     },
     {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Little literary thoughts",
-      "post_url": "https://francescrossley.com/little-literary-thoughts/",
-      "published": "2026-08-02T19:00:00Z"
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "Two: I draw crowns not because it is good but because it is right",
+      "post_url": "https://angrybunnyman.com/two-i-draw-crowns-not-because-it-is-good-but-because-it-is-right/",
+      "published": "2026-08-03T00:09:00Z"
     },
     {
-      "blog_title": "Gridranger",
-      "blog_url": "https://blog.gridranger.dev/",
-      "feed_url": "https://gridranger.frama.io/feeds/all.atom.xml",
-      "post_title": "Memories Taken by the Heat",
-      "post_url": "https://blog.gridranger.dev/memories-taken-by-the-heat",
-      "published": "2026-08-02T18:45:00Z"
+      "blog_title": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "blog_url": "https://hamatti.org",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "B is for batteries included - Python A to Z",
+      "post_url": "https://hamatti.org/posts/b-is-for-batteries-included-python-a-to-z/",
+      "published": "2026-08-03T00:00:00Z"
     },
     {
-      "blog_title": "Kay Talks Games",
-      "blog_url": "https://kaytalksgames.wordpress.com",
-      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
-      "post_title": "Why I Love Resident Evil",
-      "post_url": "https://kaytalksgames.wordpress.com/2026/08/02/why-i-love-resident-evil/",
-      "published": "2026-08-02T18:27:37Z"
+      "blog_title": "MogBlog",
+      "blog_url": "https://mogblog.pika.page",
+      "feed_url": "https://mogblog.pika.page/posts_feed",
+      "post_title": "What to play when you’re trapped in the hospital",
+      "post_url": "https://mogblog.pika.page/posts/what-to-play-when-youre-trapped-in-the-hospital",
+      "published": "2026-08-02T23:00:00Z"
     },
     {
-      "blog_title": "Words Under My Name",
-      "blog_url": "https://wordsundermyname.wordpress.com",
-      "feed_url": "https://wordsundermyname.wordpress.com/feed/",
-      "post_title": "#Blaugust2026 Day 2 – No Rest For The Wicked",
-      "post_url": "https://wordsundermyname.wordpress.com/2026/08/02/blaugust2026-day-2-no-rest-for-the-wicked/",
-      "published": "2026-08-02T17:24:40Z"
+      "blog_title": "Many Welps",
+      "blog_url": "https://manywelps.com",
+      "feed_url": "https://manywelps.com/feed/",
+      "post_title": "A Local Comic Book Store Opened Nearby!",
+      "post_url": "https://manywelps.com/2026/08/02/a-local-comic-book-store-opened-nearby/",
+      "published": "2026-08-02T22:56:49Z"
     },
     {
-      "blog_title": "Alex's Review Corner",
-      "blog_url": "https://super142.wordpress.com",
-      "feed_url": "https://super142.wordpress.com/feed/",
-      "post_title": "Resident Evil 4 Remake Review",
-      "post_url": "https://super142.wordpress.com/2026/08/02/resident-evil-4-remake-review/",
-      "published": "2026-08-02T17:00:00Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "În urmă cu câțiva ani o firmă britanică a inclus o clauza care cerea a…",
-      "post_url": "https://thinkroot.xyz/nota-464",
-      "published": "2026-08-02T16:04:17Z"
-    },
-    {
-      "blog_title": "MMO Casual",
-      "blog_url": "http://wowaltaddiction.blogspot.com/",
-      "feed_url": "http://wowaltaddiction.blogspot.com/feeds/posts/default",
-      "post_title": "The Burning Crusade",
-      "post_url": "http://wowaltaddiction.blogspot.com/2026/08/the-burning-crusade.html",
-      "published": "2026-08-02T16:00:00Z"
-    },
-    {
-      "blog_title": "Indiecator",
-      "blog_url": "https://indiecator.org",
-      "feed_url": "https://indiecator.home.blog/feed/",
-      "post_title": "Celestial Decks Review: Deep Deckbuilding, Mind Games, and Stunning Art",
-      "post_url": "https://indiecator.org/2026/08/02/celestial-decks-review/",
-      "published": "2026-08-02T15:45:43Z"
-    },
-    {
-      "blog_title": "Paseo Baggage",
-      "blog_url": "https://paseobaggage.bearblog.dev/",
-      "feed_url": "https://paseobaggage.bearblog.dev/feed/",
-      "post_title": "Shiny Shiny - #2 Blaugust 2026",
-      "post_url": "https://paseobaggage.bearblog.dev/shiny-shiny-2-blaugust-2026/",
-      "published": "2026-08-02T15:42:00Z"
-    },
-    {
-      "blog_title": "Through Wolfy's Eyes",
-      "blog_url": "https://wolfyseyes.wordpress.com",
-      "feed_url": "http://wolfyseyes.wordpress.com/feed/",
-      "post_title": "The Sunday Papers: Microsoft freaking sucks, bro",
-      "post_url": "https://wolfyseyes.wordpress.com/2026/08/02/the-sunday-papers-microsoft-freaking-sucks-bro/",
-      "published": "2026-08-02T15:40:30Z"
-    },
-    {
-      "blog_title": "Taxodium",
-      "blog_url": "https://taxodium.ink/",
-      "feed_url": "https://taxodium.ink/index.xml",
-      "post_title": "Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的",
-      "post_url": "https://taxodium.ink/blaugust-2026-feeds.html",
-      "published": "2026-08-02T15:40:00Z"
-    },
-    {
-      "blog_title": "Lucky Instar Blog",
-      "blog_url": "https://luckinstar.neocities.org/blog",
-      "feed_url": "https://luckyinstar.neocities.org/feed.xml",
-      "post_title": "my neighbor is a spider-hunting wasp: insects of the US southwest",
-      "post_url": "https://luckyinstar.neocities.org/blog/insects",
-      "published": "2026-08-02T15:34:18Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "TAGN Fantasy Critic League 2026 – Week Thirty-One and the Halo Effect",
-      "post_url": "https://tagn.wordpress.com/2026/08/02/tagn-fantasy-critic-league-2026-week-thirty-one-and-the-halo-effect/",
-      "published": "2026-08-02T15:15:30Z"
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "New Bundle To Support Game Workers Launches",
-      "post_url": "https://virtualmoose.org/2026/08/02/new-bundle-to-support-game-workers-launches/",
-      "published": "2026-08-02T15:03:33Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "AI is so boring",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-08-02-ai-is-so-boring/",
-      "published": "2026-08-02T15:00:00Z"
-    },
-    {
-      "blog_title": "The Friendly Necromancer",
-      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
-      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
-      "post_title": "I made a comic book for my D&D Group",
-      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/08/i-made-comic-book-for-my-d-group.html",
-      "published": "2026-08-02T14:18:08Z"
-    },
-    {
-      "blog_title": "Chasing Dings!",
-      "blog_url": "https://chasingdings.com",
-      "feed_url": "https://chasingdings.com/?feed=rss2",
-      "post_title": "EverQuest Legends: Where’s the lore?",
-      "post_url": "https://chasingdings.com/2026/08/02/everquest-legends-wheres-the-lore/",
-      "published": "2026-08-02T14:11:43Z"
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Transistor",
+      "post_url": "https://joelchrono.xyz/blog/transistor/",
+      "published": "2026-08-02T22:50:07Z"
     }
   ]
 }
