@@ -1,10 +1,130 @@
 {
-  "generated_at": "2026-08-03T19:56:58.057754Z",
+  "generated_at": "2026-08-04T09:06:37.760502Z",
   "feed_count": 278,
-  "successful_feeds": 227,
-  "failed_feeds": 51,
+  "successful_feeds": 228,
+  "failed_feeds": 50,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "thetangent.space",
+      "blog_url": "https://thetangent.space/",
+      "feed_url": "https://thetangent.space/feed.xml",
+      "post_title": "Revisiting the Master System games from my childhood (Part 2)",
+      "post_url": "https://thetangent.space/2026/sega-2/",
+      "published": "2026-08-04T07:18:25Z"
+    },
+    {
+      "blog_title": "ComradeNerdy",
+      "blog_url": "https://comradenerdy.com",
+      "feed_url": "https://comradenerdy.com/feed/",
+      "post_title": "Streaming Schedule and Posting Plans for the First Week of Blaugust 2026",
+      "post_url": "https://comradenerdy.com/streaming-schedule-and-posting-plans-for-the-first-week-of-blaugust-2026/",
+      "published": "2026-08-04T07:08:20Z"
+    },
+    {
+      "blog_title": "Overage-Gaming",
+      "blog_url": "https://overage-gaming.com",
+      "feed_url": "https://overage-gaming.com/feed/",
+      "post_title": "Handmancers: The Rock Paper Scissors Roguelite That Actually Works (Gameplay)",
+      "post_url": "https://overage-gaming.com/2026/08/04/handmancers-the-rock-paper-scissors-roguelite-that-actually-works-gameplay/",
+      "published": "2026-08-04T07:01:00Z"
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Budget Deckbuilding: Planeswalker Deck “Ajani, Valiant Protector”",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/08/04/budget-deckbuilding-planeswalker-deck-ajani-valiant-protector/",
+      "published": "2026-08-04T07:00:00Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Blogurile care participă la Blaugust 2026 și care mi se pare interesan…",
+      "post_url": "https://thinkroot.xyz/nota-469",
+      "published": "2026-08-04T06:58:27Z"
+    },
+    {
+      "blog_title": "Karthik Kamalakannan & the Internet - All Content",
+      "blog_url": "https://imkarthikk.com",
+      "feed_url": "https://imkarthikk.com/feed.xml",
+      "post_title": "Pay your interns",
+      "post_url": "https://imkarthikk.com/blog/pay-your-interns",
+      "published": "2026-08-04T06:00:00Z"
+    },
+    {
+      "blog_title": "Ryan P. Randall",
+      "blog_url": "https://www.ryanpatrickrandall.com/",
+      "feed_url": "https://www.ryanpatrickrandall.com/feed.xml",
+      "post_title": "Weekly Assemblage for 2026 Week 31",
+      "post_url": "https://www.ryanpatrickrandall.com/weekly-assemblage/2026wa31",
+      "published": "2026-08-04T05:26:49Z"
+    },
+    {
+      "blog_title": "Cynni's Blog",
+      "blog_url": "https://cynnisblog.wordpress.com",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Journal – Week 31, July/August 2026",
+      "post_url": "https://cynnisblog.wordpress.com/2026/08/04/journal-week-31-july-august-2026/",
+      "published": "2026-08-04T05:00:00Z"
+    },
+    {
+      "blog_title": "Small Good Things: A journal of art and observations",
+      "blog_url": "https://hollie.eilloh.net",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Met a hummingbird today",
+      "post_url": "https://hollie.eilloh.net/posts/met-a-hummingbird-today",
+      "published": "2026-08-04T04:32:00Z"
+    },
+    {
+      "blog_title": "Gamers Esoteric",
+      "blog_url": "https://www.gamersesoteric.com/",
+      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
+      "post_title": "Prompt #3 for #RPGaDay2026",
+      "post_url": "https://www.gamersesoteric.com/2026/08/prompt-3-for-rpgaday2026.html",
+      "published": "2026-08-04T03:29:02Z"
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "[Both play audio well...",
+      "post_url": "https://jasonjournals.com/posts/2026-08-03-both-play-audio-well",
+      "published": "2026-08-04T03:18:22Z"
+    },
+    {
+      "blog_title": "Not all those who wander are lost",
+      "blog_url": "https://kavmac.com",
+      "feed_url": "https://kavmac.com/feed/",
+      "post_title": "Blaugust 2026 – Day Three: Ark: Survival Ascended",
+      "post_url": "https://kavmac.com/blaugust-2026-day-three-ark-survival-ascended/",
+      "published": "2026-08-04T03:05:36Z"
+    },
+    {
+      "blog_title": "Nero Blog",
+      "blog_url": "https://blog.itsnero.com",
+      "feed_url": "https://blog.itsnero.com/feed",
+      "post_title": "NVO Newsletter 012",
+      "post_url": "https://blog.itsnero.com/archives/1607",
+      "published": "2026-08-04T02:47:29Z"
+    },
+    {
+      "blog_title": "Gaudete Theology",
+      "blog_url": "https://gaudetetheology.wordpress.com",
+      "feed_url": "http://gaudetetheology.wordpress.com/feed/",
+      "post_title": "Welcome To My Blaugust",
+      "post_url": "https://gaudetetheology.wordpress.com/2026/08/03/welcome-to-my-blaugust/",
+      "published": "2026-08-04T02:47:03Z"
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Spider-Man's great, more handheld gaming - W31",
+      "post_url": "https://joelchrono.xyz/blog/2026-w31/",
+      "published": "2026-08-04T02:28:21Z"
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day",
@@ -14,156 +134,36 @@
       "published": "2026-08-04T02:00:00Z"
     },
     {
-      "blog_title": "ComradeNerdy",
-      "blog_url": "https://comradenerdy.com",
-      "feed_url": "https://comradenerdy.com/feed/",
-      "post_title": "Introduction Post for Blaugust 2026",
-      "post_url": "https://comradenerdy.com/introduction-post-for-blaugust-2026/",
-      "published": "2026-08-03T19:37:19Z"
+      "blog_title": "Matt's Blog",
+      "blog_url": "https://mtwb.blog/",
+      "feed_url": "https://mtwb.blog/index.xml",
+      "post_title": "I Fixed Music Discovery",
+      "post_url": "https://mtwb.blog/posts/2026/music/i-fixed-music-discovery/",
+      "published": "2026-08-04T01:22:09Z"
     },
     {
-      "blog_title": "Nerdy Bookahs",
-      "blog_url": "https://nerdybookahs.wordpress.com",
-      "feed_url": "http://nerdybookahs.wordpress.com/feed/",
-      "post_title": "Wholesome Gaming",
-      "post_url": "https://nerdybookahs.wordpress.com/2026/08/03/wholesome-gaming/",
-      "published": "2026-08-03T19:30:42Z"
+      "blog_title": "Casual Aggro",
+      "blog_url": "https://casualaggro.wordpress.com",
+      "feed_url": "http://casualaggro.wordpress.com/feed/",
+      "post_title": "The More Things Change The More They Stay The Same",
+      "post_url": "https://casualaggro.wordpress.com/2026/08/03/the-more-things-change-the-more-they-stay-the-same/",
+      "published": "2026-08-04T01:19:31Z"
     },
     {
-      "blog_title": "Re: Nyman",
-      "blog_url": "https://blog.nyman.re/",
-      "feed_url": "https://blog.nyman.re/index.xml",
-      "post_title": "Searchtodon - some thoughts",
-      "post_url": "https://blog.nyman.re/2026/08/03/searchtodon-some-thoughts.html",
-      "published": "2026-08-03T19:30:17Z"
+      "blog_title": "Many Welps",
+      "blog_url": "https://manywelps.com",
+      "feed_url": "https://manywelps.com/feed/",
+      "post_title": "Everquest Legends Impressions",
+      "post_url": "https://manywelps.com/2026/08/03/everquest-legends-impressions/",
+      "published": "2026-08-04T01:15:54Z"
     },
     {
-      "blog_title": "Notes by JCProbably",
-      "blog_url": "https://notes.jeddacp.com/",
-      "feed_url": "https://notes.jeddacp.com/feed/",
-      "post_title": "Returning to Familiar Places",
-      "post_url": "https://notes.jeddacp.com/returning-to-familiar-places/",
-      "published": "2026-08-03T19:03:20Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Mișcarea Offpunk nu este un stil de viață; este o poziție cu privire l…",
-      "post_url": "https://thinkroot.xyz/nota-466",
-      "published": "2026-08-03T19:01:43Z"
-    },
-    {
-      "blog_title": "Taxodium",
-      "blog_url": "https://taxodium.ink/",
-      "feed_url": "https://taxodium.ink/index.xml",
-      "post_title": "Zine#56 - 數位園藝",
-      "post_url": "https://taxodium.ink/56.html",
-      "published": "2026-08-03T19:00:00Z"
-    },
-    {
-      "blog_title": "The Friendly Necromancer",
-      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
-      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
-      "post_title": "its Everquest -- for Legends!",
-      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/08/its-everquest-for-legends.html",
-      "published": "2026-08-03T18:31:18Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Phoneblogger",
-      "post_url": "https://francescrossley.com/phoneblogger/",
-      "published": "2026-08-03T18:00:00Z"
-    },
-    {
-      "blog_title": "Indiecator",
-      "blog_url": "https://indiecator.org",
-      "feed_url": "https://indiecator.home.blog/feed/",
-      "post_title": "Copa City Review: Prepare the City for the Sport in this Soccer Management Tycoon",
-      "post_url": "https://indiecator.org/2026/08/03/copa-city-review/",
-      "published": "2026-08-03T17:40:38Z"
-    },
-    {
-      "blog_title": "Ubergeek Kelly's World- Life, technology, science, rants",
-      "blog_url": "https://www.kgadams.net",
-      "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "Debugging comments: looking at Cloudflare",
-      "post_url": "https://www.kgadams.net/sitenews/debugging-comments-looking-at-cloudflare",
-      "published": "2026-08-03T17:23:18Z"
-    },
-    {
-      "blog_title": "Achille Toupin",
-      "blog_url": "https://achilletoupin.com/",
-      "feed_url": "https://www.achilletoupin.com/feed.xml",
-      "post_title": "Débuts en Meshtastic",
-      "post_url": "https://achilletoupin.com/blog/meshtastic/",
-      "published": "2026-08-03T17:19:54Z"
-    },
-    {
-      "blog_title": "Kay Talks Games",
-      "blog_url": "https://kaytalksgames.wordpress.com",
-      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
-      "post_title": "Why I Love Tomb Raider",
-      "post_url": "https://kaytalksgames.wordpress.com/2026/08/03/why-i-love-tomb-raider/",
-      "published": "2026-08-03T17:18:41Z"
-    },
-    {
-      "blog_title": "Alex's Review Corner",
-      "blog_url": "https://super142.wordpress.com",
-      "feed_url": "https://super142.wordpress.com/feed/",
-      "post_title": "Moody Musings at a Sunset Shore",
-      "post_url": "https://super142.wordpress.com/2026/08/03/moody-musings-at-a-sunset-shore/",
-      "published": "2026-08-03T17:00:44Z"
-    },
-    {
-      "blog_title": "Scormus Fails",
-      "blog_url": "https://scormey.com",
-      "feed_url": "https://scormey.com/feed/",
-      "post_title": "Is this the Open World Paradise we’ve always wanted?",
-      "post_url": "https://scormey.com/2026/08/03/is-this-the-open-world-paradise-weve-always-wanted/",
-      "published": "2026-08-03T17:00:16Z"
-    },
-    {
-      "blog_title": "Inconsistent Software",
-      "blog_url": "https://www.inconsistent.software/",
-      "feed_url": "https://www.inconsistent.software/feed.xml",
-      "post_title": "Baugust 2026 Intro Post",
-      "post_url": "https://www.inconsistent.software/blog/2026/08-03-blaugust-2026-first-post/",
-      "published": "2026-08-03T16:22:00Z"
-    },
-    {
-      "blog_title": "Paseo Baggage",
-      "blog_url": "https://paseobaggage.bearblog.dev/",
-      "feed_url": "https://paseobaggage.bearblog.dev/feed/",
-      "post_title": "To The Bridge - #3 Blaugust 2026",
-      "post_url": "https://paseobaggage.bearblog.dev/to-the-bridge-3-blaugust-2026/",
-      "published": "2026-08-03T16:14:00Z"
-    },
-    {
-      "blog_title": "Words Under My Name",
-      "blog_url": "https://wordsundermyname.wordpress.com",
-      "feed_url": "https://wordsundermyname.wordpress.com/feed/",
-      "post_title": "#Blaugust2026 Day 3 – Follow The Plan",
-      "post_url": "https://wordsundermyname.wordpress.com/2026/08/03/blaugust2026-day-3-follow-the-plan/",
-      "published": "2026-08-03T16:06:23Z"
-    },
-    {
-      "blog_title": "Through Wolfy's Eyes",
-      "blog_url": "https://wolfyseyes.wordpress.com",
-      "feed_url": "http://wolfyseyes.wordpress.com/feed/",
-      "post_title": "Final Fantasy XIV’s Berlin Fan Fest 2026 Through Wolfy’s Eyes",
-      "post_url": "https://wolfyseyes.wordpress.com/2026/08/03/final-fantasy-xivs-berlin-fan-fest-2026-through-wolfys-eyes/",
-      "published": "2026-08-03T16:02:06Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "It's All Just A Little Bit Of History Repeating",
-      "post_url": "https://bhagpuss.blogspot.com/2026/08/its-all-just-little-bit-of-history.html",
-      "published": "2026-08-03T15:49:48Z"
+      "blog_title": "Clandestini",
+      "blog_url": "https://clandestini.org/",
+      "feed_url": "https://clandestini.org/feed/",
+      "post_title": "Guardiões da Blogosfera: um BEDA diferente",
+      "post_url": "https://clandestini.org/blog/guardioes-da-blogosfera-um-beda-diferente/",
+      "published": "2026-08-04T00:30:38Z"
     }
   ]
 }
