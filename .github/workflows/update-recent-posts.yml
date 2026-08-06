@@ -1,4 +1,4 @@
-name: Update recent posts
+name: Update Blaugust directory and recent posts
 
 on:
   workflow_dispatch:
@@ -6,8 +6,7 @@ on:
     branches: [main]
     paths:
       - "scripts/**"
-      - "data/feedly.opml"
-      - "data/overrides.json"
+      - "data/blogs.csv"
       - "requirements.txt"
       - ".github/workflows/update-recent-posts.yml"
   schedule:
@@ -43,16 +42,21 @@ jobs:
       - name: Install feed reader
         run: pip install -r requirements.txt
 
-      - name: Check feeds and build files
-        run: python scripts/build_recent_posts.py
+      - name: Build directory and check feeds
+        run: python scripts/build_site_data.py
 
-      - name: Save the latest cache and output
+      - name: Save cache and generated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/feed-cache.json docs/latest-posts.json docs/latest-posts-data.js
+          git add \
+            data/feed-cache.json \
+            docs/blog-directory.json \
+            docs/blog-directory-data.js \
+            docs/latest-posts.json \
+            docs/latest-posts-data.js
           if ! git diff --cached --quiet; then
-            git commit -m "Update recent Blaugust posts"
+            git commit -m "Update Blaugust directory and recent posts"
             git push
           fi
 
