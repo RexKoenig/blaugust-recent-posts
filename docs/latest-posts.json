@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-06T09:05:03.518020Z",
+  "generated_at": "2026-08-06T11:52:07.864547Z",
   "feed_count": 278,
-  "successful_feeds": 228,
-  "failed_feeds": 50,
+  "successful_feeds": 229,
+  "failed_feeds": 49,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "The Treasure Of The Midnight Isles",
+      "post_url": "http://tobolds.blogspot.com/2026/08/the-treasure-of-midnight-isles.html",
+      "published": "2026-08-06T10:25:07Z"
+    },
+    {
+      "blog_title": "Endgame Viable",
+      "blog_url": "https://endgameviable.com/",
+      "feed_url": "http://endgameviable.com/feed/",
+      "post_title": "Links to Other Blaugust Posts",
+      "post_url": "https://endgameviable.com/post/2026/08/blaugust-2026-links/",
+      "published": "2026-08-06T09:52:00Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Madagascar",
+      "post_url": "https://nomadwarmachine.co.uk/2026/08/06/madagascar/",
+      "published": "2026-08-06T09:24:48Z"
+    },
     {
       "blog_title": "ThinkRoot",
       "blog_url": "https://thinkroot.xyz",
@@ -140,30 +164,6 @@
       "post_title": "#Blaugust2026 Day 5 – Punting The Hits",
       "post_url": "https://wordsundermyname.wordpress.com/2026/08/05/blaugust2026-day-5-punting-the-hits/",
       "published": "2026-08-05T23:08:37Z"
-    },
-    {
-      "blog_title": "MogBlog",
-      "blog_url": "https://mogblog.pika.page",
-      "feed_url": "https://mogblog.pika.page/posts_feed",
-      "post_title": "Splatoon Raiders",
-      "post_url": "https://mogblog.pika.page/posts/splatoon-raiders",
-      "published": "2026-08-05T23:00:00Z"
-    },
-    {
-      "blog_title": "Point, Click, Repeat",
-      "blog_url": "https://welshtroll.co.uk",
-      "feed_url": "http://welshtroll.co.uk/feed/",
-      "post_title": "Modern Map Making",
-      "post_url": "https://welshtroll.co.uk/post/2026-modern-map-making.html",
-      "published": "2026-08-05T22:55:00Z"
-    },
-    {
-      "blog_title": "Indiecator",
-      "blog_url": "https://indiecator.org",
-      "feed_url": "https://indiecator.home.blog/feed/",
-      "post_title": "Yet another introduction: What is Indiecator, who the fuck is Magi, and also some updates and music to vibe to",
-      "post_url": "https://indiecator.org/2026/08/05/yet-another-introduction/",
-      "published": "2026-08-05T21:17:00Z"
     }
   ]
 }
