@@ -1,0 +1,11 @@
+<!--
+  BLOG DIRECTORY IFRAME FALLBACK
+  Replace YOUR-GITHUB-USERNAME, then paste into a Squarespace Code Block.
+  Increase the height if the complete directory is not visible.
+-->
+<iframe
+  src="https://YOUR-GITHUB-USERNAME.github.io/blaugust-recent-posts/directory.html"
+  title="Blaugust Blog Directory"
+  loading="lazy"
+  style="width:100%;height:6500px;border:0;overflow:hidden;"
+></iframe>

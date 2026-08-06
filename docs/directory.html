@@ -1,0 +1,332 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blaugust Blog Directory</title>
+</head>
+<body style="margin:0;padding:1rem;font:16px/1.5 system-ui,sans-serif;">
+<main style="max-width:1100px;margin:auto;">
+<!--
+  BLAUGUST BLOG DIRECTORY WIDGET
+  Replace YOUR-GITHUB-USERNAME before pasting this into Squarespace.
+  The repository name assumes: blaugust-recent-posts
+-->
+<div
+  class="cmp-blog-directory"
+  id="cmp-blog-directory"
+  data-source="blog-directory-data.js"
+>
+  <div class="cmp-directory-header">
+    <h2>Blaugust Blog Directory</h2>
+    <p class="cmp-directory-intro">Independent blogs and writers from the Blaugust community.</p>
+  </div>
+
+  <div class="cmp-directory-tools">
+    <label class="cmp-directory-search-label" for="cmp-directory-search">Search blogs</label>
+    <input
+      class="cmp-directory-search"
+      id="cmp-directory-search"
+      type="search"
+      placeholder="Search by blog name…"
+      autocomplete="off"
+    >
+    <div class="cmp-directory-filters" aria-label="Filter directory"></div>
+  </div>
+
+  <p class="cmp-directory-status" role="status" aria-live="polite">Loading blog directory…</p>
+  <div class="cmp-directory-content" hidden></div>
+</div>
+
+<style>
+  .cmp-blog-directory {
+    width: 100%;
+    margin: 0;
+    font: inherit;
+    color: inherit;
+    box-sizing: border-box;
+  }
+
+  .cmp-blog-directory *,
+  .cmp-blog-directory *::before,
+  .cmp-blog-directory *::after {
+    box-sizing: border-box;
+  }
+
+  .cmp-directory-header {
+    margin-bottom: 1.1rem;
+  }
+
+  .cmp-directory-header h2 {
+    margin: 0 0 0.35rem;
+  }
+
+  .cmp-directory-intro,
+  .cmp-directory-status {
+    margin: 0;
+    opacity: 0.76;
+  }
+
+  .cmp-directory-tools {
+    margin-bottom: 1.3rem;
+    padding: 1rem;
+    border: 1px solid rgba(127, 127, 127, 0.3);
+    border-radius: 0.65rem;
+  }
+
+  .cmp-directory-search-label {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-weight: 600;
+  }
+
+  .cmp-directory-search {
+    width: 100%;
+    max-width: 34rem;
+    min-height: 2.6rem;
+    padding: 0.55rem 0.7rem;
+    border: 1px solid rgba(127, 127, 127, 0.55);
+    border-radius: 0.35rem;
+    font: inherit;
+    color: inherit;
+    background: transparent;
+  }
+
+  .cmp-directory-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin-top: 0.85rem;
+  }
+
+  .cmp-directory-filter {
+    min-width: 2.45rem;
+    min-height: 2.35rem;
+    padding: 0.4rem 0.65rem;
+    border: 1px solid rgba(127, 127, 127, 0.48);
+    border-radius: 0.35rem;
+    font: inherit;
+    line-height: 1;
+    color: inherit;
+    background: transparent;
+    cursor: pointer;
+  }
+
+  .cmp-directory-filter:hover,
+  .cmp-directory-filter:focus-visible {
+    border-color: currentColor;
+  }
+
+  .cmp-directory-filter[aria-pressed="true"] {
+    color: Canvas;
+    background: CanvasText;
+    border-color: CanvasText;
+  }
+
+  .cmp-directory-filter:disabled {
+    opacity: 0.3;
+    cursor: default;
+  }
+
+  .cmp-directory-content {
+    display: grid;
+    gap: 1.65rem;
+  }
+
+  .cmp-directory-section {
+    scroll-margin-top: 2rem;
+  }
+
+  .cmp-directory-section h3 {
+    margin: 0 0 0.7rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid rgba(127, 127, 127, 0.3);
+  }
+
+  .cmp-directory-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.45rem 1.75rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .cmp-directory-list li {
+    min-width: 0;
+    margin: 0;
+  }
+
+  .cmp-directory-list a {
+    color: inherit;
+    overflow-wrap: anywhere;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  .cmp-directory-list a:hover,
+  .cmp-directory-list a:focus-visible {
+    text-decoration-thickness: 2px;
+  }
+
+  .cmp-directory-language {
+    margin-left: 0.4rem;
+    font-size: 0.82em;
+    opacity: 0.65;
+  }
+
+  @media (max-width: 700px) {
+    .cmp-directory-tools {
+      padding: 0.85rem;
+    }
+
+    .cmp-directory-list {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<script>
+(function () {
+  "use strict";
+
+  var root = document.getElementById("cmp-blog-directory");
+  if (!root) return;
+
+  var filters = root.querySelector(".cmp-directory-filters");
+  var search = root.querySelector(".cmp-directory-search");
+  var status = root.querySelector(".cmp-directory-status");
+  var content = root.querySelector(".cmp-directory-content");
+  var activeFilter = "all";
+  var directoryData = null;
+  var alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+  var groupOrder = ["0-9"].concat(alphabet).concat(["other-languages"]);
+
+  function groupLabel(group) {
+    return group === "other-languages" ? "Other Languages" : group;
+  }
+
+  function normalise(value) {
+    return String(value || "").toLocaleLowerCase("en-GB");
+  }
+
+  function makeFilter(value, label, enabled) {
+    var button = document.createElement("button");
+    button.type = "button";
+    button.className = "cmp-directory-filter";
+    button.dataset.filter = value;
+    button.textContent = label;
+    button.disabled = !enabled;
+    button.setAttribute("aria-pressed", value === activeFilter ? "true" : "false");
+    button.addEventListener("click", function () {
+      activeFilter = value;
+      Array.prototype.forEach.call(filters.querySelectorAll("button"), function (item) {
+        item.setAttribute("aria-pressed", item.dataset.filter === activeFilter ? "true" : "false");
+      });
+      renderEntries();
+    });
+    return button;
+  }
+
+  function buildFilters(blogs) {
+    var available = new Set(blogs.map(function (blog) { return blog.initial; }));
+    filters.replaceChildren();
+    filters.appendChild(makeFilter("all", "All", true));
+    filters.appendChild(makeFilter("0-9", "0–9", available.has("0-9")));
+    alphabet.forEach(function (letter) {
+      filters.appendChild(makeFilter(letter, letter, available.has(letter)));
+    });
+    filters.appendChild(
+      makeFilter("other-languages", "Other Languages", available.has("other-languages"))
+    );
+  }
+
+  function makeBlogItem(blog) {
+    var item = document.createElement("li");
+    var link = document.createElement("a");
+    link.href = blog.site_url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.textContent = blog.name;
+    item.appendChild(link);
+
+    if (blog.directory_group === "other-languages" && blog.language) {
+      var language = document.createElement("span");
+      language.className = "cmp-directory-language";
+      language.textContent = "(" + blog.language + ")";
+      item.appendChild(language);
+    }
+    return item;
+  }
+
+  function renderEntries() {
+    if (!directoryData) return;
+
+    var query = normalise(search.value).trim();
+    var blogs = directoryData.blogs.filter(function (blog) {
+      var filterMatch = activeFilter === "all" || blog.initial === activeFilter;
+      var searchMatch = !query || normalise(blog.name).indexOf(query) !== -1;
+      return filterMatch && searchMatch;
+    });
+
+    content.replaceChildren();
+    groupOrder.forEach(function (group) {
+      var groupBlogs = blogs.filter(function (blog) { return blog.initial === group; });
+      if (!groupBlogs.length) return;
+
+      var section = document.createElement("section");
+      section.className = "cmp-directory-section";
+      section.id = "cmp-directory-" + group.toLocaleLowerCase();
+
+      var heading = document.createElement("h3");
+      heading.textContent = groupLabel(group);
+      section.appendChild(heading);
+
+      var list = document.createElement("ul");
+      list.className = "cmp-directory-list";
+      groupBlogs.forEach(function (blog) { list.appendChild(makeBlogItem(blog)); });
+      section.appendChild(list);
+      content.appendChild(section);
+    });
+
+    var total = directoryData.blog_count || directoryData.blogs.length;
+    status.textContent = blogs.length === total && !query && activeFilter === "all"
+      ? total + " blogs listed."
+      : "Showing " + blogs.length + " of " + total + " blogs.";
+    content.hidden = blogs.length === 0;
+
+    if (!blogs.length) {
+      status.textContent = "No blogs match the current filter.";
+    }
+  }
+
+  window.__cmpRenderBlaugustBlogDirectory = function (data) {
+    var blogs = data && Array.isArray(data.blogs) ? data.blogs : [];
+    if (!blogs.length) {
+      status.textContent = "The blog directory is currently unavailable.";
+      return;
+    }
+
+    directoryData = data;
+    buildFilters(blogs);
+    search.addEventListener("input", renderEntries);
+    renderEntries();
+  };
+
+  if (window.__blaugustBlogDirectoryData) {
+    window.__cmpRenderBlaugustBlogDirectory(window.__blaugustBlogDirectoryData);
+    return;
+  }
+
+  var script = document.createElement("script");
+  script.src = root.getAttribute("data-source") + "?v=" + Date.now();
+  script.async = true;
+  script.onerror = function () {
+    status.textContent = "The blog directory could not be loaded at present.";
+  };
+  document.head.appendChild(script);
+})();
+</script>
+</main>
+</body>
+</html>

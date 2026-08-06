@@ -1,100 +1,160 @@
-BLAUGUST RECENT POSTS — SETUP GUIDE
-===================================
+BLAUGUST BLOGROLL — SINGLE-SOURCE SETUP
+=======================================
 
-WHAT THIS DOES
+PURPOSE
+-------
+This version uses one authoritative file:
+
+    data/blogs.csv
+
+Both the alphabetical blog directory and the twenty latest posts are generated
+from that CSV. Once installed, routine changes should normally require editing
+only this one file in GitHub.
+
+CURRENT IMPORT
 --------------
-This package checks the 259 RSS/Atom feeds in your Feedly OPML file twice each
-day. It keeps one newest dated post per blog, sorts those posts newest-first and
-publishes the newest 20 as one small data file. Your Squarespace page makes one
-request for that file rather than contacting 259 blogs.
+The master CSV was created from Feedly Blogroll.opml supplied on 6 August 2026.
+It contains 272 rows:
 
-Temporary feed failures do not normally make an entry disappear: the script
-keeps the last successful result in data/feed-cache.json.
+- 271 visible directory entries
+- 8 entries in the Other Languages section
+- 1 disabled legacy duplicate for Orbital Martian
 
-The updater is scheduled for 07:17 and 19:17 Europe/London time. The odd minute
-is intentional, because scheduled services are commonly busiest on the hour.
+The original and previous OPML files are retained under data/archive for
+reference only. They are not used by the live system.
 
-GITHUB SETUP
-------------
-1. Sign in to GitHub and create a new PUBLIC repository named exactly:
+MASTER CSV COLUMNS
+------------------
+name
+    The blog name shown to visitors.
 
-       blaugust-recent-posts
+site_url
+    The address opened when a visitor selects the blog.
 
-2. Unzip this package. On the new repository page choose Add file > Upload files,
-   then upload everything INSIDE the blaugust-recent-posts folder. This includes
-   the normally hidden .github folder. Commit the upload to the main branch.
+feed_url
+    The RSS or Atom feed checked for the latest-post panel.
 
-3. Open the repository's Settings tab. Choose Pages in the left-hand column.
-   Under Build and deployment, set Source to GitHub Actions.
+language
+    Administrative label. The eight obvious non-English-script blogs have
+    initially been marked Japanese, Chinese or Arabic. Other rows are marked
+    Unspecified because OPML does not contain dependable language metadata.
 
-4. Open the Actions tab. Select "Update recent posts" and use Run workflow.
-   The first run checks all feeds and normally takes a few minutes. A green tick
-   means the files have been published successfully.
+directory_group
+    Use alphabetical or other-languages.
 
-5. Your public data address will be:
+status
+    Administrative note such as included, inactive or duplicate. This field
+    does not itself hide a row.
 
-       https://YOUR-GITHUB-USERNAME.github.io/blaugust-recent-posts/latest-posts-data.js
+show_in_directory
+    yes = display the blog in the directory
+    no  = keep the row in the master file but hide it from the directory
 
-   Replace YOUR-GITHUB-USERNAME with your actual GitHub username.
+include_in_latest
+    yes = check the feed for the twenty latest posts
+    no  = do not check the feed
 
-SQUARESPACE SETUP
+notes
+    Optional maintenance notes. These are never published on the website.
+
+HOW TO EDIT THE LIST LATER
+--------------------------
+1. Open data/blogs.csv in the GitHub repository.
+2. Select the pencil icon to edit it.
+3. Change, add or remove rows.
+4. Commit the change to the main branch.
+5. GitHub Actions validates the CSV, rebuilds the directory, checks eligible
+   feeds and republishes GitHub Pages.
+
+The Squarespace page then loads the revised data automatically. No fresh OPML
+export or replacement of the directory HTML should be necessary.
+
+IMPORTANT CSV RULES
+-------------------
+- Do not rename or remove the header row.
+- Each feed_url must be unique.
+- site_url and feed_url must begin with http:// or https://.
+- show_in_directory and include_in_latest should contain yes or no.
+- directory_group must be alphabetical or other-languages.
+- If a field contains a comma, GitHub's CSV editor must retain quotation marks
+  around that field.
+
+FILES TO UPLOAD TO GITHUB
+--------------------------
+Upload the complete contents of this folder to the existing
+blaugust-recent-posts repository, preserving the folder structure.
+
+The active new files are:
+
+- data/blogs.csv
+- scripts/build_site_data.py
+- .github/workflows/update-recent-posts.yml
+- squarespace-blog-directory-widget.txt
+- squarespace-directory-iframe-fallback.txt
+- docs/directory.html
+
+The workflow will generate and maintain:
+
+- docs/blog-directory.json
+- docs/blog-directory-data.js
+- docs/latest-posts.json
+- docs/latest-posts-data.js
+- data/feed-cache.json
+
+OLD FILES TO REMOVE FROM GITHUB
+-------------------------------
+After the new files are uploaded, delete these old active files from the root
+repository if they remain there:
+
+- data/feedly.opml
+- data/overrides.json
+- scripts/build_recent_posts.py
+- layout-preview.html
+
+Copies of the old OPML and overrides are included in data/archive.
+
+FIRST GITHUB TEST
 -----------------
-1. Open squarespace-recent-posts-widget.txt.
-2. Replace YOUR-GITHUB-USERNAME in its data-source address.
-3. Paste the entire contents into a new Squarespace Code Block immediately above
-   the existing alphabetical blogroll.
-4. Make sure Display Source is switched off, then save the page.
+1. Open the repository's Actions tab.
+2. Select "Update Blaugust directory and recent posts".
+3. Select Run workflow.
+4. Wait for the run to show a green tick.
+5. Check these GitHub Pages addresses, replacing YOUR-GITHUB-USERNAME:
 
-The widget shows 20 posts in two columns on larger screens and one column on
-phones. Each item contains the post title, blog name and publication date.
+   https://YOUR-GITHUB-USERNAME.github.io/blaugust-recent-posts/
+   https://YOUR-GITHUB-USERNAME.github.io/blaugust-recent-posts/directory.html
 
-If your Squarespace plan prevents JavaScript in Code Blocks, use the contents of
-squarespace-iframe-fallback.txt instead. It embeds the GitHub-hosted panel in an
-iframe, although the integrated JavaScript version will generally look better.
+SQUARESPACE CHANGE
+------------------
+The existing recent-post widget can remain in place because it continues to use
+latest-posts-data.js at the same address.
 
-UPDATING THE BLOG LIST LATER
-----------------------------
-Export a fresh OPML file from Feedly and replace data/feedly.opml in the GitHub
-repository. Commit the replacement. The workflow will run automatically because
-that source file changed.
+Replace the old static alphabetical directory code with the contents of:
 
-The data/overrides.json file contains the nine corrections applied to the
-original export. They are keyed by RSS address, so they continue to be used when
-those same subscriptions appear in a later export.
+    squarespace-blog-directory-widget.txt
 
-CHANGING THE NUMBER OF POSTS
-----------------------------
-The default is 20. In .github/workflows/update-recent-posts.yml, add an env value
-to the "Check feeds and build files" step, for example:
+Before pasting, replace YOUR-GITHUB-USERNAME with the same GitHub username used
+in the existing recent-post widget.
 
-       env:
-         MAX_POSTS: "30"
+The new directory provides:
 
-Twenty is recommended initially so the panel remains compact.
+- All, 0-9 and A-Z filtering buttons
+- an Other Languages button
+- a blog-name search box
+- automatic totals
+- two-column desktop and one-column mobile layouts
 
-FILES OF INTEREST
------------------
-- squarespace-recent-posts-widget.txt : preferred Squarespace block
-- squarespace-iframe-fallback.txt     : fallback without inline JavaScript
-- data/feedly.opml                    : current Feedly export
-- data/overrides.json                 : corrected names and homepages
-- scripts/build_recent_posts.py       : feed checker and data builder
-- .github/workflows/...               : twice-daily automatic updater
-- docs/index.html                     : standalone iframe version
+ROLLBACK
+--------
+Do not remove the existing Squarespace directory until the GitHub Pages preview
+works. Keep a copy of the old Squarespace code temporarily. If a problem occurs,
+restore that old code while the repository is corrected.
 
-NOTES
------
-- The GitHub repository must be public to use GitHub Pages on a free account.
-- The list contains public blog names, URLs and post titles; no private Feedly
-  credentials are stored.
-- A feed without a usable publication date is not eligible for the newest-posts
-  panel, although it remains in the existing alphabetical blogroll.
-- Individual feeds may occasionally reject automated checks. Cached results are
-  retained and the other feeds continue to update.
+LOCAL VALIDATION
+----------------
+The CSV and directory can be validated without checking external feeds:
 
-GITHUB SCHEDULE NOTE
---------------------
-GitHub may disable scheduled workflows in a public repository after a long
-period without repository activity. The updater normally commits refreshed data
-regularly, but if updates ever stop, open Actions and run the workflow manually
-to re-enable and test it.
+    python scripts/build_site_data.py --directory-only
+
+The normal GitHub workflow runs without that option and therefore also checks
+all feeds enabled by include_in_latest.
