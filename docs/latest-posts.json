@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-08-13T19:19:43.864113Z",
+  "generated_at": "2026-08-14T07:49:43.979763Z",
   "feed_count": 271,
-  "successful_feeds": 243,
-  "failed_feeds": 28,
+  "successful_feeds": 251,
+  "failed_feeds": 20,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com/",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Budget Deckbuilding: Planeswalker Deck “Jace, Ingenious Mind-Mage”",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/08/14/budget-deckbuilding-planeswalker-deck-jace-ingenious-mind-mage/",
+      "published": "2026-08-14T07:00:00Z"
+    },
+    {
+      "blog_title": "Nerdy Bookahs",
+      "blog_url": "https://nerdybookahs.wordpress.com/",
+      "feed_url": "http://nerdybookahs.wordpress.com/feed/",
+      "post_title": "Twenty-one years playing MMOs",
+      "post_url": "https://nerdybookahs.wordpress.com/2026/08/14/twenty-one-years-playing-mmos/",
+      "published": "2026-08-14T06:46:44Z"
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Decluttering tomorrow, river tonight",
+      "post_url": "https://hollie.eilloh.net/posts/decluttering-tomorrow-river-tonight",
+      "published": "2026-08-14T05:34:00Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Pain & fear",
+      "post_url": "https://cynnisblog.wordpress.com/2026/08/14/pain-fear/",
+      "published": "2026-08-14T05:00:24Z"
+    },
+    {
+      "blog_title": "Karthik Kamalakannan & the Internet",
+      "blog_url": "https://imkarthikk.com/",
+      "feed_url": "https://imkarthikk.com/feed.xml",
+      "post_title": "A leader without a compass is a task rabbit",
+      "post_url": "https://imkarthikk.com/blog/task-rabbit-leaders",
+      "published": "2026-08-14T04:00:00Z"
+    },
+    {
+      "blog_title": "Notes by JCProbably",
+      "blog_url": "https://notes.jeddacp.com/",
+      "feed_url": "https://notes.jeddacp.com/feed/",
+      "post_title": "Stop, It's Art!",
+      "post_url": "https://notes.jeddacp.com/stop-its-art/",
+      "published": "2026-08-14T03:40:55Z"
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "EverQuest Legends: Clearing Dungeons",
+      "post_url": "https://chasingdings.com/2026/08/13/everquest-legends-clearing-dungeons/",
+      "published": "2026-08-14T03:31:32Z"
+    },
+    {
+      "blog_title": "Nullish",
+      "blog_url": "https://nullish.smol.pub/",
+      "feed_url": "https://nullish.smol.pub/atom.xml",
+      "post_title": "Slow writing",
+      "post_url": "https://nullish.smol.pub/slow-writing",
+      "published": "2026-08-14T02:29:42Z"
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
@@ -14,156 +78,92 @@
       "published": "2026-08-14T02:00:00Z"
     },
     {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "Electrocuting grass",
-      "post_url": "https://nosrednayduj.dreamwidth.org/181117.html",
-      "published": "2026-08-13T18:46:59Z"
-    },
-    {
-      "blog_title": "Orbital Martian",
-      "blog_url": "https://orbitalmartian.polymaths.page/",
-      "feed_url": "https://orbitalmartian.polymaths.page/feed.xml",
-      "post_title": "I Flew A Plane... For Real",
-      "post_url": "https://orbitalmartian.polymaths.page/blog/2026-08-13-i-flew-a-plane/",
-      "published": "2026-08-13T18:40:00Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Showing versus telling",
-      "post_url": "https://francescrossley.com/showing-versus-telling/",
-      "published": "2026-08-13T18:00:00Z"
-    },
-    {
-      "blog_title": "Alex's Review Corner",
-      "blog_url": "https://super142.wordpress.com/",
-      "feed_url": "https://super142.wordpress.com/feed/",
-      "post_title": "Envying Innocence",
-      "post_url": "https://super142.wordpress.com/2026/08/13/envying-innocence/",
-      "published": "2026-08-13T17:00:39Z"
-    },
-    {
-      "blog_title": "Kay Talks Games",
-      "blog_url": "https://kaytalksgames.wordpress.com/",
-      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
-      "post_title": "Why I Love The Elder Scrolls IV: Oblivion",
-      "post_url": "https://kaytalksgames.wordpress.com/2026/08/13/why-i-love-the-elder-scrolls-iv-oblivion/",
-      "published": "2026-08-13T16:56:00Z"
-    },
-    {
-      "blog_title": "Paseo Baggage",
-      "blog_url": "https://paseobaggage.bearblog.dev/",
-      "feed_url": "https://paseobaggage.bearblog.dev/feed/",
-      "post_title": "Prom - #13 Blaugust 2026",
-      "post_url": "https://paseobaggage.bearblog.dev/prom-13-blaugust-2026/",
-      "published": "2026-08-13T16:28:00Z"
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "thirteen: what a wall I hit today but I made this guy over the weekend",
+      "post_url": "https://angrybunnyman.com/thirteen-what-a-wall-i-hit-today-but-i-made-this-guy-over-the-weekend/",
+      "published": "2026-08-14T01:59:39Z"
     },
     {
       "blog_title": "Ubergeek Kelly's World",
       "blog_url": "https://www.kgadams.net/",
       "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "Quarterly health checks",
-      "post_url": "https://www.kgadams.net/life/quarterly-health-checks",
-      "published": "2026-08-13T15:30:00Z"
+      "post_title": "First rain…",
+      "post_url": "https://www.kgadams.net/life/first-rain",
+      "published": "2026-08-14T01:42:56Z"
     },
     {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Planet Crafter – Teleportation, Explosions, and Exploration",
-      "post_url": "https://tagn.wordpress.com/2026/08/13/planet-crafter-teleportation-explosions-and-exploration/",
-      "published": "2026-08-13T15:15:51Z"
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Craig Newmark Is ‘Schrödinger’s Philanthropist’",
+      "post_url": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
+      "published": "2026-08-14T01:22:21Z"
     },
     {
-      "blog_title": "MMO Casual",
-      "blog_url": "http://wowaltaddiction.blogspot.com/",
-      "feed_url": "http://wowaltaddiction.blogspot.com/feeds/posts/default",
-      "post_title": "Guild Wars 2",
-      "post_url": "http://wowaltaddiction.blogspot.com/2026/08/guild-wars-2.html",
-      "published": "2026-08-13T15:00:08Z"
+      "blog_title": "The Friendly Necromancer",
+      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
+      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
+      "post_title": "Thotham's Journal #14 -- Continuing my Wednesday D&D Game",
+      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/08/thothams-journal-14-continuing-my.html",
+      "published": "2026-08-14T01:00:57Z"
     },
     {
       "blog_title": "Sal's Blog",
       "blog_url": "https://sals.place/",
       "feed_url": "https://sals.place/feed/",
-      "post_title": "A mechanical Magic Keyboard",
-      "post_url": "https://sals.place/blog/mechanical-magic-keyboard/",
-      "published": "2026-08-13T14:58:12Z"
+      "post_title": "The Claude aesthetic",
+      "post_url": "https://sals.place/blog/the-claude-aesthetic/",
+      "published": "2026-08-14T00:44:33Z"
     },
     {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Proof of Concept – RSS On Steroids",
-      "post_url": "https://scopique.com/2026/08/13/proof-of-concept-rss-on-steroids/",
-      "published": "2026-08-13T14:56:10Z"
+      "blog_title": "Not all those who wander are lost",
+      "blog_url": "https://kavmac.com/",
+      "feed_url": "https://kavmac.com/feed/",
+      "post_title": "S’mores and Shelter",
+      "post_url": "https://kavmac.com/smores-and-shelter/",
+      "published": "2026-08-14T00:32:49Z"
     },
     {
-      "blog_title": "Endgame Viable",
-      "blog_url": "https://endgameviable.com/",
-      "feed_url": "http://endgameviable.com/feed/",
-      "post_title": "Blogging Daily In 2026",
-      "post_url": "https://endgameviable.com/post/2026/08/blogging-daily-in-2026/",
-      "published": "2026-08-13T14:47:45Z"
+      "blog_title": "Clandestini",
+      "blog_url": "https://clandestini.org/",
+      "feed_url": "https://clandestini.org/feed/",
+      "post_title": "5 coisas que fazem parte do meu dia",
+      "post_url": "https://clandestini.org/blog/5-coisas-que-fazem-parte-do-meu-dia/",
+      "published": "2026-08-14T00:19:58Z"
     },
     {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Juxtaposition",
-      "post_url": "https://tobygeeksout.micro.blog/2026/08/13/word-nerd-alert-juxtaposition.html",
-      "published": "2026-08-13T14:02:46Z"
+      "blog_title": "Words Under My Name",
+      "blog_url": "https://wordsundermyname.wordpress.com/",
+      "feed_url": "https://wordsundermyname.wordpress.com/feed/",
+      "post_title": "#Blaugust2026 Day 13 – Relax-A-Tron",
+      "post_url": "https://wordsundermyname.wordpress.com/2026/08/13/blaugust2026-day-13-relax-a-tron/",
+      "published": "2026-08-14T00:16:25Z"
     },
     {
-      "blog_title": "Shadowz Abstract Gaming",
-      "blog_url": "https://sag.sadesignz.org/",
-      "feed_url": "https://sag.sadesignz.org/feed/",
-      "post_title": "Who am I?",
-      "post_url": "https://sag.sadesignz.org/who-am-i/",
-      "published": "2026-08-13T14:00:48Z"
+      "blog_title": "粉红路",
+      "blog_url": "https://pinkway.mataroa.blog/",
+      "feed_url": "https://pinkway.mataroa.blog/rss/",
+      "post_title": "好吃的飞机餐",
+      "post_url": "https://pinkway.mataroa.blog/blog/215-28-1ee/",
+      "published": "2026-08-14T00:00:00Z"
     },
     {
-      "blog_title": "Lucky Instar",
-      "blog_url": "https://luckyinstar.neocities.org/blog",
-      "feed_url": "https://luckyinstar.neocities.org/feed.xml",
-      "post_title": "random bee - Dufourea, the short-faced, wide-ranging specialists",
-      "post_url": "https://luckyinstar.neocities.org/blog/beegenera3",
-      "published": "2026-08-13T13:19:34Z"
+      "blog_title": "Lameazoid",
+      "blog_url": "https://lameazoid.com/",
+      "feed_url": "https://lameazoid.com/feed/",
+      "post_title": "Mini Brands Vinyl Player",
+      "post_url": "https://lameazoid.com/mini-brands-vinyl-player/",
+      "published": "2026-08-13T23:00:00Z"
     },
     {
-      "blog_title": "Amerpie by Lou Plummer",
-      "blog_url": "https://amerpie.lol/",
-      "feed_url": "https://amerpie.lol/feed.xml",
-      "post_title": "The Extension Aided Method of Ignoring thee YouTube Algorithm",
-      "post_url": "https://amerpie.lol/2026/08/13/the-extension-aided-method-of.html",
-      "published": "2026-08-13T13:17:04Z"
-    },
-    {
-      "blog_title": "AppAddict",
-      "blog_url": "https://appaddict.app/",
-      "feed_url": "https://apps.louplummer.lol/feed.atom",
-      "post_title": "The Extension Aided Method of Ignoring thee YouTube Algorithm",
-      "post_url": "https://appaddict.app/post/the-extension-aided-method-of-ignoring-thee-youtube-algorithm",
-      "published": "2026-08-13T13:17:04Z"
-    },
-    {
-      "blog_title": "わくパンの思考のかけら",
-      "blog_url": "https://wakupanbouquet.hatenablog.com/",
-      "feed_url": "https://wakupanbouquet.hatenablog.com/rss",
-      "post_title": "2026.8.13 文章書くタイプのオタクの作業環境【Blaugust】",
-      "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/08/13/221550",
-      "published": "2026-08-13T13:15:50Z"
-    },
-    {
-      "blog_title": "Syl's Blog",
-      "blog_url": "https://syls.blog/",
-      "feed_url": "https://syls.blog/feed/",
-      "post_title": "My Top 10 Game Developers",
-      "post_url": "https://syls.blog/my-top-10-game-developers/",
-      "published": "2026-08-13T13:05:00Z"
+      "blog_title": "Gamers Esoteric",
+      "blog_url": "https://www.gamersesoteric.com/",
+      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
+      "post_title": "Prompt #13 for #RPGaDay2026",
+      "post_url": "https://www.gamersesoteric.com/2026/08/prompt-13-for-rpgaday2026.html",
+      "published": "2026-08-13T21:37:44Z"
     }
   ]
 }
