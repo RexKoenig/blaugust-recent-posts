@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-08-15T06:56:51.013376Z",
-  "feed_count": 271,
-  "successful_feeds": 250,
-  "failed_feeds": 21,
+  "generated_at": "2026-08-15T13:01:10.361647Z",
+  "feed_count": 293,
+  "successful_feeds": 260,
+  "failed_feeds": 33,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Advanced Webweaving: Auditing Against Specification.Website",
+      "post_url": "https://brennan.day/advanced-webweaving-auditing-against-specification-website/",
+      "published": "2026-08-16T02:00:00Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Bernard Pivot Questionnaire",
+      "post_url": "https://nomadwarmachine.co.uk/2026/08/15/bernard-pivot-questionnaire/",
+      "published": "2026-08-15T12:12:07Z"
+    },
+    {
+      "blog_title": "Aywren's Nook",
+      "blog_url": "https://www.aywren.com/",
+      "feed_url": "https://aywren.com/feed.xml",
+      "post_title": "Blaugust 2026 – The Halfway Point",
+      "post_url": "https://aywren.com/2026/08/15/blaugust-2026-the-halfway-point",
+      "published": "2026-08-15T12:09:19Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "WHAT IS THE TOPIC OF MY BLOG?",
+      "post_url": "https://pretendtypewriter.net/what-is-the-topic-of-my-blog/",
+      "published": "2026-08-15T12:00:00Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "How I share links on my blog",
+      "post_url": "https://michaelharley.net/posts/2026/08/15/how-i-share-links-on-my-blog/",
+      "published": "2026-08-15T11:45:00Z"
+    },
+    {
+      "blog_title": "Aeish's Blog Feed :3",
+      "blog_url": "https://aeish-world.neocities.org/blog_front",
+      "feed_url": "https://aeish-world.neocities.org/feed.txt",
+      "post_title": "Blogust #10",
+      "post_url": "https://aeish-world.neocities.org/blog_pages/blog-blogust-10",
+      "published": "2026-08-15T11:13:00Z"
+    },
+    {
+      "blog_title": "In An Age",
+      "blog_url": "https://inanage.com/",
+      "feed_url": "http://inanage.com/feed/",
+      "post_title": "In-Game Ads",
+      "post_url": "https://inanage.com/2026/08/15/in-game-ads/",
+      "published": "2026-08-15T11:00:00Z"
+    },
+    {
+      "blog_title": "Amerpie by Lou Plummer",
+      "blog_url": "https://amerpie.lol/",
+      "feed_url": "https://amerpie.lol/feed.xml",
+      "post_title": "Crucial Track for August 15, 2026",
+      "post_url": "https://amerpie.lol/2026/08/15/crucial-track-for-august.html",
+      "published": "2026-08-15T09:29:04Z"
+    },
+    {
+      "blog_title": "そのうち33歳 せいかつブログ",
+      "blog_url": "https://wakanatrium.site/",
+      "feed_url": "https://wakanatrium.site/?mode=rss",
+      "post_title": "やりたいゲームは沢山ある",
+      "post_url": "https://wakanatrium.site/?postid=26",
+      "published": "2026-08-15T08:07:30Z"
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com/",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Budget Deckbuilding: Planeswalker Deck “Angrath, Minotaur Pirate”",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/08/15/budget-deckbuilding-planeswalker-deck-angrath-minotaur-pirate/",
+      "published": "2026-08-15T07:00:00Z"
+    },
     {
       "blog_title": "ThinkRoot",
       "blog_url": "https://thinkroot.xyz/",
@@ -20,6 +100,14 @@
       "post_title": "Good friends and good pizza",
       "post_url": "https://hollie.eilloh.net/posts/good-friends-and-good-pizza",
       "published": "2026-08-15T06:31:00Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Action over outcome",
+      "post_url": "https://rishidass.net/posts/action-over-outcome",
+      "published": "2026-08-15T06:01:16Z"
     },
     {
       "blog_title": "Cynni’s Blog",
@@ -76,94 +164,6 @@
       "post_title": "Gratitudes part 4: Nikki, true to herself",
       "post_url": "https://nullish.smol.pub/gratitudes-part-4-nikki-true-to-herself",
       "published": "2026-08-15T02:07:52Z"
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "Confessions of a Maladaptive Daydreamer",
-      "post_url": "https://brennan.day/confessions-of-a-maladaptive-daydreamer/",
-      "published": "2026-08-15T02:00:00Z"
-    },
-    {
-      "blog_title": "Words Under My Name",
-      "blog_url": "https://wordsundermyname.wordpress.com/",
-      "feed_url": "https://wordsundermyname.wordpress.com/feed/",
-      "post_title": "#Blaugust2026 Day 14 – Creature Of Habit",
-      "post_url": "https://wordsundermyname.wordpress.com/2026/08/14/blaugust2026-day-14-creature-of-habit/",
-      "published": "2026-08-15T01:40:54Z"
-    },
-    {
-      "blog_title": "Why I Game",
-      "blog_url": "https://whyigame.wordpress.com/",
-      "feed_url": "http://whyigame.wordpress.com/feed/",
-      "post_title": "GPT-4o: Letter 15 – It’s the Economy, Stupid",
-      "post_url": "https://whyigame.wordpress.com/2026/08/15/gpt-4o-letter-15-its-the-economy-stupid/",
-      "published": "2026-08-15T01:39:33Z"
-    },
-    {
-      "blog_title": "Clandestini",
-      "blog_url": "https://clandestini.org/",
-      "feed_url": "https://clandestini.org/feed/",
-      "post_title": "Notas sobre a minha semana",
-      "post_url": "https://clandestini.org/blog/notas-sobre-a-minha-semana/",
-      "published": "2026-08-15T00:17:28Z"
-    },
-    {
-      "blog_title": "82MHz",
-      "blog_url": "http://82mhz.net/posts/",
-      "feed_url": "http://82mhz.net/index.xml",
-      "post_title": "Ritchie Blackmore and Deep Purple",
-      "post_url": "http://82mhz.net/posts/2026/08/ritchie-blackmore-and-deep-purple/",
-      "published": "2026-08-15T00:00:00Z"
-    },
-    {
-      "blog_title": "粉红路",
-      "blog_url": "https://pinkway.mataroa.blog/",
-      "feed_url": "https://pinkway.mataroa.blog/rss/",
-      "post_title": "说不白啊",
-      "post_url": "https://pinkway.mataroa.blog/blog/aa2-e9-a1a/",
-      "published": "2026-08-15T00:00:00Z"
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "Knytt Classic",
-      "post_url": "https://virtualmoose.org/2026/08/14/knytt-classic/",
-      "published": "2026-08-14T22:59:01Z"
-    },
-    {
-      "blog_title": "Gamers Esoteric",
-      "blog_url": "https://www.gamersesoteric.com/",
-      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
-      "post_title": "Prompt #14 for #RPGaDay2026",
-      "post_url": "https://www.gamersesoteric.com/2026/08/prompt-14-for-rpgaday2026.html",
-      "published": "2026-08-14T22:51:33Z"
-    },
-    {
-      "blog_title": "SweaterPockets",
-      "blog_url": "https://sweaterpockets.bearblog.dev/",
-      "feed_url": "https://sweaterpockets.bearblog.dev/feed/",
-      "post_title": "Enough AI Scrapping!",
-      "post_url": "https://sweaterpockets.bearblog.dev/enough-ai-scrapping/",
-      "published": "2026-08-14T21:27:00Z"
-    },
-    {
-      "blog_title": "Point, Click, Repeat",
-      "blog_url": "https://welshtroll.co.uk/",
-      "feed_url": "http://welshtroll.co.uk/feed/",
-      "post_title": "Bulk Importing Old Posts",
-      "post_url": "https://welshtroll.co.uk/post/2026-bulk-importing-old-posts.html",
-      "published": "2026-08-14T21:00:00Z"
-    },
-    {
-      "blog_title": "Notes by JCProbably",
-      "blog_url": "https://notes.jeddacp.com/",
-      "feed_url": "https://notes.jeddacp.com/feed/",
-      "post_title": "Call Her By Her Name",
-      "post_url": "https://notes.jeddacp.com/call-her-by-her-name/",
-      "published": "2026-08-14T20:34:00Z"
     }
   ]
 }
