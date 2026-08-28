@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T02:10:39.160393Z",
-  "blog_count": 293,
-  "other_language_count": 9,
+  "generated_at": "2026-08-28T10:46:26.048818Z",
+  "blog_count": 322,
+  "other_language_count": 10,
   "blogs": [
     {
       "name": "20ily April",
@@ -26,6 +26,14 @@
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "0-9"
+    },
+    {
+      "name": "@thiskurt's blog",
+      "site_url": "https://thiskurt.me",
+      "feed_url": "https://thiskurt.me/rss.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "T"
     },
     {
       "name": "A 3D Blog for a 3D World",
@@ -76,6 +84,14 @@
       "initial": "A"
     },
     {
+      "name": "A parenthetical departure",
+      "site_url": "https://departure.blog/",
+      "feed_url": "https://sylvia.bearblog.dev/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "A"
+    },
+    {
       "name": "A Vueltas por los Mundos",
       "site_url": "https://vueltaspodcast.wordpress.com/",
       "feed_url": "https://vueltaspodcast.wordpress.com/blog/feed/",
@@ -116,6 +132,22 @@
       "initial": "A"
     },
     {
+      "name": "agnes the alien's blog;",
+      "site_url": "https://blog.agnes.love/",
+      "feed_url": "https://blog.agnes.love/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "A"
+    },
+    {
+      "name": "Alessandro Cuzzocrea",
+      "site_url": "https://alessandrocuzzocrea.com",
+      "feed_url": "https://alessandrocuzzocrea.com/feed.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "A"
+    },
+    {
       "name": "Alex's Review Corner",
       "site_url": "https://super142.wordpress.com/",
       "feed_url": "https://super142.wordpress.com/feed/",
@@ -151,6 +183,22 @@
       "name": "An Archaeopteryx",
       "site_url": "https://anarchaeopteryx.bearblog.dev/",
       "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "A"
+    },
+    {
+      "name": "Aneesh Sathe",
+      "site_url": "https://aneeshsathe.com/",
+      "feed_url": "https://aneeshsathe.com/index.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "A"
+    },
+    {
+      "name": "Annonimax",
+      "site_url": "https://annonimax.bearblog.dev/",
+      "feed_url": "https://annonimax.bearblog.dev/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "A"
@@ -260,9 +308,25 @@
       "initial": "B"
     },
     {
+      "name": "Beto Dealmeida",
+      "site_url": "https://robida.net/",
+      "feed_url": "https://robida.net/feed.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "B"
+    },
+    {
       "name": "Beyond Tannhauser Gate",
       "site_url": "https://www.beyondtannhausergate.com/",
       "feed_url": "http://www.beyondtannhausergate.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "B"
+    },
+    {
+      "name": "Beyond the Horizon",
+      "site_url": "https://blog.spencermagnusson.com",
+      "feed_url": "https://blog.spencermagnusson.com/feed.xml",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "B"
@@ -300,6 +364,14 @@
       "initial": "B"
     },
     {
+      "name": "Blogging on Toby Geeks Out!",
+      "site_url": "https://tobygeeksout.micro.blog/categories/blogging/",
+      "feed_url": "https://tobygeeksout.micro.blog/categories/blogging/feed.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "B"
+    },
+    {
       "name": "Blogging with Dragons",
       "site_url": "https://bloggingwithdragons.com/",
       "feed_url": "https://www.bloggingwithdragons.com/feed/",
@@ -327,6 +399,14 @@
       "name": "Broken Star",
       "site_url": "https://brokenstar.blog/",
       "feed_url": "https://brokenstar.blog/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "B"
+    },
+    {
+      "name": "BurgeonLab",
+      "site_url": "https://burgeonlab.com/",
+      "feed_url": "https://burgeonlab.com/all/feed.xml",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "B"
@@ -540,6 +620,22 @@
       "initial": "D"
     },
     {
+      "name": "Divergent Rays' Blog",
+      "site_url": "https://divergentrays.com/blog/",
+      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "D"
+    },
+    {
+      "name": "Dozenial Dragons",
+      "site_url": "https://www.dozenialdragons.me.uk/blog/",
+      "feed_url": "https://granary.io/url?input=html&output=rss&url=https%3A%2F%2Fwww.dozenialdragons.me.uk%2Fblog",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "D"
+    },
+    {
       "name": "Dragonchasers",
       "site_url": "https://dragonchasers.com/",
       "feed_url": "http://dragonchasers.com/feed/",
@@ -708,6 +804,14 @@
       "initial": "G"
     },
     {
+      "name": "Glenn Greenwald",
+      "site_url": "https://greenwald.substack.com",
+      "feed_url": "https://greenwald.substack.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "G"
+    },
+    {
       "name": "Glome",
       "site_url": "https://glome.bearblog.dev/",
       "feed_url": "https://glome.bearblog.dev/feed/",
@@ -732,6 +836,14 @@
       "initial": "G"
     },
     {
+      "name": "gRegorLove.com",
+      "site_url": "https://gregorlove.com",
+      "feed_url": "http://feeds.feedburner.com/gregorlove",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "G"
+    },
+    {
       "name": "Gridranger",
       "site_url": "https://blog.gridranger.dev/",
       "feed_url": "https://gridranger.frama.io/feeds/all.atom.xml",
@@ -743,6 +855,14 @@
       "name": "Hardcore Casual",
       "site_url": "https://syncaine.com/",
       "feed_url": "http://syncaine.wordpress.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "H"
+    },
+    {
+      "name": "Heart Soul Machine",
+      "site_url": "https://heartsoulmachine.com/",
+      "feed_url": "https://heartsoulmachine.com/feed.xml",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "H"
@@ -783,6 +903,14 @@
       "name": "I Have Touched the Sky",
       "site_url": "https://ihavetouchedthesky.blogspot.com/",
       "feed_url": "http://ihavetouchedthesky.blogspot.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "I"
+    },
+    {
+      "name": "I wonder, if I draw a line…",
+      "site_url": "https://sheri42.net",
+      "feed_url": "https://sheri42.net/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "I"
@@ -919,6 +1047,14 @@
       "name": "K-Squared Ramblings",
       "site_url": "https://journal.kvibber.com/",
       "feed_url": "http://www.hyperborea.org/journal/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "K"
+    },
+    {
+      "name": "Kai Gulliksen Blog",
+      "site_url": "https://kaigulliksen.com/",
+      "feed_url": "https://kaigulliksen.com/feed.xml",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "K"
@@ -1103,6 +1239,14 @@
       "name": "Lucky Instar",
       "site_url": "https://luckyinstar.neocities.org/blog",
       "feed_url": "https://luckyinstar.neocities.org/feed.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "L"
+    },
+    {
+      "name": "Luka Prin/ce Lucija log",
+      "site_url": "https://prin.lu",
+      "feed_url": "https://prin.lu/feed.xml",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "L"
@@ -1308,6 +1452,14 @@
       "initial": "M"
     },
     {
+      "name": "Muttthecowcat",
+      "site_url": "https://muttthecowcat.neocities.org/",
+      "feed_url": "https://muttthecowcat.neocities.org/rss.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "M"
+    },
+    {
       "name": "My blog about anything and everything!",
       "site_url": "https://www.conor.zone/",
       "feed_url": "https://www.conor.zone/en/feeds/rss.xml",
@@ -1375,6 +1527,22 @@
       "name": "Neverwinter Thoughts",
       "site_url": "http://neverwinterthoughts.blogspot.com/",
       "feed_url": "http://neverwinterthoughts.blogspot.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "N"
+    },
+    {
+      "name": "Newsonaut",
+      "site_url": "https://www.newsonaut.com/",
+      "feed_url": "https://www.newsonaut.com/rss",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "N"
+    },
+    {
+      "name": "Noisy Deadlines",
+      "site_url": "https://noisydeadlines.net/",
+      "feed_url": "https://noisydeadlines.net/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "N"
@@ -1516,6 +1684,14 @@
       "initial": "P"
     },
     {
+      "name": "People and Blogs — Zachary Kai",
+      "site_url": "https://zacharykai.net/",
+      "feed_url": "https://manuelmoreale.com/feed/peopleandblogs",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "P"
+    },
+    {
       "name": "Personal InfoCloud",
       "site_url": "https://personalinfocloud.com/",
       "feed_url": "https://personalinfocloud.com/feed/",
@@ -1618,6 +1794,14 @@
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "Q"
+    },
+    {
+      "name": "rachonaut",
+      "site_url": "https://rachonaut.com/",
+      "feed_url": "https://rachonaut.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "R"
     },
     {
       "name": "Ramble With(out) A Cause",
@@ -1788,6 +1972,14 @@
       "initial": "S"
     },
     {
+      "name": "Srijan Choudhary, all posts",
+      "site_url": "https://srijan.ch/feed/all",
+      "feed_url": "https://srijan.ch/feed/all.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "S"
+    },
+    {
       "name": "StarShadow",
       "site_url": "https://starandshadow.wordpress.com/",
       "feed_url": "http://starandshadow.wordpress.com/feed/",
@@ -1868,6 +2060,14 @@
       "initial": "T"
     },
     {
+      "name": "Tantek Çelik",
+      "site_url": "https://tantek.com/",
+      "feed_url": "http://tantek.com/updates.atom",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "T"
+    },
+    {
       "name": "Tart, darling",
       "site_url": "https://www.tartdarling.com/",
       "feed_url": "https://www.tartdarling.com/feed/",
@@ -1895,6 +2095,14 @@
       "name": "Technbuzz.com",
       "site_url": "https://www.technbuzz.com/",
       "feed_url": "https://www.technbuzz.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "T"
+    },
+    {
+      "name": "TGLG",
+      "site_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "T"
@@ -2004,6 +2212,14 @@
       "initial": "T"
     },
     {
+      "name": "The Tangent Space",
+      "site_url": "https://thetangent.space/",
+      "feed_url": "https://thetangent.space/feed.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "T"
+    },
+    {
       "name": "The Video Game Obscura",
       "site_url": "https://vgobscura.neocities.org/",
       "feed_url": "https://vgobscura.neocities.org/rssfeed.xml",
@@ -2031,14 +2247,6 @@
       "name": "The Works of Egan",
       "site_url": "https://theworksofegan.net/",
       "feed_url": "https://theworksofegan.net/feed.xml",
-      "language": "Unspecified",
-      "directory_group": "alphabetical",
-      "initial": "T"
-    },
-    {
-      "name": "thetangent.space",
-      "site_url": "https://thetangent.space/",
-      "feed_url": "https://thetangent.space/feed.xml",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "T"
@@ -2095,6 +2303,14 @@
       "name": "Toby Geeks Out",
       "site_url": "https://tobygeeksout.micro.blog/",
       "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "T"
+    },
+    {
+      "name": "Tommyeveryday",
+      "site_url": "https://tommyeveryday.mataroa.blog",
+      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "T"
@@ -2252,6 +2468,14 @@
       "initial": "W"
     },
     {
+      "name": "wry writer",
+      "site_url": "https://wrywriter.ca",
+      "feed_url": "https://wrywriter.ca/posts_feed",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "W"
+    },
+    {
       "name": "WW0CJ",
       "site_url": "https://ww0cj.radio/",
       "feed_url": "https://ww0cj.radio/feed/",
@@ -2279,6 +2503,14 @@
       "name": "#デザイン 記事まとめ",
       "site_url": "https://note.com/notemagazine/m/m57787022cedc",
       "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
+      "language": "Japanese",
+      "directory_group": "other-languages",
+      "initial": "other-languages"
+    },
+    {
+      "name": "Blog - 鳥啼く頃に",
+      "site_url": "https://torinakukoroni.blog.fc2.com/",
+      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
       "language": "Japanese",
       "directory_group": "other-languages",
       "initial": "other-languages"

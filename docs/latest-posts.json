@@ -1,10 +1,98 @@
 {
-  "generated_at": "2026-08-28T02:10:39.160393Z",
-  "feed_count": 293,
-  "successful_feeds": 274,
-  "failed_feeds": 19,
+  "generated_at": "2026-08-28T10:46:26.048818Z",
+  "feed_count": 322,
+  "successful_feeds": 300,
+  "failed_feeds": 22,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "素生",
+      "blog_url": "https://z.arlmy.me/",
+      "feed_url": "http://z.arlmy.me/atom.xml",
+      "post_title": "入蜀记 day459 十年周期",
+      "post_url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_459/",
+      "published": "2026-08-28T08:01:27Z"
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com/",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Budget Deckbuilding: Planeswalker Deck “Jace, Arcane Strategist”",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/08/28/budget-deckbuilding-planeswalker-deck-jace-arcane-strategist/",
+      "published": "2026-08-28T07:00:00Z"
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "I miss the muppet man",
+      "post_url": "https://hollie.eilloh.net/posts/i-miss-the-muppet-man",
+      "published": "2026-08-28T06:54:00Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Conditional love",
+      "post_url": "https://rishidass.net/posts/conditional-love",
+      "published": "2026-08-28T06:23:00Z"
+    },
+    {
+      "blog_title": "K-Squared Ramblings",
+      "blog_url": "https://journal.kvibber.com/",
+      "feed_url": "http://www.hyperborea.org/journal/feed/",
+      "post_title": "Lunar Eclipse vs. Summer Gloom",
+      "post_url": "https://journal.kvibber.com/2026/08/eclipse-vs-gloom/",
+      "published": "2026-08-28T05:57:58Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Getting a bit desperate…",
+      "post_url": "https://cynnisblog.wordpress.com/2026/08/28/getting-a-bit-desperate/",
+      "published": "2026-08-28T05:00:00Z"
+    },
+    {
+      "blog_title": "I wonder, if I draw a line…",
+      "blog_url": "https://sheri42.net",
+      "feed_url": "https://sheri42.net/feed/",
+      "post_title": "Blaugust2026 Calm",
+      "post_url": "https://sheri42.net/2026/08/27/blaugust2026-calm/",
+      "published": "2026-08-28T04:37:30Z"
+    },
+    {
+      "blog_title": "Shadowz Abstract Gaming",
+      "blog_url": "https://sag.sadesignz.org/",
+      "feed_url": "https://sag.sadesignz.org/feed/",
+      "post_title": "Music I listen too while reading",
+      "post_url": "https://sag.sadesignz.org/music-i-listen-too-while-reading/",
+      "published": "2026-08-28T03:41:34Z"
+    },
+    {
+      "blog_title": "The Friendly Necromancer",
+      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
+      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
+      "post_title": "Poetry Slammers V4 -- A bunny and an alien enter the chat!",
+      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/08/poetry-slammers-v4-bunny-and-alien.html",
+      "published": "2026-08-28T02:50:17Z"
+    },
+    {
+      "blog_title": "Not all those who wander are lost",
+      "blog_url": "https://kavmac.com/",
+      "feed_url": "https://kavmac.com/feed/",
+      "post_title": "The End is Near",
+      "post_url": "https://kavmac.com/the-end-is-near/",
+      "published": "2026-08-28T02:42:51Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "It Is, And Always Will Be, Lake Ontario",
+      "post_url": "https://apnews.com/article/lake-ontario-canada-america-trump-trade-war-3ac58dca0ca83c15605d4dbff146b28a",
+      "published": "2026-08-28T02:23:07Z"
+    },
     {
       "blog_title": "Words Under My Name",
       "blog_url": "https://wordsundermyname.wordpress.com/",
@@ -54,12 +142,20 @@
       "published": "2026-08-28T00:51:24Z"
     },
     {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Peter Cullen, Voice of My Saturday Mornings, Dies at 85",
-      "post_url": "https://www.nytimes.com/2026/08/27/arts/peter-cullen-dead.html?unlocked_article_code=1.8lA.6Wt3.ySQTeEHlqr1E",
-      "published": "2026-08-28T00:10:36Z"
+      "blog_title": "82MHz",
+      "blog_url": "http://82mhz.net/posts/",
+      "feed_url": "http://82mhz.net/index.xml",
+      "post_title": "Linkdump No 122",
+      "post_url": "http://82mhz.net/posts/2026/08/linkdump-no-122/",
+      "published": "2026-08-28T00:00:00Z"
+    },
+    {
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "Y is for YAGNI - Python A to Z",
+      "post_url": "https://hamatti.org/posts/y-is-for-yagni-python-a-to-z/",
+      "published": "2026-08-28T00:00:00Z"
     },
     {
       "blog_title": "コーポ雪原",
@@ -68,102 +164,6 @@
       "post_title": "Blaugust Day17：衣服",
       "post_url": "https://coop-setsugen.com/essay/2026/08/28/",
       "published": "2026-08-28T00:00:00Z"
-    },
-    {
-      "blog_title": "伏枥之间",
-      "blog_url": "https://leehenry.top/",
-      "feed_url": "https://leehenry.top/rss.xml",
-      "post_title": "漫想与杂谈 Iss.07 · 处暑：夏日终曲",
-      "post_url": "https://leehenry.top/posts/words_in_wildness/ww-vol09/",
-      "published": "2026-08-28T00:00:00Z"
-    },
-    {
-      "blog_title": "Coffee spills",
-      "blog_url": "https://tallywinkle.bearblog.dev/",
-      "feed_url": "https://tallywinkle.bearblog.dev/feed/",
-      "post_title": "is it really \"rain city?\"",
-      "post_url": "https://tallywinkle.bearblog.dev/is-it-really-rain-city/",
-      "published": "2026-08-27T23:33:45Z"
-    },
-    {
-      "blog_title": "Notes by JCProbably",
-      "blog_url": "https://notes.jeddacp.com/",
-      "feed_url": "https://notes.jeddacp.com/feed/",
-      "post_title": "A Year Since the Layoff",
-      "post_url": "https://notes.jeddacp.com/a-year-since-the-layoff/",
-      "published": "2026-08-27T23:14:00Z"
-    },
-    {
-      "blog_title": "Lameazoid",
-      "blog_url": "https://lameazoid.com/",
-      "feed_url": "https://lameazoid.com/feed/",
-      "post_title": "Mini Brands – Mystery Vinyl Records",
-      "post_url": "https://lameazoid.com/mini-brands-mystery-vinyl-records/",
-      "published": "2026-08-27T23:00:00Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "朝がつらい",
-      "post_url": "https://elve.club/entry/2026/08/28/075011",
-      "published": "2026-08-27T22:50:11Z"
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "Zeef Returning",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2190",
-      "published": "2026-08-27T21:43:50Z"
-    },
-    {
-      "blog_title": "Point, Click, Repeat",
-      "blog_url": "https://welshtroll.co.uk/",
-      "feed_url": "http://welshtroll.co.uk/feed/",
-      "post_title": "Week Sauce - The Chillest of Game Jams",
-      "post_url": "https://welshtroll.co.uk/post/2026-week-sauce-the-chillest-of-game-jams.html",
-      "published": "2026-08-27T21:34:30Z"
-    },
-    {
-      "blog_title": "Nerdy Bookahs",
-      "blog_url": "https://nerdybookahs.wordpress.com/",
-      "feed_url": "http://nerdybookahs.wordpress.com/feed/",
-      "post_title": "My Thoughts on the Lego Skylines Announcement",
-      "post_url": "https://nerdybookahs.wordpress.com/2026/08/27/my-thoughts-on-the-lego-skylines-announcement/",
-      "published": "2026-08-27T20:33:44Z"
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "Going back into Rimworld nude while gearing up my LOTRO Minstrel with a carry-all",
-      "post_url": "https://biobreak.wordpress.com/2026/08/27/going-back-into-rimworld-nude-while-gearing-up-my-lotro-minstrel-with-a-carry-all/",
-      "published": "2026-08-27T20:22:36Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "M-am uitat la trailer-ul GTA VI de pe Netflix și îmi place ce am văzut…",
-      "post_url": "https://thinkroot.xyz/nota-585",
-      "published": "2026-08-27T20:06:20Z"
-    },
-    {
-      "blog_title": "Christopher Himes",
-      "blog_url": "http://christopherhimes.com/",
-      "feed_url": "https://christopherhimes.com/feed.xml",
-      "post_title": "Agreed",
-      "post_url": "http://christopherhimes.com/blog/2026/08/27/agreed.html",
-      "published": "2026-08-27T19:39:40Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "New book topics to argue about",
-      "post_url": "https://francescrossley.com/new-book-topics-to-argue-about/",
-      "published": "2026-08-27T18:00:00Z"
     }
   ]
 }
