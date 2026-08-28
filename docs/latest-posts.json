@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-08-28T11:10:30.247809Z",
+  "generated_at": "2026-08-28T14:13:09.536813Z",
   "feed_count": 321,
-  "successful_feeds": 300,
-  "failed_feeds": 21,
+  "successful_feeds": 294,
+  "failed_feeds": 27,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 35 Digest",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-08-28-week-35-digest/",
+      "published": "2026-08-28T14:00:00Z"
+    },
+    {
+      "blog_title": "Lucky Instar",
+      "blog_url": "https://luckyinstar.neocities.org/blog",
+      "feed_url": "https://luckyinstar.neocities.org/feed.xml",
+      "post_title": "clam shrimp exist in your area",
+      "post_url": "https://luckyinstar.neocities.org/blog/clamshrimp",
+      "published": "2026-08-28T13:37:55Z"
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Am I part of the Indieweb?",
+      "post_url": "https://www.kgadams.net/geekdom/am-i-part-of-the-indieweb",
+      "published": "2026-08-28T13:30:00Z"
+    },
+    {
+      "blog_title": "Blog - 鳥啼く頃に",
+      "blog_url": "https://torinakukoroni.blog.fc2.com/",
+      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
+      "post_title": "映画『劇場版魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』を観たよ",
+      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-387.html",
+      "published": "2026-08-28T13:12:38Z"
+    },
+    {
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "Star Wars: Zero Company Impressions",
+      "post_url": "https://scopique.com/2026/08/28/star-wars-zero-company-impressions/",
+      "published": "2026-08-28T12:45:58Z"
+    },
+    {
+      "blog_title": "Sylvia's Studio",
+      "blog_url": "https://sylvia.studio/",
+      "feed_url": "https://sylvia.studio/feed.xml",
+      "post_title": "Not everything needs to be in the cloud",
+      "post_url": "https://sylvia.studio/posts/not-everything-needs-to-be-in-the-cloud",
+      "published": "2026-08-28T12:32:58Z"
+    },
+    {
+      "blog_title": "Endgame Viable",
+      "blog_url": "https://endgameviable.com/",
+      "feed_url": "http://endgameviable.com/feed/",
+      "post_title": "Pros and Cons of AI Technical Writing",
+      "post_url": "https://endgameviable.com/post/2026/08/pros-and-cons-of-ai-technical-writing/",
+      "published": "2026-08-28T12:21:49Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "The best shows and movies of 2026 according to Mike and Rachelle, so far",
+      "post_url": "https://michaelharley.net/posts/2026/08/28/the-best-shows-and-movies-of-2026-according-to-mike-and-rachelle-so-far/",
+      "published": "2026-08-28T11:55:00Z"
+    },
+    {
+      "blog_title": "Beto Dealmeida",
+      "blog_url": "https://robida.net/",
+      "feed_url": "https://robida.net/feed.xml",
+      "post_title": "Portuguese is not a good language for Wordle",
+      "post_url": "https://robida.net/entries/2026/08/28/portuguese-is-not-a-good-language-for-wordle",
+      "published": "2026-08-28T11:23:49Z"
+    },
     {
       "blog_title": "NomadWarMachine",
       "blog_url": "https://nomadwarmachine.co.uk/",
@@ -12,6 +84,14 @@
       "post_title": "Border Force",
       "post_url": "https://nomadwarmachine.co.uk/2026/08/28/border-force/",
       "published": "2026-08-28T10:48:41Z"
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Grand Theft Certainty",
+      "post_url": "http://tobolds.blogspot.com/2026/08/grand-theft-certainty.html",
+      "published": "2026-08-28T10:38:44Z"
     },
     {
       "blog_title": "素生",
@@ -84,86 +164,6 @@
       "post_title": "Poetry Slammers V4 -- A bunny and an alien enter the chat!",
       "post_url": "http://thefriendlynecromancer.blogspot.com/2026/08/poetry-slammers-v4-bunny-and-alien.html",
       "published": "2026-08-28T02:50:17Z"
-    },
-    {
-      "blog_title": "Not all those who wander are lost",
-      "blog_url": "https://kavmac.com/",
-      "feed_url": "https://kavmac.com/feed/",
-      "post_title": "The End is Near",
-      "post_url": "https://kavmac.com/the-end-is-near/",
-      "published": "2026-08-28T02:42:51Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "It Is, And Always Will Be, Lake Ontario",
-      "post_url": "https://apnews.com/article/lake-ontario-canada-america-trump-trade-war-3ac58dca0ca83c15605d4dbff146b28a",
-      "published": "2026-08-28T02:23:07Z"
-    },
-    {
-      "blog_title": "Words Under My Name",
-      "blog_url": "https://wordsundermyname.wordpress.com/",
-      "feed_url": "https://wordsundermyname.wordpress.com/feed/",
-      "post_title": "#Blaugust2026 Day 27 – Death Ride",
-      "post_url": "https://wordsundermyname.wordpress.com/2026/08/27/blaugust2026-day-27-death-ride/",
-      "published": "2026-08-28T02:02:48Z"
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "Notice: Bandwidth Exceeded",
-      "post_url": "https://brennan.day/notice-bandwidth-exceeded/",
-      "published": "2026-08-28T02:00:00Z"
-    },
-    {
-      "blog_title": "SweaterPockets",
-      "blog_url": "https://sweaterpockets.bearblog.dev/",
-      "feed_url": "https://sweaterpockets.bearblog.dev/feed/",
-      "post_title": "Is This Writer’s Block?",
-      "post_url": "https://sweaterpockets.bearblog.dev/is-this-writers-block/",
-      "published": "2026-08-28T01:53:00Z"
-    },
-    {
-      "blog_title": "Nullish",
-      "blog_url": "https://nullish.smol.pub/",
-      "feed_url": "https://nullish.smol.pub/atom.xml",
-      "post_title": "Bob",
-      "post_url": "https://nullish.smol.pub/bob",
-      "published": "2026-08-28T01:45:23Z"
-    },
-    {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "squishy",
-      "post_url": "https://nosrednayduj.dreamwidth.org/184418.html",
-      "published": "2026-08-28T01:23:14Z"
-    },
-    {
-      "blog_title": "Gamers Esoteric",
-      "blog_url": "https://www.gamersesoteric.com/",
-      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
-      "post_title": "Prompt #27 for #RPGaDay2026",
-      "post_url": "https://www.gamersesoteric.com/2026/08/prompt-27-for-rpgaday2026.html",
-      "published": "2026-08-28T00:51:24Z"
-    },
-    {
-      "blog_title": "82MHz",
-      "blog_url": "http://82mhz.net/posts/",
-      "feed_url": "http://82mhz.net/index.xml",
-      "post_title": "Linkdump No 122",
-      "post_url": "http://82mhz.net/posts/2026/08/linkdump-no-122/",
-      "published": "2026-08-28T00:00:00Z"
-    },
-    {
-      "blog_title": "Juha-Matti Santala",
-      "blog_url": "https://hamatti.org/",
-      "feed_url": "https://hamatti.org/feed/feed.xml",
-      "post_title": "Y is for YAGNI - Python A to Z",
-      "post_url": "https://hamatti.org/posts/y-is-for-yagni-python-a-to-z/",
-      "published": "2026-08-28T00:00:00Z"
     }
   ]
 }

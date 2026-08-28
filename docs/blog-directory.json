@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T11:10:30.247809Z",
+  "generated_at": "2026-08-28T14:13:09.536813Z",
   "blog_count": 321,
   "other_language_count": 9,
   "blogs": [
@@ -132,7 +132,7 @@
       "initial": "A"
     },
     {
-      "name": "Agnes the alien's blog;",
+      "name": "Agnes the Alien's Blog",
       "site_url": "https://blog.agnes.love/",
       "feed_url": "https://blog.agnes.love/feed/",
       "language": "Unspecified",
@@ -1420,7 +1420,7 @@
       "initial": "M"
     },
     {
-      "name": "mormoroi",
+      "name": "Mormoroi",
       "site_url": "https://mormoroi.com/",
       "feed_url": "https://journal.miso.town/atom?url=https://mormoroi.com/_parts/rss.html",
       "language": "Unspecified",
@@ -2468,7 +2468,7 @@
       "initial": "W"
     },
     {
-      "name": "wry writer",
+      "name": "Wry Writer",
       "site_url": "https://wrywriter.ca",
       "feed_url": "https://wrywriter.ca/posts_feed",
       "language": "Unspecified",
