@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28T10:57:39.988123Z",
+  "generated_at": "2026-08-28T11:10:30.247809Z",
   "feed_count": 321,
-  "successful_feeds": 293,
-  "failed_feeds": 28,
+  "successful_feeds": 300,
+  "failed_feeds": 21,
   "post_count": 20,
   "posts": [
     {
@@ -46,9 +46,9 @@
       "published": "2026-08-28T06:23:00Z"
     },
     {
-      "blog_title": "K-Squared Ramblings",
-      "blog_url": "https://journal.kvibber.com/",
-      "feed_url": "http://www.hyperborea.org/journal/feed/",
+      "blog_title": "Kelson Vibber: New Posts",
+      "blog_url": "https://kvibber.com/",
+      "feed_url": "https://kvibber.com/feed.xml",
       "post_title": "Lunar Eclipse vs. Summer Gloom",
       "post_url": "https://journal.kvibber.com/2026/08/eclipse-vs-gloom/",
       "published": "2026-08-28T05:57:58Z"
