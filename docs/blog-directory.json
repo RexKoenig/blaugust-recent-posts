@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T10:46:26.048818Z",
-  "blog_count": 322,
-  "other_language_count": 10,
+  "generated_at": "2026-08-28T10:57:39.988123Z",
+  "blog_count": 321,
+  "other_language_count": 9,
   "blogs": [
     {
       "name": "20ily April",
@@ -644,7 +644,7 @@
       "initial": "D"
     },
     {
-      "name": "Emma Juettner - Posts",
+      "name": "Emma Juettner",
       "site_url": "https://emmajuettner.com/",
       "feed_url": "https://emmajuettner.com/feed/rss.xml",
       "language": "Unspecified",
@@ -1796,7 +1796,7 @@
       "initial": "Q"
     },
     {
-      "name": "rachonaut",
+      "name": "Rachonaut",
       "site_url": "https://rachonaut.com/",
       "feed_url": "https://rachonaut.com/feed/",
       "language": "Unspecified",
@@ -1972,7 +1972,7 @@
       "initial": "S"
     },
     {
-      "name": "Srijan Choudhary, all posts",
+      "name": "Srijan Choudhary",
       "site_url": "https://srijan.ch/feed/all",
       "feed_url": "https://srijan.ch/feed/all.xml",
       "language": "Unspecified",
@@ -2512,14 +2512,6 @@
       "site_url": "https://torinakukoroni.blog.fc2.com/",
       "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
       "language": "Japanese",
-      "directory_group": "other-languages",
-      "initial": "other-languages"
-    },
-    {
-      "name": "إذاعة يوزرسيف المصرية",
-      "site_url": "https://youtherthyf-madehouse.neocities.org/",
-      "feed_url": "http://youtherthyf.online/./newrss.xml",
-      "language": "Arabic",
       "directory_group": "other-languages",
       "initial": "other-languages"
     },

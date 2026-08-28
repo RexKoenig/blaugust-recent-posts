@@ -1,10 +1,18 @@
 {
-  "generated_at": "2026-08-28T10:46:26.048818Z",
-  "feed_count": 322,
-  "successful_feeds": 300,
-  "failed_feeds": 22,
+  "generated_at": "2026-08-28T10:57:39.988123Z",
+  "feed_count": 321,
+  "successful_feeds": 293,
+  "failed_feeds": 28,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Border Force",
+      "post_url": "https://nomadwarmachine.co.uk/2026/08/28/border-force/",
+      "published": "2026-08-28T10:48:41Z"
+    },
     {
       "blog_title": "素生",
       "blog_url": "https://z.arlmy.me/",
@@ -155,14 +163,6 @@
       "feed_url": "https://hamatti.org/feed/feed.xml",
       "post_title": "Y is for YAGNI - Python A to Z",
       "post_url": "https://hamatti.org/posts/y-is-for-yagni-python-a-to-z/",
-      "published": "2026-08-28T00:00:00Z"
-    },
-    {
-      "blog_title": "コーポ雪原",
-      "blog_url": "https://coop-setsugen.com/",
-      "feed_url": "https://coop-setsugen.com/feed.xml",
-      "post_title": "Blaugust Day17：衣服",
-      "post_url": "https://coop-setsugen.com/essay/2026/08/28/",
       "published": "2026-08-28T00:00:00Z"
     }
   ]
