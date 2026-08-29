@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-08-29T12:40:52.035115Z",
+  "generated_at": "2026-08-29T20:54:55.243444Z",
   "feed_count": 321,
-  "successful_feeds": 300,
-  "failed_feeds": 21,
+  "successful_feeds": 296,
+  "failed_feeds": 25,
   "post_count": 20,
   "posts": [
     {
-      "blog_title": "A parenthetical departure",
-      "blog_url": "https://departure.blog/",
-      "feed_url": "https://sylvia.bearblog.dev/feed/",
-      "post_title": "Just a few words",
-      "post_url": "https://departure.blog/just-a-few-words/",
-      "published": "2026-08-29T12:23:19Z"
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "[New book added to my reading list 🤓]",
+      "post_url": "https://jasonjournals.com/posts/2026-08-29-new-book-added-to",
+      "published": "2026-08-29T20:47:00Z"
     },
     {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "2026 VIRTUAL POTLUCK: EGG & TOMATO NOODLES",
-      "post_url": "https://pretendtypewriter.net/2026-virtual-potluck-egg-tomato-noodles/",
-      "published": "2026-08-29T12:10:00Z"
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "OpenAI Ends Cursor Contract Following Acquisition by SpaceX",
+      "post_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "published": "2026-08-29T20:20:29Z"
     },
     {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Something Of The Night",
-      "post_url": "https://bhagpuss.blogspot.com/2026/08/something-of-night.html",
-      "published": "2026-08-29T10:45:54Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Centred Pentagonal Number Art",
-      "post_url": "https://nomadwarmachine.co.uk/2026/08/29/centred-pentagonal-number-art/",
-      "published": "2026-08-29T10:21:28Z"
-    },
-    {
-      "blog_title": "Yordi - A Lifelong Journey of Growth",
-      "blog_url": "https://yordi.me/",
-      "feed_url": "https://yordi.me/feed/",
-      "post_title": "Where Darkness Meets the Light",
-      "post_url": "https://yordi.me/where-darkness-meets-the-light/",
-      "published": "2026-08-29T08:51:00Z"
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Aurelio",
-      "post_url": "http://tobolds.blogspot.com/2026/08/aurelio.html",
-      "published": "2026-08-29T08:12:44Z"
+      "blog_title": "The Works of Egan",
+      "blog_url": "https://theworksofegan.net/",
+      "feed_url": "https://theworksofegan.net/feed.xml",
+      "post_title": "What Else Is On? August 29th, 2026",
+      "post_url": "https://theworksofegan.net/posts/2026-08-29-what-else-is-on-august-29th-2026/",
+      "published": "2026-08-29T20:17:00Z"
     },
     {
       "blog_title": "ThinkRoot",
       "blog_url": "https://thinkroot.xyz/",
       "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Mă pregătesc pentru altă provocare",
-      "post_url": "https://thinkroot.xyz/ma-pregatesc-pentru-alta-provocare-588",
-      "published": "2026-08-29T07:28:02Z"
+      "post_title": "Lumea Linux iar s-a împărțit în două o dată cu lansarea distribuției O…",
+      "post_url": "https://thinkroot.xyz/nota-589",
+      "published": "2026-08-29T18:40:15Z"
     },
     {
-      "blog_title": "Cubic Creativity",
-      "blog_url": "https://cubiccreativity.wordpress.com/",
-      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
-      "post_title": "Budget Deckbuilding: Planeswalker Deck “Oko, the Trickster”",
-      "post_url": "https://cubiccreativity.wordpress.com/2026/08/29/budget-deckbuilding-planeswalker-deck-oko-the-trickster/",
-      "published": "2026-08-29T07:00:00Z"
+      "blog_title": "ComradeNerdy",
+      "blog_url": "https://comradenerdy.com/",
+      "feed_url": "https://comradenerdy.com/feed/",
+      "post_title": "Heroes of Might and Magic III Remake Opinion After Playing Early Creator Preview",
+      "post_url": "https://comradenerdy.com/heroes-of-might-and-magic-iii-remake-opinion-after-playing-early-creator-preview/",
+      "published": "2026-08-29T18:33:45Z"
     },
     {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Relationship economics",
-      "post_url": "https://rishidass.net/posts/relationship-economics",
-      "published": "2026-08-29T06:33:08Z"
+      "blog_title": "Wry Writer",
+      "blog_url": "https://wrywriter.ca",
+      "feed_url": "https://wrywriter.ca/posts_feed",
+      "post_title": "BIG Things I Like",
+      "post_url": "https://wrywriter.ca/posts/big-things-i-like",
+      "published": "2026-08-29T18:04:38Z"
     },
     {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Misc. Friday stuff",
-      "post_url": "https://hollie.eilloh.net/posts/misc-friday-stuff",
-      "published": "2026-08-29T06:11:00Z"
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Zero purpose",
+      "post_url": "https://francescrossley.com/zero-purpose/",
+      "published": "2026-08-29T18:00:00Z"
     },
     {
-      "blog_title": "JVT Workshop",
-      "blog_url": "http://josephskyrim.blogspot.com/",
-      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
-      "post_title": "The Odyssey (2026)",
-      "post_url": "http://josephskyrim.blogspot.com/2026/08/the-odyssey-2026.html",
-      "published": "2026-08-29T05:26:07Z"
+      "blog_title": "MMO Casual",
+      "blog_url": "http://wowaltaddiction.blogspot.com/",
+      "feed_url": "http://wowaltaddiction.blogspot.com/feeds/posts/default",
+      "post_title": "What The Blog Gave Me",
+      "post_url": "http://wowaltaddiction.blogspot.com/2026/08/what-blog-gave-me.html",
+      "published": "2026-08-29T17:13:32Z"
     },
     {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "It’s getting harder…",
-      "post_url": "https://cynnisblog.wordpress.com/2026/08/29/its-getting-harder/",
-      "published": "2026-08-29T05:00:00Z"
+      "blog_title": "Alex's Review Corner",
+      "blog_url": "https://super142.wordpress.com/",
+      "feed_url": "https://super142.wordpress.com/feed/",
+      "post_title": "X-Men: First Class (2011) Review",
+      "post_url": "https://super142.wordpress.com/2026/08/29/x-men-first-class-2011-review/",
+      "published": "2026-08-29T17:00:00Z"
     },
     {
-      "blog_title": "Karthik Kamalakannan & the Internet",
-      "blog_url": "https://imkarthikk.com/",
-      "feed_url": "https://imkarthikk.com/feed.xml",
-      "post_title": "I thought I was a light phone user. The iPhone Air disagreed.",
-      "post_url": "https://imkarthikk.com/blog/iphone-air-light-user",
-      "published": "2026-08-29T04:50:00Z"
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Word Nerd Alert: Ineluctable",
+      "post_url": "https://tobygeeksout.micro.blog/2026/08/29/word-nerd-alert-ineluctable.html",
+      "published": "2026-08-29T16:26:28Z"
     },
     {
-      "blog_title": "Not all those who wander are lost",
-      "blog_url": "https://kavmac.com/",
-      "feed_url": "https://kavmac.com/feed/",
-      "post_title": "Parallel Tracks Before Midnight",
-      "post_url": "https://kavmac.com/parallel-tracks-before-midnight/",
-      "published": "2026-08-29T03:45:01Z"
+      "blog_title": "Aeish's Blog Feed :3",
+      "blog_url": "https://aeish-world.neocities.org/blog_front",
+      "feed_url": "https://aeish-world.neocities.org/feed.txt",
+      "post_title": "Blogust #18",
+      "post_url": "https://aeish-world.neocities.org/blog_pages/blogust-18",
+      "published": "2026-08-29T15:41:00Z"
     },
     {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Eyeball Ring",
-      "post_url": "https://divergentrays.com/blog/posts/2026-08-28-Eyeball-Ring.html",
-      "published": "2026-08-29T03:28:00Z"
+      "blog_title": "Dragonchasers",
+      "blog_url": "https://dragonchasers.com/",
+      "feed_url": "http://dragonchasers.com/feed/",
+      "post_title": "Knowing when to quit",
+      "post_url": "https://dragonchasers.com/2026/08/29/knowing-when-to-quit/",
+      "published": "2026-08-29T15:13:08Z"
     },
     {
-      "blog_title": "Notes by JCProbably",
-      "blog_url": "https://notes.jeddacp.com/",
-      "feed_url": "https://notes.jeddacp.com/feed/",
-      "post_title": "Ice Cream in Oakland",
-      "post_url": "https://notes.jeddacp.com/ice-cream-in-oakland/",
-      "published": "2026-08-29T03:18:33Z"
+      "blog_title": "Lost Letters",
+      "blog_url": "https://lostletters.neocities.org/",
+      "feed_url": "https://lostletters.neocities.org/feed.xml",
+      "post_title": "Hobonichi 2027 No Buy",
+      "post_url": "https://lostletters.neocities.org/2026/08/29/hobonichi-2027.html",
+      "published": "2026-08-29T14:59:00Z"
     },
     {
-      "blog_title": "Nullish",
-      "blog_url": "https://nullish.smol.pub/",
-      "feed_url": "https://nullish.smol.pub/atom.xml",
-      "post_title": "Answering song title questions 2",
-      "post_url": "https://nullish.smol.pub/answering-song-title-questions-2",
-      "published": "2026-08-29T03:12:10Z"
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "EverQuest Legends: A Moment of Clarity",
+      "post_url": "https://chasingdings.com/2026/08/29/everquest-legends-a-moment-of-clarity/",
+      "published": "2026-08-29T14:50:06Z"
     },
     {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Gris: a visually stunning platforming journey",
-      "post_url": "https://joelchrono.xyz/blog/gris/",
-      "published": "2026-08-29T02:20:00Z"
+      "blog_title": "Paseo Baggage",
+      "blog_url": "https://paseobaggage.bearblog.dev/",
+      "feed_url": "https://paseobaggage.bearblog.dev/feed/",
+      "post_title": "Tradition - #29 Blaugust 2026",
+      "post_url": "https://paseobaggage.bearblog.dev/tradition-29-blaugust-2026/",
+      "published": "2026-08-29T14:45:00Z"
     },
     {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "Creating an Open-source Blogging Studies Syllabus",
-      "post_url": "https://brennan.day/creating-an-open-source-blogging-studies-syllabus/",
-      "published": "2026-08-29T02:00:00Z"
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "#ブローガスト",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1259",
+      "published": "2026-08-29T14:20:10Z"
     },
     {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "Death of the Pastor's Wife (2026) — ★★½☆☆",
-      "post_url": "https://michaelharley.net/watching/2026/08/28/death-of-the-pastors-wife-s1/",
-      "published": "2026-08-29T01:56:00Z"
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Honest Game Trailers does Steam and Steam Accessories",
+      "post_url": "https://tagn.wordpress.com/2026/08/29/honest-game-trailers-does-steam-and-steam-accessories/",
+      "published": "2026-08-29T14:15:52Z"
+    },
+    {
+      "blog_title": "Shadowz Abstract Gaming",
+      "blog_url": "https://sag.sadesignz.org/",
+      "feed_url": "https://sag.sadesignz.org/feed/",
+      "post_title": "A set of Apps that I’m enjoying….",
+      "post_url": "https://sag.sadesignz.org/a-set-of-apps-that-im-enjoying/",
+      "published": "2026-08-29T14:00:37Z"
+    },
+    {
+      "blog_title": "Endgame Viable",
+      "blog_url": "https://endgameviable.com/",
+      "feed_url": "http://endgameviable.com/feed/",
+      "post_title": "Two Content Discoveries",
+      "post_url": "https://endgameviable.com/post/2026/08/two-content-discoveries/",
+      "published": "2026-08-29T13:54:11Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - late lunch",
+      "post_url": "https://pretendtypewriter.net/note-late-lunch/",
+      "published": "2026-08-29T13:53:00Z"
     }
   ]
 }
