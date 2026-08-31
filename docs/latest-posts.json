@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-08-30T21:04:56.224634Z",
+  "generated_at": "2026-08-31T13:48:25.478716Z",
   "feed_count": 321,
   "successful_feeds": 300,
   "failed_feeds": 21,
   "post_count": 20,
   "posts": [
     {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "SAD MACHINE",
-      "post_url": "https://brennan.day/sad-machine/",
-      "published": "2026-08-31T02:00:00Z"
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Get Thee Behind Me, Blaugust!",
+      "post_url": "https://bhagpuss.blogspot.com/2026/08/get-thee-behind-me-blaugust.html",
+      "published": "2026-08-31T13:36:49Z"
     },
     {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "超かわいい～（買ったもの自慢）",
-      "post_url": "https://elve.club/entry/2026/08/31/060455",
-      "published": "2026-08-30T21:04:55Z"
-    },
-    {
-      "blog_title": "ComradeNerdy",
-      "blog_url": "https://comradenerdy.com/",
-      "feed_url": "https://comradenerdy.com/feed/",
-      "post_title": "Recap of the Week Four of Blaugust 2026",
-      "post_url": "https://comradenerdy.com/recap-of-the-week-four-of-blaugust-2026/",
-      "published": "2026-08-30T21:04:25Z"
-    },
-    {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "Action #23",
-      "post_url": "https://nosrednayduj.dreamwidth.org/184944.html",
-      "published": "2026-08-30T20:07:37Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "WOCHE 35",
-      "post_url": "https://pretendtypewriter.net/2026-week-35/",
-      "published": "2026-08-30T19:17:40Z"
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "August as a Reading Measurement",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2193",
-      "published": "2026-08-30T19:09:36Z"
-    },
-    {
-      "blog_title": "Coffee spills",
-      "blog_url": "https://tallywinkle.bearblog.dev/",
-      "feed_url": "https://tallywinkle.bearblog.dev/feed/",
-      "post_title": "my tarot decks",
-      "post_url": "https://tallywinkle.bearblog.dev/my-tarot-decks/",
-      "published": "2026-08-30T18:48:52Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Twenty Years a Capsuleer",
-      "post_url": "https://tagn.wordpress.com/2026/08/30/twenty-years-a-capsuleer/",
-      "published": "2026-08-30T18:15:23Z"
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Blaugust 2026 results",
+      "post_url": "https://www.kgadams.net/sitenews/blaugust-2026-results",
+      "published": "2026-08-31T13:30:00Z"
     },
     {
       "blog_title": "Syl's Blog",
       "blog_url": "https://syls.blog/",
       "feed_url": "https://syls.blog/feed/",
-      "post_title": "August 2026 Books",
-      "post_url": "https://syls.blog/august-2026-books/",
-      "published": "2026-08-30T18:15:00Z"
+      "post_title": "Photolog #7",
+      "post_url": "https://syls.blog/photolog-7/",
+      "published": "2026-08-31T13:22:00Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "MONDAY CLEANING: KITCHEN, LIVING ROOM",
+      "post_url": "https://pretendtypewriter.net/monday-cleaning-kitchen-living-room/",
+      "published": "2026-08-31T13:19:00Z"
+    },
+    {
+      "blog_title": "WCRobinson",
+      "blog_url": "https://wcrobinson.org/",
+      "feed_url": "https://wcrobinson.org/feed/",
+      "post_title": "Blaugust 2026 (Week #5): Hitting My Limit",
+      "post_url": "https://wcrobinson.org/2026/08/31/blaugust-2026-week-5-hitting-my-limit/",
+      "published": "2026-08-31T13:08:12Z"
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "When LOTRO adds colors to its crayon box",
+      "post_url": "https://biobreak.wordpress.com/2026/08/31/when-lotro-adds-colors-to-its-crayon-box/",
+      "published": "2026-08-31T13:00:23Z"
+    },
+    {
+      "blog_title": "The Sun and The Air",
+      "blog_url": "https://criminallyvulgar.dev/",
+      "feed_url": "https://criminallyvulgar.dev/feed/",
+      "post_title": "The Gameplay Loop - Zero Company",
+      "post_url": "https://criminallyvulgar.dev/the-gameplay-loop-zero-company/",
+      "published": "2026-08-31T12:52:19Z"
+    },
+    {
+      "blog_title": "In An Age",
+      "blog_url": "https://inanage.com/",
+      "feed_url": "http://inanage.com/feed/",
+      "post_title": "Vacation Over",
+      "post_url": "https://inanage.com/2026/08/31/vacation-over/",
+      "published": "2026-08-31T12:44:07Z"
+    },
+    {
+      "blog_title": "Aywren's Nook",
+      "blog_url": "https://www.aywren.com/",
+      "feed_url": "https://aywren.com/feed.xml",
+      "post_title": "A Farewell to Blaugust 2026",
+      "post_url": "https://aywren.com/2026/08/31/a-farewell-to-blaugust-2026",
+      "published": "2026-08-31T12:37:20Z"
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "#ブローガスト",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1261",
+      "published": "2026-08-31T12:34:41Z"
     },
     {
       "blog_title": "Chasing Dings!",
       "blog_url": "https://chasingdings.com/",
       "feed_url": "https://chasingdings.com/?feed=rss2",
-      "post_title": "I am not sure about Wildmagic Frontier",
-      "post_url": "https://chasingdings.com/2026/08/30/i-am-not-sure-about-wildmagic-frontier/",
-      "published": "2026-08-30T17:47:09Z"
+      "post_title": "EverQuest Legends: The True Endgame",
+      "post_url": "https://chasingdings.com/2026/08/31/everquest-legends-the-true-endgame/",
+      "published": "2026-08-31T12:30:36Z"
     },
     {
-      "blog_title": "Noisy Deadlines",
-      "blog_url": "https://noisydeadlines.net/",
-      "feed_url": "https://noisydeadlines.net/feed/",
-      "post_title": "Iron Maiden: Run for your Lives 2026",
-      "post_url": "https://noisydeadlines.net/iron-maiden-run-for-your-lives-2026?pk_campaign=rss-feed",
-      "published": "2026-08-30T17:44:05Z"
+      "blog_title": "BurgeonLab",
+      "blog_url": "https://burgeonlab.com/",
+      "feed_url": "https://burgeonlab.com/all/feed.xml",
+      "post_title": "Blaugust 2026 Recap: Summary From a First Time Participant",
+      "post_url": "https://burgeonlab.com/blog/blaugust-2026-recap/",
+      "published": "2026-08-31T12:29:02Z"
     },
     {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Hommage à Zanzibar – Gibraltar Drakus",
-      "post_url": "https://amf.didiermary.fr/hommage-a-zanzibar-gibraltar-drakus/",
-      "published": "2026-08-30T17:20:25Z"
+      "blog_title": "SweaterPockets",
+      "blog_url": "https://sweaterpockets.bearblog.dev/",
+      "feed_url": "https://sweaterpockets.bearblog.dev/feed/",
+      "post_title": "Blaugust On Bear (An Honest Summary)",
+      "post_url": "https://sweaterpockets.bearblog.dev/blaugust-on-bear-an-honest-summary/",
+      "published": "2026-08-31T12:25:00Z"
     },
     {
-      "blog_title": "Alex's Review Corner",
-      "blog_url": "https://super142.wordpress.com/",
-      "feed_url": "https://super142.wordpress.com/feed/",
-      "post_title": "The Wolverine (2013) Review",
-      "post_url": "https://super142.wordpress.com/2026/08/30/the-wolverine-2013-review/",
-      "published": "2026-08-30T17:00:00Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Blaugust debriefing",
-      "post_url": "https://francescrossley.com/blaugust-debriefing/",
-      "published": "2026-08-30T17:00:00Z"
-    },
-    {
-      "blog_title": "Leekscosycorner",
-      "blog_url": "https://leekscosycorner.com/",
-      "feed_url": "https://leekscosycorner.com/feed/",
-      "post_title": "Discover Aniimo: Your Next-Gen Creature-Catching Game",
-      "post_url": "https://leekscosycorner.com/2026/08/30/aniimo-sept-release/",
-      "published": "2026-08-30T16:59:24Z"
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "Otxo and Many Nights a Whisper",
+      "post_url": "http://josephskyrim.blogspot.com/2026/08/otxo-and-many-nights-whisper.html",
+      "published": "2026-08-31T12:05:13Z"
     },
     {
       "blog_title": "Michael Harley",
       "blog_url": "https://michaelharley.net",
       "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "Bad Education (2019) — ⭐⭐⭐½ (3.5/5)",
-      "post_url": "https://michaelharley.net/watching/2026/08/30/bad-education/",
-      "published": "2026-08-30T16:56:54Z"
+      "post_title": "And that's a wrap on Blaugust 2026!",
+      "post_url": "https://michaelharley.net/posts/2026/08/31/and-thats-a-wrap-on-blaugust-2026/",
+      "published": "2026-08-31T11:55:00Z"
     },
     {
-      "blog_title": "Christopher Himes",
-      "blog_url": "http://christopherhimes.com/",
-      "feed_url": "https://christopherhimes.com/feed.xml",
-      "post_title": "Week 35",
-      "post_url": "http://christopherhimes.com/blog/2026/08/30/weeknotes-week35.html",
-      "published": "2026-08-30T16:25:42Z"
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Cum a fost Blaugust 2026",
+      "post_url": "https://thinkroot.xyz/cum-a-fost-blaugust-2026-581",
+      "published": "2026-08-31T10:38:41Z"
     },
     {
-      "blog_title": "Paseo Baggage",
-      "blog_url": "https://paseobaggage.bearblog.dev/",
-      "feed_url": "https://paseobaggage.bearblog.dev/feed/",
-      "post_title": "My Love - #30 Blaugust 2026",
-      "post_url": "https://paseobaggage.bearblog.dev/my-love-30-blaugust-2026/",
-      "published": "2026-08-30T15:52:00Z"
-    },
-    {
-      "blog_title": "Wry Writer",
-      "blog_url": "https://wrywriter.ca",
-      "feed_url": "https://wrywriter.ca/posts_feed",
-      "post_title": "Drink of the Gods",
-      "post_url": "https://wrywriter.ca/posts/drink-of-the-gods",
-      "published": "2026-08-30T15:46:00Z"
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Sinister",
+      "post_url": "https://nomadwarmachine.co.uk/2026/08/31/sinister/",
+      "published": "2026-08-31T10:06:21Z"
     },
     {
       "blog_title": "素生",
       "blog_url": "https://z.arlmy.me/",
       "feed_url": "http://z.arlmy.me/atom.xml",
-      "post_title": "Toots 434 2026 Aug.23 - Aug.29",
-      "post_url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260829/",
-      "published": "2026-08-30T15:36:27Z"
+      "post_title": "My Creator Appreciation",
+      "post_url": "https://z.arlmy.me/posts/ZArlmyMe/Blaugust_20260831_2/",
+      "published": "2026-08-31T09:54:03Z"
+    },
+    {
+      "blog_title": "Point, Click, Repeat",
+      "blog_url": "https://welshtroll.co.uk/",
+      "feed_url": "http://welshtroll.co.uk/feed/",
+      "post_title": "Last day of Blaugust26",
+      "post_url": "https://welshtroll.co.uk/post/2026-last-day-of-blaugust26.html",
+      "published": "2026-08-31T09:09:18Z"
+    },
+    {
+      "blog_title": "Sylvia's Studio",
+      "blog_url": "https://sylvia.studio/",
+      "feed_url": "https://sylvia.studio/feed.xml",
+      "post_title": "I’m so bloody grateful for #blaugust",
+      "post_url": "https://sylvia.studio/posts/im-so-bloody-grateful-for-blaugust",
+      "published": "2026-08-31T07:36:00Z"
     }
   ]
 }
