@@ -1,10 +1,114 @@
 {
-  "generated_at": "2026-09-01T21:01:58.682070Z",
+  "generated_at": "2026-09-02T11:17:38.381560Z",
   "feed_count": 321,
-  "successful_feeds": 284,
-  "failed_feeds": 37,
+  "successful_feeds": 298,
+  "failed_feeds": 23,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "In An Age",
+      "blog_url": "https://inanage.com/",
+      "feed_url": "http://inanage.com/feed/",
+      "post_title": "Digital License Transfer",
+      "post_url": "https://inanage.com/2026/09/02/digital-license-transfer/",
+      "published": "2026-09-02T11:00:00Z"
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Free Stuff! EverQuest II Edition",
+      "post_url": "https://bhagpuss.blogspot.com/2026/09/free-stuff-everquest-ii-edition.html",
+      "published": "2026-09-02T10:52:04Z"
+    },
+    {
+      "blog_title": "Bavatuesdays",
+      "blog_url": "https://bavatuesdays.com",
+      "feed_url": "http://bavatuesdays.com/feed/",
+      "post_title": "Books Fall Apart",
+      "post_url": "https://bavatuesdays.com/books-fall-apart/",
+      "published": "2026-09-02T10:12:40Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Eigendrum",
+      "post_url": "https://nomadwarmachine.co.uk/2026/09/02/eigendrum/",
+      "published": "2026-09-02T09:55:10Z"
+    },
+    {
+      "blog_title": "素生",
+      "blog_url": "https://z.arlmy.me/",
+      "feed_url": "http://z.arlmy.me/atom.xml",
+      "post_title": "可感",
+      "post_url": "https://z.arlmy.me/posts/Poems/2026/20260831_KeGan/",
+      "published": "2026-09-02T08:50:27Z"
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Septemblog Day One",
+      "post_url": "https://hollie.eilloh.net/posts/septemblog-day-one",
+      "published": "2026-09-02T08:46:00Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "自分の限界がどこまでかを知るために 僕は生きている",
+      "post_url": "https://elve.club/entry/2026/09/02/173035",
+      "published": "2026-09-02T08:30:35Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Luna #the100pics",
+      "post_url": "https://thinkroot.xyz/photo-599",
+      "published": "2026-09-02T06:33:41Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Not so smart",
+      "post_url": "https://rishidass.net/posts/not-so-smart",
+      "published": "2026-09-02T06:14:04Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "#BooksIn2026 – August edition",
+      "post_url": "https://cynnisblog.wordpress.com/2026/09/02/booksin2026-august-edition/",
+      "published": "2026-09-02T05:00:00Z"
+    },
+    {
+      "blog_title": "Matt's Blog",
+      "blog_url": "https://mtwb.blog/",
+      "feed_url": "https://mtwb.blog/index.xml",
+      "post_title": "Newsletter 2026.36",
+      "post_url": "https://mtwb.blog/posts/2026/newsletters/newsletter-2636/",
+      "published": "2026-09-02T04:36:22Z"
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "Voidwrought and Citizen Sleeper",
+      "post_url": "http://josephskyrim.blogspot.com/2026/09/voidwrought-and-citizen-sleeper.html",
+      "published": "2026-09-02T03:07:15Z"
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Outer Wilds: a once in a lifetime experience",
+      "post_url": "https://joelchrono.xyz/blog/outer-wilds/",
+      "published": "2026-09-02T03:00:35Z"
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
@@ -14,156 +118,52 @@
       "published": "2026-09-02T02:00:00Z"
     },
     {
-      "blog_title": "Notes by JCProbably",
-      "blog_url": "https://notes.jeddacp.com/",
-      "feed_url": "https://notes.jeddacp.com/feed/",
-      "post_title": "Micro Thoughts - August 2026",
-      "post_url": "https://notes.jeddacp.com/micro-thoughts-august-2026/",
-      "published": "2026-09-01T20:26:49Z"
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "Audio Tech Options",
+      "post_url": "https://jasonjournals.com/posts/audio-tech-options",
+      "published": "2026-09-02T00:24:28Z"
     },
     {
-      "blog_title": "The Sun and The Air",
-      "blog_url": "https://criminallyvulgar.dev/",
-      "feed_url": "https://criminallyvulgar.dev/feed/",
-      "post_title": "September Basho preview",
-      "post_url": "https://criminallyvulgar.dev/september-basho-preview/",
-      "published": "2026-09-01T20:22:00Z"
+      "blog_title": "The Virtual Moose",
+      "blog_url": "https://virtualmoose.org/",
+      "feed_url": "https://virtualmoose.org/feed/",
+      "post_title": "Text Adventures Are Still Doing Alright",
+      "post_url": "https://virtualmoose.org/2026/09/01/text-adventures-are-still-doing-alright/",
+      "published": "2026-09-02T00:20:07Z"
     },
     {
-      "blog_title": "Endgame Viable",
-      "blog_url": "https://endgameviable.com/",
-      "feed_url": "http://endgameviable.com/feed/",
-      "post_title": "Google Maps Voice Change?",
-      "post_url": "https://endgameviable.com/post/2026/09/google-maps-voice-change/",
-      "published": "2026-09-01T19:54:04Z"
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "What’s in my Magic the Gathering Battle Box",
+      "post_url": "https://hamatti.org/posts/whats-in-my-magic-the-gathering-battle-box/",
+      "published": "2026-09-02T00:00:00Z"
     },
     {
-      "blog_title": "A Day in the Life of Flash",
-      "blog_url": "https://adayinthelifeofflash.wordpress.com/",
-      "feed_url": "https://adayinthelifeofflash.wordpress.com/feed/",
-      "post_title": "9/11 Ceremony 2026.",
-      "post_url": "https://adayinthelifeofflash.wordpress.com/2026/09/01/9-11-ceremony-2026/",
-      "published": "2026-09-01T19:15:32Z"
+      "blog_title": "コーポ雪原",
+      "blog_url": "https://coop-setsugen.com/",
+      "feed_url": "https://coop-setsugen.com/feed.xml",
+      "post_title": "遅延の嬉しさ",
+      "post_url": "https://coop-setsugen.com/essay/2026/09/02/",
+      "published": "2026-09-02T00:00:00Z"
     },
     {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "RO Wallet: buletinul, permisul și diplomele pe telefon",
-      "post_url": "https://thinkroot.xyz/ro-wallet-buletinul-permisul-si-diplomele-pe-telefon-596",
-      "published": "2026-09-01T19:10:55Z"
+      "blog_title": "The Friendly Necromancer",
+      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
+      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
+      "post_title": "My Blaugust 2026 Post-Mortem",
+      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/09/my-blaugust-2026-post-mortem.html",
+      "published": "2026-09-01T23:50:16Z"
     },
     {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Love a good thunderstorm",
-      "post_url": "https://francescrossley.com/love-a-good-thunderstorm/",
-      "published": "2026-09-01T19:00:00Z"
-    },
-    {
-      "blog_title": "Wry Writer",
-      "blog_url": "https://wrywriter.ca",
-      "feed_url": "https://wrywriter.ca/posts_feed",
-      "post_title": "So Quoted #1",
-      "post_url": "https://wrywriter.ca/posts/so-quoted-1",
-      "published": "2026-09-01T18:51:28Z"
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "tiny poems for autumn (a free zine!)",
-      "post_url": "https://sylvia.studio/posts/tiny-poems-for-autumn-a-free-zine",
-      "published": "2026-09-01T18:27:42Z"
-    },
-    {
-      "blog_title": "Kay Talks Games",
-      "blog_url": "https://kaytalksgames.wordpress.com/",
-      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
-      "post_title": "Some Thoughts on Blaugust 2026",
-      "post_url": "https://kaytalksgames.wordpress.com/2026/09/01/some-thoughts-on-blaugust-2026/",
-      "published": "2026-09-01T17:23:06Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "デイキャンプ 飯能河原2回目。失敗",
-      "post_url": "https://elve.club/entry/2026/09/02/022008",
-      "published": "2026-09-01T17:20:08Z"
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "August 2026 Summary",
-      "post_url": "https://joelchrono.xyz/blog/august-2026-summary/",
-      "published": "2026-09-01T17:20:00Z"
-    },
-    {
-      "blog_title": "Gaudete Theology",
-      "blog_url": "https://gaudetetheology.wordpress.com/",
-      "feed_url": "http://gaudetetheology.wordpress.com/feed/",
-      "post_title": "Season of Creation*",
-      "post_url": "https://gaudetetheology.wordpress.com/2026/09/01/season-of-creation/",
-      "published": "2026-09-01T16:39:46Z"
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Afrotronix – KÖD (Future Tribe)",
-      "post_url": "https://amf.didiermary.fr/afrotronix-kod-future-tribe/",
-      "published": "2026-09-01T16:33:36Z"
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "🔗 US tech found in Russian ballistic missiles",
-      "post_url": "https://michaelharley.net/links/2026/09/01/us-tech-found-in-russian-ballistic-missiles/",
-      "published": "2026-09-01T16:05:55Z"
-    },
-    {
-      "blog_title": "Frostilyte Writes",
-      "blog_url": "https://frostilyte.ca/",
-      "feed_url": "https://frostilyte.ca/feed/",
-      "post_title": "Month in Review: Slay the Spire 2 & Fields of Mistria",
-      "post_url": "https://frostilyte.ca/2026/09/01/month-in-review-slay-the-spire-2-fields-of-mistria/",
-      "published": "2026-09-01T15:44:36Z"
-    },
-    {
-      "blog_title": "Musings Over Pints and Coffee",
-      "blog_url": "https://musingsoverpintsandcoffee.wordpress.com",
-      "feed_url": "https://musingsoverpintsandcoffee.wordpress.com/feed/",
-      "post_title": "The Variance Report",
-      "post_url": "https://musingsoverpintsandcoffee.wordpress.com/2026/09/01/the-variance-report/",
-      "published": "2026-09-01T15:35:22Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "Traitors AU vs Traitors NZ",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-09-01-traitors-au-vs-nz/",
-      "published": "2026-09-01T15:00:00Z"
-    },
-    {
-      "blog_title": "Beto Dealmeida",
-      "blog_url": "https://robida.net/",
-      "feed_url": "https://robida.net/feed.xml",
-      "post_title": "Reply",
-      "post_url": "https://robida.net/entries/2026/09/01/building-an-open-source-ecosystem-that-works-requi",
-      "published": "2026-09-01T14:59:23Z"
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "Syp’s gaming goals: September 2026",
-      "post_url": "https://biobreak.wordpress.com/2026/09/01/syps-gaming-goals-september-2026/",
-      "published": "2026-09-01T14:29:10Z"
+      "blog_title": "A 3D Blog for a 3D World",
+      "blog_url": "https://kingwilly105.blogspot.com/",
+      "feed_url": "https://kingwilly105.blogspot.com/feeds/posts/default",
+      "post_title": "Enjoying Star Wars: Jedi Survivor",
+      "post_url": "https://kingwilly105.blogspot.com/2026/09/enjoying-star-wars-jedi-survivor.html",
+      "published": "2026-09-01T23:20:33Z"
     }
   ]
 }
