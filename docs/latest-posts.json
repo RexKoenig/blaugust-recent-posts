@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06T10:08:32.739516Z",
+  "generated_at": "2026-09-06T10:55:35.149060Z",
   "feed_count": 327,
-  "successful_feeds": 301,
-  "failed_feeds": 26,
+  "successful_feeds": 302,
+  "failed_feeds": 25,
   "post_count": 20,
   "posts": [
     {
@@ -102,6 +102,14 @@
       "published": "2026-09-06T01:42:59Z"
     },
     {
+      "blog_title": "Konfetti Explorations",
+      "blog_url": "https://marisabel.nl/",
+      "feed_url": "https://marisabel.nl/feeds/blog.php",
+      "post_title": "Week Reflection : 008 Wk 36 Yr 2026",
+      "post_url": "https://marisabel.nl/public/blog/Week_Reflection_008_Wk_36_Yr_2026",
+      "published": "2026-09-06T00:00:00Z"
+    },
+    {
       "blog_title": "コーポ雪原",
       "blog_url": "https://coop-setsugen.com/",
       "feed_url": "https://coop-setsugen.com/feed.xml",
@@ -156,14 +164,6 @@
       "post_title": "Deleted my dark-mode toggle",
       "post_url": "https://sals.place/blog/deleted-dark-mode-toggle/",
       "published": "2026-09-05T21:07:56Z"
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "New Podcast Nintendo Game Chat",
-      "post_url": "https://jasonjournals.com/posts/new-podcast-nintendo-game-chat",
-      "published": "2026-09-05T20:12:24Z"
     }
   ]
 }
