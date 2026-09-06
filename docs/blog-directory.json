@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T20:19:57.624259Z",
-  "blog_count": 321,
+  "generated_at": "2026-09-06T10:08:32.739516Z",
+  "blog_count": 327,
   "other_language_count": 9,
   "blogs": [
     {
@@ -572,6 +572,14 @@
       "initial": "C"
     },
     {
+      "name": "Daily Blogroll",
+      "site_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "D"
+    },
+    {
       "name": "Daily Creative Thing",
       "site_url": "https://dailycreativething.wordpress.com/",
       "feed_url": "https://dailycreativething.wordpress.com/feed/",
@@ -655,6 +663,14 @@
       "name": "Endgame Viable",
       "site_url": "https://endgameviable.com/",
       "feed_url": "http://endgameviable.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "E"
+    },
+    {
+      "name": "Everything is bad for you",
+      "site_url": "https://sonatano1.wordpress.com",
+      "feed_url": "https://sonatano1.wordpress.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "E"
@@ -876,6 +892,14 @@
       "initial": "H"
     },
     {
+      "name": "Heidy's Highly Wily MMORPG Blog",
+      "site_url": "https://stoheidy.wordpress.com",
+      "feed_url": "https://stoheidy.wordpress.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "H"
+    },
+    {
       "name": "History Will Say This Was Just a Book Blog",
       "site_url": "https://historywillsaythiswasjustabookblog.wordpress.com/",
       "feed_url": "https://historywillsaythiswasjustabookblog.wordpress.com/feed/",
@@ -999,6 +1023,14 @@
       "name": "Jayeless.net",
       "site_url": "https://www.jayeless.net/",
       "feed_url": "https://www.jayeless.net/index.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "J"
+    },
+    {
+      "name": "Joe and STO",
+      "site_url": "https://joeandsto.wordpress.com",
+      "feed_url": "https://joeandsto.wordpress.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "J"
@@ -1231,6 +1263,14 @@
       "name": "Lost Letters",
       "site_url": "https://lostletters.neocities.org/",
       "feed_url": "https://lostletters.neocities.org/feed.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "L"
+    },
+    {
+      "name": "LOTRO Players",
+      "site_url": "https://lotroplayers.com",
+      "feed_url": "http://lotroplayers.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "L"
@@ -1975,6 +2015,14 @@
       "name": "Srijan Choudhary",
       "site_url": "https://srijan.ch/feed/all",
       "feed_url": "https://srijan.ch/feed/all.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "S"
+    },
+    {
+      "name": "Star Trek Online",
+      "site_url": "https://startrekonlinecouv.wordpress.com",
+      "feed_url": "http://startrekonlinecouv.wordpress.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "S"
