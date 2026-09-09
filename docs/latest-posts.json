@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-09-08T21:09:00.524365Z",
+  "generated_at": "2026-09-09T11:22:15.598843Z",
   "feed_count": 327,
-  "successful_feeds": 293,
-  "failed_feeds": 34,
+  "successful_feeds": 305,
+  "failed_feeds": 22,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Motivele reticenței față de Arch Linux și depășirea lor",
+      "post_url": "https://thinkroot.xyz/motivele-reticentei-fata-de-arch-linux-si-depasirea-lor-609",
+      "published": "2026-09-09T11:12:47Z"
+    },
+    {
+      "blog_title": "Another Dayu",
+      "blog_url": "https://anotherdayu.com/",
+      "feed_url": "https://anotherdayu.com/feed/",
+      "post_title": "开源我的个人基因分析流程",
+      "post_url": "https://anotherdayu.com/4250/",
+      "published": "2026-09-09T10:32:00Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Adventures in an old train",
+      "post_url": "https://nomadwarmachine.co.uk/2026/09/09/adventures-in-an-old-train/",
+      "published": "2026-09-09T09:25:07Z"
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Kiting in ZCOM",
+      "post_url": "http://tobolds.blogspot.com/2026/09/kiting-in-zcom.html",
+      "published": "2026-09-09T07:53:27Z"
+    },
+    {
+      "blog_title": "Robert Birming",
+      "blog_url": "https://birming.com/",
+      "feed_url": "https://birming.com/feed/",
+      "post_title": "The secret",
+      "post_url": "https://birming.com/posts/the-secret",
+      "published": "2026-09-09T07:07:00Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Software updates",
+      "post_url": "https://rishidass.net/posts/software-updates",
+      "published": "2026-09-09T06:27:16Z"
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "News is hard, moar spinning, patient trees, Greg was a fencer",
+      "post_url": "https://hollie.eilloh.net/posts/news-is-hard-moar-spinning-patient-trees-greg-was-a-fencer",
+      "published": "2026-09-09T05:28:00Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Growing together 🐾 💜",
+      "post_url": "https://cynnisblog.wordpress.com/2026/09/09/growing-together-%f0%9f%90%be-%f0%9f%92%9c/",
+      "published": "2026-09-09T05:00:47Z"
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "More than Nothing: In Search of Magic",
+      "post_url": "http://josephskyrim.blogspot.com/2026/09/more-than-nothing-in-search-of-magic.html",
+      "published": "2026-09-09T04:19:30Z"
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "I got to visit with my brother who...",
+      "post_url": "https://jasonjournals.com/posts/2026-09-08-i-got-to-visit",
+      "published": "2026-09-09T02:18:32Z"
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
@@ -12,6 +92,62 @@
       "post_title": "How the Mysterious ScreenJesus can DDoS You",
       "post_url": "https://brennan.day/how-the-mysterious-screenjesus-can-ddos-you/",
       "published": "2026-09-09T02:00:00Z"
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "quotes (in movies, of life)",
+      "post_url": "https://write.as/blog-x2600/quotes-inovies-of-life?pk_campaign=rss-feed",
+      "published": "2026-09-09T00:12:40Z"
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Wednesday, 9 September 2026",
+      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-09.html",
+      "published": "2026-09-09T00:00:00Z"
+    },
+    {
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "Moomin and nfo files for Jellyfin",
+      "post_url": "https://hamatti.org/posts/moomin-and-nfo-files-for-jellyfin/",
+      "published": "2026-09-09T00:00:00Z"
+    },
+    {
+      "blog_title": "Lucky Instar",
+      "blog_url": "https://luckyinstar.neocities.org/blog",
+      "feed_url": "https://luckyinstar.neocities.org/feed.xml",
+      "post_title": "random bee: Megandrena - California girls",
+      "post_url": "https://luckyinstar.neocities.org/blog/beegenera/megandrena",
+      "published": "2026-09-08T23:07:18Z"
+    },
+    {
+      "blog_title": "Lameazoid",
+      "blog_url": "https://lameazoid.com/",
+      "feed_url": "https://lameazoid.com/feed/",
+      "post_title": "60 Years of Star Trek",
+      "post_url": "https://lameazoid.com/60-years-of-star-trek/",
+      "published": "2026-09-08T23:00:00Z"
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Less YouTube, Bandcamp Friday, Silksong returns - W36",
+      "post_url": "https://joelchrono.xyz/blog/2026-w36/",
+      "published": "2026-09-08T21:50:00Z"
+    },
+    {
+      "blog_title": "Joe and STO",
+      "blog_url": "https://joeandsto.wordpress.com",
+      "feed_url": "https://joeandsto.wordpress.com/feed/",
+      "post_title": "Joe’s Short STOs: The Roadmap for STO Looks Bright and Full",
+      "post_url": "https://joeandsto.wordpress.com/2026/09/08/joes-short-stos-the-roadmap-for-sto-looks-bright-and-full/",
+      "published": "2026-09-08T21:30:00Z"
     },
     {
       "blog_title": "JAG’s Workshop",
@@ -28,142 +164,6 @@
       "post_title": "Internet Things Lately #5",
       "post_url": "https://syls.blog/internet-things-lately-5/",
       "published": "2026-09-08T17:55:00Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Comfort media",
-      "post_url": "https://francescrossley.com/comfort-media/",
-      "published": "2026-09-08T17:00:00Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Hobbledehoy",
-      "post_url": "https://tobygeeksout.micro.blog/2026/09/08/word-nerd-alert-hobbledehoy.html",
-      "published": "2026-09-08T16:47:39Z"
-    },
-    {
-      "blog_title": "Gaudete Theology",
-      "blog_url": "https://gaudetetheology.wordpress.com/",
-      "feed_url": "http://gaudetetheology.wordpress.com/feed/",
-      "post_title": "Fans of Poe Poems and/or Baltimore History, Heads Up",
-      "post_url": "https://gaudetetheology.wordpress.com/2026/09/08/fans-of-poe-poems-and-or-baltimore-history-heads-up/",
-      "published": "2026-09-08T16:00:40Z"
-    },
-    {
-      "blog_title": "Amerpie by Lou Plummer",
-      "blog_url": "https://amerpie.lol/",
-      "feed_url": "https://amerpie.lol/feed.xml",
-      "post_title": "McKinley: The SF Symbols Editor Apple Never Built",
-      "post_url": "https://amerpie.lol/2026/09/08/mckinley-the-sf-symbols-editor.html",
-      "published": "2026-09-08T15:59:41Z"
-    },
-    {
-      "blog_title": "AppAddict",
-      "blog_url": "https://appaddict.app/",
-      "feed_url": "https://apps.louplummer.lol/feed.atom",
-      "post_title": "McKinley: The SF Symbols Editor Apple Never Built",
-      "post_url": "https://appaddict.app/post/mckinley-the-sf-symbols-editor-apple-never-built",
-      "published": "2026-09-08T15:59:41Z"
-    },
-    {
-      "blog_title": "Newsonaut",
-      "blog_url": "https://www.newsonaut.com/",
-      "feed_url": "https://www.newsonaut.com/rss",
-      "post_title": "Happy Star Trek Day",
-      "post_url": "https://www.newsonaut.com/articles/happy-star-trek-day",
-      "published": "2026-09-08T15:55:18Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Twenty Years of EVE Online – Reflecting on Some Numbers",
-      "post_url": "https://tagn.wordpress.com/2026/09/08/twenty-years-of-eve-online-reflecting-on-some-numbers/",
-      "published": "2026-09-08T15:15:00Z"
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "The four entry types of the Bullet Journal...",
-      "post_url": "https://jasonjournals.com/posts/2026-09-08-the-four-entry-types",
-      "published": "2026-09-08T15:01:02Z"
-    },
-    {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Time and Distance in Gameplay",
-      "post_url": "https://scopique.com/2026/09/08/time-and-distance-in-gameplay/",
-      "published": "2026-09-08T14:27:55Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "冷たい雨になる前ならいくらでも",
-      "post_url": "https://elve.club/entry/2026/09/08/230118",
-      "published": "2026-09-08T14:01:18Z"
-    },
-    {
-      "blog_title": "Beto Dealmeida",
-      "blog_url": "https://robida.net/",
-      "feed_url": "https://robida.net/feed.xml",
-      "post_title": "Imperial Colors Manifesto",
-      "post_url": "https://robida.net/entries/2026/09/08/imperial-colors-manifesto",
-      "published": "2026-09-08T13:47:55Z"
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "Octopath Traveler and the Indecisive Gamer",
-      "post_url": "https://biobreak.wordpress.com/2026/09/08/octopath-traveler-and-the-indecisive-gamer/",
-      "published": "2026-09-08T13:00:32Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Jazz Keys",
-      "post_url": "https://nomadwarmachine.co.uk/2026/09/08/jazz-keys/",
-      "published": "2026-09-08T11:22:14Z"
-    },
-    {
-      "blog_title": "Home on devz.cl",
-      "blog_url": "https://devz.cl/",
-      "feed_url": "https://devz.cl/index.xml",
-      "post_title": "To write non-fiction, draw the trunk, then the rest of the tree",
-      "post_url": "https://devz.cl/posts/how-to-write/",
-      "published": "2026-09-08T11:02:50Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "THINKING ABOUT MY BIRTHDAYS",
-      "post_url": "https://pretendtypewriter.net/thinking-about-my-birthdays/",
-      "published": "2026-09-08T11:00:00Z"
-    },
-    {
-      "blog_title": "Endgame Viable",
-      "blog_url": "https://endgameviable.com/",
-      "feed_url": "http://endgameviable.com/feed/",
-      "post_title": "Building a MacBook REAPER DAW",
-      "post_url": "https://endgameviable.com/post/2026/09/building-a-macbook-reaper-daw/",
-      "published": "2026-09-08T09:45:05Z"
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "safety",
-      "post_url": "https://write.as/blog-x2600/safety?pk_campaign=rss-feed",
-      "published": "2026-09-08T09:28:31Z"
     }
   ]
 }
