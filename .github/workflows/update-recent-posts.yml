@@ -6,8 +6,10 @@ on:
     branches: [main]
     paths:
       - "scripts/**"
+      - "tests/test_summary_url_safety.py"
       - "data/blogs.csv"
       - "requirements.txt"
+      - "requirements-summary.txt"
       - ".github/workflows/update-recent-posts.yml"
   schedule:
     - cron: "17 7,19 * * *"
@@ -25,6 +27,7 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -38,12 +41,27 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+          cache-dependency-path: requirements-summary.txt
 
-      - name: Install feed reader
-        run: pip install -r requirements.txt
+      - name: Install feed reader and summary dependencies
+        run: pip install -r requirements-summary.txt
+
+      - name: Test summary URL safety rules
+        run: python -m unittest tests/test_summary_url_safety.py
 
       - name: Build directory and check feeds
         run: python scripts/build_site_data.py
+
+      - name: Build recent-post summaries
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-5.6-luna
+          SUMMARY_USER_AGENT: "BlaugustRecentPosts/1.0 (+https://www.containsmoderateperil.com/blaugust-blogroll)"
+          SUMMARY_MAX_NEW: "20"
+          OPENAI_MAX_OUTPUT_TOKENS: "160"
+          OPENAI_MAX_RETRIES: "2"
+          OPENAI_REQUEST_DELAY: "0.5"
+        run: python scripts/build_summary_prototype.py
 
       - name: Save cache and generated data
         run: |
@@ -51,12 +69,15 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add \
             data/feed-cache.json \
+            data/summary-cache.json \
             docs/blog-directory.json \
             docs/blog-directory-data.js \
             docs/latest-posts.json \
-            docs/latest-posts-data.js
+            docs/latest-posts-data.js \
+            docs/latest-posts-summaries.json \
+            docs/latest-posts-summaries-data.js
           if ! git diff --cached --quiet; then
-            git commit -m "Update Blaugust directory and recent posts"
+            git commit -m "Update Blaugust directory, recent posts and summaries"
             git push
           fi
 
