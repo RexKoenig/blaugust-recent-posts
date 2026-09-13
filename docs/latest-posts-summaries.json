@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-09-13T15:04:42.563365Z",
+  "generated_at": "2026-09-13T15:05:16.991006Z",
   "source_generated_at": "2026-09-13T11:50:44.265620Z",
-  "summary_model": "gemini-3.6-flash",
+  "summary_provider": "openai",
+  "summary_model": "gpt-5.6-luna",
   "post_count": 20,
-  "summary_count": 12,
+  "summary_count": 20,
   "posts": [
     {
       "blog_title": "Pretend Typewriter",
@@ -12,7 +13,7 @@
       "post_title": "note - pancakes",
       "post_url": "https://pretendtypewriter.net/note-pancakes-new/",
       "published": "2026-09-13T11:31:01Z",
-      "summary": "The micro-post titled note - pancakes from the blog Pretend Typewriter contains the repeatedly timestamped phrase \"13:30 - Trying to improve."
+      "summary": "A brief note titled “pancakes” repeats “Trying to improve” three times, each marked with the timestamp 13:30."
     },
     {
       "blog_title": "NomadWarMachine",
@@ -21,7 +22,7 @@
       "post_title": "Roald Dahl Day",
       "post_url": "https://nomadwarmachine.co.uk/2026/09/13/roald-dahl-day/",
       "published": "2026-09-13T09:54:23Z",
-      "summary": "A celebration of Roald Dahl Day features a quote from The Minpins alongside an animated gif of a horse turning into a unicorn."
+      "summary": "Roald Dahl Day is celebrated on 13th September with creative artwork, featuring a quote from The Minpins and a gif of a horse becoming a unicorn."
     },
     {
       "blog_title": "Sylvia's Studio",
@@ -30,7 +31,7 @@
       "post_title": "Pushing myself into action",
       "post_url": "https://sylvia.studio/posts/pushing-myself-into-action",
       "published": "2026-09-13T09:01:52Z",
-      "summary": "Sylvia shares her experience of overcoming medication-induced fatigue and asthma triggers by going thrifting, walking four thousand steps, and planning future adventures."
+      "summary": "Sylvia describes countering medication-related fatigue and asthma-triggered lethargy through thrifting, shopping, increased activity, and plans to return to the gym."
     },
     {
       "blog_title": "Tobold's Blog",
@@ -39,7 +40,7 @@
       "post_title": "When your 15 minutes are over",
       "post_url": "http://tobolds.blogspot.com/2026/09/when-your-15-minutes-are-over.html",
       "published": "2026-09-13T07:38:02Z",
-      "summary": "Online content creators across platforms like YouTube, TikTok, and OnlyFans often struggle with financial instability and long-term career sustainability after their internet fame fades."
+      "summary": "Internet fame is widespread but fleeting, and content creators often face unstable income, poor financial planning, burnout, and limited long-term security after attention declines."
     },
     {
       "blog_title": "ThinkRoot",
@@ -48,7 +49,7 @@
       "post_title": "Îmi place să strâng una alta și acest lucru se poate vedea și aici, da…",
       "post_url": "https://thinkroot.xyz/nota-624",
       "published": "2026-09-13T07:10:40Z",
-      "summary": "ThinkRoot reflects on a personal tendency to collect various items alongside the occasional urge to sell or throw them all away."
+      "summary": "ThinkRoot reflects on collecting various items, noting that accumulated possessions can eventually become tiring enough to consider selling or discarding them."
     },
     {
       "blog_title": "JVT Workshop",
@@ -57,7 +58,7 @@
       "post_title": "More than Nothing: At the Edge of the City",
       "post_url": "http://josephskyrim.blogspot.com/2026/09/more-than-nothing-at-edge-of-city.html",
       "published": "2026-09-13T07:03:27Z",
-      "summary": "After fighting enemy knights and enduring a aerial bombardment, a traveling party enters a tunnel leading toward a city and encounters older versions of themselves guarding the way."
+      "summary": "The company battles Boulder Knight and Valamonde’s forces, joins Lady Dorza, survives a bombing, traverses a smoky tunnel, and encounters older counterparts serving rival rulers."
     },
     {
       "blog_title": "Small Good Things",
@@ -66,7 +67,7 @@
       "post_title": "Tiny bakers, actual happiness, gaming nerds, Bunana",
       "post_url": "https://hollie.eilloh.net/posts/tiny-bakers-actual-happiness-gaming-nerds-bunana",
       "published": "2026-09-13T06:01:00Z",
-      "summary": "A visit to Hideaway Bakery sparks reflection on overcoming severe anxiety, followed by an enjoyable day spent knitting, visiting friends, and sharing online video recommendations."
+      "summary": "Holly celebrates feeling safe and happy at a bakery, sharing food, games, crafting, videos, chronic pain, anxiety recovery, gratitude, and hopes for greater mobility."
     },
     {
       "blog_title": "Rishi Dass",
@@ -75,7 +76,7 @@
       "post_title": "Fear and desire",
       "post_url": "https://rishidass.net/posts/fear-and-desire",
       "published": "2026-09-13T05:46:22Z",
-      "summary": "Rishi Dass explains that fears and desires are merely conditioned states of mind that people can manage by directing their attention away."
+      "summary": "Rishi Dass argues that fear and desire are conditioned states of mind, suggesting people can avoid engaging with them by redirecting attention when related thoughts or emotions arise."
     },
     {
       "blog_title": "Cynni’s Blog",
@@ -84,7 +85,7 @@
       "post_title": "#SilentSunday – Is it spring yet?",
       "post_url": "https://cynnisblog.wordpress.com/2026/09/13/silentsunday-is-it-spring-yet-2/",
       "published": "2026-09-13T05:00:00Z",
-      "summary": "A photograph taken at Kraaijenbergse Plassen in Linden depicts a family of Canada geese, including two adults and about a dozen goslings, swimming across deep blue water."
+      "summary": "A #SilentSunday photograph from Kraaijenbergse Plassen in the Netherlands shows Canada geese swimming with their goslings, alongside personal blog and social-network information."
     },
     {
       "blog_title": "素生",
@@ -93,7 +94,7 @@
       "post_title": "Toots 436 2026 Sep.6 - Sep.12",
       "post_url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_202609012/",
       "published": "2026-09-13T04:22:27Z",
-      "summary": "This weekly microblog log records personal thoughts spanning early September 2026, touching on urban culture, future power grid architecture, health routines, AI tools, and music."
+      "summary": "A weekly collection of personal notes considers AI, urban change, lifestyle design, infrastructure, seasonal health, music, architecture, and observations about freedom and adaptation."
     },
     {
       "blog_title": "Brennan Day",
@@ -102,7 +103,7 @@
       "post_title": "It's Christlike to Love Immigrants and Transfolk",
       "post_url": "https://brennan.day/its-christlike-to-love-immigrants-and-transfolk/",
       "published": "2026-09-13T02:00:00Z",
-      "summary": "Brennan Day argues that biblical scriptures and the teachings of Jesus Christ command Christians to show love, inclusion, and mercy toward marginalized groups, including immigrants and transgender people."
+      "summary": "Brennan Day argues that Christian teachings support compassion toward immigrants and transgender people, citing biblical examples of inclusion, mercy, and acceptance of outsiders."
     },
     {
       "blog_title": "Konfetti Explorations",
@@ -111,7 +112,7 @@
       "post_title": "The Courage to Write",
       "post_url": "https://marisabel.nl/public/blog/The_Courage_to_Write",
       "published": "2026-09-13T00:00:00Z",
-      "summary": null
+      "summary": "A personal reflection explores writing as practice, self-expression, and courage amid dyslexia, revision struggles, self-doubt, and suspicion surrounding AI-produced prose."
     },
     {
       "blog_title": "Home on devz.cl",
@@ -120,7 +121,7 @@
       "post_title": "Re: On Eating Fruit Skins",
       "post_url": "https://devz.cl/posts/re-on-eating-fruit-skins/",
       "published": "2026-09-12T23:08:20Z",
-      "summary": "Personal experiences with eating entire apples and kiwi skins demonstrate how questioning default eating habits can lead to enjoying fruits more fully."
+      "summary": "The writer reflects on eating apples whole and discovering that kiwi skin improves flavor and reduces waste, challenging assumptions about customary fruit-eating habits."
     },
     {
       "blog_title": "Lameazoid",
@@ -129,7 +130,7 @@
       "post_title": "Weekly Wrap Up (2026.09.12)",
       "post_url": "https://lameazoid.com/weekly-wrap-up-2026-09-12/",
       "published": "2026-09-12T23:00:00Z",
-      "summary": null
+      "summary": "Lameazoid’s weekly roundup covers roof repairs, Transformers and McDonald’s collectibles, rare Star Trekker manga, estate-sale music and guitar purchases, listening habits, and Pentax lenses."
     },
     {
       "blog_title": "JAG’s Workshop",
@@ -138,7 +139,7 @@
       "post_title": "‘Streaks Considered Harmful’",
       "post_url": "https://jagsworkshop.com/2026/09/streaks-considered-harmful/",
       "published": "2026-09-12T22:31:53Z",
-      "summary": null
+      "summary": "The piece examines streak-based motivation through Duolingo, Wordle, and publishing habits, highlighting their effectiveness, psychological costs, and demoralizing effects when broken."
     },
     {
       "blog_title": "Off the Top",
@@ -147,7 +148,7 @@
       "post_title": "Large Observable Update",
       "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2205",
       "published": "2026-09-12T21:56:04Z",
-      "summary": null
+      "summary": "Observable’s major update introduces revised notebooks, interactive charting models, visualization tools, and a downloadable Mac notebook app alongside D3 and related resources."
     },
     {
       "blog_title": "Sal's Blog",
@@ -156,7 +157,7 @@
       "post_title": "Bought a Thinkpad",
       "post_url": "https://sals.place/blog/bought-a-thinkpad/",
       "published": "2026-09-12T21:39:18Z",
-      "summary": null
+      "summary": "Sal describes buying a Lenovo ThinkPad X1 Carbon Gen 9 after repeatedly considering used Linux laptops despite already owning several capable Apple devices."
     },
     {
       "blog_title": "Priest with a Cause",
@@ -165,7 +166,7 @@
       "post_title": "Classic+ Is Real: Warcraft Forever",
       "post_url": "https://priestwithacause.blogspot.com/2026/09/classic-is-real-warcraft-forever.html",
       "published": "2026-09-12T21:35:20Z",
-      "summary": null
+      "summary": "BlizzCon revealed Classic+, launching November 4 with new Azeroth zones, dungeons, raids, battlegrounds, class combinations, talents, visual toggles, and level 60."
     },
     {
       "blog_title": "Gaudete Theology",
@@ -174,7 +175,7 @@
       "post_title": "You Can, If You Want To: Monday Read-Aloud Book Group",
       "post_url": "https://gaudetetheology.wordpress.com/2026/09/12/you-can-if-you-want-to-monday-read-aloud-book-group/",
       "published": "2026-09-12T20:45:44Z",
-      "summary": null
+      "summary": "Gaudete Theology introduces an informal ecumenical Zoom read-aloud group preparing to explore Fr. James Alison’s book You Can, If You Want To."
     },
     {
       "blog_title": "Clandestini",
@@ -183,7 +184,7 @@
       "post_title": "planner & journal ecosystem atual",
       "post_url": "https://clandestini.org/blog/planner-journal-ecosystem-atual/",
       "published": "2026-09-12T20:45:36Z",
-      "summary": null
+      "summary": "The text recounts evolving from unsuitable planners to a four-piece system using Filofax organizers, a Traveler’s Notebook, and a Midori journal for distinct purposes."
     }
   ]
 }
