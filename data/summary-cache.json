@@ -1,1 +1,65 @@
-{}
+{
+  "https://nomadwarmachine.co.uk/2026/09/13/roald-dahl-day": {
+    "post_url": "https://nomadwarmachine.co.uk/2026/09/13/roald-dahl-day/",
+    "post_title": "Roald Dahl Day",
+    "blog_title": "NomadWarMachine",
+    "summary": "A celebration of Roald Dahl Day features a quote from The Minpins alongside an animated gif of a horse turning into a unicorn.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:34:59.953645Z",
+    "source_chars": 368
+  },
+  "https://sylvia.studio/posts/pushing-myself-into-action": {
+    "post_url": "https://sylvia.studio/posts/pushing-myself-into-action",
+    "post_title": "Pushing myself into action",
+    "blog_title": "Sylvia's Studio",
+    "summary": "Sylvia shares her experience of overcoming medication-induced fatigue and asthma triggers by going thrifting, walking four thousand steps, and planning future adventures.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:34:59.953645Z",
+    "source_chars": 981
+  },
+  "https://thinkroot.xyz/nota-624": {
+    "post_url": "https://thinkroot.xyz/nota-624",
+    "post_title": "Îmi place să strâng una alta și acest lucru se poate vedea și aici, da…",
+    "blog_title": "ThinkRoot",
+    "summary": "ThinkRoot reflects on a personal tendency to collect various items alongside the occasional urge to sell or throw them all away.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:34:59.953645Z",
+    "source_chars": 634
+  },
+  "http://josephskyrim.blogspot.com/2026/09/more-than-nothing-at-edge-of-city.html": {
+    "post_url": "http://josephskyrim.blogspot.com/2026/09/more-than-nothing-at-edge-of-city.html",
+    "post_title": "More than Nothing: At the Edge of the City",
+    "blog_title": "JVT Workshop",
+    "summary": "After fighting enemy knights and enduring a aerial bombardment, a traveling party enters a tunnel leading toward a city and encounters older versions of themselves guarding the way.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:34:59.953645Z",
+    "source_chars": 2289
+  },
+  "https://hollie.eilloh.net/posts/tiny-bakers-actual-happiness-gaming-nerds-bunana": {
+    "post_url": "https://hollie.eilloh.net/posts/tiny-bakers-actual-happiness-gaming-nerds-bunana",
+    "post_title": "Tiny bakers, actual happiness, gaming nerds, Bunana",
+    "blog_title": "Small Good Things",
+    "summary": "A visit to Hideaway Bakery sparks reflection on overcoming severe anxiety, followed by an enjoyable day spent knitting, visiting friends, and sharing online video recommendations.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:34:59.953645Z",
+    "source_chars": 6000
+  },
+  "https://rishidass.net/posts/fear-and-desire": {
+    "post_url": "https://rishidass.net/posts/fear-and-desire",
+    "post_title": "Fear and desire",
+    "blog_title": "Rishi Dass",
+    "summary": "Rishi Dass explains that fears and desires are merely conditioned states of mind that people can manage by directing their attention away.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:34:59.953645Z",
+    "source_chars": 373
+  },
+  "https://cynnisblog.wordpress.com/2026/09/13/silentsunday-is-it-spring-yet-2": {
+    "post_url": "https://cynnisblog.wordpress.com/2026/09/13/silentsunday-is-it-spring-yet-2/",
+    "post_title": "#SilentSunday – Is it spring yet?",
+    "blog_title": "Cynni’s Blog",
+    "summary": "A photograph taken at Kraaijenbergse Plassen in Linden depicts a family of Canada geese, including two adults and about a dozen goslings, swimming across deep blue water.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:34:59.953645Z",
+    "source_chars": 3432
+  }
+}
