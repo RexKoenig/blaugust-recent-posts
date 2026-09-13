@@ -12,6 +12,7 @@ Environment variables:
     OPENAI_MODEL             Defaults to gpt-5.6-luna.
     SUMMARY_MAX_NEW          Maximum uncached posts to summarise in one run (20).
     SUMMARY_EXCERPT_CHARS    Maximum extracted article characters sent to OpenAI.
+    SUMMARY_MAX_REDIRECTS    Maximum HTTP redirects when fetching a post/feed (5).
     OPENAI_REQUEST_DELAY     Seconds between successful OpenAI requests (0.5).
     OPENAI_MAX_RETRIES       Number of retries after rate-limit/server errors (2).
     OPENAI_MAX_OUTPUT_TOKENS Maximum output tokens per summary request (160).
@@ -21,15 +22,17 @@ from __future__ import annotations
 
 import argparse
 import html
+import ipaddress
 import json
 import os
 import re
+import socket
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
-from urllib.parse import urlsplit, urlunsplit
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
 import feedparser
 import requests
@@ -49,6 +52,8 @@ MAX_NEW = max(0, int(os.getenv("SUMMARY_MAX_NEW", "20")))
 MAX_EXCERPT_CHARS = max(1000, int(os.getenv("SUMMARY_EXCERPT_CHARS", "6000")))
 MAX_ARTICLE_BYTES = max(250_000, int(os.getenv("SUMMARY_MAX_ARTICLE_BYTES", str(3 * 1024 * 1024))))
 MAX_FEED_BYTES = max(250_000, int(os.getenv("SUMMARY_MAX_FEED_BYTES", str(6 * 1024 * 1024))))
+MAX_REDIRECTS = max(0, min(int(os.getenv("SUMMARY_MAX_REDIRECTS", "5")), 10))
+MAX_URL_CHARS = 4096
 CONNECT_TIMEOUT = float(os.getenv("SUMMARY_CONNECT_TIMEOUT", "10"))
 READ_TIMEOUT = float(os.getenv("SUMMARY_READ_TIMEOUT", "25"))
 OPENAI_REQUEST_DELAY = max(0.0, float(os.getenv("OPENAI_REQUEST_DELAY", "0.5")))
@@ -56,7 +61,7 @@ OPENAI_MAX_RETRIES = max(0, int(os.getenv("OPENAI_MAX_RETRIES", "2")))
 OPENAI_MAX_OUTPUT_TOKENS = max(64, int(os.getenv("OPENAI_MAX_OUTPUT_TOKENS", "160")))
 USER_AGENT = os.getenv(
     "SUMMARY_USER_AGENT",
-    "BlaugustSummaryPrototype/0.5 (+https://www.containsmoderateperil.com/blaugust-blogroll)",
+    "BlaugustSummaryPrototype/0.6 (+https://www.containsmoderateperil.com/blaugust-blogroll)",
 )
 
 SPACE_RE = re.compile(r"\s+")
@@ -66,6 +71,7 @@ BOILERPLATE_RE = re.compile(
     r"entry[-_]?meta|comments?|navigation|newsletter|subscribe)(?:$|[-_\s])",
     re.IGNORECASE,
 )
+REDIRECT_STATUSES = {301, 302, 303, 307, 308}
 
 
 def utc_now() -> str:
@@ -149,26 +155,166 @@ def load_json(path: Path, default: Any) -> Any:
         return default
 
 
+def require_global_ip(address: str, *, hostname: str) -> None:
+    """Reject addresses that are not globally routable public IPs."""
+    bare_address = address.split("%", 1)[0]
+    try:
+        ip = ipaddress.ip_address(bare_address)
+    except ValueError as exc:
+        raise ValueError(f"could not interpret resolved address for {hostname!r}") from exc
+    if not ip.is_global:
+        raise ValueError(
+            f"refusing non-public address for {hostname!r}: {ip.compressed}"
+        )
+
+
+def validate_public_url(value: str) -> str:
+    """Validate an outbound article/feed URL before any network request."""
+    url = str(value or "").strip()
+    if not url:
+        raise ValueError("empty URL")
+    if len(url) > MAX_URL_CHARS:
+        raise ValueError(f"URL exceeds {MAX_URL_CHARS} characters")
+
+    parts = urlsplit(url)
+    scheme = parts.scheme.lower()
+    if scheme not in {"http", "https"}:
+        raise ValueError(f"unsupported URL scheme: {parts.scheme or 'missing'}")
+    if not parts.hostname:
+        raise ValueError("URL has no hostname")
+    if parts.username is not None or parts.password is not None:
+        raise ValueError("credentials embedded in URLs are not permitted")
+
+    try:
+        port = parts.port
+    except ValueError as exc:
+        raise ValueError("URL contains an invalid port") from exc
+    if port is None:
+        port = 443 if scheme == "https" else 80
+
+    hostname = parts.hostname
+    try:
+        ascii_hostname = hostname.encode("idna").decode("ascii")
+    except UnicodeError as exc:
+        raise ValueError("URL hostname is not valid IDNA") from exc
+
+    # Literal IPs can be checked without DNS. Hostnames are resolved first and
+    # every returned address must be public; mixed public/private DNS answers
+    # are rejected rather than choosing the apparently safe one.
+    try:
+        literal_ip = ipaddress.ip_address(ascii_hostname.split("%", 1)[0])
+    except ValueError:
+        try:
+            answers = socket.getaddrinfo(
+                ascii_hostname,
+                port,
+                type=socket.SOCK_STREAM,
+            )
+        except socket.gaierror as exc:
+            raise ValueError(f"could not resolve hostname {hostname!r}") from exc
+        if not answers:
+            raise ValueError(f"hostname {hostname!r} resolved to no addresses")
+        seen: set[str] = set()
+        for answer in answers:
+            address = str(answer[4][0])
+            if address in seen:
+                continue
+            seen.add(address)
+            require_global_ip(address, hostname=hostname)
+    else:
+        if not literal_ip.is_global:
+            raise ValueError(
+                f"refusing non-public address for {hostname!r}: {literal_ip.compressed}"
+            )
+
+    # Fragments are browser-local and should never be sent to the remote host.
+    return urlunsplit((scheme, parts.netloc, parts.path or "/", parts.query, ""))
+
+
+def fetch_public_bytes(
+    url: str,
+    *,
+    headers: dict[str, str],
+    max_bytes: int,
+    resource_name: str,
+) -> tuple[requests.Response, bytes]:
+    """Fetch a bounded public HTTP(S) resource, validating every redirect."""
+    current_url = validate_public_url(url)
+
+    for redirect_count in range(MAX_REDIRECTS + 1):
+        response = requests.get(
+            current_url,
+            headers=headers,
+            timeout=(CONNECT_TIMEOUT, READ_TIMEOUT),
+            allow_redirects=False,
+            stream=True,
+        )
+        try:
+            if response.status_code in REDIRECT_STATUSES:
+                location = (response.headers.get("Location") or "").strip()
+                if not location:
+                    raise ValueError(
+                        f"{resource_name} returned redirect HTTP {response.status_code} without Location"
+                    )
+                if redirect_count >= MAX_REDIRECTS:
+                    raise ValueError(
+                        f"{resource_name} exceeded {MAX_REDIRECTS} redirects"
+                    )
+                current_url = validate_public_url(urljoin(current_url, location))
+                continue
+
+            response.raise_for_status()
+
+            content_length = (response.headers.get("Content-Length") or "").strip()
+            if content_length:
+                try:
+                    declared_size = int(content_length)
+                except ValueError:
+                    declared_size = 0
+                if declared_size > max_bytes:
+                    raise ValueError(
+                        f"{resource_name} declares {declared_size} bytes; limit is {max_bytes}"
+                    )
+
+            chunks: list[bytes] = []
+            total = 0
+            for chunk in response.iter_content(chunk_size=64 * 1024):
+                if not chunk:
+                    continue
+                total += len(chunk)
+                if total > max_bytes:
+                    raise ValueError(f"{resource_name} exceeds {max_bytes} bytes")
+                chunks.append(chunk)
+
+            body = b"".join(chunks)
+            # Preserve the bounded body on the Response object so Requests can
+            # still provide apparent_encoding without reading from the network.
+            response._content = body  # type: ignore[attr-defined]
+            response._content_consumed = True  # type: ignore[attr-defined]
+            return response, body
+        finally:
+            response.close()
+
+    raise RuntimeError("redirect loop ended unexpectedly")
+
+
 def fetch_page_text(url: str) -> str:
-    response = requests.get(
+    response, body = fetch_public_bytes(
         url,
         headers={
             "User-Agent": USER_AGENT,
             "Accept": "text/html,application/xhtml+xml;q=0.9,*/*;q=0.2",
         },
-        timeout=(CONNECT_TIMEOUT, READ_TIMEOUT),
-        allow_redirects=True,
+        max_bytes=MAX_ARTICLE_BYTES,
+        resource_name="article",
     )
-    response.raise_for_status()
 
     content_type = (response.headers.get("Content-Type") or "").lower()
     if "html" not in content_type and "xhtml" not in content_type:
         raise ValueError(f"unsupported content type: {content_type or 'unknown'}")
-    if len(response.content) > MAX_ARTICLE_BYTES:
-        raise ValueError(f"article exceeds {MAX_ARTICLE_BYTES} bytes")
 
-    response.encoding = response.apparent_encoding or response.encoding
-    source_html = response.text
+    response.encoding = response.apparent_encoding or response.encoding or "utf-8"
+    source_html = body.decode(response.encoding, errors="replace")
 
     readable_html = ""
     try:
@@ -186,20 +332,17 @@ def fetch_page_text(url: str) -> str:
 
 
 def fetch_feed_text(feed_url: str, post_url: str, post_title: str) -> str:
-    response = requests.get(
+    _response, body = fetch_public_bytes(
         feed_url,
         headers={
             "User-Agent": USER_AGENT,
             "Accept": "application/atom+xml,application/rss+xml,application/xml,text/xml,*/*;q=0.3",
         },
-        timeout=(CONNECT_TIMEOUT, READ_TIMEOUT),
-        allow_redirects=True,
+        max_bytes=MAX_FEED_BYTES,
+        resource_name="feed",
     )
-    response.raise_for_status()
-    if len(response.content) > MAX_FEED_BYTES:
-        raise ValueError(f"feed exceeds {MAX_FEED_BYTES} bytes")
 
-    parsed = feedparser.parse(response.content)
+    parsed = feedparser.parse(body)
     if not parsed.entries:
         raise ValueError("feed contains no entries")
 
