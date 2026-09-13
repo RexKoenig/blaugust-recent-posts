@@ -45,10 +45,11 @@ CONNECT_TIMEOUT = float(os.getenv("SUMMARY_CONNECT_TIMEOUT", "10"))
 READ_TIMEOUT = float(os.getenv("SUMMARY_READ_TIMEOUT", "25"))
 USER_AGENT = os.getenv(
     "SUMMARY_USER_AGENT",
-    "BlaugustSummaryPrototype/0.1 (+https://www.containsmoderateperil.com/blaugust-blogroll)",
+    "BlaugustSummaryPrototype/0.2 (+https://www.containsmoderateperil.com/blaugust-blogroll)",
 )
 
 SPACE_RE = re.compile(r"\s+")
+WORD_RE = re.compile(r"\b[\w’'-]+\b", re.UNICODE)
 
 
 def utc_now() -> str:
@@ -65,6 +66,21 @@ def canonical_url(value: str) -> str:
 
 def clean_text(value: Any) -> str:
     return SPACE_RE.sub(" ", html.unescape(str(value or ""))).strip()
+
+
+def normalise_summary(value: Any) -> str:
+    summary = clean_text(value).strip(" \"'")
+    summary = re.sub(r"^[*#>-]+\s*", "", summary)
+    summary = re.sub(r"\s*[*#]+$", "", summary).strip()
+    return summary
+
+
+def valid_summary(value: Any) -> bool:
+    summary = normalise_summary(value)
+    if len(summary) < 60 or len(summary) > 500:
+        return False
+    word_count = len(WORD_RE.findall(summary))
+    return 12 <= word_count <= 45
 
 
 def safe_js_json(data: dict[str, Any]) -> str:
@@ -146,7 +162,8 @@ article below. Describe what the article is about, not whether it is good.
 Do not use phrases such as "this post", "this article", "the author discusses",
 or "AI-generated". Do not invent facts, motives, or conclusions absent from the
 provided text. Preserve important names and titles. If the source text is not
-English, summarise it in English.
+English, summarise it in English. Return only the sentence, with no bullet,
+heading, label, markdown, or commentary.
 
 BLOG: {blog_title}
 TITLE: {post_title}
@@ -164,9 +181,8 @@ ARTICLE TEXT:
         json={
             "contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {
-                "temperature": 0.2,
-                "maxOutputTokens": 100,
-                "candidateCount": 1,
+                "maxOutputTokens": 300,
+                "thinkingConfig": {"thinkingLevel": "minimal"},
             },
         },
         timeout=(CONNECT_TIMEOUT, 60),
@@ -175,16 +191,23 @@ ARTICLE TEXT:
     payload = response.json()
 
     try:
-        parts = payload["candidates"][0]["content"]["parts"]
-        text = "".join(str(part.get("text") or "") for part in parts)
+        candidate = payload["candidates"][0]
+        finish_reason = str(candidate.get("finishReason") or "")
+        parts = candidate["content"]["parts"]
+        text = "".join(
+            str(part.get("text") or "")
+            for part in parts
+            if not part.get("thought")
+        )
     except (KeyError, IndexError, TypeError) as exc:
         raise ValueError("Gemini response did not contain summary text") from exc
 
-    summary = clean_text(text).strip(" \"'")
-    if not summary:
-        raise ValueError("Gemini returned an empty summary")
-    if len(summary) > 500:
-        raise ValueError("Gemini returned an unexpectedly long summary")
+    if finish_reason == "MAX_TOKENS":
+        raise ValueError("Gemini hit the output-token limit")
+
+    summary = normalise_summary(text)
+    if not valid_summary(summary):
+        raise ValueError(f"Gemini returned an invalid summary: {summary!r}")
     return summary
 
 
@@ -244,9 +267,11 @@ def main() -> int:
 
         summary: str | None = None
         if isinstance(cached, dict):
-            cached_summary = clean_text(cached.get("summary"))
-            if cached_summary:
+            cached_summary = normalise_summary(cached.get("summary"))
+            if valid_summary(cached_summary):
                 summary = cached_summary
+            elif key:
+                cache.pop(key, None)
 
         if summary is None and can_create and created_this_run < MAX_NEW and post_url:
             try:
