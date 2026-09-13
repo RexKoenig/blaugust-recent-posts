@@ -7,6 +7,7 @@ on:
     paths:
       - ".github/workflows/summary-prototype.yml"
       - "scripts/build_summary_prototype.py"
+      - "tests/test_summary_url_safety.py"
       - "requirements-summary.txt"
 
 permissions:
@@ -36,6 +37,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements-summary.txt
+
+      - name: Test URL safety rules
+        run: python -m unittest tests/test_summary_url_safety.py
 
       - name: Build summary prototype
         env:
