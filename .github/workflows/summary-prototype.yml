@@ -1,0 +1,66 @@
+name: Test AI summary prototype
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [summary-prototype]
+    paths:
+      - ".github/workflows/summary-prototype.yml"
+      - "scripts/build_summary_prototype.py"
+      - "tests/test_summary_url_safety.py"
+      - "requirements-summary.txt"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: summary-prototype
+  cancel-in-progress: false
+
+jobs:
+  build-summary-prototype:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out prototype branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: summary-prototype
+
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-summary.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements-summary.txt
+
+      - name: Test URL safety rules
+        run: python -m unittest tests/test_summary_url_safety.py
+
+      - name: Build summary prototype
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-5.6-luna
+          SUMMARY_MAX_NEW: "20"
+          OPENAI_MAX_OUTPUT_TOKENS: "160"
+          OPENAI_MAX_RETRIES: "2"
+          OPENAI_REQUEST_DELAY: "0.5"
+        run: python scripts/build_summary_prototype.py
+
+      - name: Save prototype output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            data/summary-cache.json \
+            docs/latest-posts-summaries.json \
+            docs/latest-posts-summaries-data.js
+          if ! git diff --cached --quiet; then
+            git commit -m "Generate OpenAI summary prototype"
+            git pull --rebase origin summary-prototype
+            git push origin HEAD:summary-prototype
+          fi
