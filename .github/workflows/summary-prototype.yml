@@ -6,6 +6,7 @@ on:
     branches: [summary-prototype]
     paths:
       - ".github/workflows/summary-prototype.yml"
+      - "scripts/build_summary_prototype.py"
 
 permissions:
   contents: write
