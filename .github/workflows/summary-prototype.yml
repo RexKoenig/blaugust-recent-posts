@@ -11,9 +11,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: summary-prototype
+  cancel-in-progress: false
+
 jobs:
   build-summary-prototype:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Check out prototype branch
@@ -32,9 +37,12 @@ jobs:
 
       - name: Build summary prototype
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-3.6-flash
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-5.6-luna
           SUMMARY_MAX_NEW: "20"
+          OPENAI_MAX_OUTPUT_TOKENS: "160"
+          OPENAI_MAX_RETRIES: "2"
+          OPENAI_REQUEST_DELAY: "0.5"
         run: python scripts/build_summary_prototype.py
 
       - name: Save prototype output
@@ -46,6 +54,6 @@ jobs:
             docs/latest-posts-summaries.json \
             docs/latest-posts-summaries-data.js
           if ! git diff --cached --quiet; then
-            git commit -m "Generate AI summary prototype"
+            git commit -m "Generate OpenAI summary prototype"
             git push origin HEAD:summary-prototype
           fi
