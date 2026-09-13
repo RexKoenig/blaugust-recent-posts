@@ -1,0 +1,50 @@
+name: Test AI summary prototype
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [summary-prototype]
+    paths:
+      - ".github/workflows/summary-prototype.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build-summary-prototype:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out prototype branch
+        uses: actions/checkout@v4
+        with:
+          ref: summary-prototype
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build summary prototype
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-3.6-flash
+          SUMMARY_MAX_NEW: "20"
+        run: python scripts/build_summary_prototype.py
+
+      - name: Save prototype output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            data/summary-cache.json \
+            docs/latest-posts-summaries.json \
+            docs/latest-posts-summaries-data.js
+          if ! git diff --cached --quiet; then
+            git commit -m "Generate AI summary prototype"
+            git push origin HEAD:summary-prototype
+          fi
