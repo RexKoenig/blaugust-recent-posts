@@ -7,10 +7,12 @@ cached, asks the Gemini API for a short neutral summary, and writes separate
 prototype JSON/JavaScript files.
 
 Environment variables:
-    GEMINI_API_KEY        Required for creating new summaries.
-    GEMINI_MODEL          Defaults to gemini-3.6-flash.
-    SUMMARY_MAX_NEW       Maximum uncached posts to summarise in one run (20).
-    SUMMARY_EXCERPT_CHARS Maximum extracted article characters sent to Gemini.
+    GEMINI_API_KEY          Required for creating new summaries.
+    GEMINI_MODEL            Defaults to gemini-3.6-flash.
+    SUMMARY_MAX_NEW         Maximum uncached posts to summarise in one run (20).
+    SUMMARY_EXCERPT_CHARS   Maximum extracted article characters sent to Gemini.
+    GEMINI_REQUEST_DELAY    Seconds between successful Gemini requests (10).
+    GEMINI_MAX_RETRIES      Number of retries after rate-limit/server errors (4).
 """
 
 from __future__ import annotations
@@ -27,6 +29,7 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urlsplit, urlunsplit
 
+import feedparser
 import requests
 from bs4 import BeautifulSoup
 from readability import Document
@@ -41,11 +44,14 @@ MODEL = os.getenv("GEMINI_MODEL", "gemini-3.6-flash").strip()
 MAX_NEW = max(0, int(os.getenv("SUMMARY_MAX_NEW", "20")))
 MAX_EXCERPT_CHARS = max(1000, int(os.getenv("SUMMARY_EXCERPT_CHARS", "6000")))
 MAX_ARTICLE_BYTES = max(250_000, int(os.getenv("SUMMARY_MAX_ARTICLE_BYTES", str(3 * 1024 * 1024))))
+MAX_FEED_BYTES = max(250_000, int(os.getenv("SUMMARY_MAX_FEED_BYTES", str(6 * 1024 * 1024))))
 CONNECT_TIMEOUT = float(os.getenv("SUMMARY_CONNECT_TIMEOUT", "10"))
 READ_TIMEOUT = float(os.getenv("SUMMARY_READ_TIMEOUT", "25"))
+GEMINI_REQUEST_DELAY = max(0.0, float(os.getenv("GEMINI_REQUEST_DELAY", "10")))
+GEMINI_MAX_RETRIES = max(0, int(os.getenv("GEMINI_MAX_RETRIES", "4")))
 USER_AGENT = os.getenv(
     "SUMMARY_USER_AGENT",
-    "BlaugustSummaryPrototype/0.2 (+https://www.containsmoderateperil.com/blaugust-blogroll)",
+    "BlaugustSummaryPrototype/0.3 (+https://www.containsmoderateperil.com/blaugust-blogroll)",
 )
 
 SPACE_RE = re.compile(r"\s+")
@@ -64,8 +70,24 @@ def canonical_url(value: str) -> str:
     return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), path, parts.query, ""))
 
 
+def url_identity(value: str) -> tuple[str, str, str]:
+    parts = urlsplit(str(value or "").strip())
+    return (
+        parts.netloc.lower(),
+        parts.path.rstrip("/") or "/",
+        parts.query,
+    )
+
+
 def clean_text(value: Any) -> str:
     return SPACE_RE.sub(" ", html.unescape(str(value or ""))).strip()
+
+
+def html_fragment_to_text(value: Any) -> str:
+    soup = BeautifulSoup(str(value or ""), "html.parser")
+    for tag in soup(["script", "style", "noscript", "svg", "form", "nav", "footer", "aside"]):
+        tag.decompose()
+    return clean_text(soup.get_text(" "))
 
 
 def normalise_summary(value: Any) -> str:
@@ -101,7 +123,7 @@ def load_json(path: Path, default: Any) -> Any:
         return default
 
 
-def extract_readable_text(url: str) -> str:
+def fetch_page_text(url: str) -> str:
     response = requests.get(
         url,
         headers={
@@ -128,20 +150,95 @@ def extract_readable_text(url: str) -> str:
     except Exception:
         readable_html = ""
 
-    soup = BeautifulSoup(readable_html or source_html, "html.parser")
-    for tag in soup(["script", "style", "noscript", "svg", "form", "nav", "footer", "aside"]):
-        tag.decompose()
-
-    text = clean_text(soup.get_text(" "))
+    text = html_fragment_to_text(readable_html or source_html)
     if len(text) < 250 and readable_html:
-        soup = BeautifulSoup(source_html, "html.parser")
-        for tag in soup(["script", "style", "noscript", "svg", "form", "nav", "footer", "aside"]):
-            tag.decompose()
-        text = clean_text(soup.get_text(" "))
+        text = html_fragment_to_text(source_html)
 
     if len(text) < 200:
         raise ValueError("not enough readable article text")
     return text[:MAX_EXCERPT_CHARS]
+
+
+def fetch_feed_text(feed_url: str, post_url: str, post_title: str) -> str:
+    response = requests.get(
+        feed_url,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "application/atom+xml,application/rss+xml,application/xml,text/xml,*/*;q=0.3",
+        },
+        timeout=(CONNECT_TIMEOUT, READ_TIMEOUT),
+        allow_redirects=True,
+    )
+    response.raise_for_status()
+    if len(response.content) > MAX_FEED_BYTES:
+        raise ValueError(f"feed exceeds {MAX_FEED_BYTES} bytes")
+
+    parsed = feedparser.parse(response.content)
+    if not parsed.entries:
+        raise ValueError("feed contains no entries")
+
+    wanted_identity = url_identity(post_url)
+    wanted_title = clean_text(post_title).casefold()
+    matches: list[Any] = []
+
+    for entry in parsed.entries[:30]:
+        entry_link = str(entry.get("link") or "").strip()
+        entry_title = clean_text(entry.get("title")).casefold()
+        if (entry_link and url_identity(entry_link) == wanted_identity) or (
+            wanted_title and entry_title == wanted_title
+        ):
+            matches.append(entry)
+
+    if not matches:
+        raise ValueError("matching post not found in feed")
+
+    entry = matches[0]
+    fragments: list[str] = []
+    for content in entry.get("content", []) or []:
+        if isinstance(content, dict) and content.get("value"):
+            fragments.append(str(content["value"]))
+    for key in ("summary", "description"):
+        value = entry.get(key)
+        if value:
+            fragments.append(str(value))
+
+    text = clean_text(" ".join(html_fragment_to_text(fragment) for fragment in fragments))
+    if len(text) < 80:
+        raise ValueError("feed entry contains too little readable text")
+    return text[:MAX_EXCERPT_CHARS]
+
+
+def extract_source_text(post: dict[str, Any]) -> tuple[str, str]:
+    page_error: Exception | None = None
+    try:
+        return fetch_page_text(str(post.get("post_url") or "")), "page"
+    except Exception as exc:
+        page_error = exc
+
+    try:
+        return (
+            fetch_feed_text(
+                str(post.get("feed_url") or ""),
+                str(post.get("post_url") or ""),
+                clean_text(post.get("post_title")),
+            ),
+            "feed",
+        )
+    except Exception as feed_error:
+        raise ValueError(
+            f"page failed ({type(page_error).__name__}: {page_error}); "
+            f"feed fallback failed ({type(feed_error).__name__}: {feed_error})"
+        ) from feed_error
+
+
+def retry_delay(response: requests.Response, attempt: int) -> float:
+    retry_after = (response.headers.get("Retry-After") or "").strip()
+    if retry_after:
+        try:
+            return max(1.0, min(float(retry_after), 120.0))
+        except ValueError:
+            pass
+    return min(15.0 * (2 ** attempt), 90.0)
 
 
 def gemini_summary(
@@ -172,43 +269,58 @@ ARTICLE TEXT:
 {article_text}
 """
 
-    response = requests.post(
-        endpoint,
-        headers={
-            "x-goog-api-key": api_key,
-            "Content-Type": "application/json",
-        },
-        json={
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {
-                "maxOutputTokens": 300,
-                "thinkingConfig": {"thinkingLevel": "minimal"},
+    for attempt in range(GEMINI_MAX_RETRIES + 1):
+        response = requests.post(
+            endpoint,
+            headers={
+                "x-goog-api-key": api_key,
+                "Content-Type": "application/json",
             },
-        },
-        timeout=(CONNECT_TIMEOUT, 60),
-    )
-    response.raise_for_status()
-    payload = response.json()
-
-    try:
-        candidate = payload["candidates"][0]
-        finish_reason = str(candidate.get("finishReason") or "")
-        parts = candidate["content"]["parts"]
-        text = "".join(
-            str(part.get("text") or "")
-            for part in parts
-            if not part.get("thought")
+            json={
+                "contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {
+                    "maxOutputTokens": 300,
+                    "thinkingConfig": {"thinkingLevel": "minimal"},
+                },
+            },
+            timeout=(CONNECT_TIMEOUT, 60),
         )
-    except (KeyError, IndexError, TypeError) as exc:
-        raise ValueError("Gemini response did not contain summary text") from exc
 
-    if finish_reason == "MAX_TOKENS":
-        raise ValueError("Gemini hit the output-token limit")
+        if response.status_code == 429 or 500 <= response.status_code < 600:
+            if attempt >= GEMINI_MAX_RETRIES:
+                response.raise_for_status()
+            delay = retry_delay(response, attempt)
+            print(
+                f"Gemini returned HTTP {response.status_code}; retrying after {delay:.0f}s.",
+                file=sys.stderr,
+            )
+            time.sleep(delay)
+            continue
 
-    summary = normalise_summary(text)
-    if not valid_summary(summary):
-        raise ValueError(f"Gemini returned an invalid summary: {summary!r}")
-    return summary
+        response.raise_for_status()
+        payload = response.json()
+
+        try:
+            candidate = payload["candidates"][0]
+            finish_reason = str(candidate.get("finishReason") or "")
+            parts = candidate["content"]["parts"]
+            text = "".join(
+                str(part.get("text") or "")
+                for part in parts
+                if not part.get("thought")
+            )
+        except (KeyError, IndexError, TypeError) as exc:
+            raise ValueError("Gemini response did not contain summary text") from exc
+
+        if finish_reason == "MAX_TOKENS":
+            raise ValueError("Gemini hit the output-token limit")
+
+        summary = normalise_summary(text)
+        if not valid_summary(summary):
+            raise ValueError(f"Gemini returned an invalid summary: {summary!r}")
+        return summary
+
+    raise RuntimeError("Gemini retry loop ended unexpectedly")
 
 
 def write_outputs(source: dict[str, Any], posts: list[dict[str, Any]], generated_at: str) -> None:
@@ -275,7 +387,7 @@ def main() -> int:
 
         if summary is None and can_create and created_this_run < MAX_NEW and post_url:
             try:
-                article_text = extract_readable_text(post_url)
+                article_text, source_kind = extract_source_text(post)
                 summary = gemini_summary(
                     api_key=api_key,
                     blog_title=clean_text(post.get("blog_title")),
@@ -290,9 +402,11 @@ def main() -> int:
                     "model": MODEL,
                     "created_at": generated_at,
                     "source_chars": len(article_text),
+                    "source_kind": source_kind,
                 }
                 created_this_run += 1
-                time.sleep(0.75)
+                if GEMINI_REQUEST_DELAY:
+                    time.sleep(GEMINI_REQUEST_DELAY)
             except Exception as exc:
                 failures.append(
                     f"{clean_text(post.get('blog_title'))} — "
