@@ -114,8 +114,12 @@ def html_fragment_to_text(value: Any) -> str:
 
 def normalise_summary(value: Any) -> str:
     summary = clean_text(value).strip(" \"'")
-    summary = re.sub(r"^[*#>-]+\s*", "", summary)
-    summary = re.sub(r"\s*[*#]+$", "", summary).strip()
+    # Keep output plain text even if the model occasionally adds Markdown
+    # emphasis or a Markdown link around a title despite the prompt.
+    summary = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", summary)
+    summary = summary.replace("**", "").replace("*", "").replace("`", "")
+    summary = re.sub(r"^[#>-]+\s*", "", summary)
+    summary = re.sub(r"\s*#+$", "", summary).strip()
     return summary
 
 
