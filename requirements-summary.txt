@@ -1,0 +1,4 @@
+-r requirements.txt
+beautifulsoup4==4.15.0
+readability-lxml==0.8.4.1
+chardet==5.2.0
