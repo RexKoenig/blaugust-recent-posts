@@ -7,6 +7,7 @@ on:
     paths:
       - ".github/workflows/summary-prototype.yml"
       - "scripts/build_summary_prototype.py"
+      - "requirements-summary.txt"
 
 permissions:
   contents: write
@@ -31,9 +32,10 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+          cache-dependency-path: requirements-summary.txt
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements-summary.txt
 
       - name: Build summary prototype
         env:
@@ -55,5 +57,6 @@ jobs:
             docs/latest-posts-summaries-data.js
           if ! git diff --cached --quiet; then
             git commit -m "Generate OpenAI summary prototype"
+            git pull --rebase origin summary-prototype
             git push origin HEAD:summary-prototype
           fi
