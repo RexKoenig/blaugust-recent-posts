@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-09-13T16:10:04.578136Z",
-  "source_generated_at": "2026-09-13T11:50:44.265620Z",
+  "generated_at": "2026-09-13T18:12:42.654753Z",
+  "source_generated_at": "2026-09-13T18:12:09.673827Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
   "summary_count": 20,
   "posts": [
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Raising kids when you're not a parent",
+      "post_url": "https://francescrossley.com/raising-kids-when-youre-not-a-parent/",
+      "published": "2026-09-13T18:00:00Z",
+      "summary": "The piece reflects on an aunt’s role in raising her niblings, supporting their parents, sharing caregiving, and contributing perspectives beyond everyday parental responsibilities."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Un geam aburit #the100pics",
+      "post_url": "https://thinkroot.xyz/photo-626",
+      "published": "2026-09-13T17:52:52Z",
+      "summary": "A photo titled “Un geam aburit” (“A Fogged Window”) depicts a fogged window and belongs to the #the100pics series."
+    },
+    {
+      "blog_title": "Newsonaut",
+      "blog_url": "https://www.newsonaut.com/",
+      "feed_url": "https://www.newsonaut.com/rss",
+      "post_title": "Upvoting changes the way we think",
+      "post_url": "https://www.newsonaut.com/rss-club-redirect/upvoting-changes-the-way-we-think",
+      "published": "2026-09-13T17:27:10Z",
+      "summary": "Newsonaut compares indieweb platforms with and without upvotes, arguing that voting systems encourage attention-seeking controversy, drama, and polemical discussion."
+    },
+    {
+      "blog_title": "Alligators and aneurysms!",
+      "blog_url": "https://alligatorsandaneurysms.wordpress.com/",
+      "feed_url": "http://alligatorsandaneurysms.wordpress.com/feed/",
+      "post_title": "Blades, Boardrooms, and Burnout: A Review of The Last Contract of Isako",
+      "post_url": "https://alligatorsandaneurysms.wordpress.com/2026/09/13/blades-boardrooms-and-burnout-a-review-of-the-last-contract-of-isako/",
+      "published": "2026-09-13T15:16:56Z",
+      "summary": "Fonda Lee’s The Last Contract of Isako blends blade-driven science-fiction action with corporate dystopia, workplace burnout, Stoic philosophy, and limited exploration of 3D-printed weaponry."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "TAGN Fantasy Critic League 2026 – Week Thirty-Seven with Some Updates",
+      "post_url": "https://tagn.wordpress.com/2026/09/13/tagn-fantasy-critic-league-2026-week-thirty-seven-with-some-updates/",
+      "published": "2026-09-13T14:15:19Z",
+      "summary": "Week 37 of the Fantasy Critic League covers review-score changes, publisher ranking shifts, upcoming releases, and new dates for three Nintendo titles."
+    },
+    {
+      "blog_title": "The Virtual Moose",
+      "blog_url": "https://virtualmoose.org/",
+      "feed_url": "https://virtualmoose.org/feed/",
+      "post_title": "Metroid thoughts",
+      "post_url": "https://virtualmoose.org/2026/09/13/metroid-thoughts/",
+      "published": "2026-09-13T13:43:44Z",
+      "summary": "The writer reflects on completing Nintendo’s 1986 NES game Metroid, praising its mysterious atmosphere while noting frustrating health recovery and seeking similarly strange indie Metroid-likes."
+    },
+    {
+      "blog_title": "BurgeonLab",
+      "blog_url": "https://burgeonlab.com/",
+      "feed_url": "https://burgeonlab.com/all/feed.xml",
+      "post_title": "Host Quartz Static Site on Bunny.net with Middleware Script",
+      "post_url": "https://burgeonlab.com/blog/how-to-use-bunnycdn-for-quartz-ssg/",
+      "published": "2026-09-13T13:23:56Z",
+      "summary": "BurgeonLab explains using Bunny.net Middleware Edge scripts to route Quartz static-site pages, handling flat HTML files, folder indexes, homepage requests, and assets."
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "昨日はクイズの日だったけどそういうのはあんまり関係なくバキ童…",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1266",
+      "published": "2026-09-13T12:59:23Z",
+      "summary": "The writer describes laughing at a Bakidō Channel quiz video, appreciating its educational all-genre format, shared-play potential, and the skill required to create quizzes."
+    },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
@@ -42,15 +114,6 @@
       "post_url": "http://tobolds.blogspot.com/2026/09/when-your-15-minutes-are-over.html",
       "published": "2026-09-13T07:38:02Z",
       "summary": "The piece examines internet fame’s short lifespan, creators’ financial instability after popularity fades, and the risks of treating content creation as a career."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Îmi place să strâng una alta și acest lucru se poate vedea și aici, da…",
-      "post_url": "https://thinkroot.xyz/nota-624",
-      "published": "2026-09-13T07:10:40Z",
-      "summary": "ThinkRoot describes enjoying collecting various items, while sometimes becoming tired of them and considering selling or discarding them."
     },
     {
       "blog_title": "JVT Workshop",
@@ -107,6 +170,15 @@
       "summary": "Brennan Day argues that Christian teachings require compassion toward immigrants and transgender people, citing biblical examples of Jesus embracing marginalized outsiders and eunuchs."
     },
     {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Sunday, 13 September 2026",
+      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-13.html",
+      "published": "2026-09-13T00:00:00Z",
+      "summary": "The Daily Blogroll highlights gaming advice and reviews, upcoming indie titles, nostalgic experiences, EverQuest adventures, travel, collectibles, dreams, and experiments with Claude and RSS."
+    },
+    {
       "blog_title": "Konfetti Explorations",
       "blog_url": "https://marisabel.nl/",
       "feed_url": "https://marisabel.nl/feeds/blog.php",
@@ -114,78 +186,6 @@
       "post_url": "https://marisabel.nl/public/blog/The_Courage_to_Write",
       "published": "2026-09-13T00:00:00Z",
       "summary": "The writer reflects on practicing prose, dyslexia, fear of mistakes and AI suspicion, ultimately embracing messy, authentic writing for joy rather than fame."
-    },
-    {
-      "blog_title": "Home on devz.cl",
-      "blog_url": "https://devz.cl/",
-      "feed_url": "https://devz.cl/index.xml",
-      "post_title": "Re: On Eating Fruit Skins",
-      "post_url": "https://devz.cl/posts/re-on-eating-fruit-skins/",
-      "published": "2026-09-12T23:08:20Z",
-      "summary": "The writer reflects on eating apples whole and kiwis with their skins, finding kiwi more tolerable while questioning conventional fruit-eating habits."
-    },
-    {
-      "blog_title": "Lameazoid",
-      "blog_url": "https://lameazoid.com/",
-      "feed_url": "https://lameazoid.com/feed/",
-      "post_title": "Weekly Wrap Up (2026.09.12)",
-      "post_url": "https://lameazoid.com/weekly-wrap-up-2026-09-12/",
-      "published": "2026-09-12T23:00:00Z",
-      "summary": "A weekly roundup covers roof repairs, toy and book purchases, music acquisitions, learning guitar, listening statistics, and newly acquired Pentax lenses."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "‘Streaks Considered Harmful’",
-      "post_url": "https://jagsworkshop.com/2026/09/streaks-considered-harmful/",
-      "published": "2026-09-12T22:31:53Z",
-      "summary": "JAG’s Workshop examines how habit-tracking streaks motivate continued behavior while making missed days disproportionately demoralizing, drawing on Duolingo, publishing, and Wordle experiences."
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "Large Observable Update",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2205",
-      "published": "2026-09-12T21:56:04Z",
-      "summary": "Observable’s major update introduces enhanced notebooks, interactive charting models, and a downloadable Mac app, prompting renewed exploration alongside D3, Plotly, and data tools."
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Bought a Thinkpad",
-      "post_url": "https://sals.place/blog/bought-a-thinkpad/",
-      "published": "2026-09-12T21:39:18Z",
-      "summary": "Sal describes buying a Lenovo ThinkPad X1 Carbon Gen 9 after repeatedly considering used Linux laptops despite already owning several capable Apple devices."
-    },
-    {
-      "blog_title": "Priest with a Cause",
-      "blog_url": "https://priestwithacause.blogspot.com/",
-      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Classic+ Is Real: Warcraft Forever",
-      "post_url": "https://priestwithacause.blogspot.com/2026/09/classic-is-real-warcraft-forever.html",
-      "published": "2026-09-12T21:35:20Z",
-      "summary": "BlizzCon announced Classic+, a level-60 Azeroth expansion launching November 4th with new zones, dungeons, raids, battlegrounds, talents, class combinations, and customizable visuals."
-    },
-    {
-      "blog_title": "Gaudete Theology",
-      "blog_url": "https://gaudetetheology.wordpress.com/",
-      "feed_url": "http://gaudetetheology.wordpress.com/feed/",
-      "post_title": "You Can, If You Want To: Monday Read-Aloud Book Group",
-      "post_url": "https://gaudetetheology.wordpress.com/2026/09/12/you-can-if-you-want-to-monday-read-aloud-book-group/",
-      "published": "2026-09-12T20:45:44Z",
-      "summary": "A relaxed ecumenical Zoom book group reads and discusses James Alison’s You Can, If You Want To, exploring Christian faith, conscience, and LGBTQ+ matters."
-    },
-    {
-      "blog_title": "Clandestini",
-      "blog_url": "https://clandestini.org/",
-      "feed_url": "https://clandestini.org/feed/",
-      "post_title": "planner & journal ecosystem atual",
-      "post_url": "https://clandestini.org/blog/planner-journal-ecosystem-atual/",
-      "published": "2026-09-12T20:45:36Z",
-      "summary": "A writer describes developing a four-part planning and journaling system using two Filofax organizers, a Traveler’s Notebook, and a Midori journal."
     }
   ]
 }
