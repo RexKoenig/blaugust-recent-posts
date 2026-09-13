@@ -404,5 +404,61 @@
     "source_kind": "page",
     "input_tokens": 626,
     "output_tokens": 38
+  },
+  "https://www.vanderwal.net/random/entrysel.php?blog=2206": {
+    "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2206",
+    "post_title": "Barbican Station Podcast is Back",
+    "blog_title": "Off the Top",
+    "summary": "The Barbican Station podcast returns to preview Slow Horses season six, examining its adaptation of Mick Herron’s Joe Country and Slough House novels.",
+    "provider": "openai",
+    "model": "gpt-5.6-luna",
+    "prompt_version": "2026-09-13-v2",
+    "created_at": "2026-09-13T20:50:03.381504Z",
+    "source_chars": 1341,
+    "source_kind": "page",
+    "input_tokens": 583,
+    "output_tokens": 33
+  },
+  "https://pretendtypewriter.net/2026-week-37": {
+    "post_url": "https://pretendtypewriter.net/2026-week-37/",
+    "post_title": "WEEK 37",
+    "blog_title": "Pretend Typewriter",
+    "summary": "Week 37 records job loss, comfort from K-dramas, social activities, creative projects, baking, pancakes, choir plans, media viewing, and difficulties maintaining hygiene.",
+    "provider": "openai",
+    "model": "gpt-5.6-luna",
+    "prompt_version": "2026-09-13-v2",
+    "created_at": "2026-09-13T20:50:03.381504Z",
+    "source_chars": 2179,
+    "source_kind": "page",
+    "input_tokens": 828,
+    "output_tokens": 39
+  },
+  "https://varunbarad.com/blog/fedora-firefox-start-page.html": {
+    "post_url": "https://varunbarad.com/blog/fedora-firefox-start-page.html",
+    "post_title": "Fixing Firefox's Face Flaws",
+    "blog_title": "Varun Barad - Curious Developer",
+    "summary": "Varun Barad describes diagnosing Fedora’s Firefox start-page reset and using sed commands plus a DNF5 Actions plugin to preserve preferred homepage and new-tab settings.",
+    "provider": "openai",
+    "model": "gpt-5.6-luna",
+    "prompt_version": "2026-09-13-v2",
+    "created_at": "2026-09-13T20:50:03.381504Z",
+    "source_chars": 2615,
+    "source_kind": "page",
+    "input_tokens": 863,
+    "output_tokens": 36
+  },
+  "https://tagn.wordpress.com/2026/09/13/eve-online-and-the-road-to-csm-21": {
+    "post_url": "https://tagn.wordpress.com/2026/09/13/eve-online-and-the-road-to-csm-21/",
+    "post_title": "EVE Online and the Road to CSM 21",
+    "blog_title": "The Ancient Gaming Noob",
+    "summary": "EVE Online’s upcoming CSM21 elections prompt criticism of CCP’s responsiveness to player feedback, the council’s limited influence, and the candidate schedule and requirements.",
+    "provider": "openai",
+    "model": "gpt-5.6-luna",
+    "prompt_version": "2026-09-13-v2",
+    "created_at": "2026-09-13T20:50:03.381504Z",
+    "source_chars": 6000,
+    "source_kind": "page",
+    "input_tokens": 1549,
+    "output_tokens": 36
   }
 }
