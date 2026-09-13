@@ -61,5 +61,55 @@
     "model": "gemini-3.6-flash",
     "created_at": "2026-09-13T13:34:59.953645Z",
     "source_chars": 3432
+  },
+  "https://pretendtypewriter.net/note-pancakes-new": {
+    "post_url": "https://pretendtypewriter.net/note-pancakes-new/",
+    "post_title": "note - pancakes",
+    "blog_title": "Pretend Typewriter",
+    "summary": "The micro-post titled note - pancakes from the blog Pretend Typewriter contains the repeatedly timestamped phrase \"13:30 - Trying to improve.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:37:22.373061Z",
+    "source_chars": 80,
+    "source_kind": "feed"
+  },
+  "http://tobolds.blogspot.com/2026/09/when-your-15-minutes-are-over.html": {
+    "post_url": "http://tobolds.blogspot.com/2026/09/when-your-15-minutes-are-over.html",
+    "post_title": "When your 15 minutes are over",
+    "blog_title": "Tobold's Blog",
+    "summary": "Online content creators across platforms like YouTube, TikTok, and OnlyFans often struggle with financial instability and long-term career sustainability after their internet fame fades.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:37:22.373061Z",
+    "source_chars": 6000,
+    "source_kind": "feed"
+  },
+  "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_202609012": {
+    "post_url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_202609012/",
+    "post_title": "Toots 436 2026 Sep.6 - Sep.12",
+    "blog_title": "素生",
+    "summary": "This weekly microblog log records personal thoughts spanning early September 2026, touching on urban culture, future power grid architecture, health routines, AI tools, and music.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:37:22.373061Z",
+    "source_chars": 1985,
+    "source_kind": "page"
+  },
+  "https://brennan.day/its-christlike-to-love-immigrants-and-transfolk": {
+    "post_url": "https://brennan.day/its-christlike-to-love-immigrants-and-transfolk/",
+    "post_title": "It's Christlike to Love Immigrants and Transfolk",
+    "blog_title": "Brennan Day",
+    "summary": "Brennan Day argues that biblical scriptures and the teachings of Jesus Christ command Christians to show love, inclusion, and mercy toward marginalized groups, including immigrants and transgender people.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:37:22.373061Z",
+    "source_chars": 6000,
+    "source_kind": "page"
+  },
+  "https://devz.cl/posts/re-on-eating-fruit-skins": {
+    "post_url": "https://devz.cl/posts/re-on-eating-fruit-skins/",
+    "post_title": "Re: On Eating Fruit Skins",
+    "blog_title": "Home on devz.cl",
+    "summary": "Personal experiences with eating entire apples and kiwi skins demonstrate how questioning default eating habits can lead to enjoying fruits more fully.",
+    "model": "gemini-3.6-flash",
+    "created_at": "2026-09-13T13:37:22.373061Z",
+    "source_chars": 730,
+    "source_kind": "page"
   }
 }
