@@ -1,0 +1,240 @@
+<!--
+  BLAUGUST RECENT POSTS + AI SUMMARY PROTOTYPE
+  PROTOTYPE ONLY — do not use as the live widget yet.
+  Reads summary data from the summary-prototype branch on GitHub.
+-->
+<div
+  class="cmp-summary-prototype"
+  id="cmp-summary-prototype"
+  data-source="https://raw.githubusercontent.com/RexKoenig/blaugust-recent-posts/summary-prototype/docs/latest-posts-summaries.json"
+>
+  <div class="cmp-summary-header">
+    <h2>Recently published around the Blaugust community</h2>
+    <p>The newest posts from blogs in the Blaugust directory.</p>
+  </div>
+  <p class="cmp-summary-status" role="status">Loading recent posts…</p>
+  <ol class="cmp-summary-list" hidden></ol>
+  <p class="cmp-summary-updated" hidden></p>
+</div>
+
+<style>
+  .cmp-summary-prototype {
+    width: 100%;
+    margin: 0 0 3rem;
+    padding: 1.35rem;
+    border: 1px solid rgba(127, 127, 127, 0.35);
+    border-radius: 0.65rem;
+    font: inherit;
+    color: inherit;
+    box-sizing: border-box;
+  }
+
+  .cmp-summary-header {
+    margin-bottom: 1.15rem;
+    padding-bottom: 0.9rem;
+    border-bottom: 1px solid rgba(127, 127, 127, 0.28);
+  }
+
+  .cmp-summary-header h2 {
+    margin: 0 0 0.35rem;
+  }
+
+  .cmp-summary-header p,
+  .cmp-summary-status,
+  .cmp-summary-updated {
+    margin: 0;
+    opacity: 0.76;
+  }
+
+  .cmp-summary-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem 1.6rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    counter-reset: cmp-summary;
+  }
+
+  .cmp-summary-list li {
+    min-width: 0;
+    margin: 0;
+    padding-left: 1.75rem;
+    position: relative;
+    counter-increment: cmp-summary;
+  }
+
+  .cmp-summary-list li::before {
+    content: counter(cmp-summary) ".";
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0.55;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .cmp-summary-title {
+    display: block;
+    color: inherit;
+    font-weight: 600;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  .cmp-summary-title:hover,
+  .cmp-summary-title:focus-visible {
+    text-decoration-thickness: 2px;
+  }
+
+  .cmp-summary-meta {
+    margin-top: 0.2rem;
+    font-size: 0.9em;
+    line-height: 1.35;
+    opacity: 0.72;
+  }
+
+  .cmp-summary-blog {
+    color: inherit;
+  }
+
+  .cmp-summary-text {
+    margin: 0.3rem 0 0;
+    font-size: 0.9em;
+    line-height: 1.45;
+  }
+
+  .cmp-summary-updated {
+    margin-top: 1.15rem;
+    padding-top: 0.8rem;
+    border-top: 1px solid rgba(127, 127, 127, 0.2);
+    font-size: 0.85em;
+  }
+
+  @media (max-width: 700px) {
+    .cmp-summary-prototype {
+      padding: 1.1rem;
+    }
+
+    .cmp-summary-header h2 {
+      font-size: 1.55rem;
+      line-height: 1.1;
+    }
+
+    .cmp-summary-list {
+      grid-template-columns: 1fr;
+    }
+
+    .cmp-summary-text {
+      line-height: 1.45;
+    }
+  }
+</style>
+
+<script>
+(function () {
+  "use strict";
+
+  var root = document.getElementById("cmp-summary-prototype");
+  if (!root) return;
+
+  var list = root.querySelector(".cmp-summary-list");
+  var status = root.querySelector(".cmp-summary-status");
+  var updated = root.querySelector(".cmp-summary-updated");
+
+  function makeLink(className, text, href) {
+    var link = document.createElement("a");
+    link.className = className;
+    link.textContent = text;
+    link.href = href;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    return link;
+  }
+
+  function formatPostDate(value) {
+    var date = new Date(value);
+    if (Number.isNaN(date.getTime())) return "Date unavailable";
+    return new Intl.DateTimeFormat("en-GB", {
+      day: "numeric",
+      month: "short",
+      year: "numeric"
+    }).format(date);
+  }
+
+  function formatUpdated(value) {
+    var date = new Date(value);
+    if (Number.isNaN(date.getTime())) return "";
+    return new Intl.DateTimeFormat("en-GB", {
+      day: "numeric",
+      month: "long",
+      year: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
+      timeZone: "Europe/London",
+      timeZoneName: "short"
+    }).format(date);
+  }
+
+  function render(data) {
+    list.replaceChildren();
+    var posts = data && Array.isArray(data.posts) ? data.posts : [];
+
+    if (!posts.length) {
+      status.textContent = "No recent posts are available yet.";
+      status.hidden = false;
+      list.hidden = true;
+      updated.hidden = true;
+      return;
+    }
+
+    posts.forEach(function (post) {
+      var item = document.createElement("li");
+      item.appendChild(makeLink("cmp-summary-title", post.post_title, post.post_url));
+
+      var meta = document.createElement("div");
+      meta.className = "cmp-summary-meta";
+      meta.appendChild(makeLink("cmp-summary-blog", post.blog_title, post.blog_url));
+      meta.appendChild(document.createTextNode(" · "));
+
+      var time = document.createElement("time");
+      time.dateTime = post.published;
+      time.textContent = formatPostDate(post.published);
+      meta.appendChild(time);
+      item.appendChild(meta);
+
+      if (post.summary) {
+        var summary = document.createElement("p");
+        summary.className = "cmp-summary-text";
+        summary.textContent = post.summary;
+        item.appendChild(summary);
+      }
+
+      list.appendChild(item);
+    });
+
+    status.hidden = true;
+    list.hidden = false;
+
+    var refreshed = formatUpdated(data.source_generated_at || data.generated_at);
+    if (refreshed) {
+      updated.textContent = "Feed list last refreshed " + refreshed + ".";
+      updated.hidden = false;
+    }
+  }
+
+  fetch(root.getAttribute("data-source") + "?v=" + Date.now(), {
+    cache: "no-store",
+    mode: "cors"
+  })
+    .then(function (response) {
+      if (!response.ok) throw new Error("HTTP " + response.status);
+      return response.json();
+    })
+    .then(render)
+    .catch(function () {
+      status.textContent = "The recent-post summary prototype could not be loaded at present.";
+    });
+})();
+</script>
