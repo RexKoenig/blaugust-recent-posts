@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T20:50:03.381504Z",
-  "source_generated_at": "2026-09-13T20:49:26.603132Z",
+  "generated_at": "2026-09-14T12:46:14.623808Z",
+  "source_generated_at": "2026-09-14T12:45:36.886598Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -8,184 +8,184 @@
   "summary_count": 20,
   "posts": [
     {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "Barbican Station Podcast is Back",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2206",
-      "published": "2026-09-13T20:23:05Z",
-      "summary": "The Barbican Station podcast returns to preview Slow Horses season six, examining its adaptation of Mick Herron’s Joe Country and Slough House novels."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "WEEK 37",
-      "post_url": "https://pretendtypewriter.net/2026-week-37/",
-      "published": "2026-09-13T20:14:59Z",
-      "summary": "Week 37 records job loss, comfort from K-dramas, social activities, creative projects, baking, pancakes, choir plans, media viewing, and difficulties maintaining hygiene."
-    },
-    {
-      "blog_title": "Varun Barad - Curious Developer",
-      "blog_url": "https://varunbarad.com/",
-      "feed_url": "https://varunbarad.com/feed.xml",
-      "post_title": "Fixing Firefox's Face Flaws",
-      "post_url": "https://varunbarad.com/blog/fedora-firefox-start-page.html",
-      "published": "2026-09-13T19:03:57Z",
-      "summary": "Varun Barad describes diagnosing Fedora’s Firefox start-page reset and using sed commands plus a DNF5 Actions plugin to preserve preferred homepage and new-tab settings."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "EVE Online and the Road to CSM 21",
-      "post_url": "https://tagn.wordpress.com/2026/09/13/eve-online-and-the-road-to-csm-21/",
-      "published": "2026-09-13T18:15:52Z",
-      "summary": "EVE Online’s upcoming CSM21 elections prompt criticism of CCP’s responsiveness to player feedback, the council’s limited influence, and the candidate schedule and requirements."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Raising kids when you're not a parent",
-      "post_url": "https://francescrossley.com/raising-kids-when-youre-not-a-parent/",
-      "published": "2026-09-13T18:00:00Z",
-      "summary": "The piece reflects on an aunt’s role in raising her niblings, supporting their parents, sharing caregiving, and contributing perspectives beyond everyday parental responsibilities."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Un geam aburit #the100pics",
-      "post_url": "https://thinkroot.xyz/photo-626",
-      "published": "2026-09-13T17:52:52Z",
-      "summary": "A photo titled “Un geam aburit” (“A Fogged Window”) depicts a fogged window and belongs to the #the100pics series."
-    },
-    {
-      "blog_title": "Newsonaut",
-      "blog_url": "https://www.newsonaut.com/",
-      "feed_url": "https://www.newsonaut.com/rss",
-      "post_title": "Upvoting changes the way we think",
-      "post_url": "https://www.newsonaut.com/rss-club-redirect/upvoting-changes-the-way-we-think",
-      "published": "2026-09-13T17:27:10Z",
-      "summary": "Newsonaut compares indieweb platforms with and without upvotes, arguing that voting systems encourage attention-seeking controversy, drama, and polemical discussion."
-    },
-    {
-      "blog_title": "Alligators and aneurysms!",
-      "blog_url": "https://alligatorsandaneurysms.wordpress.com/",
-      "feed_url": "http://alligatorsandaneurysms.wordpress.com/feed/",
-      "post_title": "Blades, Boardrooms, and Burnout: A Review of The Last Contract of Isako",
-      "post_url": "https://alligatorsandaneurysms.wordpress.com/2026/09/13/blades-boardrooms-and-burnout-a-review-of-the-last-contract-of-isako/",
-      "published": "2026-09-13T15:16:56Z",
-      "summary": "Fonda Lee’s The Last Contract of Isako blends blade-driven science-fiction action with corporate dystopia, workplace burnout, Stoic philosophy, and limited exploration of 3D-printed weaponry."
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "Metroid thoughts",
-      "post_url": "https://virtualmoose.org/2026/09/13/metroid-thoughts/",
-      "published": "2026-09-13T13:43:44Z",
-      "summary": "The writer reflects on completing Nintendo’s 1986 NES game Metroid, praising its mysterious atmosphere while noting frustrating health recovery and seeking similarly strange indie Metroid-likes."
-    },
-    {
-      "blog_title": "BurgeonLab",
-      "blog_url": "https://burgeonlab.com/",
-      "feed_url": "https://burgeonlab.com/all/feed.xml",
-      "post_title": "Host Quartz Static Site on Bunny.net with Middleware Script",
-      "post_url": "https://burgeonlab.com/blog/how-to-use-bunnycdn-for-quartz-ssg/",
-      "published": "2026-09-13T13:23:56Z",
-      "summary": "BurgeonLab explains using Bunny.net Middleware Edge scripts to route Quartz static-site pages, handling flat HTML files, folder indexes, homepage requests, and assets."
-    },
-    {
-      "blog_title": "TGLG",
-      "blog_url": "https://392ms.witchserver.jp/kb/",
-      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "昨日はクイズの日だったけどそういうのはあんまり関係なくバキ童…",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1266",
-      "published": "2026-09-13T12:59:23Z",
-      "summary": "The writer describes laughing at a Bakidō Channel quiz video, appreciating its educational all-genre format, shared-play potential, and the skill required to create quizzes."
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Roald Dahl Day",
-      "post_url": "https://nomadwarmachine.co.uk/2026/09/13/roald-dahl-day/",
-      "published": "2026-09-13T09:54:23Z",
-      "summary": "NomadWarMachine celebrates Roald Dahl Day with artwork inspired by a quote from The Minpins and a gif depicting a horse transforming into a unicorn."
+      "blog_title": "Another Dayu",
+      "blog_url": "https://anotherdayu.com/",
+      "feed_url": "https://anotherdayu.com/feed/",
+      "post_title": "Fitbit Air: 近期最喜欢的数码产品",
+      "post_url": "https://anotherdayu.com/fitbit-air/",
+      "published": "2026-09-14T12:08:00Z",
+      "summary": "Fitbit Air is praised for unobtrusive wear, dense heart-rate recording, automatic workout detection, and sufficient basic health data without requiring active user involvement."
     },
     {
       "blog_title": "Sylvia's Studio",
       "blog_url": "https://sylvia.studio/",
       "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Pushing myself into action",
-      "post_url": "https://sylvia.studio/posts/pushing-myself-into-action",
-      "published": "2026-09-13T09:01:52Z",
-      "summary": "Sylvia describes overcoming medication-related fatigue by thrifting, shopping for sugar-free snacks, walking 4,000 steps, and planning a return to the gym."
+      "post_title": "Being imperfect is perfection",
+      "post_url": "https://sylvia.studio/posts/being-imperfect-is-perfection",
+      "published": "2026-09-14T12:03:03Z",
+      "summary": "Sylvia’s Studio celebrates imperfect human creativity, valuing handwritten, doodled, quirky, and experimental expressions over flawless machine-produced text."
     },
     {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "When your 15 minutes are over",
-      "post_url": "http://tobolds.blogspot.com/2026/09/when-your-15-minutes-are-over.html",
-      "published": "2026-09-13T07:38:02Z",
-      "summary": "The piece examines internet fame’s short lifespan, creators’ financial instability after popularity fades, and the risks of treating content creation as a career."
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "‘Make Art, Dammit!’ a la Karel Appell",
+      "post_url": "https://nomadwarmachine.co.uk/2026/09/14/make-art-dammit-a-la-karel-appell/",
+      "published": "2026-09-14T11:50:54Z",
+      "summary": "An art prompt inspired by Karel Appel presents an abstract oil painting transformed through colour changes, digital filters, and Lunapic effects."
     },
     {
-      "blog_title": "JVT Workshop",
-      "blog_url": "http://josephskyrim.blogspot.com/",
-      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
-      "post_title": "More than Nothing: At the Edge of the City",
-      "post_url": "http://josephskyrim.blogspot.com/2026/09/more-than-nothing-at-edge-of-city.html",
-      "published": "2026-09-13T07:03:27Z",
-      "summary": "The company battles Valamonde’s forces, gains Lady Dorza’s aid, survives a devastating aerial attack, and encounters older versions of themselves guarding a magical city."
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Forța de elită",
+      "post_url": "https://thinkroot.xyz/forta-de-elita-627",
+      "published": "2026-09-14T10:04:08Z",
+      "summary": "A Romanian post titled “Forța de elită” appears to be a five-star-rated 2026 TMDb entry, but the supplied text provides no further subject details."
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "What Are The Chances?",
+      "post_url": "https://bhagpuss.blogspot.com/2026/09/what-are-chances.html",
+      "published": "2026-09-14T08:43:12Z",
+      "summary": "The post recounts gacha experiences across several games, focusing on failed attempts and eventual success obtaining Linko in Neverness To Everness."
     },
     {
       "blog_title": "Small Good Things",
       "blog_url": "https://hollie.eilloh.net/",
       "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Tiny bakers, actual happiness, gaming nerds, Bunana",
-      "post_url": "https://hollie.eilloh.net/posts/tiny-bakers-actual-happiness-gaming-nerds-bunana",
-      "published": "2026-09-13T06:01:00Z",
-      "summary": "A joyful bakery visit marks improved anxiety, gratitude for everyday experiences, shared gaming, knitting, and hopes of eventually walking farther through cities."
+      "post_title": "Grogu and Heidi, hammockry, Bunnery",
+      "post_url": "https://hollie.eilloh.net/posts/grogu-and-heidi-hammockry-bunnery",
+      "published": "2026-09-14T06:06:11Z",
+      "summary": "A weekend visit includes hammock knitting, bunny massage, cloud watching, joyful wheat consumption, and reflections on Instagram’s addictive time-wasting appeal."
     },
     {
       "blog_title": "Rishi Dass",
       "blog_url": "https://rishidass.net",
       "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Fear and desire",
-      "post_url": "https://rishidass.net/posts/fear-and-desire",
-      "published": "2026-09-13T05:46:22Z",
-      "summary": "Rishi Dass presents fears and desires as conditioned mental states, suggesting people can avoid engaging with them by redirecting attention when related thoughts or emotions arise."
+      "post_title": "Not your fault",
+      "post_url": "https://rishidass.net/posts/not-your-fault",
+      "published": "2026-09-14T05:57:35Z",
+      "summary": "Rishi Dass reflects on The Bear That Wasn’t, using its bear’s imposed identity to explore conditioning, self-identification with the mind, and overlooked true nature."
     },
     {
       "blog_title": "Cynni’s Blog",
       "blog_url": "https://cynnisblog.wordpress.com/",
       "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "#SilentSunday – Is it spring yet?",
-      "post_url": "https://cynnisblog.wordpress.com/2026/09/13/silentsunday-is-it-spring-yet-2/",
-      "published": "2026-09-13T05:00:00Z",
-      "summary": "A #SilentSunday photograph from Kraaijenbergse Plassen, Netherlands, shows adult Canada geese escorting a brood of goslings across rippling blue water."
+      "post_title": "An unexpected (scary) trigger",
+      "post_url": "https://cynnisblog.wordpress.com/2026/09/14/an-unexpected-scary-trigger/",
+      "published": "2026-09-14T05:00:41Z",
+      "summary": "A child’s opening of a gate near Koa triggers the narrator’s traumatic flashback, causing fear and anger while preventing the Labrador puppy from escaping."
     },
     {
-      "blog_title": "素生",
-      "blog_url": "https://z.arlmy.me/",
-      "feed_url": "http://z.arlmy.me/atom.xml",
-      "post_title": "Toots 436 2026 Sep.6 - Sep.12",
-      "post_url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_202609012/",
-      "published": "2026-09-13T04:22:27Z",
-      "summary": "A weekly collection of reflections on AI, urban change, infrastructure, seasonal health, music, travel, architecture, childhood freedom, and personal routines."
+      "blog_title": "Kaylriene",
+      "blog_url": "https://kaylriene.com/",
+      "feed_url": "https://kaylriene.wordpress.com/feed/",
+      "post_title": "Forever Is A Long Time, But For Whom?",
+      "post_url": "https://kaylriene.com/2026/09/13/forever-is-a-long-time-but-for-whom/",
+      "published": "2026-09-14T03:43:50Z",
+      "summary": "WoW Forever, Blizzard’s Classic Plus project, reimagines Vanilla with expanded content, major gameplay changes, and a continued focus on Azeroth as the central character."
+    },
+    {
+      "blog_title": "Valentine's days",
+      "blog_url": "https://valentine.bearblog.dev/",
+      "feed_url": "https://valentine.bearblog.dev/feed/",
+      "post_title": "learning the boring stuff",
+      "post_url": "https://valentine.bearblog.dev/learning-the-boring-stuff/",
+      "published": "2026-09-14T03:03:00Z",
+      "summary": "A medical student reflects on accepting biochemistry and other uninteresting subjects as necessary parts of learning medicine, while preparing for possible emergencies."
     },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
       "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "It's Christlike to Love Immigrants and Transfolk",
-      "post_url": "https://brennan.day/its-christlike-to-love-immigrants-and-transfolk/",
-      "published": "2026-09-13T02:00:00Z",
-      "summary": "Brennan Day argues that Christian teachings require compassion toward immigrants and transgender people, citing biblical examples of Jesus embracing marginalized outsiders and eunuchs."
+      "post_title": "There is so much to love and celebrate. Reclaim joy. Be open. Forgive.",
+      "post_url": "https://brennan.day/there-is-so-much-to-love-and-celebrate-reclaim-joy-be-open-forgive/",
+      "published": "2026-09-14T02:00:00Z",
+      "summary": "Brennan Day reflects on shared human joy, resisting oppressive systems, open-source contributions, personal identity, forgiveness, and maintaining optimism despite societal problems."
+    },
+    {
+      "blog_title": "Divergent Rays' Blog",
+      "blog_url": "https://divergentrays.com/blog/",
+      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
+      "post_title": "Weekly Wrap Up 127",
+      "post_url": "https://divergentrays.com/blog/posts/2026-09-13-Weekly-Wrap-Up-127.html",
+      "published": "2026-09-14T01:35:00Z",
+      "summary": "Weekly Wrap Up 127 shares unusual apples, forum history, cross-stitching, web projects, AI-agent concerns, cultural links, music, reading, and chemical-safety investigations."
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Monday, 14 September 2026",
+      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-14.html",
+      "published": "2026-09-14T00:00:00Z",
+      "summary": "The Daily Blogroll surveys gaming, software, internet culture, boredom, artificial intelligence, democracy, and cybersecurity through varied community recommendations and commentary."
+    },
+    {
+      "blog_title": "Battle Stance",
+      "blog_url": "https://battlestance.org/",
+      "feed_url": "https://battlestance.org/feed/",
+      "post_title": "Another Legendary – Bolt",
+      "post_url": "https://battlestance.org/2026/09/14/another-legendary-bolt/",
+      "published": "2026-09-13T23:04:01Z",
+      "summary": "A returning Guild Wars 2 player completes the Legendary Starter Kit requirements and crafts Bolt, their sixth legendary weapon, after briefly resuming daily and WvW activities."
+    },
+    {
+      "blog_title": "Lameazoid",
+      "blog_url": "https://lameazoid.com/",
+      "feed_url": "https://lameazoid.com/feed/",
+      "post_title": "In the News (2026.09.13)",
+      "post_url": "https://lameazoid.com/in-the-news-2026-09-13/",
+      "published": "2026-09-13T23:00:00Z",
+      "summary": "Lameazoid introduces a recurring news roundup covering Godzilla Minus Zero theories, Mattel’s unusual Hot Wheels Bumblebee, and its controversial $65 price."
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Word Nerd Alert: Cully",
+      "post_url": "https://tobygeeksout.micro.blog/2026/09/13/word-nerd-alert-cully.html",
+      "published": "2026-09-13T22:42:53Z",
+      "summary": "The post defines “cully” as a noun meaning someone easily tricked or imposed on, or a dupe."
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "iPhone Duo Thoughts",
+      "post_url": "https://jasonjournals.com/posts/iphone-duo-thoughts",
+      "published": "2026-09-13T21:43:00Z",
+      "summary": "Jason Journals considers Apple’s iPhone Duo folding device, its design, pricing, tablet-phone consolidation, accessibility concerns, and implications for the iPhone and iPad ecosystem."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Missouri’s Barely Averted Redistricting Constitutional Crisis, Explained",
+      "post_url": "https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html?unlocked_article_code=1.A1E.pr6Z.7UlSXuqCCJ-Z",
+      "published": "2026-09-13T21:21:31Z",
+      "summary": "David French examines Missouri Republicans’ redistricting efforts, legal challenges, and alleged defiance surrounding disputed maps and a referendum petition before the midterm election."
+    },
+    {
+      "blog_title": "ComradeNerdy",
+      "blog_url": "https://comradenerdy.com/",
+      "feed_url": "https://comradenerdy.com/feed/",
+      "post_title": "Second Week of September 2026 Recap",
+      "post_url": "https://comradenerdy.com/second-week-of-september-2026-recap/",
+      "published": "2026-09-13T20:50:13Z",
+      "summary": "ComradeNerdy recaps a week of gaming, family gatherings, birthdays, Nintendo presentations, BlizzCon coverage, upcoming releases, and preparations for returning to Armenia."
+    },
+    {
+      "blog_title": "Lyons in Beta",
+      "blog_url": "https://lyonsinbeta.com/",
+      "feed_url": "https://lyonsinbeta.com/feed/feed.xml",
+      "post_title": "Analog Defaults",
+      "post_url": "https://lyonsinbeta.com/posts/analog-defaults/",
+      "published": "2026-09-13T20:28:00Z",
+      "summary": "Lyons describes choosing inexpensive pencils and printer paper for everyday writing, while using a refillable bullet pencil when traveling to avoid wasting premium stationery."
     }
   ]
 }
