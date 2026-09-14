@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T21:48:49.986425Z",
-  "blog_count": 327,
+  "generated_at": "2026-09-14T22:30:47.205279Z",
+  "blog_count": 343,
   "other_language_count": 9,
   "blogs": [
     {
@@ -356,6 +356,14 @@
       "initial": "B"
     },
     {
+      "name": "Black Hole Reviews",
+      "site_url": "https://blackholereviews.blogspot.com",
+      "feed_url": "https://blackholereviews.blogspot.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "B"
+    },
+    {
       "name": "Blog of the Grubby Dog",
       "site_url": "https://your-local-grubdog.neocities.org/blog/",
       "feed_url": "https://your-local-grubdog.neocities.org/feed.xml",
@@ -676,6 +684,14 @@
       "initial": "E"
     },
     {
+      "name": "Exploding Helicopter",
+      "site_url": "https://www.explodinghelicopter.com",
+      "feed_url": "https://www.explodinghelicopter.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "E"
+    },
+    {
       "name": "Exposition is Inevitable",
       "site_url": "http://kebrent.blogspot.com/",
       "feed_url": "http://kebrent.blogspot.com/feeds/posts/default",
@@ -695,6 +711,14 @@
       "name": "Flamingo Flix",
       "site_url": "https://flamingo-flix.blogspot.com/",
       "feed_url": "https://flamingo-flix.blogspot.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "F"
+    },
+    {
+      "name": "Fleapits and Picture Palaces",
+      "site_url": "https://fleapitsandpicturepalaces.blogspot.com",
+      "feed_url": "https://fleapitsandpicturepalaces.blogspot.com/feeds/posts/default",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "F"
@@ -1028,6 +1052,14 @@
       "initial": "J"
     },
     {
+      "name": "Jiggy's Horror Corner",
+      "site_url": "https://jigsawshorrorcorner.com",
+      "feed_url": "https://jigsawshorrorcorner.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "J"
+    },
+    {
       "name": "Joe and STO",
       "site_url": "https://joeandsto.wordpress.com",
       "feed_url": "https://joeandsto.wordpress.com/feed/",
@@ -1135,6 +1167,14 @@
       "name": "KF's Playground",
       "site_url": "https://sincerityplayground.bearblog.dev/",
       "feed_url": "https://sincerityplayground.bearblog.dev/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "K"
+    },
+    {
+      "name": "Killer Horror Critic",
+      "site_url": "https://www.killerhorrorcritic.com",
+      "feed_url": "https://www.killerhorrorcritic.com/1/feed",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "K"
@@ -1364,6 +1404,14 @@
       "initial": "M"
     },
     {
+      "name": "Matte Shot - a Tribute to Golden Era & Traditional Special Effects",
+      "site_url": "https://nzpetesmatteshot.blogspot.com",
+      "feed_url": "https://nzpetesmatteshot.blogspot.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "M"
+    },
+    {
       "name": "MDi of the M Disk Playlist",
       "site_url": "https://web.archive.org/web/20241229061101/https://cohost.org/mdi",
       "feed_url": "https://cohost.org/mdi/rss/public.json",
@@ -1391,6 +1439,14 @@
       "name": "Michcia's Notes",
       "site_url": "https://michcia.bearblog.dev/",
       "feed_url": "https://michcia.bearblog.dev/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "M"
+    },
+    {
+      "name": "Mike's Take On the Movies",
+      "site_url": "https://mikestakeonthemovies.com",
+      "feed_url": "https://mikestakeonthemovies.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "M"
@@ -1431,6 +1487,38 @@
       "name": "MMO One Night a Week",
       "site_url": "http://mmoonenight.blogspot.com/",
       "feed_url": "http://mmoonenight.blogspot.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "M"
+    },
+    {
+      "name": "MMORPG Blog",
+      "site_url": "https://mmoblogg.wordpress.com",
+      "feed_url": "https://mmoblogg.wordpress.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "M"
+    },
+    {
+      "name": "Model Aircraft in the Cinema",
+      "site_url": "https://modelaircraftinthecinema.blogspot.com",
+      "feed_url": "https://modelaircraftinthecinema.blogspot.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "M"
+    },
+    {
+      "name": "Model Ships in the Cinema",
+      "site_url": "https://www.modelshipsinthecinema.com",
+      "feed_url": "https://www.modelshipsinthecinema.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "M"
+    },
+    {
+      "name": "Model Trains in the Cinema",
+      "site_url": "https://modeltrainsinthecinema.blogspot.com",
+      "feed_url": "https://modeltrainsinthecinema.blogspot.com/feeds/posts/default",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "M"
@@ -1487,6 +1575,14 @@
       "name": "Musings Over Pints and Coffee",
       "site_url": "https://musingsoverpintsandcoffee.wordpress.com",
       "feed_url": "https://musingsoverpintsandcoffee.wordpress.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "M"
+    },
+    {
+      "name": "Mutant Reviewers",
+      "site_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "M"
@@ -2012,6 +2108,14 @@
       "initial": "S"
     },
     {
+      "name": "SPACE: 1970",
+      "site_url": "https://space1970.blogspot.com",
+      "feed_url": "https://space1970.blogspot.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "S"
+    },
+    {
       "name": "Srijan Choudhary",
       "site_url": "https://srijan.ch/feed/all",
       "feed_url": "https://srijan.ch/feed/all.xml",
@@ -2047,6 +2151,14 @@
       "name": "Story Mode",
       "site_url": "https://missquote.net/",
       "feed_url": "https://missquote.net/rss.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "S"
+    },
+    {
+      "name": "Superior Realities",
+      "site_url": "https://superior-realities.com",
+      "feed_url": "https://superior-realities.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "S"
@@ -2172,6 +2284,14 @@
       "initial": "T"
     },
     {
+      "name": "The Capsule Critic",
+      "site_url": "https://thecapsulecritic.com/blog/",
+      "feed_url": "https://thecapsulecritic.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "T"
+    },
+    {
       "name": "The Chip Bag",
       "site_url": "https://blog.kalechips.net/",
       "feed_url": "https://kalechips.net/RSS.xml",
@@ -2183,6 +2303,14 @@
       "name": "The Dragon Chronicle",
       "site_url": "https://www.thedragonchronicle.com/",
       "feed_url": "http://feeds.feedburner.com/lazy-sniper/iEkg",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "T"
+    },
+    {
+      "name": "The EOFFTV Review",
+      "site_url": "https://eofftvreview.wordpress.com",
+      "feed_url": "https://eofftvreview.wordpress.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "T"
