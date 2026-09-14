@@ -1,10 +1,162 @@
 {
-  "generated_at": "2026-09-14T12:45:36.886598Z",
+  "generated_at": "2026-09-14T21:48:49.986425Z",
   "feed_count": 327,
-  "successful_feeds": 300,
-  "failed_feeds": 27,
+  "successful_feeds": 287,
+  "failed_feeds": 40,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Object Dot Computer",
+      "blog_url": "https://object.computer/",
+      "feed_url": "https://object.computer/feed.xml",
+      "post_title": "Week note - vi",
+      "post_url": "https://object.computer/2026/09/14/week-note-vi.html",
+      "published": "2026-09-14T20:05:04Z"
+    },
+    {
+      "blog_title": "In Another Place",
+      "blog_url": "https://www.ivyrun.com/inanotherplace",
+      "feed_url": "https://www.ivyrun.com/inanotherplace/?feed=rss2",
+      "post_title": "It Happened in Virginia",
+      "post_url": "https://www.ivyrun.com/inanotherplace/?p=2942",
+      "published": "2026-09-14T20:02:37Z"
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "Nigeria Soul Power 70",
+      "post_url": "https://amf.didiermary.fr/nigeria-soul-power-70/",
+      "published": "2026-09-14T19:33:49Z"
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Pizza Friday and other traditions",
+      "post_url": "https://francescrossley.com/pizza-friday-and-other-traditions/",
+      "published": "2026-09-14T18:00:00Z"
+    },
+    {
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "What Is A Real Playthrough?",
+      "post_url": "https://scormey.com/2026/09/14/what-is-a-real-playthrough/",
+      "published": "2026-09-14T17:00:34Z"
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Vim’s Ctrl-w",
+      "post_url": "https://sals.place/blog/vim-ctrl-w/",
+      "published": "2026-09-14T16:58:08Z"
+    },
+    {
+      "blog_title": "The Virtual Moose",
+      "blog_url": "https://virtualmoose.org/",
+      "feed_url": "https://virtualmoose.org/feed/",
+      "post_title": "Here, Have a Moose Emerging from the Water",
+      "post_url": "https://virtualmoose.org/2026/09/14/here-have-a-moose-emerging-from-the-water/",
+      "published": "2026-09-14T16:42:17Z"
+    },
+    {
+      "blog_title": "Robert Birming",
+      "blog_url": "https://birming.com/",
+      "feed_url": "https://birming.com/feed/",
+      "post_title": "Unfiltered Swenglish",
+      "post_url": "https://birming.com/posts/unfiltered-swenglish",
+      "published": "2026-09-14T16:39:34Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "XCancel and Nitter Are Down Again",
+      "post_url": "https://xcancel.com/",
+      "published": "2026-09-14T16:10:13Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "しごとごとごと",
+      "post_url": "https://elve.club/entry/2026/09/15/010028",
+      "published": "2026-09-14T16:00:28Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - pilatus",
+      "post_url": "https://pretendtypewriter.net/note-pilatus/",
+      "published": "2026-09-14T15:52:04Z"
+    },
+    {
+      "blog_title": "Priest with a Cause",
+      "blog_url": "https://priestwithacause.blogspot.com/",
+      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Skyborne Are Fine",
+      "post_url": "https://priestwithacause.blogspot.com/2026/09/skyborne-are-fine.html",
+      "published": "2026-09-14T15:16:37Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "BlizzCon 2026 – Monday Morning Reactions Featuring Actual WoW Classic Plus",
+      "post_url": "https://tagn.wordpress.com/2026/09/14/blizzcon-2026-monday-morning-reactions-featuring-actual-wow-classic-plus/",
+      "published": "2026-09-14T15:15:12Z"
+    },
+    {
+      "blog_title": "Joe and STO",
+      "blog_url": "https://joeandsto.wordpress.com",
+      "feed_url": "https://joeandsto.wordpress.com/feed/",
+      "post_title": "The Past and Present Collide! The Frontier Day Mini-Bundle Claims and Value Breakdowns",
+      "post_url": "https://joeandsto.wordpress.com/2026/09/14/the-past-and-present-collide-the-frontier-day-mini-bundle-claims-and-value-breakdowns/",
+      "published": "2026-09-14T14:04:00Z"
+    },
+    {
+      "blog_title": "LOTRO Players",
+      "blog_url": "https://lotroplayers.com",
+      "feed_url": "http://lotroplayers.com/feed/",
+      "post_title": "LOTRO Players News Episode 682: Chaotically Camouflaged Canines",
+      "post_url": "https://lotroplayers.com/2026/09/14/lotro-players-news-episode-682-chaotically-camouflaged-canines/?utm_source=rss&utm_medium=rss&utm_campaign=lotro-players-news-episode-682-chaotically-camouflaged-canines",
+      "published": "2026-09-14T14:00:00Z"
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "A trip to Radium",
+      "post_url": "https://www.kgadams.net/life/a-trip-to-radium",
+      "published": "2026-09-14T13:30:00Z"
+    },
+    {
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "No Man’s Sky and Living Worlds",
+      "post_url": "https://scopique.com/2026/09/14/no-mans-sky-and-living-worlds/",
+      "published": "2026-09-14T13:26:47Z"
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "Over the moon about World of Warcraft Forever",
+      "post_url": "https://biobreak.wordpress.com/2026/09/14/over-the-moon-about-world-of-warcraft-forever/",
+      "published": "2026-09-14T13:00:30Z"
+    },
+    {
+      "blog_title": "Monsterlady's Diary",
+      "blog_url": "https://monsterladysdiary.wordpress.com/",
+      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
+      "post_title": "Steam Wishlist Declutter Round II",
+      "post_url": "https://monsterladysdiary.wordpress.com/2026/09/14/steam-wishlist-declutter-round-ii/",
+      "published": "2026-09-14T12:58:12Z"
+    },
     {
       "blog_title": "Another Dayu",
       "blog_url": "https://anotherdayu.com/",
@@ -12,158 +164,6 @@
       "post_title": "Fitbit Air: 近期最喜欢的数码产品",
       "post_url": "https://anotherdayu.com/fitbit-air/",
       "published": "2026-09-14T12:08:00Z"
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Being imperfect is perfection",
-      "post_url": "https://sylvia.studio/posts/being-imperfect-is-perfection",
-      "published": "2026-09-14T12:03:03Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "‘Make Art, Dammit!’ a la Karel Appell",
-      "post_url": "https://nomadwarmachine.co.uk/2026/09/14/make-art-dammit-a-la-karel-appell/",
-      "published": "2026-09-14T11:50:54Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Forța de elită",
-      "post_url": "https://thinkroot.xyz/forta-de-elita-627",
-      "published": "2026-09-14T10:04:08Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "What Are The Chances?",
-      "post_url": "https://bhagpuss.blogspot.com/2026/09/what-are-chances.html",
-      "published": "2026-09-14T08:43:12Z"
-    },
-    {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Grogu and Heidi, hammockry, Bunnery",
-      "post_url": "https://hollie.eilloh.net/posts/grogu-and-heidi-hammockry-bunnery",
-      "published": "2026-09-14T06:06:11Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Not your fault",
-      "post_url": "https://rishidass.net/posts/not-your-fault",
-      "published": "2026-09-14T05:57:35Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "An unexpected (scary) trigger",
-      "post_url": "https://cynnisblog.wordpress.com/2026/09/14/an-unexpected-scary-trigger/",
-      "published": "2026-09-14T05:00:41Z"
-    },
-    {
-      "blog_title": "Kaylriene",
-      "blog_url": "https://kaylriene.com/",
-      "feed_url": "https://kaylriene.wordpress.com/feed/",
-      "post_title": "Forever Is A Long Time, But For Whom?",
-      "post_url": "https://kaylriene.com/2026/09/13/forever-is-a-long-time-but-for-whom/",
-      "published": "2026-09-14T03:43:50Z"
-    },
-    {
-      "blog_title": "Valentine's days",
-      "blog_url": "https://valentine.bearblog.dev/",
-      "feed_url": "https://valentine.bearblog.dev/feed/",
-      "post_title": "learning the boring stuff",
-      "post_url": "https://valentine.bearblog.dev/learning-the-boring-stuff/",
-      "published": "2026-09-14T03:03:00Z"
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "There is so much to love and celebrate. Reclaim joy. Be open. Forgive.",
-      "post_url": "https://brennan.day/there-is-so-much-to-love-and-celebrate-reclaim-joy-be-open-forgive/",
-      "published": "2026-09-14T02:00:00Z"
-    },
-    {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Weekly Wrap Up 127",
-      "post_url": "https://divergentrays.com/blog/posts/2026-09-13-Weekly-Wrap-Up-127.html",
-      "published": "2026-09-14T01:35:00Z"
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Monday, 14 September 2026",
-      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-14.html",
-      "published": "2026-09-14T00:00:00Z"
-    },
-    {
-      "blog_title": "Battle Stance",
-      "blog_url": "https://battlestance.org/",
-      "feed_url": "https://battlestance.org/feed/",
-      "post_title": "Another Legendary – Bolt",
-      "post_url": "https://battlestance.org/2026/09/14/another-legendary-bolt/",
-      "published": "2026-09-13T23:04:01Z"
-    },
-    {
-      "blog_title": "Lameazoid",
-      "blog_url": "https://lameazoid.com/",
-      "feed_url": "https://lameazoid.com/feed/",
-      "post_title": "In the News (2026.09.13)",
-      "post_url": "https://lameazoid.com/in-the-news-2026-09-13/",
-      "published": "2026-09-13T23:00:00Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Cully",
-      "post_url": "https://tobygeeksout.micro.blog/2026/09/13/word-nerd-alert-cully.html",
-      "published": "2026-09-13T22:42:53Z"
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "iPhone Duo Thoughts",
-      "post_url": "https://jasonjournals.com/posts/iphone-duo-thoughts",
-      "published": "2026-09-13T21:43:00Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Missouri’s Barely Averted Redistricting Constitutional Crisis, Explained",
-      "post_url": "https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html?unlocked_article_code=1.A1E.pr6Z.7UlSXuqCCJ-Z",
-      "published": "2026-09-13T21:21:31Z"
-    },
-    {
-      "blog_title": "ComradeNerdy",
-      "blog_url": "https://comradenerdy.com/",
-      "feed_url": "https://comradenerdy.com/feed/",
-      "post_title": "Second Week of September 2026 Recap",
-      "post_url": "https://comradenerdy.com/second-week-of-september-2026-recap/",
-      "published": "2026-09-13T20:50:13Z"
-    },
-    {
-      "blog_title": "Lyons in Beta",
-      "blog_url": "https://lyonsinbeta.com/",
-      "feed_url": "https://lyonsinbeta.com/feed/feed.xml",
-      "post_title": "Analog Defaults",
-      "post_url": "https://lyonsinbeta.com/posts/analog-defaults/",
-      "published": "2026-09-13T20:28:00Z"
     }
   ]
 }
