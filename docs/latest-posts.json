@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-09-15T21:20:18.176000Z",
+  "generated_at": "2026-09-16T11:32:21.987095Z",
   "feed_count": 343,
-  "successful_feeds": 319,
-  "failed_feeds": 24,
+  "successful_feeds": 318,
+  "failed_feeds": 25,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Descoperire arheologica în curtea omului #the100pics",
+      "post_url": "https://thinkroot.xyz/photo-632",
+      "published": "2026-09-16T11:26:26Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "MAKING A BUDGET (FINALLY)",
+      "post_url": "https://pretendtypewriter.net/making-a-budget-finally/",
+      "published": "2026-09-16T11:24:17Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Do Exactly What the Creative Prompt Machine Hands you",
+      "post_url": "https://nomadwarmachine.co.uk/2026/09/16/do-exactly-what-the-creative-prompt-machine-hands-you/",
+      "published": "2026-09-16T09:50:38Z"
+    },
+    {
+      "blog_title": "Taxodium",
+      "blog_url": "https://taxodium.ink/",
+      "feed_url": "https://taxodium.ink/index.xml",
+      "post_title": "Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起",
+      "post_url": "https://taxodium.ink/58.html",
+      "published": "2026-09-16T09:45:00Z"
+    },
+    {
+      "blog_title": "#デザイン 記事まとめ",
+      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
+      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
+      "post_title": "AIと一緒なら、どこまでつくれる？Tech-Verse 2026で実現したモーションデザイナーの挑戦",
+      "post_url": "https://lydesign.jp/n/n8613b3accd11",
+      "published": "2026-09-16T08:00:00Z"
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "First thought is conditioning and second thought is you, AuDHD hobby management",
+      "post_url": "https://hollie.eilloh.net/posts/first-thought-is-conditioning-and-second-thought-is-you-audhd-hobby-management",
+      "published": "2026-09-16T06:29:00Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "No modes",
+      "post_url": "https://rishidass.net/posts/no-modes",
+      "published": "2026-09-16T06:24:00Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "森林公園！？ 主語デカ！！",
+      "post_url": "https://elve.club/entry/2026/09/16/150846?utm_source=feed",
+      "published": "2026-09-16T06:08:46Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "I’m not a bad person!",
+      "post_url": "https://cynnisblog.wordpress.com/2026/09/16/im-not-a-bad-person/",
+      "published": "2026-09-16T05:00:30Z"
+    },
+    {
+      "blog_title": "Tabitha Computer",
+      "blog_url": "https://tabitha.computer/",
+      "feed_url": "https://tabitha.computer/feed/",
+      "post_title": "to love the cosmos",
+      "post_url": "https://tabitha.computer/2026/09/cosmos/",
+      "published": "2026-09-16T04:38:44Z"
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
@@ -12,6 +92,62 @@
       "post_title": "Proper English is a Myth: There's No 'Correct' Way to Write",
       "post_url": "https://brennan.day/proper-english-is-a-myth-theres-no-correct-way-to-write/",
       "published": "2026-09-16T02:00:00Z"
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Wednesday, 16 September 2026",
+      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-16.html",
+      "published": "2026-09-16T00:00:00Z"
+    },
+    {
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "Why do we take notes?",
+      "post_url": "https://hamatti.org/posts/why-do-we-take-notes/",
+      "published": "2026-09-16T00:00:00Z"
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "More meaningful online interactions, please",
+      "post_url": "https://joelchrono.xyz/blog/meaningful-online-interactions/",
+      "published": "2026-09-15T23:40:00Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Wiley Hodges: Audio Intelligence is ‘Genius, Done Right—But Still Creepy’",
+      "post_url": "https://wileyhodges.substack.com/p/genius-done-rightbut-still-creepy",
+      "published": "2026-09-15T22:17:43Z"
+    },
+    {
+      "blog_title": "Going Commando",
+      "blog_url": "https://swtorcommando.blogspot.com/",
+      "feed_url": "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "I Was Wrong About Levelling Difficulty",
+      "post_url": "https://swtorcommando.blogspot.com/2026/09/i-was-wrong-about-levelling-difficulty.html",
+      "published": "2026-09-15T22:00:53Z"
+    },
+    {
+      "blog_title": "Off the Top",
+      "blog_url": "https://www.vanderwal.net/random/index.php",
+      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
+      "post_title": "Two New Categories that May Have not been Noticed",
+      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2208",
+      "published": "2026-09-15T22:00:15Z"
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Narcissism, thy name is Drumpf",
+      "post_url": "https://www.kgadams.net/tiny-thoughts/narcissism-thy-name-is-drumpf",
+      "published": "2026-09-15T21:32:32Z"
     },
     {
       "blog_title": "Michcia's Notes",
@@ -28,142 +164,6 @@
       "post_title": "Word Nerd Alert: Pusillanimous",
       "post_url": "https://tobygeeksout.micro.blog/2026/09/15/word-nerd-alert-pusillanimous.html",
       "published": "2026-09-15T20:52:23Z"
-    },
-    {
-      "blog_title": "Battle Stance",
-      "blog_url": "https://battlestance.org/",
-      "feed_url": "https://battlestance.org/feed/",
-      "post_title": "Raiding the Venomous Abyss – Week 4",
-      "post_url": "https://battlestance.org/2026/09/15/raiding-the-venomous-abyss-week-4/",
-      "published": "2026-09-15T20:40:52Z"
-    },
-    {
-      "blog_title": "K-Squared Ramblings",
-      "blog_url": "https://journal.kvibber.com/",
-      "feed_url": "http://www.hyperborea.org/journal/feed/",
-      "post_title": "Sleep Study (no Android, no Electric Sheep)",
-      "post_url": "https://journal.kvibber.com/2026/09/sleep-android/",
-      "published": "2026-09-15T20:00:12Z"
-    },
-    {
-      "blog_title": "Notes by JCProbably",
-      "blog_url": "https://notes.jeddacp.com/",
-      "feed_url": "https://notes.jeddacp.com/feed/",
-      "post_title": "The Last of Your Water Bowl",
-      "post_url": "https://notes.jeddacp.com/the-last-of-your-water-bowl/",
-      "published": "2026-09-15T18:35:00Z"
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Summer Game Challenge 2026 results!",
-      "post_url": "https://joelchrono.xyz/blog/summer-game-challenge-2026-results/",
-      "published": "2026-09-15T18:30:00Z"
-    },
-    {
-      "blog_title": "Home on devz.cl",
-      "blog_url": "https://devz.cl/",
-      "feed_url": "https://devz.cl/index.xml",
-      "post_title": "We should share childhood stories more",
-      "post_url": "https://devz.cl/posts/childhood-stories/",
-      "published": "2026-09-15T18:21:39Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Places to go, people to be",
-      "post_url": "https://francescrossley.com/places-to-go-people-to-be/",
-      "published": "2026-09-15T18:00:00Z"
-    },
-    {
-      "blog_title": "Endgame Viable",
-      "blog_url": "https://endgameviable.com/",
-      "feed_url": "http://endgameviable.com/feed/",
-      "post_title": "Disappearing Daylight",
-      "post_url": "https://endgameviable.com/post/2026/09/disappearing-daylight/",
-      "published": "2026-09-15T17:47:04Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "O casă foarte veche în renovare #the100pics",
-      "post_url": "https://thinkroot.xyz/photo-629",
-      "published": "2026-09-15T17:33:58Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Today, show your favourite time of the year!",
-      "post_url": "https://nomadwarmachine.co.uk/2026/09/15/today-show-your-favourite-time-of-the-year/",
-      "published": "2026-09-15T16:59:01Z"
-    },
-    {
-      "blog_title": "素生",
-      "blog_url": "https://z.arlmy.me/",
-      "feed_url": "http://z.arlmy.me/atom.xml",
-      "post_title": "入蜀记 day477 街头美食斗士、宜家、手机掉进地铁门缝",
-      "post_url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_477/",
-      "published": "2026-09-15T16:01:27Z"
-    },
-    {
-      "blog_title": "Dragonchasers",
-      "blog_url": "https://dragonchasers.com/",
-      "feed_url": "http://dragonchasers.com/feed/",
-      "post_title": "Fail! Swearing off social media didn’t make much difference",
-      "post_url": "https://dragonchasers.com/2026/09/15/fail-swearing-off-social-media-didnt-make-much-difference/",
-      "published": "2026-09-15T15:53:44Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "No Man’s Sky and the Cosmos Update",
-      "post_url": "https://tagn.wordpress.com/2026/09/15/no-mans-sky-and-the-cosmos-update/",
-      "published": "2026-09-15T15:15:28Z"
-    },
-    {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Impressions: Starfinder Afterlight (Demo)",
-      "post_url": "https://scopique.com/2026/09/15/impressions-starfinder-afterlight-demo/",
-      "published": "2026-09-15T14:52:03Z"
-    },
-    {
-      "blog_title": "Musings Over Pints and Coffee",
-      "blog_url": "https://musingsoverpintsandcoffee.wordpress.com",
-      "feed_url": "https://musingsoverpintsandcoffee.wordpress.com/feed/",
-      "post_title": "A Twelve-Year Reading Plan with Room for Dragons",
-      "post_url": "https://musingsoverpintsandcoffee.wordpress.com/2026/09/15/a-twelve-year-reading-plan-with-room-for-dragons/",
-      "published": "2026-09-15T14:23:13Z"
-    },
-    {
-      "blog_title": "The Maker Dad",
-      "blog_url": "https://themakerdad.com/",
-      "feed_url": "https://themakerdad.com/rss/",
-      "post_title": "Corded vs. Cordless: I Did the Math, and It Broke My Brain a Little",
-      "post_url": "https://themakerdad.com/corded-vs-cordless-i-did-the-math-and-it-broke-my-brain-a-little/",
-      "published": "2026-09-15T14:02:47Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "The one console",
-      "post_url": "https://rishidass.net/posts/the-one-console",
-      "published": "2026-09-15T13:38:00Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - applied to jobs",
-      "post_url": "https://pretendtypewriter.net/note-applied-to-jobs/",
-      "published": "2026-09-15T13:21:12Z"
     }
   ]
 }
