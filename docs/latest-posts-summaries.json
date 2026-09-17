@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-09-16T21:18:11.186454Z",
-  "source_generated_at": "2026-09-16T21:17:39.165127Z",
+  "generated_at": "2026-09-17T11:41:16.720097Z",
+  "source_generated_at": "2026-09-17T11:40:34.967506Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 18,
+  "summary_count": 19,
   "posts": [
     {
-      "blog_title": "Leekscosycorner",
-      "blog_url": "https://leekscosycorner.com/",
-      "feed_url": "https://leekscosycorner.com/feed/",
-      "post_title": "Woodo Review: Unveiling Nostalgia and Charm",
-      "post_url": "https://leekscosycorner.com/2026/09/16/woodo-review-unveiling-nostalgia-and-charm/",
-      "published": "2026-09-16T21:08:43Z",
-      "summary": "Woodo is a cosy puzzle game about assembling colourful dioramas with Foxy and Ben the Frog, offering tactile controls, accessibility options, and nostalgic storytelling."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Cursa",
-      "post_url": "https://thinkroot.xyz/cursa-633",
-      "published": "2026-09-16T20:56:13Z",
-      "summary": "A Romanian page titled “Cursa” presents a four-star 2025 TMDb rating, but provides no identifiable plot or thematic details in the supplied text."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "San Francisco Giants Avoid 100-Loss Season",
-      "post_url": "https://www.mercurynews.com/2026/09/15/sf-giants-avoid-100-loss-season-with-blowout-victory-over-cardinals-bryce-eldridge-turner-hill/",
-      "published": "2026-09-16T19:54:13Z",
-      "summary": "The San Francisco Giants avoided a 100-loss season by defeating St. Louis, while young players excelled, Blade Tidwell improved, and Rafael Devers underwent surgery."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Actual aunting: New baby edition",
-      "post_url": "https://francescrossley.com/actual-aunting-new-baby-edition/",
-      "published": "2026-09-16T19:30:00Z",
-      "summary": "What the Fran offers practical guidance for supporting relatives and friends during pregnancy, childbirth, newborn visits, breastfeeding, household tasks, and caring for babies."
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "仕事でミスったりしたけど割と元気です",
+      "post_url": "https://elve.club/entry/2026/09/17/201935?utm_source=feed",
+      "published": "2026-09-17T11:19:35Z",
+      "summary": null
     },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - goblin",
-      "post_url": "https://pretendtypewriter.net/note-goblin/",
-      "published": "2026-09-16T19:03:00Z",
-      "summary": "The writer pauses Ok Taecyeon dramas to watch the decade-old Korean series “Guardian: The Lonely and Great God,” disliking its main couple but favoring the Grim Reaper."
+      "post_title": "note - 170926 agenda",
+      "post_url": "https://pretendtypewriter.net/note-170926/",
+      "published": "2026-09-17T09:38:00Z",
+      "summary": "A personal agenda for September 17, 2026 includes a doctor’s appointment, grocery shopping, Neocities coding, making chicken casserole, playing Tomodachi Life, and watching K-drama."
     },
     {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Mutant Matinee Episode 11: Book-to-Film",
-      "post_url": "https://mutantreviewersmovies.com/2026/09/16/mutant-matinee-episode-11-book-to-film/",
-      "published": "2026-09-16T18:24:41Z",
-      "summary": "Mutant Matinee Episode 11 features Justin and Sitting Duck discussing movie adaptations of books and novels, including lesser-known examples and recommendations."
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Knitting and Beastie Boys, a scale of illness (and hope)",
+      "post_url": "https://hollie.eilloh.net/posts/knitting-and-beastie-boys-a-scale-of-illness-and-hope",
+      "published": "2026-09-17T07:20:00Z",
+      "summary": "The piece combines knitting to Beastie Boys music with reflections on chronic illness recovery, using a personal scale to describe energy, pain, hope, and daily functioning."
     },
     {
-      "blog_title": "The Maker Dad",
-      "blog_url": "https://themakerdad.com/",
-      "feed_url": "https://themakerdad.com/rss/",
-      "post_title": "SharePlay Just Opened Its Doors, and I'm Not Sure the Internet Noticed",
-      "post_url": "https://themakerdad.com/shareplay-just-opened-its-doors-and-im-not-sure-the-internet-noticed/",
-      "published": "2026-09-16T18:10:05Z",
-      "summary": "SharePlay’s open beta removes invite requirements, while its small community, technical limitations, multi-streaming possibilities, and regional platform alternatives receive examination."
+      "blog_title": "Overage-Gaming",
+      "blog_url": "https://overage-gaming.com/",
+      "feed_url": "https://overage-gaming.com/feed/",
+      "post_title": "Guns and Dragons: Gunfire Reborn Meets Enshrouded in the Best Way (Playtest Gameplay)",
+      "post_url": "https://overage-gaming.com/2026/09/17/guns-and-dragons-gunfire-reborn-meets-enshrouded-in-the-best-way-playtest-gameplay/",
+      "published": "2026-09-17T07:01:00Z",
+      "summary": "Guns & Dragons is a co-op roguelite FPS playtest featuring customizable weapons, monster-filled expeditions, resource gathering, base building, and progression between runs."
     },
     {
-      "blog_title": "わくパンの思考のかけら",
-      "blog_url": "https://wakupanbouquet.hatenablog.com/",
-      "feed_url": "https://wakupanbouquet.hatenablog.com/rss",
-      "post_title": "黄色い巨大迷路を破壊してニューゲームはいかが？（映画『バックルームズ』ネタバレ初見感想）",
-      "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/09/17/030434",
-      "published": "2026-09-16T18:04:34Z",
-      "summary": null
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "No badge needed",
+      "post_url": "https://rishidass.net/posts/no-badge-needed",
+      "published": "2026-09-17T06:53:00Z",
+      "summary": "Rishi Dass argues that creators using generative AI should disclose it, while human-made work should not need “Not By AI” badges."
     },
     {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Struggling is optional",
-      "post_url": "https://sylvia.studio/posts/struggling-is-optional",
-      "published": "2026-09-16T18:03:48Z",
-      "summary": "A frustrating jigsaw puzzle becomes manageable through persistence, stepping away, and setting aside difficult pieces, prompting reflection on approaching life’s challenges with acceptance."
+      "blog_title": "MMORPG Blog",
+      "blog_url": "https://mmoblogg.wordpress.com",
+      "feed_url": "https://mmoblogg.wordpress.com/feed/",
+      "post_title": "A task for you…",
+      "post_url": "https://mmoblogg.wordpress.com/2026/09/17/a-task-for-you/",
+      "published": "2026-09-17T05:30:18Z",
+      "summary": "The blogger recounts progress in Lord of the Rings Online and Bloxd, including reputation rewards, unfinished regions, audio journals, worker housing, city planning, and limited building assistance."
     },
     {
-      "blog_title": "Priest with a Cause",
-      "blog_url": "https://priestwithacause.blogspot.com/",
-      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Why WoW Forever? Let Me Explain.",
-      "post_url": "https://priestwithacause.blogspot.com/2026/09/why-wow-forever-let-me-explain.html",
-      "published": "2026-09-16T17:36:02Z",
-      "summary": "WoW Forever is presented as a potential home for players seeking exploratory, social, slower-paced World of Warcraft gameplay beyond established Classic and retail endgame priorities."
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Thursday “Never Give Up” Quote",
+      "post_url": "https://cynnisblog.wordpress.com/2026/09/17/thursday-never-give-up-quote/",
+      "published": "2026-09-17T05:00:00Z",
+      "summary": "A quote attributed to Maxime Lagacé accompanies digital artwork depicting Koa, a chocolate Labrador Retriever, in a colorful Dutch landscape."
     },
     {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Lucid",
-      "post_url": "https://tobygeeksout.micro.blog/2026/09/16/word-nerd-alert-lucid.html",
-      "published": "2026-09-16T16:03:03Z",
-      "summary": "The post defines “lucid” as understandable, mentally alert, and luminous, providing example sentences that illustrate each meaning."
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "A couple things I like about Safari",
+      "post_url": "https://sals.place/blog/safari-things/",
+      "published": "2026-09-17T04:32:34Z",
+      "summary": "Sal’s Blog praises Safari’s Apple Passwords integration and Reader mode, particularly its ability to impose dark mode on websites, while considering trying Firefox."
     },
     {
-      "blog_title": "Wry Writer",
-      "blog_url": "https://wrywriter.ca",
-      "feed_url": "https://wrywriter.ca/posts_feed",
-      "post_title": "Last Meal",
-      "post_url": "https://wrywriter.ca/posts/last-meal",
-      "published": "2026-09-16T15:24:00Z",
-      "summary": "A personal last-meal menu features gazpacho, ham and mushroom pizza, family recipes, lemon meringue pie, rice pudding, and mint tea."
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "More than Nothing: Total Party Wipe",
+      "post_url": "http://josephskyrim.blogspot.com/2026/09/more-than-nothing-total-party-wipe.html",
+      "published": "2026-09-17T01:28:09Z",
+      "summary": "A prolonged boss battle reveals the heroes’ backstories, addictions, and moral compromises before magical fog scatters them, ending their campaign through divergent fates."
     },
     {
-      "blog_title": "Home on devz.cl",
-      "blog_url": "https://devz.cl/",
-      "feed_url": "https://devz.cl/index.xml",
-      "post_title": "My Software Agnostic Window Management Setup",
-      "post_url": "https://devz.cl/posts/software-agnostic-window-manager-setup/",
-      "published": "2026-09-16T15:20:21Z",
-      "summary": "A cross-platform window management setup describes keyboard shortcuts for launching applications, controlling windows, switching workspaces, and using Raycast on macOS or tiling window managers on Linux."
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "You never forget your first Viking",
+      "post_url": "https://chasingdings.com/2026/09/16/you-never-forget-your-first-viking/",
+      "published": "2026-09-17T01:26:34Z",
+      "summary": "The writer revisits Valheim, using server adjustments and transferred resources to accelerate early progression while pursuing achievements and avoiding another lengthy grind."
     },
     {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Planet Crafter – Arrival on Skeo",
-      "post_url": "https://tagn.wordpress.com/2026/09/16/planet-crafter-arrival-on-skeo/",
-      "published": "2026-09-16T15:15:17Z",
-      "summary": "Planet Crafter’s Skeo expansion follows terraforming efforts across an expansive orange planet, featuring frozen regions, changing environments, exploration, scattered logs, and new facilities."
+      "blog_title": "Nosrednayduj's Blog",
+      "blog_url": "https://nosrednayduj.dreamwidth.org/",
+      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
+      "post_title": "Bike mechanics 'r us!",
+      "post_url": "https://nosrednayduj.dreamwidth.org/186806.html",
+      "published": "2026-09-17T01:19:00Z",
+      "summary": "A cyclist restores a spare recumbent by cleaning its shifter, lubricating components, adding reflectors, testing gears and brakes, and planning future equipment changes."
     },
     {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "I Adore The Zium Railway, the Latest Virtual Gallery from The Zium Society",
-      "post_url": "https://virtualmoose.org/2026/09/16/i-adore-the-zium-railway-the-latest-virtual-gallery-from-the-zium-society/",
-      "published": "2026-09-16T14:16:52Z",
-      "summary": "The Zium Railway is a free Windows virtual gallery where visitors ride trains through artist-created worlds, extending The Zium Society’s multimedia series."
+      "blog_title": "Kelson Vibber: New Posts",
+      "blog_url": "https://kvibber.com/",
+      "feed_url": "https://kvibber.com/feed.xml",
+      "post_title": "Widow's Bay Season 1 (TV review)",
+      "post_url": "https://kvibber.com/reviews/tv/widows-bay/",
+      "published": "2026-09-17T01:13:12Z",
+      "summary": "A review of Widow’s Bay’s first season examines its uneven pacing, standout episodes, supernatural mysteries, and Mayor Tom Loftis’s ultimately compelling character development."
     },
     {
-      "blog_title": "Taxodium",
-      "blog_url": "https://taxodium.ink/",
-      "feed_url": "https://taxodium.ink/index.xml",
-      "post_title": "用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能",
-      "post_url": "https://taxodium.ink/integrate-kagi-translate-with-tampermonkey-2.html",
-      "published": "2026-09-16T13:41:00Z",
-      "summary": "The post presents a Tampermonkey integration for Kagi Translate using Zen Browser’s Glance and split-screen features, including separate dictionary and translation views."
+      "blog_title": "Divergent Rays' Blog",
+      "blog_url": "https://divergentrays.com/blog/",
+      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
+      "post_title": "Snakes on a Tiara",
+      "post_url": "https://divergentrays.com/blog/posts/2026-09-16-Snakes-on-a-Tiara.html",
+      "published": "2026-09-17T01:08:00Z",
+      "summary": "A survey of Victorian and early twentieth-century snake-themed tiaras covers their materials, Egyptian Revival and Pre-Raphaelite influences, auction histories, and possible aristocratic ownership."
     },
     {
-      "blog_title": "Ubergeek Kelly's World",
-      "blog_url": "https://www.kgadams.net/",
-      "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "Star Trek is 60 years old",
-      "post_url": "https://www.kgadams.net/geekdom/star-trek-is-60-years-old",
-      "published": "2026-09-16T13:30:00Z",
-      "summary": "Kelly recounts a lifelong engagement with Star Trek, evaluating its original series, films, spin-offs, newer shows, episodic storytelling, and changing season lengths."
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "WoW Forever: Making plans for an amazing Azeroth entrance",
-      "post_url": "https://biobreak.wordpress.com/2026/09/16/wow-forever-making-plans-for-an-amazing-azeroth-entrance/",
-      "published": "2026-09-16T13:00:52Z",
-      "summary": "Bio Break outlines preparations for World of Warcraft Forever, including preordering, reserving character names, finding a guild, choosing an Alliance main character, and managing launch anticipation."
-    },
-    {
-      "blog_title": "Karthik Kamalakannan & the Internet",
-      "blog_url": "https://imkarthikk.com/",
-      "feed_url": "https://imkarthikk.com/feed.xml",
-      "post_title": "How to open Control Center in iPhone Mirroring",
-      "post_url": "https://imkarthikk.com/blog/iphone-mirroring-control-center",
-      "published": "2026-09-16T12:02:00Z",
-      "summary": "Instructions explain opening Control Center during iPhone Mirroring using Command-4 on macOS 27 or swiping directly on older systems."
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Mayfair Witches (2023) — ⭐⭐⭐½ (3.5/5)",
+      "post_url": "https://michaelharley.net/watching/2026/09/16/mayfair-witches-s1/",
+      "published": "2026-09-17T00:53:59Z",
+      "summary": "Michael Harley rates Mayfair Witches’ first season 3.5 out of 5, following a neurosurgeon who inherits witchcraft while confronting a sinister family presence."
     },
     {
       "blog_title": "Blog - 鳥啼く頃に",
       "blog_url": "https://torinakukoroni.blog.fc2.com/",
       "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
-      "post_title": "とりなが実践している災害対策を紹介",
-      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-395.html",
-      "published": "2026-09-16T11:54:07Z",
-      "summary": null
+      "post_title": "愛用しているfc2ブログ追加プラグインの紹介",
+      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-396.html",
+      "published": "2026-09-17T00:43:05Z",
+      "summary": "A Japanese blogger introduces FC2 plugins for compact monthly archives, automatically generated blog cards, and heading-based tables of contents."
+    },
+    {
+      "blog_title": "Gamers Esoteric",
+      "blog_url": "https://www.gamersesoteric.com/",
+      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
+      "post_title": "Uh...So That Happened - Full Game Summary",
+      "post_url": "https://www.gamersesoteric.com/2026/09/uhso-that-happened-full-game-summary.html",
+      "published": "2026-09-17T00:15:04Z",
+      "summary": "A Dungeons & Dragons 3.0 campaign summary follows amnesiac adventurers escaping a pit, gathering supplies, and fleeing hungry wolves with mysterious chests."
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Thursday, 17 September 2026",
+      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-17.html",
+      "published": "2026-09-17T00:00:00Z",
+      "summary": "The Daily Blogroll highlights gaming, including WoW Forever, Valheim, Woodo, Persona 4 Revival, Planet Crafter, and Undaunted 2200, alongside Star Trek, travel, politics, and password management."
+    },
+    {
+      "blog_title": "I wonder, if I draw a line…",
+      "blog_url": "https://sheri42.net",
+      "feed_url": "https://sheri42.net/feed/",
+      "post_title": "Weekly WrapUp Sketch to Sellable and More",
+      "post_url": "https://sheri42.net/2026/09/16/weekly-wrapup-sketch-to-sellable-and-more/",
+      "published": "2026-09-16T23:05:32Z",
+      "summary": "Sheri Edwards reviews Affinity Designer projects, pattern-making templates, color palettes, TwoTap Summit lessons, and plans for an illustrated alphabet book about unique animals."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Apple Scores 28 Emmy Wins",
+      "post_url": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-most-emmy-wins-2026-1236700994/",
+      "published": "2026-09-16T22:18:56Z",
+      "summary": "Apple TV led the Emmy Awards with 28 wins, driven by Widow’s Bay’s record comedy haul, while HBO Max and Netflix placed second and third."
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Beryl On The Bill",
+      "post_url": "https://bhagpuss.blogspot.com/2026/09/beryl-at-bill.html",
+      "published": "2026-09-16T21:44:06Z",
+      "summary": "A Dorset getaway recounts visits to Portland Bill and Chesil Beach, countryside walks, encounters with farm animals, and Beryl’s recovery and seaside adventures."
     }
   ]
 }
