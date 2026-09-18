@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-09-17T21:21:38.320978Z",
+  "generated_at": "2026-09-18T11:13:21.998561Z",
   "feed_count": 343,
-  "successful_feeds": 321,
-  "failed_feeds": 22,
+  "successful_feeds": 318,
+  "failed_feeds": 25,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Priest with a Cause",
+      "blog_url": "https://priestwithacause.blogspot.com/",
+      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Taking a Peek at the Forever Beta",
+      "post_url": "https://priestwithacause.blogspot.com/2026/09/taking-peek-at-forever-beta.html",
+      "published": "2026-09-18T10:38:58Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "衝動を抑えられない生き方",
+      "post_url": "https://elve.club/entry/2026/09/18/193857?utm_source=feed",
+      "published": "2026-09-18T10:38:57Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "🔗 Factory defence in BELTFED looks juicy as you take down millions of bugs",
+      "post_url": "https://michaelharley.net/links/2026/09/18/factory-defence-in-beltfed-looks-juicy-as-you-take-down-millions-of-bugs/",
+      "published": "2026-09-18T10:24:01Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "how to switch from watching to creating.",
+      "post_url": "https://thinkroot.xyz/how-to-switch-from-watching-to-creating-634",
+      "published": "2026-09-18T09:47:27Z"
+    },
+    {
+      "blog_title": "#デザイン 記事まとめ",
+      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
+      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
+      "post_title": "東京と福岡の「LINEギフト」デザイナーが実践！ AIを活用するコマース領域のブランドデザインアプローチ",
+      "post_url": "https://lydesign.jp/n/nc587746e23db",
+      "published": "2026-09-18T09:34:43Z"
+    },
+    {
+      "blog_title": "Agnes the Alien's Blog",
+      "blog_url": "https://blog.agnes.love/",
+      "feed_url": "https://blog.agnes.love/feed/",
+      "post_title": "Weekly Book Thoughts: Fruit Fly - Josh Silver",
+      "post_url": "https://blog.agnes.love/weekly-book-thoughts-fruit-fly-josh-silver/",
+      "published": "2026-09-18T08:38:51Z"
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Four pounds of the best wheat, NS loses booklet which benefits me greatly, I am weird but willing to discuss",
+      "post_url": "https://hollie.eilloh.net/posts/four-pounds-of-the-best-wheat-ns-loses-booklet-which-benefits-me-greatly-i-am-weird-but-willing-to-discuss",
+      "published": "2026-09-18T06:55:00Z"
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Me, Then and Now",
+      "post_url": "https://tobygeeksout.micro.blog/2026/09/17/me-then-and-now.html",
+      "published": "2026-09-18T05:58:44Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "More Koa! 🐾",
+      "post_url": "https://cynnisblog.wordpress.com/2026/09/18/more-koa-%f0%9f%90%be/",
+      "published": "2026-09-18T05:00:41Z"
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Kunark News!",
+      "post_url": "https://chasingdings.com/2026/09/17/kunark-news/",
+      "published": "2026-09-18T03:50:46Z"
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
@@ -12,6 +92,46 @@
       "post_title": "'Would You Like to Reload a Previous Save?' (➤Yes / No)",
       "post_url": "https://brennan.day/would-you-like-to-reload-a-previous-save-yes-no/",
       "published": "2026-09-18T02:00:00Z"
+    },
+    {
+      "blog_title": "82MHz",
+      "blog_url": "http://82mhz.net/posts/",
+      "feed_url": "http://82mhz.net/index.xml",
+      "post_title": "Linkdump No 125",
+      "post_url": "http://82mhz.net/posts/2026/09/linkdump-no-125/",
+      "published": "2026-09-18T00:00:00Z"
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Gaming in public",
+      "post_url": "https://joelchrono.xyz/blog/gaming-in-public/",
+      "published": "2026-09-17T23:00:00Z"
+    },
+    {
+      "blog_title": "Lameazoid",
+      "blog_url": "https://lameazoid.com/",
+      "feed_url": "https://lameazoid.com/feed/",
+      "post_title": "Godzilla Egg Toys – Godzilla and Mothra",
+      "post_url": "https://lameazoid.com/godzilla-egg-toys-godzilla-and-mothra/",
+      "published": "2026-09-17T23:00:00Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Tyler Stalman’s iPhone 18 Pro Camera Review",
+      "post_url": "https://www.youtube.com/watch?v=m6cDErtCKAc",
+      "published": "2026-09-17T22:05:17Z"
+    },
+    {
+      "blog_title": "Matt's Blog",
+      "blog_url": "https://mtwb.blog/",
+      "feed_url": "https://mtwb.blog/index.xml",
+      "post_title": "🎬 How To Switch From Watching To Creating",
+      "post_url": "https://mtwb.blog/videos/2026/how-to-switch-from-watching-to-creating/",
+      "published": "2026-09-17T21:22:53Z"
     },
     {
       "blog_title": "The Virtual Moose",
@@ -22,28 +142,12 @@
       "published": "2026-09-17T20:49:14Z"
     },
     {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "PetaPixel’s iPhone 18 Pro Camera Review",
-      "post_url": "https://petapixel.com/2026/09/16/apple-iphone-18-pro-camera-review-small-changes-big-differences/",
-      "published": "2026-09-17T20:29:34Z"
-    },
-    {
       "blog_title": "Sylvia's Studio",
       "blog_url": "https://sylvia.studio/",
       "feed_url": "https://sylvia.studio/feed.xml",
       "post_title": "Autumn writing challenge",
       "post_url": "https://sylvia.studio/posts/autumn-writing-challenge",
       "published": "2026-09-17T20:02:18Z"
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "Star Trek: The Next Generation (1987) — ⭐⭐⭐ (3/5)",
-      "post_url": "https://michaelharley.net/watching/2026/09/17/star-trek-the-next-generation-s1/",
-      "published": "2026-09-17T20:00:27Z"
     },
     {
       "blog_title": "Newsonaut",
@@ -54,116 +158,12 @@
       "published": "2026-09-17T19:50:37Z"
     },
     {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Favorite origami I've memorized",
-      "post_url": "https://joelchrono.xyz/blog/favorite-memorized-origami/",
-      "published": "2026-09-17T19:10:00Z"
-    },
-    {
       "blog_title": "What the Fran",
       "blog_url": "https://francescrossley.com/",
       "feed_url": "https://francescrossley.com/feed/",
       "post_title": "Postcard collecting",
       "post_url": "https://francescrossley.com/postcard-collecting/",
       "published": "2026-09-17T18:00:00Z"
-    },
-    {
-      "blog_title": "Kelson Vibber: New Posts",
-      "blog_url": "https://kvibber.com/",
-      "feed_url": "https://kvibber.com/feed.xml",
-      "post_title": "DeBurrow (app review)",
-      "post_url": "https://kvibber.com/reviews/apps/deburrow/",
-      "published": "2026-09-17T17:22:09Z"
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Beware the side quest: tmux vs. herdr",
-      "post_url": "https://sals.place/blog/search-tmux-vs-herdr/",
-      "published": "2026-09-17T16:22:42Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Portentous",
-      "post_url": "https://tobygeeksout.micro.blog/2026/09/17/word-nerd-alert-portentous.html",
-      "published": "2026-09-17T16:20:10Z"
-    },
-    {
-      "blog_title": "MMO Casual",
-      "blog_url": "http://wowaltaddiction.blogspot.com/",
-      "feed_url": "http://wowaltaddiction.blogspot.com/feeds/posts/default",
-      "post_title": "Guild Wars 3, Evercold and Another Try",
-      "post_url": "http://wowaltaddiction.blogspot.com/2026/09/guild-wars-3-evercold-and-another-try.html",
-      "published": "2026-09-17T15:28:13Z"
-    },
-    {
-      "blog_title": "Kay Talks Games",
-      "blog_url": "https://kaytalksgames.wordpress.com/",
-      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
-      "post_title": "The Skyrim Mage 100% Run Continues!",
-      "post_url": "https://kaytalksgames.wordpress.com/2026/09/17/the-skyrim-mage-100-run-continues/",
-      "published": "2026-09-17T14:33:05Z"
-    },
-    {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Another Log on the Fire",
-      "post_url": "https://scopique.com/2026/09/17/another-log-on-the-fire/",
-      "published": "2026-09-17T14:28:50Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Forever Games?",
-      "post_url": "https://bhagpuss.blogspot.com/2026/09/forever-games.html",
-      "published": "2026-09-17T14:26:37Z"
-    },
-    {
-      "blog_title": "Ubergeek Kelly's World",
-      "blog_url": "https://www.kgadams.net/",
-      "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "Large AI firms ask for regulation",
-      "post_url": "https://www.kgadams.net/geekdom/large-ai-firms-ask-for-regulation",
-      "published": "2026-09-17T13:30:00Z"
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "Diablo III: Culling the undead with my own undead",
-      "post_url": "https://biobreak.wordpress.com/2026/09/17/diablo-iii-culling-the-undead-with-my-own-undead/",
-      "published": "2026-09-17T13:00:52Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Ick (2024) — A crazy spiritual successor to The Blob",
-      "post_url": "https://mutantreviewersmovies.com/2026/09/17/ick-2024-a-crazy-spiritual-successor-to-the-blob/",
-      "published": "2026-09-17T13:00:32Z"
-    },
-    {
-      "blog_title": "#デザイン 記事まとめ",
-      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
-      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
-      "post_title": "康本雅子の作家性と、ワークショップ —「働くカラダのためのダンスな体」によせて",
-      "post_url": "https://note.com/uss_un/n/n287078d44eef",
-      "published": "2026-09-17T12:41:54Z"
-    },
-    {
-      "blog_title": "Frostilyte Writes",
-      "blog_url": "https://frostilyte.ca/",
-      "feed_url": "https://frostilyte.ca/feed/",
-      "post_title": "A Low-Tier Playthrough of Pokémon Silver: Part 6",
-      "post_url": "https://frostilyte.ca/2026/09/17/a-low-tier-playthrough-of-pokemon-silver-part-6/",
-      "published": "2026-09-17T12:09:53Z"
     }
   ]
 }
