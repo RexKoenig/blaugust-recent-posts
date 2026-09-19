@@ -1,20 +1,137 @@
 {
-  "generated_at": "2026-09-18T20:54:30.526215Z",
-  "source_generated_at": "2026-09-18T20:53:58.734206Z",
+  "generated_at": "2026-09-19T10:58:16.813230Z",
+  "source_generated_at": "2026-09-19T10:57:48.248063Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 19,
+  "summary_count": 20,
   "posts": [
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "あのころの未来に ぼくらは立っているのかなぁ……",
+      "post_url": "https://elve.club/entry/2026/09/19/194519?utm_source=feed",
+      "published": "2026-09-19T10:45:19Z",
+      "summary": "A Japanese personal reflection recalls severe hardships around 2011, present-day work frustrations, aging concerns, family obligations, and efforts to simplify life while seeking modest happiness."
+    },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - pxl area",
-      "post_url": "https://pretendtypewriter.net/note-pxl-area/",
-      "published": "2026-09-18T20:51:46Z",
-      "summary": "A note dated 18 September 2026 announces registration of Pretend Typewriter and Meet me in Tavoan in Pixel Area’s Signal Basin, praising the project’s creativity."
+      "post_title": "I MADE A BUTTON!",
+      "post_url": "https://pretendtypewriter.net/i-made-a-button/",
+      "published": "2026-09-19T10:00:00Z",
+      "summary": "Pretend Typewriter introduces a downloadable button for its blog, inspired by claiming two pixels in Pixel Area, and previews a future button garden for favorite websites."
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "QUICHE FOREVER, that’s the only important thing in this post - also happiness",
+      "post_url": "https://hollie.eilloh.net/posts/quiche-forever-thats-the-only-important-thing-in-this-post-also-happiness",
+      "published": "2026-09-19T07:36:17Z",
+      "summary": "A personal reflection celebrates a rosemary sweet potato quiche, renewed happiness and health, meaningful food memories, neighborhood bird conservation, and ongoing weaving and sock-knitting projects."
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com/",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Stalk’s Videogame Corner: Dredge",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/09/19/stalks-videogame-corner-dredge/",
+      "published": "2026-09-19T07:00:00Z",
+      "summary": "Dredge combines fishing, boat upgrades, exploration, and Lovecraftian horror as a fisher investigates mutated creatures, dangerous nights, insanity, and mysterious relics."
+    },
+    {
+      "blog_title": "Indiecator",
+      "blog_url": "https://indiecator.org/",
+      "feed_url": "https://indiecator.home.blog/feed/",
+      "post_title": "WAROTA: I Live Next to the Demon King’s Castle LOL – Village-Building ARPG Enters Early Access",
+      "post_url": "https://indiecator.org/2026/09/19/warota-live-next-to-demon-kings-castle-early-access/",
+      "published": "2026-09-19T06:54:49Z",
+      "summary": "WAROTA: I Live Next to the Demon King’s Castle LOL enters Steam Early Access as a village-building ARPG combining settlement management, class-changing hats, exploration, and monster defense."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "No rush to upgrade",
+      "post_url": "https://rishidass.net/posts/no-rush-to-upgrade",
+      "published": "2026-09-19T06:29:11Z",
+      "summary": "Rishi Dass explains why the iPhone 16e meets his needs, valuing battery life over newer features and seeing no reason to upgrade until performance or software support declines."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "I’d like to see the applications from xapp-project.org available in fo…",
+      "post_url": "https://thinkroot.xyz/nota-638",
+      "published": "2026-09-19T06:16:41Z",
+      "summary": "The post requests distributing XApp applications in .deb, .rpm, Flatpak, and possibly Snap formats to support Linux distributions beyond Linux Mint and Fedora."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "When will it get easier?",
+      "post_url": "https://cynnisblog.wordpress.com/2026/09/19/when-will-it-get-easier/",
+      "published": "2026-09-19T05:00:45Z",
+      "summary": "Cynni describes the physical pain, sleep disruption, emotional struggles, and renewed affection involved in raising puppy Koa while recovering from injuries and surgery."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "⚙︎ David Pogue’s 125 Siri AI Tests—And 50 of My Own",
+      "post_url": "https://jagsworkshop.com/2026/09/siri-ai-tests/",
+      "published": "2026-09-19T02:21:17Z",
+      "summary": "JAG’s Workshop evaluates Siri AI through David Pogue’s 125 tests and 50 additional examples, highlighting successes, errors, and limitations accessing third-party data."
+    },
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Creating a Blog in Gemini://",
+      "post_url": "https://brennan.day/creating-a-blog-in-gemini/",
+      "published": "2026-09-19T02:00:00Z",
+      "summary": "Brennan Day introduces Gemini blogging, explaining its minimalist Gemtext format, benefits, hosting platforms, capsule ideas, and gemlog structure."
+    },
+    {
+      "blog_title": "Kelson Vibber: New Posts",
+      "blog_url": "https://kvibber.com/",
+      "feed_url": "https://kvibber.com/feed.xml",
+      "post_title": "Murine Launcher for Android (app review)",
+      "post_url": "https://kvibber.com/reviews/apps/murine-launcher/",
+      "published": "2026-09-19T00:05:24Z",
+      "summary": "Murine Launcher is a privacy-focused Android launcher fork offering extensive home-screen customization, improved stability, and no ads or tracking, with some discoverability quirks."
+    },
+    {
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "I’m not a big fan of movie theater experience",
+      "post_url": "https://hamatti.org/posts/im-not-a-big-fan-of-movie-theater-experience/",
+      "published": "2026-09-19T00:00:00Z",
+      "summary": "Juha-Matti Santala compares movie theaters with home viewing, criticizing advertising, high concessions, limited breaks, and modest advantages despite enjoying cinematic outings."
+    },
+    {
+      "blog_title": "Off the Top",
+      "blog_url": "https://www.vanderwal.net/random/index.php",
+      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
+      "post_title": "Homebrew Now with a Mac Desktop App",
+      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2211",
+      "published": "2026-09-18T22:32:31Z",
+      "summary": "Homebrew/BrewUI is an official macOS GUI offering package and cask updates, installed-package visibility, dependency information, and access to Homebrew doctor."
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "After using iOS 27 and iPadOS 27 for...",
+      "post_url": "https://jasonjournals.com/posts/2026-09-18-after-using-ios-27",
+      "published": "2026-09-18T22:03:17Z",
+      "summary": "Jason Journals reviews iOS 27 and iPadOS 27, noting smoother performance, improved Liquid Glass animations, clearer appearance options, and restored edge-to-edge sidebars."
     },
     {
       "blog_title": "Sal's Blog",
@@ -69,123 +186,6 @@
       "post_url": "https://bhagpuss.blogspot.com/2026/09/valheim-forever.html",
       "published": "2026-09-18T17:56:05Z",
       "summary": "A Valheim player revisits the game’s peaceful Meadows, lowers difficulty settings, explores a large island, and questions progression while seeking a comfortable permanent home."
-    },
-    {
-      "blog_title": "Scormus Fails",
-      "blog_url": "https://scormey.com/",
-      "feed_url": "https://scormey.com/feed/",
-      "post_title": "Nice Time For Some Duo Roleplaying!",
-      "post_url": "https://scormey.com/2026/09/18/nice-time-for-some-duo-roleplaying/",
-      "published": "2026-09-18T17:00:19Z",
-      "summary": "A couple plans to revive duo tabletop roleplaying during a four-day weekend, considering games including EZD6, Vampire, Shadowrun, Pathfinder, and oracle-assisted play."
-    },
-    {
-      "blog_title": "Parallel Spirals",
-      "blog_url": "https://pradx.in",
-      "feed_url": "https://pradx.in/feed/",
-      "post_title": "Ganesh Chaturthi 2026",
-      "post_url": "https://pradx.in/2026/09/18/ganesh-chaturthi-2026/",
-      "published": "2026-09-18T16:52:19Z",
-      "summary": "A family observes Ganesh Chaturthi at home with a clay Ganapati, offerings of fruit and vegetables, and a photograph featuring their son."
-    },
-    {
-      "blog_title": "Leekscosycorner",
-      "blog_url": "https://leekscosycorner.com/",
-      "feed_url": "https://leekscosycorner.com/feed/",
-      "post_title": "Dressmaker: A Unique Journey in Fashion Gaming",
-      "post_url": "https://leekscosycorner.com/2026/09/18/dressmaker/",
-      "published": "2026-09-18T15:47:41Z",
-      "summary": "Dressmaker is a casual simulation game about designing, cutting, sewing, and delivering bespoke dresses while developing skills, patterns, fabrics, reputation, and coin."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Who is my (pixel) neighbor?",
-      "post_url": "https://joelchrono.xyz/blog/who-is-my-pixel-neighbor/",
-      "published": "2026-09-18T15:25:00Z",
-      "summary": "Pixel Area is a 100x100 pixel blogroll whose creation, LLM assistance, permissions, and evolving design prompt reflection on community values and participation."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Friday Bullet Points About So Many Launches, Updates, and Endings",
-      "post_url": "https://tagn.wordpress.com/2026/09/18/friday-bullet-points-about-launches-updates-and-endings/",
-      "published": "2026-09-18T15:15:35Z",
-      "summary": "The roundup covers Nintendo’s tariff-refund sale, upcoming launches and delays for Monsters & Memories, Squadron 42, EVE Vanguard, and RuneScape Dragonwilds."
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "pleasuredrome is an Erotic Game for the Sickos (complimentary)",
-      "post_url": "https://virtualmoose.org/2026/09/18/pleasuredrome-is-an-erotic-game-for-the-sickos-complimentary/",
-      "published": "2026-09-18T15:04:02Z",
-      "summary": "DOMINO CLUB’s 2024 browser visual novel pleasuredrome portrays prisoners using sex to survive in a dystopian future through exploratory storytelling and grungy artwork."
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 38 Digest",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-09-18-week-38-digest/",
-      "published": "2026-09-18T15:00:00Z",
-      "summary": "The Week 38 digest covers unemployment, health, job applications, reading science fiction and mystery, television viewing, and limited gaming."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "După mulți ani de Linux am ajuns să observ că îmi place stabilitatea, …",
-      "post_url": "https://thinkroot.xyz/nota-636",
-      "published": "2026-09-18T14:26:58Z",
-      "summary": "After many years using Linux, the writer values stability, simplicity, technological innovation, GNOME, and Linux Mint applications beyond Cinnamon, finding them absent from one distribution."
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "Bose knows baseball (and music)",
-      "post_url": "https://biobreak.wordpress.com/2026/09/18/bose-knows-baseball-and-music/",
-      "published": "2026-09-18T14:13:02Z",
-      "summary": "A garage-sale Bose Wave stereo joins a collection of three systems, alongside Discogs cataloguing, music-listening progress, and a failed Hiby M300 player."
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "不義理シタッター",
-      "post_url": "https://elve.club/entry/2026/09/18/230748?utm_source=feed",
-      "published": "2026-09-18T14:07:48Z",
-      "summary": null
-    },
-    {
-      "blog_title": "Superior Realities",
-      "blog_url": "https://superior-realities.com",
-      "feed_url": "https://superior-realities.com/feed/",
-      "post_title": "WoW: Another Month Down",
-      "post_url": "https://superior-realities.com/2026/09/18/wow-another-month-down/",
-      "published": "2026-09-18T14:00:59Z",
-      "summary": "A World of Warcraft player recounts pursuing monk and warlock mythic gear, mastering challenging delves, revisiting other characters, and sampling Warcraft III’s Forsaken Kingdom expansion."
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "The Most Gen X Movies of the 90s (Part Three: 1997-1998)",
-      "post_url": "https://mutantreviewersmovies.com/2026/09/18/the-most-gen-x-movies-of-the-90s-part-three-1997-1998/",
-      "published": "2026-09-18T14:00:22Z",
-      "summary": "The third installment identifies 1997–1998 films that reflected younger Gen X cultural experiences, attitudes, and struggles during their teenage and young adult years."
-    },
-    {
-      "blog_title": "Gaudete Theology",
-      "blog_url": "https://gaudetetheology.wordpress.com/",
-      "feed_url": "http://gaudetetheology.wordpress.com/feed/",
-      "post_title": "Reblog + USian Action: Help Protect Public Health",
-      "post_url": "https://gaudetetheology.wordpress.com/2026/09/18/reblog-usian-action-help-protect-public-health/",
-      "published": "2026-09-18T13:38:37Z",
-      "summary": "Gaudete Theology urges readers to submit public comments opposing proposed HHS vaccine-policy changes by September 20, framing civic action as resistance to structural sin."
     }
   ]
 }
