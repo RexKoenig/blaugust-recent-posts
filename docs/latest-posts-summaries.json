@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-09-19T20:39:55.827005Z",
-  "source_generated_at": "2026-09-19T20:39:28.933726Z",
+  "generated_at": "2026-09-20T11:22:57.488905Z",
+  "source_generated_at": "2026-09-20T11:22:18.769280Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 19,
+  "summary_count": 20,
   "posts": [
     {
-      "blog_title": "Newsonaut",
-      "blog_url": "https://www.newsonaut.com/",
-      "feed_url": "https://www.newsonaut.com/rss",
-      "post_title": "We have met the algorithm and it is us",
-      "post_url": "https://www.newsonaut.com/articles/we-have-met-the-algorithm-and-it-is-us",
-      "published": "2026-09-19T20:10:57Z",
-      "summary": "Reflecting on Bear Discover’s negativity-heavy trending list, the piece considers how algorithms mirror users’ preferences and proposes more positive post framings."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "The Perfect Linux Distribution for Me (Which Probably Doesn't Exist)",
-      "post_url": "https://thinkroot.xyz/the-perfect-linux-distribution-for-me-which-probably-doesnt-exist-641",
-      "published": "2026-09-19T19:25:21Z",
-      "summary": "A Linux user evaluates distributions against competing priorities including Mint-level stability, current GNOME applications, XApp availability, gaming, support, and simple installation."
-    },
-    {
-      "blog_title": "A parenthetical departure",
-      "blog_url": "https://departure.blog/",
-      "feed_url": "https://sylvia.bearblog.dev/feed/",
-      "post_title": "Pixel bits",
-      "post_url": "https://departure.blog/pixel-bits/",
-      "published": "2026-09-19T15:47:00Z",
-      "summary": null
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "Patient In A Medical Pickle",
-      "post_url": "https://jasonjournals.com/posts/patient-in-a-medical-pickle",
-      "published": "2026-09-19T15:27:00Z",
-      "summary": "Jason Journals recounts delayed surgery caused by complex insurance and financial arrangements, worsening symptoms, hospital coordination, and reliance on prayer while awaiting treatment."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "WoW Forever – Getting the Band Back Together",
-      "post_url": "https://tagn.wordpress.com/2026/09/19/wow-forever-getting-the-band-back-together/",
-      "published": "2026-09-19T15:15:27Z",
-      "summary": "WoW Forever presents an alternate 2006 Azeroth with new content, level-60 horizontal progression, and renewed efforts to reunite a former gaming group."
-    },
-    {
-      "blog_title": "Joe and STO",
-      "blog_url": "https://joeandsto.wordpress.com",
-      "feed_url": "https://joeandsto.wordpress.com/feed/",
-      "post_title": "Narada Ya Business? Joe Previews the Review of the Narada…with a CONTEST!",
-      "post_url": "https://joeandsto.wordpress.com/2026/09/19/narada-ya-business-joe-previews-the-review-of-the-narada-with-a-contest/",
-      "published": "2026-09-19T14:15:00Z",
-      "summary": "Joe previews a Star Trek Online Narada Miracle Worker Juggernaut ship review, outlining a free-to-play-viable build, equipment sources, constraints, and an associated contest."
-    },
-    {
-      "blog_title": "Chasing Dings!",
-      "blog_url": "https://chasingdings.com/",
-      "feed_url": "https://chasingdings.com/?feed=rss2",
-      "post_title": "Valheim: Eikthyr down",
-      "post_url": "https://chasingdings.com/2026/09/19/valheim-eikthyr-down/",
-      "published": "2026-09-19T13:40:56Z",
-      "summary": "A Valheim player defeats the first boss, Eikthyr, using fire arrows and a knife after preparing skills, food, equipment, and future plans for the Elder."
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Mutant Roundtable: What are our favorite cult horror series?",
-      "post_url": "https://mutantreviewersmovies.com/2026/09/19/mutant-roundtable-whats-our-favorite-cult-horror-series/",
-      "published": "2026-09-19T13:00:03Z",
-      "summary": "Mutant Reviewers contributors name favorite cult horror series, including Friday the 13th, Happy Death Day, House, Gremlins, Jack Frost, and Terrifier."
-    },
-    {
-      "blog_title": "TGLG",
-      "blog_url": "https://392ms.witchserver.jp/kb/",
-      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "No.1268",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1268",
-      "published": "2026-09-19T12:49:19Z",
-      "summary": "The entry mentions invitations for new pairing-only events, possible participation in 星願, a previously shared event sketch, and excitement over a Heath and Cain sonatina."
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "#AutumnWriting day 2 - clouds",
-      "post_url": "https://sylvia.studio/posts/autumnwriting-day-2-clouds",
-      "published": "2026-09-19T12:32:00Z",
-      "summary": "An autumn writing vignette portrays shifting clouds as expressive, potentially threatening presences, blending close observation with imagination, tea-making, and suspense."
-    },
-    {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Everyone Loves a Comeback Story",
-      "post_url": "https://scopique.com/2026/09/19/everyone-loves-a-comeback-story/",
-      "published": "2026-09-19T11:59:47Z",
-      "summary": "Supernatural is spinning off from Meta, prompting reflections on its VR exercise features, real-music licensing, pricing changes, and potential expansion beyond Meta headsets."
+      "blog_title": "Going Commando",
+      "blog_url": "https://swtorcommando.blogspot.com/",
+      "feed_url": "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "The Legacy of Legacy of the Sith's Story",
+      "post_url": "https://swtorcommando.blogspot.com/2026/09/the-legacy-of-legacy-of-siths-story.html",
+      "published": "2026-09-20T11:04:24Z",
+      "summary": "The piece evaluates Legacy of the Sith’s pacing, ambition, standalone updates, and overarching plot within SWTOR, comparing its structure with the original class stories."
     },
     {
       "blog_title": "スナックエルベ",
       "blog_url": "https://elve.club/",
       "feed_url": "https://elve.club/feed",
-      "post_title": "あのころの未来に ぼくらは立っているのかなぁ……",
-      "post_url": "https://elve.club/entry/2026/09/19/194519?utm_source=feed",
-      "published": "2026-09-19T10:45:19Z",
-      "summary": "A Japanese personal reflection recalls severe hardships around 2011, present-day work frustrations, aging concerns, family obligations, and efforts to simplify life while seeking modest happiness."
+      "post_title": "はてなぁ～ スマホアプリ、びっみょーに使いにくいよぉぉぉ",
+      "post_url": "https://elve.club/entry/2026/09/20/194452?utm_source=feed",
+      "published": "2026-09-20T10:44:52Z",
+      "summary": "The writer critiques a Hatena Blog smartphone app update, then describes rain, delivery problems, rice prices, accommodation plans for visiting parents, and seasonal oden."
     },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "I MADE A BUTTON!",
-      "post_url": "https://pretendtypewriter.net/i-made-a-button/",
-      "published": "2026-09-19T10:00:00Z",
-      "summary": "Pretend Typewriter introduces a downloadable button for its blog, inspired by claiming two pixels in Pixel Area, and previews a future button garden for favorite websites."
+      "post_title": "note - pancakes 092026",
+      "post_url": "https://pretendtypewriter.net/note-pancakes-092026/",
+      "published": "2026-09-20T10:30:00Z",
+      "summary": "A September 2026 note describes improving pancake-making skills while noting that cooking pancakes takes over an hour, possibly because of low heat."
     },
     {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "QUICHE FOREVER, that’s the only important thing in this post - also happiness",
-      "post_url": "https://hollie.eilloh.net/posts/quiche-forever-thats-the-only-important-thing-in-this-post-also-happiness",
-      "published": "2026-09-19T07:36:17Z",
-      "summary": "A personal reflection celebrates a rosemary sweet potato quiche, renewed happiness and health, meaningful food memories, neighborhood bird conservation, and ongoing weaving and sock-knitting projects."
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "5 Card Flickr Story",
+      "post_url": "https://nomadwarmachine.co.uk/2026/09/20/5-card-flickr-story/",
+      "published": "2026-09-20T09:47:13Z",
+      "summary": "NomadWarMachine presents a five-image Flickr story depicting a rainy highland drive, rainbow, wagtail, Findhorn Bay, sunset pub walk, and moonlit journey home."
     },
     {
-      "blog_title": "Cubic Creativity",
-      "blog_url": "https://cubiccreativity.wordpress.com/",
-      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
-      "post_title": "Stalk’s Videogame Corner: Dredge",
-      "post_url": "https://cubiccreativity.wordpress.com/2026/09/19/stalks-videogame-corner-dredge/",
-      "published": "2026-09-19T07:00:00Z",
-      "summary": "Dredge combines fishing, boat upgrades, exploration, and Lovecraftian horror as a fisher investigates mutated creatures, dangerous nights, insanity, and mysterious relics."
+      "blog_title": "Nerdy Bookahs",
+      "blog_url": "https://nerdybookahs.wordpress.com/",
+      "feed_url": "http://nerdybookahs.wordpress.com/feed/",
+      "post_title": "Random Game Night: Ynglet",
+      "post_url": "https://nerdybookahs.wordpress.com/2026/09/20/random-game-night-ynglet/",
+      "published": "2026-09-20T09:33:12Z",
+      "summary": "Nerdy Bookahs describes choosing Ynglet for a random game night, finding its colorful audiovisual style appealing but its easy puzzle-platforming gameplay boring."
     },
     {
-      "blog_title": "Indiecator",
-      "blog_url": "https://indiecator.org/",
-      "feed_url": "https://indiecator.home.blog/feed/",
-      "post_title": "WAROTA: I Live Next to the Demon King’s Castle LOL – Village-Building ARPG Enters Early Access",
-      "post_url": "https://indiecator.org/2026/09/19/warota-live-next-to-demon-kings-castle-early-access/",
-      "published": "2026-09-19T06:54:49Z",
-      "summary": "WAROTA: I Live Next to the Demon King’s Castle LOL enters Steam Early Access as a village-building ARPG combining settlement management, class-changing hats, exploration, and monster defense."
+      "blog_title": "わくパンの思考のかけら",
+      "blog_url": "https://wakupanbouquet.hatenablog.com/",
+      "feed_url": "https://wakupanbouquet.hatenablog.com/rss",
+      "post_title": "2026-W38 週報 健康が足りない",
+      "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/09/20/170000",
+      "published": "2026-09-20T08:00:00Z",
+      "summary": "A weekly diary covers health fluctuations, creative work, self-criticism, flashbacks, difficulties with verbalizing experiences, and plans involving exercise, tarot, piano, and podcasts."
+    },
+    {
+      "blog_title": "Amerpie by Lou Plummer",
+      "blog_url": "https://amerpie.lol/",
+      "feed_url": "https://amerpie.lol/feed.xml",
+      "post_title": "Crucial Track for September 20, 2026",
+      "post_url": "https://amerpie.lol/2026/09/20/crucial-track-for-september.html",
+      "published": "2026-09-20T07:54:28Z",
+      "summary": "Lou Plummer selects “The Weight” by The Band as a self-introduction, emphasizing its portrayal of shared burdens and community in Nazareth."
     },
     {
       "blog_title": "Rishi Dass",
       "blog_url": "https://rishidass.net",
       "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "No rush to upgrade",
-      "post_url": "https://rishidass.net/posts/no-rush-to-upgrade",
-      "published": "2026-09-19T06:29:11Z",
-      "summary": "Rishi Dass explains why the iPhone 16e meets his needs, valuing battery life over newer features and seeing no reason to upgrade until performance or software support declines."
+      "post_title": "Do not engage",
+      "post_url": "https://rishidass.net/posts/do-not-engage",
+      "published": "2026-09-20T05:58:08Z",
+      "summary": "Rishi Dass argues that thoughts are impersonal products of fear or desire, and that suffering arises from engaging with them rather than letting them pass."
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "I did all the socials, and I’m still here to tell the tale, vibrating only slightly",
+      "post_url": "https://hollie.eilloh.net/posts/i-did-all-the-socials-and-im-still-here-to-tell-the-tale-vibrating-only-slightly",
+      "published": "2026-09-20T05:25:00Z",
+      "summary": "A joyful day includes an Analog Tools meetup, lunch with friends, games, knitting, winning Carcassonne, visiting guests, and managing significant pain."
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Hello from my new Thinkpad",
+      "post_url": "https://sals.place/blog/hello-from-thinkpad/",
+      "published": "2026-09-20T05:11:18Z",
+      "summary": "Sal describes a used ThinkPad running Fedora’s i3 spin, praising its speed, keyboard, display, pointer buttons, power management, battery life, and contrast with macOS."
     },
     {
       "blog_title": "Cynni’s Blog",
       "blog_url": "https://cynnisblog.wordpress.com/",
       "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "When will it get easier?",
-      "post_url": "https://cynnisblog.wordpress.com/2026/09/19/when-will-it-get-easier/",
-      "published": "2026-09-19T05:00:45Z",
-      "summary": "Cynni describes the physical pain, sleep disruption, emotional struggles, and renewed affection involved in raising puppy Koa while recovering from injuries and surgery."
+      "post_title": "#SilentSunday – Koa’s Fabulous Smile",
+      "post_url": "https://cynnisblog.wordpress.com/2026/09/20/silentsunday-koas-fabulous-smile/",
+      "published": "2026-09-20T05:00:00Z",
+      "summary": "A #SilentSunday image showcases Koa, a joyful chocolate Labrador Retriever puppy, in a festive digital collage with colorful sparkles and a distressed film-style border."
     },
     {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "⚙︎ David Pogue’s 125 Siri AI Tests—And 50 of My Own",
-      "post_url": "https://jagsworkshop.com/2026/09/siri-ai-tests/",
-      "published": "2026-09-19T02:21:17Z",
-      "summary": "JAG’s Workshop evaluates Siri AI through David Pogue’s 125 tests and 50 additional examples, highlighting successes, errors, and limitations accessing third-party data."
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Word Nerd Alert: Disenthrall",
+      "post_url": "https://tobygeeksout.micro.blog/2026/09/19/word-nerd-alert-disenthrall.html",
+      "published": "2026-09-20T02:48:54Z",
+      "summary": "The post defines “disenthrall” as a verb meaning to free from bondage or liberate."
     },
     {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "Creating a Blog in Gemini://",
-      "post_url": "https://brennan.day/creating-a-blog-in-gemini/",
-      "published": "2026-09-19T02:00:00Z",
-      "summary": "Brennan Day introduces Gemini blogging, explaining its minimalist Gemtext format, benefits, hosting platforms, capsule ideas, and gemlog structure."
+      "blog_title": "Off the Top",
+      "blog_url": "https://www.vanderwal.net/random/index.php",
+      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
+      "post_title": "An Insanely Good Bookshelf Viewer",
+      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2213",
+      "published": "2026-09-20T02:40:38Z",
+      "summary": "The post praises Marcin Wichary’s interactive design-book bookshelf viewer, highlighting its inspection lens, book details, purchasing links, and inspiration for cataloguing personal shelves."
+    },
+    {
+      "blog_title": "A 3D Blog for a 3D World",
+      "blog_url": "https://kingwilly105.blogspot.com/",
+      "feed_url": "https://kingwilly105.blogspot.com/feeds/posts/default",
+      "post_title": "Pictures from the September Tallahassee Vintage Computer Club Meeting",
+      "post_url": "https://kingwilly105.blogspot.com/2026/09/pictures-from-september-tallahassee.html",
+      "published": "2026-09-20T02:25:36Z",
+      "summary": "Photographs from the September 19, 2026 Tallahassee Vintage Computer Club meeting highlight a Commodore 64 edition held in Tallahassee, Florida."
+    },
+    {
+      "blog_title": "Nosrednayduj's Blog",
+      "blog_url": "https://nosrednayduj.dreamwidth.org/",
+      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
+      "post_title": "back pain, cont'd",
+      "post_url": "https://nosrednayduj.dreamwidth.org/187084.html",
+      "published": "2026-09-20T02:09:36Z",
+      "summary": "A spine doctor finds no likely skeletal cause for recurring back pain, recommends continuing physical therapy, and may consider injections if symptoms persist."
+    },
+    {
+      "blog_title": "Nullish",
+      "blog_url": "https://nullish.smol.pub/",
+      "feed_url": "https://nullish.smol.pub/atom.xml",
+      "post_title": "Music while working",
+      "post_url": "https://nullish.smol.pub/music-while-working",
+      "published": "2026-09-20T01:15:39Z",
+      "summary": "The writer reflects on changing work-listening habits, using electronic music and layered headphones to block office distractions before remote work restored music’s enjoyment."
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Sunday, 20 September 2026",
+      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-20.html",
+      "published": "2026-09-20T00:00:00Z",
+      "summary": "The Daily Blogroll surveys gaming, travel, collecting, online communities, publishing experiments, AI regulation, social-media fatigue, and historical curiosities."
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Monster: The Lizzie Borden Story (2026) — ⭐⭐⭐⭐ (4/5)",
+      "post_url": "https://michaelharley.net/watching/2026/09/19/monster-the-lizzie-borden-story-s1/",
+      "published": "2026-09-19T23:51:29Z",
+      "summary": "A four-star review covers the 2026 crime drama series Monster: The Lizzie Borden Story, depicting Lizzie Borden’s ax murders of her parents in Victorian-era America."
+    },
+    {
+      "blog_title": "Kelson Vibber: New Posts",
+      "blog_url": "https://kvibber.com/",
+      "feed_url": "https://kvibber.com/feed.xml",
+      "post_title": "Return to WorldCon: LA 2026",
+      "post_url": "https://journal.kvibber.com/2026/09/laconv/",
+      "published": "2026-09-19T23:09:19Z",
+      "summary": "A family’s Sunday visit to LACon V in Anaheim covers Worldcon’s small attendance, panels, gaming and electronics activities, art exhibits, shopping, cosplay, and signing opportunities."
+    },
+    {
+      "blog_title": "Lameazoid",
+      "blog_url": "https://lameazoid.com/",
+      "feed_url": "https://lameazoid.com/feed/",
+      "post_title": "Weekly Wrap Up (2026.09.19)",
+      "post_url": "https://lameazoid.com/weekly-wrap-up-2026-09-19/",
+      "published": "2026-09-19T23:00:00Z",
+      "summary": "Lameazoid’s weekly wrap-up covers garden harvests, waning enthusiasm for Droid Tycoon, new Transformers and Funky Kong toys, and reactions to Supergirl and SWAT."
     }
   ]
 }
