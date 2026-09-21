@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T12:47:52.995923Z",
-  "source_generated_at": "2026-09-21T12:47:21.168524Z",
+  "generated_at": "2026-09-21T21:59:08.436380Z",
+  "source_generated_at": "2026-09-21T21:58:18.920915Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -8,184 +8,184 @@
   "summary_count": 20,
   "posts": [
     {
-      "blog_title": "TGLG",
-      "blog_url": "https://392ms.witchserver.jp/kb/",
-      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "(Loading...)...",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1270",
-      "published": "2026-09-21T12:40:35Z",
-      "summary": "The text describes purchasing two books, praising a manga-style introduction to design fundamentals and reflecting on journaling, inspiration, and daily life."
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Addendum: macOS Spaces transition time",
+      "post_url": "https://sals.place/blog/macos-spaces-addendum/",
+      "published": "2026-09-21T21:00:04Z",
+      "summary": "Sal’s addendum explains that macOS Spaces switching feels slower on high-refresh-rate monitors, with input devices remaining focused on the previous space during animation."
     },
     {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "#AutumnWriting day 4 - storm",
-      "post_url": "https://sylvia.studio/posts/autumnwriting-day-4-storm",
-      "published": "2026-09-21T12:06:13Z",
-      "summary": "A couple embraces an October beach storm, finding exhilaration, laughter, and relief from anxiety before retreating to a café for hot cocoa."
+      "blog_title": "ComradeNerdy",
+      "blog_url": "https://comradenerdy.com/",
+      "feed_url": "https://comradenerdy.com/feed/",
+      "post_title": "Plans for the Fourth Week of September 2026",
+      "post_url": "https://comradenerdy.com/plans-for-the-fourth-week-of-september-2026/",
+      "published": "2026-09-21T20:47:46Z",
+      "summary": "Plans include streaming World of Warcraft: Forever, trying other games, covering new releases and gaming news, managing travel preparations, and attending a final barbecue."
     },
     {
-      "blog_title": "Chasing Dings!",
-      "blog_url": "https://chasingdings.com/",
-      "feed_url": "https://chasingdings.com/?feed=rss2",
-      "post_title": "Guild Wars 2: Parasocial Relationships",
-      "post_url": "https://chasingdings.com/2026/09/21/guild-wars-2-parasocial-relationships/",
-      "published": "2026-09-21T12:05:51Z",
-      "summary": "Guild Wars 2’s Visions of Eternity follows the Commander pursuing Director Vloxx, confronting Inquest sympathizers, ancient mechs, labyrinthine passages, and an existential plan to reset reality."
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Head In The Clouds",
-      "post_url": "https://bhagpuss.blogspot.com/2026/09/head-in-clouds.html",
-      "published": "2026-09-21T12:05:30Z",
-      "summary": "Gaming’s abundance and scarcity paradox leads to speculation about cloud gaming, AI-driven hardware costs, mobile platforms, affordability, and refurbished technology’s future."
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "Re: AI is not “just a tool”",
-      "post_url": "https://michaelharley.net/posts/2026/09/21/re-ai-is-not-just-a-tool/",
-      "published": "2026-09-21T11:55:00Z",
-      "summary": "Michael Harley argues that rejecting all AI over its origins and impacts is moral absolutism, while supporting regulation and responsible use of open models."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Distribuția Linux perfectă pentru mine (care probabil nu există)",
-      "post_url": "https://thinkroot.xyz/distributia-linux-perfecta-pentru-mine-care-probabil-nu-exista-639",
-      "published": "2026-09-21T10:23:01Z",
-      "summary": "The piece evaluates Linux distributions against competing preferences for stability, long-term support, recent applications, GNOME, XApp software, gaming, easy installation, and avoiding AUR."
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Lasts",
-      "post_url": "https://nomadwarmachine.co.uk/2026/09/21/lasts/",
-      "published": "2026-09-21T09:07:09Z",
-      "summary": "Lisa Truesdell reflects on a final seaside holiday in Findhorn, sharing a sunset photograph taken during a walk along the waterfront."
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "drizzled drippings",
-      "post_url": "https://write.as/blog-x2600/drizzled-drippings?pk_campaign=rss-feed",
-      "published": "2026-09-21T07:27:04Z",
-      "summary": "Following a storm, the writer plans an early trip to WM with basic supplies, purchases rain gear, and prioritizes obtaining a functional vehicle for sleeping."
-    },
-    {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Actually short this time! Lookit me, keeping it brief",
-      "post_url": "https://hollie.eilloh.net/posts/actually-short-this-time-lookit-me-keeping-it-brief",
-      "published": "2026-09-21T06:48:00Z",
-      "summary": "The writer describes brunch with Jaime, knitting instead of painting, visiting a local yarn store, reconnecting with knitters, and walking home independently."
-    },
-    {
-      "blog_title": "MMORPG Blog",
-      "blog_url": "https://mmoblogg.wordpress.com",
-      "feed_url": "https://mmoblogg.wordpress.com/feed/",
-      "post_title": "(not) dead cities",
-      "post_url": "https://mmoblogg.wordpress.com/2026/09/21/not-dead-cities/",
-      "published": "2026-09-21T05:40:26Z",
-      "summary": "The post recounts questing through Minas Morgul in The Lord of the Rings Online and developing Townsville’s Quarry workers’ district in Bloxd."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Enjoy the journey",
-      "post_url": "https://rishidass.net/posts/enjoy-the-journey",
-      "published": "2026-09-21T05:28:00Z",
-      "summary": "Rishi Dass compares life to a bus journey, reflecting on changing relationships, impermanence, memories of absent people, and the importance of enjoying life’s limited duration."
-    },
-    {
-      "blog_title": "素生",
-      "blog_url": "https://z.arlmy.me/",
-      "feed_url": "http://z.arlmy.me/atom.xml",
-      "post_title": "最近惦念 20260906",
-      "post_url": "https://z.arlmy.me/posts/TILs/thoughts/20260906_Recently/",
-      "published": "2026-09-21T04:15:27Z",
-      "summary": "Reflections consider feedback, information, work, consumption, risk, success, failure, and the possibility of living quietly while responding quickly to reality."
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "LLMs Democratize Extraction and Scale Malice",
-      "post_url": "https://brennan.day/llms-democratize-extraction-and-scale-malice/",
-      "published": "2026-09-21T02:00:00Z",
-      "summary": "Brennan Day examines how accessible LLM agents scale data extraction, spam, surveillance, and malicious activity, challenging IndieWeb autonomy and resistance strategies."
-    },
-    {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Weekly Wrap Up 128",
-      "post_url": "https://divergentrays.com/blog/posts/2026-09-20-Weekly-Wrap-Up-128.html",
-      "published": "2026-09-21T01:59:00Z",
-      "summary": "Divergent Rays’ Weekly Wrap Up 128 highlights museum cosplay, citizen science, online archives, postcard mail, computing and elders, media, books, and geography tools."
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "Personal InfoCloud Site Minor Tweaks to Resolve Issues",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2214",
-      "published": "2026-09-21T01:25:03Z",
-      "summary": "Minor maintenance to the Personal InfoCloud Site restores comment usernames, removes erroneous imported posts, and connects Google Search Console after platform migrations."
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "lol, never mind on that Zium Railway recommendation a few days ago",
-      "post_url": "https://virtualmoose.org/2026/09/20/lol-never-mind-on-that-zium-railway-recommendation-a-few-days-ago/",
-      "published": "2026-09-21T01:13:45Z",
-      "summary": "The writer retracts a recommendation for Zium Railway after learning its programmer used undisclosed AI in the hub world, frustrating artists and collaborators."
+      "blog_title": "Lucky Instar",
+      "blog_url": "https://luckyinstar.neocities.org/blog",
+      "feed_url": "https://luckyinstar.neocities.org/feed.xml",
+      "post_title": "note taking: analog and digital",
+      "post_url": "https://luckyinstar.neocities.org/blog/notes",
+      "published": "2026-09-21T20:00:49Z",
+      "summary": "The writer weighs physical and digital note-taking for scientific literature, seeking searchable organization without sacrificing handwriting, stationery, and reduced screen time."
     },
     {
       "blog_title": "Toby Geeks Out",
       "blog_url": "https://tobygeeksout.micro.blog/",
       "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Brummagem",
-      "post_url": "https://tobygeeksout.micro.blog/2026/09/20/word-nerd-alert-brummagem.html",
-      "published": "2026-09-21T00:32:11Z",
-      "summary": "The post defines “brummagem” as an adjective meaning cheap, showy, or counterfeit."
+      "post_title": "Up the Air Before Landing",
+      "post_url": "https://tobygeeksout.micro.blog/2026/09/21/up-the-air-before-landing.html",
+      "published": "2026-09-21T18:21:44Z",
+      "summary": "A brief personal photo entry captures the view from an airplane a few minutes before landing in Chicago on September 21, 2026."
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "bird code",
+      "post_url": "https://write.as/blog-x2600/bird-code?pk_campaign=rss-feed",
+      "published": "2026-09-21T18:01:38Z",
+      "summary": "An observer describes flocks of berry-eating birds repeatedly falling silent, taking flight in unison, merging midair, and relocating among cemetery trees."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "MONDAY CLEANING: HALLWAY, WINDOWS",
+      "post_url": "https://pretendtypewriter.net/monday-cleaning-hallway-windows/",
+      "published": "2026-09-21T18:00:37Z",
+      "summary": "A personal cleaning log recounts washing kitchen cabinets, interior windows, summer shoes, and the hallway, alongside laundry, meals, and Witcher 3 breaks."
+    },
+    {
+      "blog_title": "Monsterlady's Diary",
+      "blog_url": "https://monsterladysdiary.wordpress.com/",
+      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
+      "post_title": "It’s In His Kiss – Answers in the Diary",
+      "post_url": "https://monsterladysdiary.wordpress.com/2026/09/21/its-in-his-kiss-answers-in-the-diary/",
+      "published": "2026-09-21T17:47:05Z",
+      "summary": "Emily reviews Julia Quinn’s Hyacinth-centered Bridgerton novel, praising its outspoken heroine, romance with Gareth St. Clair, Italian diary, jewel hunt, and fresher plot."
+    },
+    {
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "Gearing up?",
+      "post_url": "https://scormey.com/2026/09/21/gearing-up/",
+      "published": "2026-09-21T17:00:39Z",
+      "summary": "A laptop gamer considers buying Razer’s Basilisk mouse and Tartarus v2 keypad to improve MMORPG controls and streamline video-recording software commands despite their cost."
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "Space Jungle Luv – Oneness of Juju",
+      "post_url": "https://amf.didiermary.fr/space-jungle-luv-oneness-juju/",
+      "published": "2026-09-21T16:33:39Z",
+      "summary": "Space Jungle Luv is Oneness of Juju’s 1976 album, blending African percussion, funk, R&B, spiritual jazz, and soulful vocals across eight tracks."
     },
     {
       "blog_title": "JAG’s Workshop",
       "blog_url": "https://jagsworkshop.com/",
       "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Duane Kuiper Diagnosed with Throat Cancer",
-      "post_url": "https://x.com/SFGiants/status/2101733583065149592",
-      "published": "2026-09-21T00:10:47Z",
-      "summary": "The post expresses support for former baseball player and broadcaster Duane Kuiper following his throat cancer diagnosis, highlighting his longstanding contributions alongside Krukow."
+      "post_title": "‘How Chat-Based Large Language Models Replicate the Mechanisms of a Psychic’s Con’",
+      "post_url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "published": "2026-09-21T16:28:28Z",
+      "summary": "JAG’s Workshop compares chat-based large language models with psychic cold reading, arguing that statistical validation statements can create an illusion of personalized intelligence and reasoning."
     },
     {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Monday, 21 September 2026",
-      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-21.html",
-      "published": "2026-09-21T00:00:00Z",
-      "summary": "The roundup surveys RPGs, EVE Online, Ace Combat X, WoW Classic, reviews, wargaming, films, music, parenting, AI regulation, web scraping, and Linux preferences."
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Highlights of my week",
+      "post_url": "https://francescrossley.com/highlights-of-my-week/",
+      "published": "2026-09-21T16:00:00Z",
+      "summary": "The piece reflects on weekly routines and small pleasures, from Spotify and pizza to family, books, swimming, DnD, friendships, and unexpected discoveries."
     },
     {
-      "blog_title": "Tommyeveryday",
-      "blog_url": "https://tommyeveryday.mataroa.blog",
-      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
-      "post_title": "Monday September 21, 2026",
-      "post_url": "https://tommyeveryday.mataroa.blog/blog/monday-september-21-2026/",
-      "published": "2026-09-21T00:00:00Z",
-      "summary": "A daily update recounts podcast production, baseball results, blog rebranding, seasonal routines, and watching the martial arts film Ip Man 2."
+      "blog_title": "Wry Writer",
+      "blog_url": "https://wrywriter.ca",
+      "feed_url": "https://wrywriter.ca/posts_feed",
+      "post_title": "SciFiMonth 2026",
+      "post_url": "https://wrywriter.ca/posts/scifimonth-2026",
+      "published": "2026-09-21T15:56:05Z",
+      "summary": "SciFiMonth 2026 is introduced as a month-long celebration of science-fiction reading, writing, art, and movies, led by co-captains Imyril, Annemieke, Lisa, and Mayri."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "No Man’s Sky – Expedition 23 – Starting Off with Our Journey Continues",
+      "post_url": "https://tagn.wordpress.com/2026/09/21/no-mans-sky-expedition-23-starting-off-with-our-journey-continues/",
+      "published": "2026-09-21T15:15:51Z",
+      "summary": "No Man’s Sky Expedition 23 revisits the game’s decade of updates through five phases and 43 milestones, beginning with repairing a ship and unlocking historical features."
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 39 Links",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-09-21-week-39-links/",
+      "published": "2026-09-21T15:00:00Z",
+      "summary": "A weekly link roundup covers nature, maps, games, music, disability claims, sports controversies, infrastructure, nuclear-plant risks, and private-equity-owned cookies."
+    },
+    {
+      "blog_title": "Priest with a Cause",
+      "blog_url": "https://priestwithacause.blogspot.com/",
+      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Meme Monday: WoW Forever Memes",
+      "post_url": "https://priestwithacause.blogspot.com/2026/09/meme-monday-wow-forever-memes.html",
+      "published": "2026-09-21T14:45:42Z",
+      "summary": "A collection of humorous memes and reactions celebrating excitement, relationship concerns, timeline changes, new race-class combinations, Skyborne lore, and returning players’ responses to WoW Forever."
+    },
+    {
+      "blog_title": "LOTRO Players",
+      "blog_url": "https://lotroplayers.com",
+      "feed_url": "http://lotroplayers.com/feed/",
+      "post_title": "LOTRO Players News Episode 683: The Breeway of Love",
+      "post_url": "https://lotroplayers.com/2026/09/21/lotro-players-news-episode-683-the-breeway-of-love/?utm_source=rss&utm_medium=rss&utm_campaign=lotro-players-news-episode-683-the-breeway-of-love",
+      "published": "2026-09-21T14:00:00Z",
+      "summary": "LOTRO Players News Episode 683 covers the latest Bullroarer build, game updates, a new-player question, hosts’ gaming activities, promotions, and community support."
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "AI: some words about feelings",
+      "post_url": "https://www.kgadams.net/geekdom/ai-some-words-about-feelings",
+      "published": "2026-09-21T13:30:00Z",
+      "summary": "Kelly examines attitudes toward AI, distinguishing its environmental and social harms from artificial intelligence itself while supporting cautious use, skepticism, and regulation."
+    },
+    {
+      "blog_title": "Robert Birming",
+      "blog_url": "https://birming.com/",
+      "feed_url": "https://birming.com/feed/",
+      "post_title": "Pika photo gallery",
+      "post_url": "https://birming.com/posts/pika-photo-gallery",
+      "published": "2026-09-21T13:12:53Z",
+      "summary": "Robert Birming explains how to build a self-updating Pika photo gallery using tagged posts, page variables, lightbox support, lazy loading, and custom CSS."
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "Trotting into fall with LOTRO, Fallout 76, and Diablo III",
+      "post_url": "https://biobreak.wordpress.com/2026/09/21/trotting-into-fall-with-lotro-fallout-76-and-diablo-iii/",
+      "published": "2026-09-21T13:00:56Z",
+      "summary": "The writer recounts seasonal gaming plans, LOTRO’s upcoming Wolves of Mordor expansion, Fallout 76 CAMP development, and restarting Diablo III as a Witch Doctor."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Strays (1991) — Still an Oscar contender compared to Cats",
+      "post_url": "https://mutantreviewersmovies.com/2026/09/21/strays-1991-still-an-oscar-contender-compared-to-cats/",
+      "published": "2026-09-21T13:00:41Z",
+      "summary": "Justin reviews the 1991 USA Network horror film Strays, criticizing its family drama, implausible feline menace, delayed action, and modest three-person kill count."
     }
   ]
 }

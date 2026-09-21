@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-09-21T12:47:21.168524Z",
+  "generated_at": "2026-09-21T21:58:18.920915Z",
   "feed_count": 343,
-  "successful_feeds": 318,
-  "failed_feeds": 25,
+  "successful_feeds": 315,
+  "failed_feeds": 28,
   "post_count": 20,
   "posts": [
     {
-      "blog_title": "TGLG",
-      "blog_url": "https://392ms.witchserver.jp/kb/",
-      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "(Loading...)...",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1270",
-      "published": "2026-09-21T12:40:35Z"
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Addendum: macOS Spaces transition time",
+      "post_url": "https://sals.place/blog/macos-spaces-addendum/",
+      "published": "2026-09-21T21:00:04Z"
     },
     {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "#AutumnWriting day 4 - storm",
-      "post_url": "https://sylvia.studio/posts/autumnwriting-day-4-storm",
-      "published": "2026-09-21T12:06:13Z"
+      "blog_title": "ComradeNerdy",
+      "blog_url": "https://comradenerdy.com/",
+      "feed_url": "https://comradenerdy.com/feed/",
+      "post_title": "Plans for the Fourth Week of September 2026",
+      "post_url": "https://comradenerdy.com/plans-for-the-fourth-week-of-september-2026/",
+      "published": "2026-09-21T20:47:46Z"
     },
     {
-      "blog_title": "Chasing Dings!",
-      "blog_url": "https://chasingdings.com/",
-      "feed_url": "https://chasingdings.com/?feed=rss2",
-      "post_title": "Guild Wars 2: Parasocial Relationships",
-      "post_url": "https://chasingdings.com/2026/09/21/guild-wars-2-parasocial-relationships/",
-      "published": "2026-09-21T12:05:51Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Head In The Clouds",
-      "post_url": "https://bhagpuss.blogspot.com/2026/09/head-in-clouds.html",
-      "published": "2026-09-21T12:05:30Z"
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "Re: AI is not “just a tool”",
-      "post_url": "https://michaelharley.net/posts/2026/09/21/re-ai-is-not-just-a-tool/",
-      "published": "2026-09-21T11:55:00Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Distribuția Linux perfectă pentru mine (care probabil nu există)",
-      "post_url": "https://thinkroot.xyz/distributia-linux-perfecta-pentru-mine-care-probabil-nu-exista-639",
-      "published": "2026-09-21T10:23:01Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Lasts",
-      "post_url": "https://nomadwarmachine.co.uk/2026/09/21/lasts/",
-      "published": "2026-09-21T09:07:09Z"
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "drizzled drippings",
-      "post_url": "https://write.as/blog-x2600/drizzled-drippings?pk_campaign=rss-feed",
-      "published": "2026-09-21T07:27:04Z"
-    },
-    {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Actually short this time! Lookit me, keeping it brief",
-      "post_url": "https://hollie.eilloh.net/posts/actually-short-this-time-lookit-me-keeping-it-brief",
-      "published": "2026-09-21T06:48:00Z"
-    },
-    {
-      "blog_title": "MMORPG Blog",
-      "blog_url": "https://mmoblogg.wordpress.com",
-      "feed_url": "https://mmoblogg.wordpress.com/feed/",
-      "post_title": "(not) dead cities",
-      "post_url": "https://mmoblogg.wordpress.com/2026/09/21/not-dead-cities/",
-      "published": "2026-09-21T05:40:26Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Enjoy the journey",
-      "post_url": "https://rishidass.net/posts/enjoy-the-journey",
-      "published": "2026-09-21T05:28:00Z"
-    },
-    {
-      "blog_title": "素生",
-      "blog_url": "https://z.arlmy.me/",
-      "feed_url": "http://z.arlmy.me/atom.xml",
-      "post_title": "最近惦念 20260906",
-      "post_url": "https://z.arlmy.me/posts/TILs/thoughts/20260906_Recently/",
-      "published": "2026-09-21T04:15:27Z"
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "LLMs Democratize Extraction and Scale Malice",
-      "post_url": "https://brennan.day/llms-democratize-extraction-and-scale-malice/",
-      "published": "2026-09-21T02:00:00Z"
-    },
-    {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Weekly Wrap Up 128",
-      "post_url": "https://divergentrays.com/blog/posts/2026-09-20-Weekly-Wrap-Up-128.html",
-      "published": "2026-09-21T01:59:00Z"
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "Personal InfoCloud Site Minor Tweaks to Resolve Issues",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2214",
-      "published": "2026-09-21T01:25:03Z"
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "lol, never mind on that Zium Railway recommendation a few days ago",
-      "post_url": "https://virtualmoose.org/2026/09/20/lol-never-mind-on-that-zium-railway-recommendation-a-few-days-ago/",
-      "published": "2026-09-21T01:13:45Z"
+      "blog_title": "Lucky Instar",
+      "blog_url": "https://luckyinstar.neocities.org/blog",
+      "feed_url": "https://luckyinstar.neocities.org/feed.xml",
+      "post_title": "note taking: analog and digital",
+      "post_url": "https://luckyinstar.neocities.org/blog/notes",
+      "published": "2026-09-21T20:00:49Z"
     },
     {
       "blog_title": "Toby Geeks Out",
       "blog_url": "https://tobygeeksout.micro.blog/",
       "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Brummagem",
-      "post_url": "https://tobygeeksout.micro.blog/2026/09/20/word-nerd-alert-brummagem.html",
-      "published": "2026-09-21T00:32:11Z"
+      "post_title": "Up the Air Before Landing",
+      "post_url": "https://tobygeeksout.micro.blog/2026/09/21/up-the-air-before-landing.html",
+      "published": "2026-09-21T18:21:44Z"
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "bird code",
+      "post_url": "https://write.as/blog-x2600/bird-code?pk_campaign=rss-feed",
+      "published": "2026-09-21T18:01:38Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "MONDAY CLEANING: HALLWAY, WINDOWS",
+      "post_url": "https://pretendtypewriter.net/monday-cleaning-hallway-windows/",
+      "published": "2026-09-21T18:00:37Z"
+    },
+    {
+      "blog_title": "Monsterlady's Diary",
+      "blog_url": "https://monsterladysdiary.wordpress.com/",
+      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
+      "post_title": "It’s In His Kiss – Answers in the Diary",
+      "post_url": "https://monsterladysdiary.wordpress.com/2026/09/21/its-in-his-kiss-answers-in-the-diary/",
+      "published": "2026-09-21T17:47:05Z"
+    },
+    {
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "Gearing up?",
+      "post_url": "https://scormey.com/2026/09/21/gearing-up/",
+      "published": "2026-09-21T17:00:39Z"
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "Space Jungle Luv – Oneness of Juju",
+      "post_url": "https://amf.didiermary.fr/space-jungle-luv-oneness-juju/",
+      "published": "2026-09-21T16:33:39Z"
     },
     {
       "blog_title": "JAG’s Workshop",
       "blog_url": "https://jagsworkshop.com/",
       "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Duane Kuiper Diagnosed with Throat Cancer",
-      "post_url": "https://x.com/SFGiants/status/2101733583065149592",
-      "published": "2026-09-21T00:10:47Z"
+      "post_title": "‘How Chat-Based Large Language Models Replicate the Mechanisms of a Psychic’s Con’",
+      "post_url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "published": "2026-09-21T16:28:28Z"
     },
     {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Monday, 21 September 2026",
-      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-21.html",
-      "published": "2026-09-21T00:00:00Z"
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Highlights of my week",
+      "post_url": "https://francescrossley.com/highlights-of-my-week/",
+      "published": "2026-09-21T16:00:00Z"
     },
     {
-      "blog_title": "Tommyeveryday",
-      "blog_url": "https://tommyeveryday.mataroa.blog",
-      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
-      "post_title": "Monday September 21, 2026",
-      "post_url": "https://tommyeveryday.mataroa.blog/blog/monday-september-21-2026/",
-      "published": "2026-09-21T00:00:00Z"
+      "blog_title": "Wry Writer",
+      "blog_url": "https://wrywriter.ca",
+      "feed_url": "https://wrywriter.ca/posts_feed",
+      "post_title": "SciFiMonth 2026",
+      "post_url": "https://wrywriter.ca/posts/scifimonth-2026",
+      "published": "2026-09-21T15:56:05Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "No Man’s Sky – Expedition 23 – Starting Off with Our Journey Continues",
+      "post_url": "https://tagn.wordpress.com/2026/09/21/no-mans-sky-expedition-23-starting-off-with-our-journey-continues/",
+      "published": "2026-09-21T15:15:51Z"
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 39 Links",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-09-21-week-39-links/",
+      "published": "2026-09-21T15:00:00Z"
+    },
+    {
+      "blog_title": "Priest with a Cause",
+      "blog_url": "https://priestwithacause.blogspot.com/",
+      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Meme Monday: WoW Forever Memes",
+      "post_url": "https://priestwithacause.blogspot.com/2026/09/meme-monday-wow-forever-memes.html",
+      "published": "2026-09-21T14:45:42Z"
+    },
+    {
+      "blog_title": "LOTRO Players",
+      "blog_url": "https://lotroplayers.com",
+      "feed_url": "http://lotroplayers.com/feed/",
+      "post_title": "LOTRO Players News Episode 683: The Breeway of Love",
+      "post_url": "https://lotroplayers.com/2026/09/21/lotro-players-news-episode-683-the-breeway-of-love/?utm_source=rss&utm_medium=rss&utm_campaign=lotro-players-news-episode-683-the-breeway-of-love",
+      "published": "2026-09-21T14:00:00Z"
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "AI: some words about feelings",
+      "post_url": "https://www.kgadams.net/geekdom/ai-some-words-about-feelings",
+      "published": "2026-09-21T13:30:00Z"
+    },
+    {
+      "blog_title": "Robert Birming",
+      "blog_url": "https://birming.com/",
+      "feed_url": "https://birming.com/feed/",
+      "post_title": "Pika photo gallery",
+      "post_url": "https://birming.com/posts/pika-photo-gallery",
+      "published": "2026-09-21T13:12:53Z"
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "Trotting into fall with LOTRO, Fallout 76, and Diablo III",
+      "post_url": "https://biobreak.wordpress.com/2026/09/21/trotting-into-fall-with-lotro-fallout-76-and-diablo-iii/",
+      "published": "2026-09-21T13:00:56Z"
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Strays (1991) — Still an Oscar contender compared to Cats",
+      "post_url": "https://mutantreviewersmovies.com/2026/09/21/strays-1991-still-an-oscar-contender-compared-to-cats/",
+      "published": "2026-09-21T13:00:41Z"
     }
   ]
 }
