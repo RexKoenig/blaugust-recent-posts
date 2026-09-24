@@ -1,10 +1,154 @@
 {
-  "generated_at": "2026-09-24T11:44:44.458568Z",
+  "generated_at": "2026-09-24T21:30:29.987745Z",
   "feed_count": 343,
   "successful_feeds": 314,
   "failed_feeds": 29,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "A Love Letter to the Super Dimension Fortress",
+      "post_url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+      "published": "2026-09-25T02:00:00Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "🔖 Bookmarked: F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+      "post_url": "https://michaelharley.net/links/2026/09/24/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+      "published": "2026-09-24T20:56:46Z"
+    },
+    {
+      "blog_title": "Priest with a Cause",
+      "blog_url": "https://priestwithacause.blogspot.com/",
+      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "My Forever Social Conundrum",
+      "post_url": "https://priestwithacause.blogspot.com/2026/09/my-forever-social-conundrum.html",
+      "published": "2026-09-24T20:20:18Z"
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 39 Digest",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-09-24-week-39-digest/",
+      "published": "2026-09-24T18:49:41Z"
+    },
+    {
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "Impressions: Control Resonant",
+      "post_url": "https://scopique.com/2026/09/24/impressions-control-resonant/",
+      "published": "2026-09-24T18:37:16Z"
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Tropes overtaken by events",
+      "post_url": "https://francescrossley.com/tropes-overtaken-by-events/",
+      "published": "2026-09-24T18:00:00Z"
+    },
+    {
+      "blog_title": "Bavatuesdays",
+      "blog_url": "https://bavatuesdays.com",
+      "feed_url": "http://bavatuesdays.com/feed/",
+      "post_title": "Couch to Family Pictures Podcasts",
+      "post_url": "https://bavatuesdays.com/couch-to-family-pictures-podcasts/",
+      "published": "2026-09-24T17:36:03Z"
+    },
+    {
+      "blog_title": "Kay Talks Games",
+      "blog_url": "https://kaytalksgames.wordpress.com/",
+      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
+      "post_title": "The Irony of Watching Someone Play Manhunt",
+      "post_url": "https://kaytalksgames.wordpress.com/2026/09/24/the-irony-of-watching-someone-play-manhunt/",
+      "published": "2026-09-24T17:06:25Z"
+    },
+    {
+      "blog_title": "The Capsule Critic",
+      "blog_url": "https://thecapsulecritic.com/blog/",
+      "feed_url": "https://thecapsulecritic.com/feed/",
+      "post_title": "THE PHANTOM SHIP (1935): Bela Lugosi Meets Hammer Films",
+      "post_url": "https://thecapsulecritic.com/2026/09/24/the-phantom-ship-1935-bela-lugosi-meets-hammer-films/",
+      "published": "2026-09-24T15:39:58Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Stardew Valley – Into Year Three with Grandpa and the Calico Desert Festival",
+      "post_url": "https://tagn.wordpress.com/2026/09/24/stardew-valley-into-year-three-and-the-calico-desert-festival/",
+      "published": "2026-09-24T15:15:28Z"
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Valheim: Elder down.",
+      "post_url": "https://chasingdings.com/2026/09/24/valheim-elder-down/",
+      "published": "2026-09-24T15:11:00Z"
+    },
+    {
+      "blog_title": "MMO Casual",
+      "blog_url": "http://wowaltaddiction.blogspot.com/",
+      "feed_url": "http://wowaltaddiction.blogspot.com/feeds/posts/default",
+      "post_title": "Catching Up in Guild Wars 2",
+      "post_url": "http://wowaltaddiction.blogspot.com/2026/09/catching-up-in-guild-wars-2.html",
+      "published": "2026-09-24T14:46:35Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Fluture de noapte #the100pics",
+      "post_url": "https://thinkroot.xyz/photo-647",
+      "published": "2026-09-24T13:53:47Z"
+    },
+    {
+      "blog_title": "Another Dayu",
+      "blog_url": "https://anotherdayu.com/",
+      "feed_url": "https://anotherdayu.com/feed/",
+      "post_title": "天展钓Tenkara和在Folkestone挖化石",
+      "post_url": "https://anotherdayu.com/tenkara-folkestone/",
+      "published": "2026-09-24T13:02:00Z"
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "Doing the voodoo in Diablo III",
+      "post_url": "https://biobreak.wordpress.com/2026/09/24/doing-the-voodoo-in-diablo-iii/",
+      "published": "2026-09-24T13:00:46Z"
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Junior Prom (1946) – The leg lamp of teen movies",
+      "post_url": "https://mutantreviewersmovies.com/2026/09/24/junior-prom-1946-the-leg-lamp-of-teen-movies/",
+      "published": "2026-09-24T13:00:37Z"
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "No.1271",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1271",
+      "published": "2026-09-24T12:42:21Z"
+    },
+    {
+      "blog_title": "Mailvaltar",
+      "blog_url": "https://mailvaltar.wordpress.com/",
+      "feed_url": "https://mailvaltar.wordpress.com/feed/",
+      "post_title": "My Desert. My Arrakis. My Dune!",
+      "post_url": "https://mailvaltar.wordpress.com/2026/09/24/my-desert-my-arrakis-my-dune/",
+      "published": "2026-09-24T12:38:50Z"
+    },
     {
       "blog_title": "Inventory Full",
       "blog_url": "https://bhagpuss.blogspot.com/",
@@ -20,150 +164,6 @@
       "post_title": "MOSQUITO MUST DIE.",
       "post_url": "https://pretendtypewriter.net/mosquito-must-die/",
       "published": "2026-09-24T10:47:25Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "A Track for Olive to Play Rhythm",
-      "post_url": "https://nomadwarmachine.co.uk/2026/09/24/a-track-for-olive-to-play-rhythm/",
-      "published": "2026-09-24T09:09:08Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "O parte importantă din termenii și condițiile WhatsApp pe care nu le c…",
-      "post_url": "https://thinkroot.xyz/nota-646",
-      "published": "2026-09-24T08:45:37Z"
-    },
-    {
-      "blog_title": "Overage-Gaming",
-      "blog_url": "https://overage-gaming.com/",
-      "feed_url": "https://overage-gaming.com/feed/",
-      "post_title": "Sova: Hades Meets Disco Elysium in a New Weird Apocalypse (Playtest Gameplay)",
-      "post_url": "https://overage-gaming.com/2026/09/24/sova-hades-meets-disco-elysium-in-a-new-weird-apocalypse-playtest-gameplay/",
-      "published": "2026-09-24T07:01:00Z"
-    },
-    {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "I have to post, apparently. Quantity over quality, as they say",
-      "post_url": "https://hollie.eilloh.net/posts/i-have-to-post-apparently-quantity-over-quality-as-they-say",
-      "published": "2026-09-24T06:59:00Z"
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Start using your hands (a sort of manifesto on crafting)",
-      "post_url": "https://sylvia.studio/posts/start-using-your-hands-a-sort-of-manifesto-on-crafting",
-      "published": "2026-09-24T06:40:54Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Decline the invite",
-      "post_url": "https://rishidass.net/posts/decline-the-invite",
-      "published": "2026-09-24T06:05:31Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Thursday Love Quote 🌼",
-      "post_url": "https://cynnisblog.wordpress.com/2026/09/24/thursday-love-quote-%f0%9f%8c%bc/",
-      "published": "2026-09-24T05:00:14Z"
-    },
-    {
-      "blog_title": "I wonder, if I draw a line…",
-      "blog_url": "https://sheri42.net",
-      "feed_url": "https://sheri42.net/feed/",
-      "post_title": "Weekly WrapUp A Week of Challenges",
-      "post_url": "https://sheri42.net/2026/09/23/weekly-wrapup-a-week-of-challenges/",
-      "published": "2026-09-24T04:52:20Z"
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Thursday, 24 September 2026",
-      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-24.html",
-      "published": "2026-09-24T00:00:00Z"
-    },
-    {
-      "blog_title": "Going Commando",
-      "blog_url": "https://swtorcommando.blogspot.com/",
-      "feed_url": "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "1500 Posts About SWTOR",
-      "post_url": "https://swtorcommando.blogspot.com/2026/09/1500-posts-about-swtor.html",
-      "published": "2026-09-23T22:29:29Z"
-    },
-    {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "Actions 24 1/4, 25, and 26",
-      "post_url": "https://nosrednayduj.dreamwidth.org/187614.html",
-      "published": "2026-09-23T21:29:44Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Our ‘Very Stable Genius’ Decrees We Call It ‘Super Intelligence,’ Not ‘Artificial Intelligence’",
-      "post_url": "https://www.youtube.com/watch?v=bdRgQFemAtA",
-      "published": "2026-09-23T20:18:28Z"
-    },
-    {
-      "blog_title": "Leekscosycorner",
-      "blog_url": "https://leekscosycorner.com/",
-      "feed_url": "https://leekscosycorner.com/feed/",
-      "post_title": "Revisiting Skyrim on PS5: A Fresh Dragonborn Adventure",
-      "post_url": "https://leekscosycorner.com/2026/09/23/revisiting-skyrim-on-ps5-a-fresh-dragonborn-adventure/",
-      "published": "2026-09-23T19:21:04Z"
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Showering",
-      "post_url": "https://martinschuhmann.com/showering",
-      "published": "2026-09-23T18:45:00Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Autumnal",
-      "post_url": "https://francescrossley.com/autumn-2026/",
-      "published": "2026-09-23T18:00:00Z"
-    },
-    {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Colorful Jugendstil Tiara",
-      "post_url": "https://divergentrays.com/blog/posts/2026-09-23-Colorful-Jugendstil-Tiara.html",
-      "published": "2026-09-23T16:52:00Z"
-    },
-    {
-      "blog_title": "20ily April",
-      "blog_url": "https://20ilyapril.wordpress.com/",
-      "feed_url": "https://20ilyapril.wordpress.com/feed/",
-      "post_title": "Ganpati Bappa Morya",
-      "post_url": "https://20ilyapril.wordpress.com/2026/09/23/ganpati-bappa-morya/",
-      "published": "2026-09-23T16:16:52Z"
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "an entry in the am",
-      "post_url": "https://write.as/blog-x2600/an-entry-in-the-am?pk_campaign=rss-feed",
-      "published": "2026-09-23T15:52:20Z"
     }
   ]
 }
