@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T11:50:29.859939Z",
-  "source_generated_at": "2026-09-25T11:50:10.469706Z",
+  "generated_at": "2026-09-25T21:34:38.475912Z",
+  "source_generated_at": "2026-09-25T21:34:20.595035Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -17,6 +17,168 @@
       "summary": "A satirical monologue portrays an anonymous blogger’s self-important cynicism, contempt for positivity and online activism, fixation on uniqueness, and failed attempt to advise Candy."
     },
     {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Ultima casă",
+      "post_url": "https://thinkroot.xyz/ultima-casa-650",
+      "published": "2026-09-25T21:17:34Z",
+      "summary": "“Ultima casă” appears to be a Romanian entry from ThinkRoot’s journal, but the supplied text provides no substantive information about its subject."
+    },
+    {
+      "blog_title": "Battle Stance",
+      "blog_url": "https://battlestance.org/",
+      "feed_url": "https://battlestance.org/feed/",
+      "post_title": "Raiding the Venomous Abyss – Week 5",
+      "post_url": "https://battlestance.org/2026/09/25/raiding-the-venomous-abyss-week-5/",
+      "published": "2026-09-25T21:00:32Z",
+      "summary": "Battle Stance recounts a raid week featuring Normal clears, Heroic victories over Nymrissa and Nek’zali, difficulties with Entombed Sentinels, and near-completions in Mythic+ dungeons."
+    },
+    {
+      "blog_title": "The Friendly Necromancer",
+      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
+      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
+      "post_title": "Trolls, Hate, and VR fakery in Everquest Legends",
+      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/09/trolls-hate-and-vr-fakery-in-everquest.html",
+      "published": "2026-09-25T20:22:41Z",
+      "summary": "The post covers unlocking EverQuest Legends’ Troll Race, completing faction quests, clearing the repaired Plane of Hate dungeon, and experimenting with unofficial Quest 3 VR controls."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "The Biggest One-Hit Wonder",
+      "post_url": "https://www.cantgetmuchhigher.com/p/the-biggest-one-hit-wonder",
+      "published": "2026-09-25T19:55:03Z",
+      "summary": "Chris Dalla Riva examines the one-hit wonder paradox using chart history and Spotify streaming data to distinguish genuinely single-song artists from those with broader catalogs."
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "🎥 Watchlist: Vampire Carnival (2026)",
+      "post_url": "https://tobygeeksout.micro.blog/2026/09/25/watchlist-vampire-carnival.html",
+      "published": "2026-09-25T17:09:58Z",
+      "summary": "Vampire Carnival, directed by Justin Powell and David Charbonier, follows a grief-stricken young woman drawn into a dangerous traveling carnival of pleasure and deception."
+    },
+    {
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "Roleplaying or Writing Exercise?",
+      "post_url": "https://scormey.com/2026/09/25/roleplaying-or-writing-exercise/",
+      "published": "2026-09-25T17:00:20Z",
+      "summary": "The piece examines whether journaling tabletop roleplaying games constitute legitimate solo RPGs or creative-writing exercises, while acknowledging personal preferences and defending varied play styles."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Planet Crafter – Terraformed Skeo",
+      "post_url": "https://tagn.wordpress.com/2026/09/25/planet-crafter-terraformed-skeo/",
+      "published": "2026-09-25T15:15:48Z",
+      "summary": "The post reviews Planet Crafter’s free Skeo content, covering dramatic terraforming changes, exploration, resource management, base building, difficulty, ecosystem balance, and achievement tracking."
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "I Want To Ride My Bicycle",
+      "post_url": "https://bhagpuss.blogspot.com/2026/09/i-want-to-ride-my-bicycle.html",
+      "published": "2026-09-25T14:20:42Z",
+      "summary": "Inventory Full recounts acquiring an expensive bicycle in Neverness to Everness and enjoying Breezy Ride quests, character interactions, transportation, and varied personal stories."
+    },
+    {
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "status 092526",
+      "post_url": "https://angrybunnyman.com/status-092526/",
+      "published": "2026-09-25T14:04:31Z",
+      "summary": "A brief status update describes laughing daily at an iPad utility called Momento Mori, which sends notifications reminding the user of impending death."
+    },
+    {
+      "blog_title": "Superior Realities",
+      "blog_url": "https://superior-realities.com",
+      "feed_url": "https://superior-realities.com/feed/",
+      "post_title": "Song of the Month: Chvrches, Roses",
+      "post_url": "https://superior-realities.com/2026/09/25/song-of-the-month-chvrches-roses/",
+      "published": "2026-09-25T14:00:36Z",
+      "summary": "Superior Realities highlights Chvrches’ new single “Roses,” praising its darker Screen Violence-inspired sound, stronger energy, familiar character, and Lauren’s striking new look."
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Smart device",
+      "post_url": "https://sals.place/blog/smart-device/",
+      "published": "2026-09-25T13:40:32Z",
+      "summary": "A humorous exchange repeats an Apple Watch reporting poor sleep while the speaker responds sarcastically, highlighting the device’s redundant notification."
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Blogging isn’t dead",
+      "post_url": "https://www.kgadams.net/geekdom/blogging-isnt-dead",
+      "published": "2026-09-25T13:30:00Z",
+      "summary": "Blogging has declined amid social media dominance and reduced search visibility, but Indieweb communities, Blaugust, content ownership, and RSS tools may support its continued revival."
+    },
+    {
+      "blog_title": "Frostilyte Writes",
+      "blog_url": "https://frostilyte.ca/",
+      "feed_url": "https://frostilyte.ca/feed/",
+      "post_title": "20 More, Somehow Even Smaller, Mazes Review",
+      "post_url": "https://frostilyte.ca/2026/09/25/20-more-somehow-even-smaller-mazes-review/",
+      "published": "2026-09-25T13:24:29Z",
+      "summary": "FLEB’s free puzzle game features 20 bite-sized, mechanically varied mazes, offering satisfying solutions, flexible progression, and an estimated 40-to-90-minute runtime."
+    },
+    {
+      "blog_title": "Heartlessgamer",
+      "blog_url": "http://www.heartlessgamer.com/",
+      "feed_url": "http://feeds.feedburner.com/Heartless_Gamer",
+      "post_title": "Packers Are The Worst Team In The League Falcons 9-24-2026",
+      "post_url": "http://www.heartlessgamer.com/2026/09/packers-are-worst-team-in-league.html",
+      "published": "2026-09-25T13:19:59Z",
+      "summary": "The Packers lost 35-14 to the Falcons, prompting criticism that Green Bay may be the league’s worst team after Atlanta’s unexpectedly dominant performance."
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Air Theramin",
+      "post_url": "https://nomadwarmachine.co.uk/2026/09/25/air-theramin/",
+      "published": "2026-09-25T13:07:14Z",
+      "summary": "NomadWarMachine responds to a Daily Create prompt by sharing an Air Theremin creation and encouraging experimentation, sound-making, recording, and participation."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Resident Evil: The Final Chapter (2016) — It’s all about the laser hallways",
+      "post_url": "https://mutantreviewersmovies.com/2026/09/25/resident-evil-the-final-chapter-2016-its-all-about-the-laser-hallways/",
+      "published": "2026-09-25T13:00:34Z",
+      "summary": "Resident Evil: The Final Chapter follows Alice’s mission to obtain an airborne antivirus in Raccoon City, amid zombies, Umbrella Corporation, frenetic editing, and elaborate death traps."
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "The attraction of small single-use tech",
+      "post_url": "https://biobreak.wordpress.com/2026/09/25/the-attraction-of-small-single-use-tech/",
+      "published": "2026-09-25T13:00:03Z",
+      "summary": "The writer describes enjoying compact single-use gadgets, especially an X3 e-reader and iPod Nano, during quiet outdoor reading and music sessions."
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "IndieWeb link sharing - which method do you prefer?",
+      "post_url": "https://michaelharley.net/posts/2026/09/25/indieweb-link-sharing-which-method-do-you-prefer/",
+      "published": "2026-09-25T12:05:00Z",
+      "summary": "Michael Harley compares weekly link-dump posts with immediate individual bookmark or repost entries, asking readers which IndieWeb sharing method they prefer."
+    },
+    {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
@@ -24,168 +186,6 @@
       "post_url": "https://pretendtypewriter.net/note-sep-25/",
       "published": "2026-09-25T11:27:53Z",
       "summary": "A September 25, 2026 note celebrates a birthday coinciding with the Mid-Autumn Festival and plans to buy moon cakes to share with friends."
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "面の皮千枚張りで顔ナイ",
-      "post_url": "https://elve.club/entry/2026/09/25/190720?utm_source=feed",
-      "published": "2026-09-25T10:07:20Z",
-      "summary": "A middle-aged narrator reflects humorously on heartbreak, an awkward camping trip and breakup, financial relief, domestic chores, and plans to pursue solo activities."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Dacia 1310 bine îngrijită #the100pics",
-      "post_url": "https://thinkroot.xyz/photo-648",
-      "published": "2026-09-25T06:44:06Z",
-      "summary": "A photo post featuring a well-maintained Dacia 1310, presented as part of the #the100pics series."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "It’s all fun",
-      "post_url": "https://rishidass.net/posts/its-all-fun",
-      "published": "2026-09-25T05:48:15Z",
-      "summary": "Rishi Dass reflects on redefining fun by abandoning distinctions between obligations and pleasures, emphasizing attention and approach rather than activities themselves."
-    },
-    {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Wet dogs, stitch markers, old trees, wake up",
-      "post_url": "https://hollie.eilloh.net/posts/wet-dogs-stitch-markers-old-trees-wake-up",
-      "published": "2026-09-25T05:32:00Z",
-      "summary": "A rainy day brings playful dogs, practical stitch markers, memories of Ballard trees, recovery progress, future ambitions, knitting, and appreciation for wet weather."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Friday – Koa time 🪩",
-      "post_url": "https://cynnisblog.wordpress.com/2026/09/25/friday-koa-time-%f0%9f%aa%a9/",
-      "published": "2026-09-25T05:00:11Z",
-      "summary": "Cynni celebrates Koa turning seven months old with photographs, screengrabs, and videos showing the chocolate Labrador enjoying training, treats, and playful moments."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "⚙︎ A Negroni Tasting and History",
-      "post_url": "https://jagsworkshop.com/2026/09/a-negroni-tasting-and-history/",
-      "published": "2026-09-25T03:05:25Z",
-      "summary": "A Negroni tasting during Negroni Week explores the cocktail’s history, classic equal-parts structure, and eleven variations using different spirits, bitters, vermouths, and proportions."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "When a blogpost eats another",
-      "post_url": "https://joelchrono.xyz/blog/when-a-blogpost-eats-another/",
-      "published": "2026-09-25T02:42:07Z",
-      "summary": "Joelchrono reflects on expanding or reshaping blog ideas, postponing a science-fiction film roundup, and considering shorter formats for miscellaneous thoughts."
-    },
-    {
-      "blog_title": "JVT Workshop",
-      "blog_url": "http://josephskyrim.blogspot.com/",
-      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
-      "post_title": "Luftrausers and Rival Stars Horse Racing",
-      "post_url": "http://josephskyrim.blogspot.com/2026/09/luftrausers-and-rival-stars-horse-racing.html",
-      "published": "2026-09-25T02:34:44Z",
-      "summary": "The post reviews Luftrausers, a sepia arcade shooter with modular aircraft and repetitive progression, alongside Rival Stars Horse Racing’s racing and homestead management."
-    },
-    {
-      "blog_title": "MogBlog",
-      "blog_url": "https://mogblog.pika.page/",
-      "feed_url": "https://mogblog.pika.page/posts_feed",
-      "post_title": "OC Lore Dump",
-      "post_url": "https://mogblog.pika.page/posts/oc-lore-dump",
-      "published": "2026-09-25T01:23:19Z",
-      "summary": "Character profiles introduce Arisens Fion and Amir, alongside pawns Hazel and Baker, detailing their backgrounds, personalities, relationships, abilities, and potential adventures."
-    },
-    {
-      "blog_title": "Calishat",
-      "blog_url": "https://www.calishat.com/",
-      "feed_url": "https://www.calishat.com/feed/",
-      "post_title": "Find the Most Unhinged Google Alert",
-      "post_url": "https://www.calishat.com/2026/09/24/find-the-most-unhinged-google-alert/",
-      "published": "2026-09-25T00:35:11Z",
-      "summary": "Calishat introduces a game challenging participants to find generic Google Alert phrases that produce unusually chaotic news stories, listing several high-scoring examples."
-    },
-    {
-      "blog_title": "82MHz",
-      "blog_url": "http://82mhz.net/posts/",
-      "feed_url": "http://82mhz.net/index.xml",
-      "post_title": "Linkdump No 126",
-      "post_url": "http://82mhz.net/posts/2026/09/linkdump-no-126/",
-      "published": "2026-09-25T00:00:00Z",
-      "summary": "Linkdump No 126 reflects on AI’s depressing effects, preference for human-made personal websites, browsing archived web history, and a “made by a human” button."
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Friday, 25 September 2026",
-      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-25.html",
-      "published": "2026-09-25T00:00:00Z",
-      "summary": "The roundup covers gaming updates, reviews, and reflections alongside technology links, including Mastodon RSS scripting, GenAI terminology, and John M. Ford’s enduring literary influence."
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "Webmention Receipt Fixed?",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2218",
-      "published": "2026-09-24T23:41:29Z",
-      "summary": "The site’s webmention reception, previously disrupted by an old Heroku setup, appears restored through Webmention.io, though received mentions remain hidden."
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "#AutumnWriting day 6 - pumpkin",
-      "post_url": "https://sylvia.studio/posts/autumnwriting-day-6-pumpkin",
-      "published": "2026-09-24T23:20:41Z",
-      "summary": "A couple navigates an excessive pumpkin delivery before arranging a farm donation, recalling past over-ordering and ending with pumpkin soup."
-    },
-    {
-      "blog_title": "The Capsule Critic",
-      "blog_url": "https://thecapsulecritic.com/blog/",
-      "feed_url": "https://thecapsulecritic.com/feed/",
-      "post_title": "THE TROLLENBERG TERROR / THE CRAWLING EYE (1958): Pretty Good 1950’s Brit Sci-Fi",
-      "post_url": "https://thecapsulecritic.com/2026/09/24/the-trollenberg-terror-the-crawling-eye-1958-pretty-good-1950s-brit-sci-fi/",
-      "published": "2026-09-24T21:35:42Z",
-      "summary": "The Trollenberg Terror, retitled The Crawling Eye for U.S. audiences, follows investigators confronting radioactive clouds, alien threats, and mysterious mountaintop deaths in 1950s Switzerland."
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "🔖 Bookmarked: F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-      "post_url": "https://michaelharley.net/links/2026/09/24/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-      "published": "2026-09-24T20:56:46Z",
-      "summary": "F-Droid’s largest update in a decade introduces a redesigned user interface and smoother application installation, according to Ars Technica."
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "lone, cloudy park",
-      "post_url": "https://write.as/blog-x2600/lone-cloudy-park?pk_campaign=rss-feed",
-      "published": "2026-09-24T20:22:22Z",
-      "summary": "In a quiet, cloudy park, the writer reflects on acquiring a well-maintained 2000 Ford Taurus and plans modifications for communication, camping, comfort, and security."
-    },
-    {
-      "blog_title": "Priest with a Cause",
-      "blog_url": "https://priestwithacause.blogspot.com/",
-      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "My Forever Social Conundrum",
-      "post_url": "https://priestwithacause.blogspot.com/2026/09/my-forever-social-conundrum.html",
-      "published": "2026-09-24T20:20:18Z",
-      "summary": "The writer weighs social connection against competitive pressure in WoW Forever, planning cautious, varied exploration while hoping to reconnect with former guildmates without being rushed."
     }
   ]
 }
