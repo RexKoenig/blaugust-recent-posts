@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-09-25T21:34:20.595035Z",
+  "generated_at": "2026-09-26T11:23:58.173113Z",
   "feed_count": 343,
-  "successful_feeds": 316,
-  "failed_feeds": 27,
+  "successful_feeds": 317,
+  "failed_feeds": 26,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "指一本触れられないままよりよかった かなぁ？",
+      "post_url": "https://elve.club/entry/2026/09/26/191225?utm_source=feed",
+      "published": "2026-09-26T10:12:25Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Iar ce ceartă oameni pe Facebook despre cât de bun este Linux vs Windo…",
+      "post_url": "https://thinkroot.xyz/nota-651",
+      "published": "2026-09-26T07:57:07Z"
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com/",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Stalk’s Mini Review-Mashup 7",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/09/26/stalks-mini-review-mashup-7/",
+      "published": "2026-09-26T07:00:00Z"
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Friday facts, doc visit & chronic illness update, a kettle of hawks (video!), pissy & cute dogs",
+      "post_url": "https://hollie.eilloh.net/posts/friday-facts-doc-visit-and-chronic-illness-update-a-kettle-of-hawks-video-pissy-and-cute-dogs",
+      "published": "2026-09-26T06:59:00Z"
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Are MMORPGs and AI related?",
+      "post_url": "http://tobolds.blogspot.com/2026/09/are-mmorpgs-and-ai-related.html",
+      "published": "2026-09-26T06:22:21Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Habits are overrated",
+      "post_url": "https://rishidass.net/posts/habits-are-overrated",
+      "published": "2026-09-26T06:19:29Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Thinking positive 🌠",
+      "post_url": "https://cynnisblog.wordpress.com/2026/09/26/thinking-positive-%f0%9f%8c%a0/",
+      "published": "2026-09-26T05:00:10Z"
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "More than Nothing: The Artorias Interlude",
+      "post_url": "http://josephskyrim.blogspot.com/2026/09/more-than-nothing-artorias-interlude.html",
+      "published": "2026-09-26T02:27:11Z"
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
@@ -14,12 +78,20 @@
       "published": "2026-09-26T02:00:00Z"
     },
     {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Ultima casă",
-      "post_url": "https://thinkroot.xyz/ultima-casa-650",
-      "published": "2026-09-25T21:17:34Z"
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Malifaux 4e: Rasputina, Abominable vs Misaki, Oyabun",
+      "post_url": "https://chasingdings.com/2026/09/25/malifaux-4e-rasputina-abominable-vs-misaki-oyabun/",
+      "published": "2026-09-26T00:18:43Z"
+    },
+    {
+      "blog_title": "Kelson Vibber: New Posts",
+      "blog_url": "https://kvibber.com/",
+      "feed_url": "https://kvibber.com/feed.xml",
+      "post_title": "Severance - Season 1 (TV review)",
+      "post_url": "https://kvibber.com/reviews/tv/severance-s1/",
+      "published": "2026-09-25T22:27:13Z"
     },
     {
       "blog_title": "Battle Stance",
@@ -44,6 +116,14 @@
       "post_title": "The Biggest One-Hit Wonder",
       "post_url": "https://www.cantgetmuchhigher.com/p/the-biggest-one-hit-wonder",
       "published": "2026-09-25T19:55:03Z"
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "is this mic on? if it weren't..",
+      "post_url": "https://write.as/blog-x2600/is-this-mic-on-if-it-werent?pk_campaign=rss-feed",
+      "published": "2026-09-25T18:57:10Z"
     },
     {
       "blog_title": "Toby Geeks Out",
@@ -84,86 +164,6 @@
       "post_title": "status 092526",
       "post_url": "https://angrybunnyman.com/status-092526/",
       "published": "2026-09-25T14:04:31Z"
-    },
-    {
-      "blog_title": "Superior Realities",
-      "blog_url": "https://superior-realities.com",
-      "feed_url": "https://superior-realities.com/feed/",
-      "post_title": "Song of the Month: Chvrches, Roses",
-      "post_url": "https://superior-realities.com/2026/09/25/song-of-the-month-chvrches-roses/",
-      "published": "2026-09-25T14:00:36Z"
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Smart device",
-      "post_url": "https://sals.place/blog/smart-device/",
-      "published": "2026-09-25T13:40:32Z"
-    },
-    {
-      "blog_title": "Ubergeek Kelly's World",
-      "blog_url": "https://www.kgadams.net/",
-      "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "Blogging isn’t dead",
-      "post_url": "https://www.kgadams.net/geekdom/blogging-isnt-dead",
-      "published": "2026-09-25T13:30:00Z"
-    },
-    {
-      "blog_title": "Frostilyte Writes",
-      "blog_url": "https://frostilyte.ca/",
-      "feed_url": "https://frostilyte.ca/feed/",
-      "post_title": "20 More, Somehow Even Smaller, Mazes Review",
-      "post_url": "https://frostilyte.ca/2026/09/25/20-more-somehow-even-smaller-mazes-review/",
-      "published": "2026-09-25T13:24:29Z"
-    },
-    {
-      "blog_title": "Heartlessgamer",
-      "blog_url": "http://www.heartlessgamer.com/",
-      "feed_url": "http://feeds.feedburner.com/Heartless_Gamer",
-      "post_title": "Packers Are The Worst Team In The League Falcons 9-24-2026",
-      "post_url": "http://www.heartlessgamer.com/2026/09/packers-are-worst-team-in-league.html",
-      "published": "2026-09-25T13:19:59Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Air Theramin",
-      "post_url": "https://nomadwarmachine.co.uk/2026/09/25/air-theramin/",
-      "published": "2026-09-25T13:07:14Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Resident Evil: The Final Chapter (2016) — It’s all about the laser hallways",
-      "post_url": "https://mutantreviewersmovies.com/2026/09/25/resident-evil-the-final-chapter-2016-its-all-about-the-laser-hallways/",
-      "published": "2026-09-25T13:00:34Z"
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "The attraction of small single-use tech",
-      "post_url": "https://biobreak.wordpress.com/2026/09/25/the-attraction-of-small-single-use-tech/",
-      "published": "2026-09-25T13:00:03Z"
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "IndieWeb link sharing - which method do you prefer?",
-      "post_url": "https://michaelharley.net/posts/2026/09/25/indieweb-link-sharing-which-method-do-you-prefer/",
-      "published": "2026-09-25T12:05:00Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - sep 25",
-      "post_url": "https://pretendtypewriter.net/note-sep-25/",
-      "published": "2026-09-25T11:27:53Z"
     }
   ]
 }
