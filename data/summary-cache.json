@@ -6816,5 +6816,19 @@
     "source_kind": "page",
     "input_tokens": 394,
     "output_tokens": 36
+  },
+  "https://write.as/blog-x2600/gear-and-now?pk_campaign=rss-feed": {
+    "post_url": "https://write.as/blog-x2600/gear-and-now?pk_campaign=rss-feed",
+    "post_title": "Gear and Now",
+    "blog_title": "X2600",
+    "summary": "At CC Park, the writer prepares for rain and colder weather by organizing wallets, survival gear, emergency reading, car supplies, and replacement Under Armour shoes.",
+    "provider": "openai",
+    "model": "gpt-5.6-luna",
+    "prompt_version": "2026-09-13-v2",
+    "created_at": "2026-09-27T12:01:32.810751Z",
+    "source_chars": 1055,
+    "source_kind": "page",
+    "input_tokens": 523,
+    "output_tokens": 35
   }
 }

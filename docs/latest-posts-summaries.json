@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T11:58:24.317211Z",
-  "source_generated_at": "2026-09-27T11:57:49.291501Z",
+  "generated_at": "2026-09-27T12:01:32.810751Z",
+  "source_generated_at": "2026-09-27T12:01:02.037057Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -98,6 +98,15 @@
       "summary": "Rishi Dass argues that people may outgrow relationships when shared values or experiences fade, advocating self-acceptance and moving forward without repeatedly explaining oneself."
     },
     {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "Gear and Now",
+      "post_url": "https://write.as/blog-x2600/gear-and-now?pk_campaign=rss-feed",
+      "published": "2026-09-27T06:06:42Z",
+      "summary": "At CC Park, the writer prepares for rain and colder weather by organizing wallets, survival gear, emergency reading, car supplies, and replacement Under Armour shoes."
+    },
+    {
       "blog_title": "Cynni’s Blog",
       "blog_url": "https://cynnisblog.wordpress.com/",
       "feed_url": "https://cynnisblog.wordpress.com/feed/",
@@ -150,15 +159,6 @@
       "post_url": "https://elve.club/entry/2026/09/27/064335?utm_source=feed",
       "published": "2026-09-26T21:43:35Z",
       "summary": "The post titled “ケロケロ” contains heavily garbled Japanese text, laughter markers, emoticons, and a reference to Moroyama’s municipal website."
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "back to pipe-ality",
-      "post_url": "https://write.as/blog-x2600/back-to-pipe-ality?pk_campaign=rss-feed",
-      "published": "2026-09-26T19:11:35Z",
-      "summary": "The writer describes a calm routine involving iced coffee, water, cool cloudy weather, temporary car storage, tobacco-pipe smoking, and completing a frugal budget."
     },
     {
       "blog_title": "What the Fran",
