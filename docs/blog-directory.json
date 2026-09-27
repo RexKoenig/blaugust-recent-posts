@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T21:09:29.007978Z",
-  "blog_count": 343,
+  "generated_at": "2026-09-27T11:57:49.291501Z",
+  "blog_count": 347,
   "other_language_count": 9,
   "blogs": [
     {
@@ -87,6 +87,14 @@
       "name": "A parenthetical departure",
       "site_url": "https://departure.blog/",
       "feed_url": "https://sylvia.bearblog.dev/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "A"
+    },
+    {
+      "name": "A Pixel Nomad",
+      "site_url": "https://pixelnomad.ca/",
+      "feed_url": "https://pixelnomad.ca/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "A"
@@ -660,6 +668,14 @@
       "initial": "D"
     },
     {
+      "name": "DREAMS ARE WHAT LE CINEMA IS FOR...",
+      "site_url": "https://lecinemadreams.blogspot.com/",
+      "feed_url": "https://lecinemadreams.blogspot.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "D"
+    },
+    {
       "name": "Emma Juettner",
       "site_url": "https://emmajuettner.com/",
       "feed_url": "https://emmajuettner.com/feed/rss.xml",
@@ -775,6 +791,14 @@
       "name": "Gamer Girl Confessions",
       "site_url": "https://gamergirlconfessions.com/",
       "feed_url": "http://gamergirlconfessions.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "G"
+    },
+    {
+      "name": "Gamer Of Passion",
+      "site_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "G"
@@ -2543,6 +2567,14 @@
       "name": "Vicissitudes",
       "site_url": "https://vixiss.bearblog.dev/",
       "feed_url": "https://vixiss.bearblog.dev/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "V"
+    },
+    {
+      "name": "vmphil",
+      "site_url": "https://vmphilblog.wordpress.com/",
+      "feed_url": "https://vmphilblog.wordpress.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "V"

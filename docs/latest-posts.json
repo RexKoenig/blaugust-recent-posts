@@ -1,10 +1,146 @@
 {
-  "generated_at": "2026-09-26T21:09:29.007978Z",
-  "feed_count": 343,
-  "successful_feeds": 314,
+  "generated_at": "2026-09-27T11:57:49.291501Z",
+  "feed_count": 347,
+  "successful_feeds": 318,
   "failed_feeds": 29,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Kindness as First-class Citizen in Programming",
+      "post_url": "https://brennan.day/kindness-as-first-class-citizen-in-programming/",
+      "published": "2026-09-28T02:00:00Z"
+    },
+    {
+      "blog_title": "Going Commando",
+      "blog_url": "https://swtorcommando.blogspot.com/",
+      "feed_url": "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Return of the Character Creation Hangar",
+      "post_url": "https://swtorcommando.blogspot.com/2026/09/return-of-character-creation-hangar.html",
+      "published": "2026-09-27T10:45:45Z"
+    },
+    {
+      "blog_title": "The Sun and The Air",
+      "blog_url": "https://criminallyvulgar.dev/",
+      "feed_url": "https://criminallyvulgar.dev/feed/",
+      "post_title": "September Basho Wrap-up",
+      "post_url": "https://criminallyvulgar.dev/september-basho-wrap-up/",
+      "published": "2026-09-27T10:41:33Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Ladybird Book",
+      "post_url": "https://nomadwarmachine.co.uk/2026/09/27/ladybird-book/",
+      "published": "2026-09-27T10:04:38Z"
+    },
+    {
+      "blog_title": "ROSKA'S REVERIE ⋆౨ৎ˚⟡˖ ࣪",
+      "blog_url": "https://polvoronii.bearblog.dev/",
+      "feed_url": "https://polvoronii.bearblog.dev/feed/",
+      "post_title": "imperative reminder for the self",
+      "post_url": "https://polvoronii.bearblog.dev/imperative-reminder-for-the-self/",
+      "published": "2026-09-27T09:08:00Z"
+    },
+    {
+      "blog_title": "Taxodium",
+      "blog_url": "https://taxodium.ink/",
+      "feed_url": "https://taxodium.ink/index.xml",
+      "post_title": "Emacs 代碼块导出复用",
+      "post_url": "https://taxodium.ink/reusing-emacs-code-block-when-export.html",
+      "published": "2026-09-27T08:45:00Z"
+    },
+    {
+      "blog_title": "わくパンの思考のかけら",
+      "blog_url": "https://wakupanbouquet.hatenablog.com/",
+      "feed_url": "https://wakupanbouquet.hatenablog.com/rss",
+      "post_title": "2026-W39 週報 作業しすぎ（まいにち5000字が爆誕している）",
+      "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/09/27/170000",
+      "published": "2026-09-27T08:00:00Z"
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Thoughts about continuing to blog, Bad Barista names, Space Hamsters, Torment Nexus 2000",
+      "post_url": "https://hollie.eilloh.net/posts/thoughts-about-continuing-to-blog-bad-barista-names-space-hamsters-torment-nexus-2000",
+      "published": "2026-09-27T06:53:54Z"
+    },
+    {
+      "blog_title": "Sylvia's Studio",
+      "blog_url": "https://sylvia.studio/",
+      "feed_url": "https://sylvia.studio/feed.xml",
+      "post_title": "Let go of your fantasy self",
+      "post_url": "https://sylvia.studio/posts/let-go-of-your-fantasy-self",
+      "published": "2026-09-27T06:46:36Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Don’t explain yourself",
+      "post_url": "https://rishidass.net/posts/dont-explain-yourself",
+      "published": "2026-09-27T06:40:12Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "#SilentSunday – 🌕 moon",
+      "post_url": "https://cynnisblog.wordpress.com/2026/09/27/silentsunday-%f0%9f%8c%95-moon/",
+      "published": "2026-09-27T05:00:52Z"
+    },
+    {
+      "blog_title": "Dirchansky Freetalk",
+      "blog_url": "https://dirchansky.com/freetalk/",
+      "feed_url": "https://dirchansky.com/freetalk/rss.xml",
+      "post_title": "Busy in many ways",
+      "post_url": "https://dirchansky.com/freetalk/busy-in-many-ways",
+      "published": "2026-09-27T03:55:20Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Justin Verlander Gets Pulled by His Daughter in His Final Career Start",
+      "post_url": "https://www.youtube.com/watch?v=6KLyj_F6fAA",
+      "published": "2026-09-27T03:30:38Z"
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "More than Nothing: Crusaders",
+      "post_url": "http://josephskyrim.blogspot.com/2026/09/more-than-nothing-crusaders.html",
+      "published": "2026-09-27T02:06:46Z"
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Sunday, 27 September 2026",
+      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-27.html",
+      "published": "2026-09-27T00:00:00Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "ケロケロ",
+      "post_url": "https://elve.club/entry/2026/09/27/064335?utm_source=feed",
+      "published": "2026-09-26T21:43:35Z"
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "back to pipe-ality",
+      "post_url": "https://write.as/blog-x2600/back-to-pipe-ality?pk_campaign=rss-feed",
+      "published": "2026-09-26T19:11:35Z"
+    },
     {
       "blog_title": "What the Fran",
       "blog_url": "https://francescrossley.com/",
@@ -28,142 +164,6 @@
       "post_title": "Secret Thinkpad",
       "post_url": "https://sals.place/blog/secret-thinkpad/",
       "published": "2026-09-26T16:03:25Z"
-    },
-    {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "1% prepper",
-      "post_url": "https://nosrednayduj.dreamwidth.org/187769.html",
-      "published": "2026-09-26T15:32:14Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Am fost să cumpăr Ecler și am venit cu mai multe acasă :) #the100pics",
-      "post_url": "https://thinkroot.xyz/photo-653",
-      "published": "2026-09-26T15:31:20Z"
-    },
-    {
-      "blog_title": "BurgeonLab",
-      "blog_url": "https://burgeonlab.com/",
-      "feed_url": "https://burgeonlab.com/all/feed.xml",
-      "post_title": "Mid-Autumn Festivities",
-      "post_url": "https://burgeonlab.com/notes/2026/0926-2326/",
-      "published": "2026-09-26T15:26:08Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Binge Watching Past Labor Day",
-      "post_url": "https://tagn.wordpress.com/2026/09/26/binge-watching-past-labor-day/",
-      "published": "2026-09-26T15:15:40Z"
-    },
-    {
-      "blog_title": "Bavatuesdays",
-      "blog_url": "https://bavatuesdays.com",
-      "feed_url": "http://bavatuesdays.com/feed/",
-      "post_title": "Blue 3DS XL Version 2",
-      "post_url": "https://bavatuesdays.com/blue-3ds-xl-version-2/",
-      "published": "2026-09-26T14:44:57Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Stupid Is",
-      "post_url": "https://bhagpuss.blogspot.com/2026/09/stupid-is.html",
-      "published": "2026-09-26T14:17:01Z"
-    },
-    {
-      "blog_title": "Portrait of the Man as a...",
-      "blog_url": "https://angrybunnyman.com/",
-      "feed_url": "https://angrybunnyman.com/feed/",
-      "post_title": "Roll your own epiphany. Or: On [Ordinary Object] and the [synonym for quiet] Art of Writing",
-      "post_url": "https://angrybunnyman.com/on-ordinary-object-and-the-synonym-for-quiet-art-of-being/",
-      "published": "2026-09-26T14:13:00Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Into the Sun",
-      "post_url": "https://nomadwarmachine.co.uk/2026/09/26/into-the-sun/",
-      "published": "2026-09-26T13:48:31Z"
-    },
-    {
-      "blog_title": "TGLG",
-      "blog_url": "https://392ms.witchserver.jp/kb/",
-      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "#女体化 #NSFW",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1272",
-      "published": "2026-09-26T13:45:11Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Tracing the superhero movie genre from 1998 to 2008",
-      "post_url": "https://mutantreviewersmovies.com/2026/09/26/tracing-the-superhero-movie-genre-from-1998-to-2008/",
-      "published": "2026-09-26T13:00:32Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "指一本触れられないままよりよかった かなぁ？",
-      "post_url": "https://elve.club/entry/2026/09/26/191225?utm_source=feed",
-      "published": "2026-09-26T10:12:25Z"
-    },
-    {
-      "blog_title": "Cubic Creativity",
-      "blog_url": "https://cubiccreativity.wordpress.com/",
-      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
-      "post_title": "Stalk’s Mini Review-Mashup 7",
-      "post_url": "https://cubiccreativity.wordpress.com/2026/09/26/stalks-mini-review-mashup-7/",
-      "published": "2026-09-26T07:00:00Z"
-    },
-    {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Friday facts, doc visit & chronic illness update, a kettle of hawks (video!), pissy & cute dogs",
-      "post_url": "https://hollie.eilloh.net/posts/friday-facts-doc-visit-and-chronic-illness-update-a-kettle-of-hawks-video-pissy-and-cute-dogs",
-      "published": "2026-09-26T06:59:00Z"
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Are MMORPGs and AI related?",
-      "post_url": "http://tobolds.blogspot.com/2026/09/are-mmorpgs-and-ai-related.html",
-      "published": "2026-09-26T06:22:21Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Habits are overrated",
-      "post_url": "https://rishidass.net/posts/habits-are-overrated",
-      "published": "2026-09-26T06:19:29Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Thinking positive 🌠",
-      "post_url": "https://cynnisblog.wordpress.com/2026/09/26/thinking-positive-%f0%9f%8c%a0/",
-      "published": "2026-09-26T05:00:10Z"
-    },
-    {
-      "blog_title": "JVT Workshop",
-      "blog_url": "http://josephskyrim.blogspot.com/",
-      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
-      "post_title": "More than Nothing: The Artorias Interlude",
-      "post_url": "http://josephskyrim.blogspot.com/2026/09/more-than-nothing-artorias-interlude.html",
-      "published": "2026-09-26T02:27:11Z"
     }
   ]
 }
