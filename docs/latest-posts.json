@@ -1,10 +1,138 @@
 {
-  "generated_at": "2026-09-27T21:20:27.248549Z",
+  "generated_at": "2026-09-28T13:53:11.608420Z",
   "feed_count": 347,
-  "successful_feeds": 320,
-  "failed_feeds": 27,
+  "successful_feeds": 319,
+  "failed_feeds": 28,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Early coding experiences",
+      "post_url": "https://www.kgadams.net/geekdom/early-coding-experiences",
+      "published": "2026-09-28T13:30:00Z"
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Resident Evil: Welcome to Raccoon City (2021) — High on fan service, low on story",
+      "post_url": "https://mutantreviewersmovies.com/2026/09/28/resident-evil-welcome-to-raccoon-city-2021-high-on-fan-service-low-on-story/",
+      "published": "2026-09-28T13:00:52Z"
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "WoW Forever: More pre-planning to pass the days",
+      "post_url": "https://biobreak.wordpress.com/2026/09/28/wow-forever-more-pre-planning-to-pass-the-days/",
+      "published": "2026-09-28T13:00:34Z"
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "No.1273",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1273",
+      "published": "2026-09-28T12:52:16Z"
+    },
+    {
+      "blog_title": "Monsterlady's Diary",
+      "blog_url": "https://monsterladysdiary.wordpress.com/",
+      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
+      "post_title": "Death Stranding – I’m No Hero, I’m Just a Porter",
+      "post_url": "https://monsterladysdiary.wordpress.com/2026/09/28/death-stranding-im-no-hero-im-just-a-porter/",
+      "published": "2026-09-28T12:00:38Z"
+    },
+    {
+      "blog_title": "Blog - 鳥啼く頃に",
+      "blog_url": "https://torinakukoroni.blog.fc2.com/",
+      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
+      "post_title": "とりなの各種アカウント名を統一させたよ～",
+      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-398.html",
+      "published": "2026-09-28T11:48:44Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "ざったざった",
+      "post_url": "https://elve.club/entry/2026/09/28/193840?utm_source=feed",
+      "published": "2026-09-28T10:38:40Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "The Last Museum",
+      "post_url": "https://nomadwarmachine.co.uk/2026/09/28/the-last-museum/",
+      "published": "2026-09-28T09:23:23Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "The People Who Won't Give Up a 2012 ThinkPad",
+      "post_url": "https://thinkroot.xyz/the-people-who-wont-give-up-a-2012-thinkpad-656",
+      "published": "2026-09-28T08:39:51Z"
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Blogging thoughts wrap-up (for now), a biplane, Age of Adaline was shortsighted, old and new brunch friends at the cafe, Korean pancakes, moors, etc.",
+      "post_url": "https://hollie.eilloh.net/posts/blogging-thoughts-wrap-up-for-now-a-biplane-age-of-adaline-was-shortsighted-old-and-new-brunch-friends-at-the-cafe-korean-pancakes-moors-etc",
+      "published": "2026-09-28T05:54:00Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Taking extra space",
+      "post_url": "https://rishidass.net/posts/taking-extra-space",
+      "published": "2026-09-28T05:45:12Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "A little heavenly help 🪽",
+      "post_url": "https://cynnisblog.wordpress.com/2026/09/28/a-little-heavenly-help-%f0%9f%aa%bd/",
+      "published": "2026-09-28T05:00:46Z"
+    },
+    {
+      "blog_title": "Kelson Vibber: New Posts",
+      "blog_url": "https://kvibber.com/",
+      "feed_url": "https://kvibber.com/feed.xml",
+      "post_title": "The Moon Pool (book review)",
+      "post_url": "https://kvibber.com/reviews/books/moon-pool/",
+      "published": "2026-09-28T03:58:57Z"
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "More than Nothing: Skydagger",
+      "post_url": "http://josephskyrim.blogspot.com/2026/09/more-than-nothing-skydagger.html",
+      "published": "2026-09-28T03:03:48Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Atta Babe, Kruk",
+      "post_url": "https://www.youtube.com/watch?v=mg5uj6tjGL4",
+      "published": "2026-09-28T02:33:57Z"
+    },
+    {
+      "blog_title": "Shadowz Abstract Gaming",
+      "blog_url": "https://sag.sadesignz.org/",
+      "feed_url": "https://sag.sadesignz.org/feed/",
+      "post_title": "I cancelled some things…..",
+      "post_url": "https://sag.sadesignz.org/i-cancelled-some-things/",
+      "published": "2026-09-28T02:21:09Z"
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
@@ -14,156 +142,28 @@
       "published": "2026-09-28T02:00:00Z"
     },
     {
-      "blog_title": "The Works of Egan",
-      "blog_url": "https://theworksofegan.net/",
-      "feed_url": "https://theworksofegan.net/feed.xml",
-      "post_title": "Cool Dogs",
-      "post_url": "https://theworksofegan.net/posts/2026-09-27-cool-dogs/",
-      "published": "2026-09-27T20:45:00Z"
+      "blog_title": "Nullish",
+      "blog_url": "https://nullish.smol.pub/",
+      "feed_url": "https://nullish.smol.pub/atom.xml",
+      "post_title": "A backup plan",
+      "post_url": "https://nullish.smol.pub/a-backup-plan",
+      "published": "2026-09-28T01:37:37Z"
     },
     {
-      "blog_title": "Gaudete Theology",
-      "blog_url": "https://gaudetetheology.wordpress.com/",
-      "feed_url": "http://gaudetetheology.wordpress.com/feed/",
-      "post_title": "Reblog: Dignity USA Webinar Series",
-      "post_url": "https://gaudetetheology.wordpress.com/2026/09/27/reblog-dignity-usa-webinar-series/",
-      "published": "2026-09-27T18:45:23Z"
+      "blog_title": "Taxodium",
+      "blog_url": "https://taxodium.ink/",
+      "feed_url": "https://taxodium.ink/index.xml",
+      "post_title": "讀《13·67》",
+      "post_url": "https://taxodium.ink/%E8%AE%80%E3%80%8A13%C2%B767%E3%80%8B.html",
+      "published": "2026-09-28T01:20:00Z"
     },
     {
-      "blog_title": "Syl's Blog",
-      "blog_url": "https://syls.blog/",
-      "feed_url": "https://syls.blog/feed/",
-      "post_title": "More Random Thoughts",
-      "post_url": "https://syls.blog/more-random-thoughts/",
-      "published": "2026-09-27T18:19:00Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Tuning Up Perch",
-      "post_url": "https://tobygeeksout.micro.blog/2026/09/27/tuning-up-perch.html",
-      "published": "2026-09-27T18:09:31Z"
-    },
-    {
-      "blog_title": "Alex's Review Corner",
-      "blog_url": "https://super142.wordpress.com/",
-      "feed_url": "https://super142.wordpress.com/feed/",
-      "post_title": "X-Men: Days of Future Past (2014) Review",
-      "post_url": "https://super142.wordpress.com/2026/09/27/x-men-days-of-future-past-2014-review/",
-      "published": "2026-09-27T17:00:00Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Bring back cloaks",
-      "post_url": "https://francescrossley.com/bring-back-cloaks/",
-      "published": "2026-09-27T17:00:00Z"
-    },
-    {
-      "blog_title": "Robert Birming",
-      "blog_url": "https://birming.com/",
-      "feed_url": "https://birming.com/feed/",
-      "post_title": "Birming Bulletin #1",
-      "post_url": "https://birming.com/posts/birming-bulletin-1",
-      "published": "2026-09-27T16:36:48Z"
-    },
-    {
-      "blog_title": "Bavatuesdays",
-      "blog_url": "https://bavatuesdays.com",
-      "feed_url": "http://bavatuesdays.com/feed/",
-      "post_title": "Victory Laps All the Way Down",
-      "post_url": "https://bavatuesdays.com/victory-laps-all-the-way-down/",
-      "published": "2026-09-27T16:00:30Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "O lalea foarte roșie #the100pics",
-      "post_url": "https://thinkroot.xyz/photo-654",
-      "published": "2026-09-27T15:40:31Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "TAGN Fantasy Critic League 2026 – Week Thirty-Nine and Looking for Scores",
-      "post_url": "https://tagn.wordpress.com/2026/09/27/tagn-fantasy-critic-league-2026-week-thirty-nine-and-looking-for-scores/",
-      "published": "2026-09-27T15:15:39Z"
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Efficient",
-      "post_url": "https://martinschuhmann.com/efficient",
-      "published": "2026-09-27T15:15:00Z"
-    },
-    {
-      "blog_title": "素生",
-      "blog_url": "https://z.arlmy.me/",
-      "feed_url": "http://z.arlmy.me/atom.xml",
-      "post_title": "Toots 438 2026 Sep.20 - Sep.26",
-      "post_url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260926/",
-      "published": "2026-09-27T13:43:27Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "HAPPY BIRTHDAY TO ME",
-      "post_url": "https://pretendtypewriter.net/happy-birthday-to-me/",
-      "published": "2026-09-27T13:18:00Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "自分の言霊にやられるｗ",
-      "post_url": "https://elve.club/entry/2026/09/27/221105?utm_source=feed",
-      "published": "2026-09-27T13:11:05Z"
-    },
-    {
-      "blog_title": "Clandestini",
-      "blog_url": "https://clandestini.org/",
-      "feed_url": "https://clandestini.org/feed/",
-      "post_title": "Voltei para o youtube?",
-      "post_url": "https://clandestini.org/blog/voltei-para-o-youtube/",
-      "published": "2026-09-27T13:02:05Z"
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "Base iPad Should Earn Neo Name",
-      "post_url": "https://jasonjournals.com/posts/base-ipad-should-earn-neo-name",
-      "published": "2026-09-27T13:00:00Z"
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Who I blog for",
-      "post_url": "https://sylvia.studio/posts/who-i-blog-for",
-      "published": "2026-09-27T12:39:18Z"
-    },
-    {
-      "blog_title": "Going Commando",
-      "blog_url": "https://swtorcommando.blogspot.com/",
-      "feed_url": "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Return of the Character Creation Hangar",
-      "post_url": "https://swtorcommando.blogspot.com/2026/09/return-of-character-creation-hangar.html",
-      "published": "2026-09-27T10:45:45Z"
-    },
-    {
-      "blog_title": "The Sun and The Air",
-      "blog_url": "https://criminallyvulgar.dev/",
-      "feed_url": "https://criminallyvulgar.dev/feed/",
-      "post_title": "September Basho Wrap-up",
-      "post_url": "https://criminallyvulgar.dev/september-basho-wrap-up/",
-      "published": "2026-09-27T10:41:33Z"
+      "blog_title": "Divergent Rays' Blog",
+      "blog_url": "https://divergentrays.com/blog/",
+      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
+      "post_title": "Weekly Wrap Up 129",
+      "post_url": "https://divergentrays.com/blog/posts/2026-09-27-Weekly-Wrap-Up-129.html",
+      "published": "2026-09-28T00:28:00Z"
     }
   ]
 }
