@@ -1,17 +1,145 @@
 {
-  "generated_at": "2026-09-29T12:51:41.798686Z",
+  "generated_at": "2026-09-29T22:14:32.893115Z",
   "feed_count": 347,
   "successful_feeds": 321,
   "failed_feeds": 26,
   "post_count": 20,
   "posts": [
     {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "‘In Fighting for Every Black Child, Did I Betray My Own?’",
+      "post_url": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html?unlocked_article_code=1.E1E.OkHw.4pA8UfAQHzsx",
+      "published": "2026-09-29T22:11:56Z"
+    },
+    {
+      "blog_title": "Battle Stance",
+      "blog_url": "https://battlestance.org/",
+      "feed_url": "https://battlestance.org/feed/",
+      "post_title": "Catching up on Dawntrail",
+      "post_url": "https://battlestance.org/2026/09/29/catching-up-on-dawntrail/",
+      "published": "2026-09-29T21:59:00Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Furios și iute: Tokyo Drift",
+      "post_url": "https://thinkroot.xyz/furios-si-iute-tokyo-drift-665",
+      "published": "2026-09-29T21:52:27Z"
+    },
+    {
+      "blog_title": "The Capsule Critic",
+      "blog_url": "https://thecapsulecritic.com/blog/",
+      "feed_url": "https://thecapsulecritic.com/feed/",
+      "post_title": "THE AWAKENING (1980): Why So Serious?",
+      "post_url": "https://thecapsulecritic.com/2026/09/29/the-awakening-1980-why-so-serious/",
+      "published": "2026-09-29T20:38:37Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Hissing Tomb in Divinity 2: How to Open It Without Getting Petrified",
+      "post_url": "https://gamerofpassion.com/hissing-tomb-divinity-2/",
+      "published": "2026-09-29T19:47:36Z"
+    },
+    {
+      "blog_title": "Ribo.zone",
+      "blog_url": "https://ribo.zone/",
+      "feed_url": "https://ribo.zone/feed.xml",
+      "post_title": "today is my website's birthday!",
+      "post_url": "https://ribo.zone/archive/birthday/4",
+      "published": "2026-09-29T19:25:45Z"
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Day Fifty And The Game Begins",
+      "post_url": "https://bhagpuss.blogspot.com/2026/09/day-fifty-and-game-begins.html",
+      "published": "2026-09-29T19:06:02Z"
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "PSA: Clean your kitchen vent hood",
+      "post_url": "https://sals.place/blog/clean-your-vent-hood/",
+      "published": "2026-09-29T18:52:59Z"
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "I was on a podcast (again)",
+      "post_url": "https://joelchrono.xyz/blog/i-was-on-a-podcast-again/",
+      "published": "2026-09-29T18:20:00Z"
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Might as well be funny",
+      "post_url": "https://francescrossley.com/might-as-well-be-funny/",
+      "published": "2026-09-29T18:00:00Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Three Hundred and Ten Million Skill Points",
+      "post_url": "https://tagn.wordpress.com/2026/09/29/three-hundred-and-ten-million-skill-points/",
+      "published": "2026-09-29T15:15:54Z"
+    },
+    {
+      "blog_title": "Frostilyte Writes",
+      "blog_url": "https://frostilyte.ca/",
+      "feed_url": "https://frostilyte.ca/feed/",
+      "post_title": "A Low-Tier Playthrough of Pokémon Silver: Part 7",
+      "post_url": "https://frostilyte.ca/2026/09/29/a-low-tier-playthrough-of-pokemon-silver-part-7/",
+      "published": "2026-09-29T14:40:26Z"
+    },
+    {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - free things",
-      "post_url": "https://pretendtypewriter.net/note-free-things/",
-      "published": "2026-09-29T11:25:23Z"
+      "post_title": "26-09 FLAVOR OF THE MONTH: CARDAMOM",
+      "post_url": "https://pretendtypewriter.net/26-09-flavor-of-the-month-cardamom/",
+      "published": "2026-09-29T14:36:00Z"
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Throwback: cell phone standards in Iraq",
+      "post_url": "https://www.kgadams.net/tiny-thoughts/throwback-cell-phone-standards-in-iraq",
+      "published": "2026-09-29T13:30:00Z"
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "Rimworld: Katie, you did good, girl",
+      "post_url": "https://biobreak.wordpress.com/2026/09/29/rimworld/",
+      "published": "2026-09-29T13:00:34Z"
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "The Mysterious Monsters (1976) – Bigfoot and Yeti and Nessie, oh my!",
+      "post_url": "https://mutantreviewersmovies.com/2026/09/29/the-mysterious-monsters-1976-bigfoot-and-yeti-and-nessie-oh-my/",
+      "published": "2026-09-29T13:00:00Z"
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Frosthaven Scenario #26: Quatryl Library",
+      "post_url": "https://chasingdings.com/2026/09/29/frosthaven-scenario-26-quatryl-library/",
+      "published": "2026-09-29T11:58:24Z"
     },
     {
       "blog_title": "Mar Qaroll's The Marrowing!",
@@ -30,140 +158,12 @@
       "published": "2026-09-29T09:50:05Z"
     },
     {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Luna aceasta am uitat să donez. În octombrie o să fac două donații.",
-      "post_url": "https://thinkroot.xyz/nota-662",
-      "published": "2026-09-29T07:24:36Z"
-    },
-    {
       "blog_title": "Overage-Gaming",
       "blog_url": "https://overage-gaming.com/",
       "feed_url": "https://overage-gaming.com/feed/",
       "post_title": "Archon Soul: Slay the Spire Meets Dice Crafting in the Best Way (Gameplay)",
       "post_url": "https://overage-gaming.com/2026/09/29/archon-soul-slay-the-spire-meets-dice-crafting-in-the-best-way-gameplay/",
       "published": "2026-09-29T07:01:00Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Only discontent",
-      "post_url": "https://rishidass.net/posts/only-discontent",
-      "published": "2026-09-29T06:40:00Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Journal – Week 39, September 2026",
-      "post_url": "https://cynnisblog.wordpress.com/2026/09/29/journal-week-39-september-2026/",
-      "published": "2026-09-29T05:00:00Z"
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Pixel Art, New book started, lights out! - W39",
-      "post_url": "https://joelchrono.xyz/blog/2026-w39/",
-      "published": "2026-09-29T04:30:00Z"
-    },
-    {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Short post (lol), blogging early, challenging a panic attack went really well, wall cow",
-      "post_url": "https://hollie.eilloh.net/posts/short-post-lol-blogging-early-challenging-a-panic-attack-went-really-well-wall-cow",
-      "published": "2026-09-29T04:15:00Z"
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "I've Never Wasted My Time Writing",
-      "post_url": "https://brennan.day/i-ve-never-wasted-my-time-writing/",
-      "published": "2026-09-29T02:00:00Z"
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Tuesday, 29 September 2026",
-      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-29.html",
-      "published": "2026-09-29T00:00:00Z"
-    },
-    {
-      "blog_title": "The Capsule Critic",
-      "blog_url": "https://thecapsulecritic.com/blog/",
-      "feed_url": "https://thecapsulecritic.com/feed/",
-      "post_title": "DR RENAULT’S SECRET (1942): Rare B Horror Movie From Twentieth Century-Fox Is Moody & Stylish",
-      "post_url": "https://thecapsulecritic.com/2026/09/28/dr-renaults-secret-1942-rare-b-horror-movie-from-twentieth-century-fox-is-moody-stylish/",
-      "published": "2026-09-28T22:52:49Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "( ﾟдﾟ)ﾊｯ!",
-      "post_url": "https://elve.club/entry/2026/09/29/071130?utm_source=feed",
-      "published": "2026-09-28T22:11:30Z"
-    },
-    {
-      "blog_title": "Noisy Deadlines",
-      "blog_url": "https://noisydeadlines.net/",
-      "feed_url": "https://noisydeadlines.net/feed/",
-      "post_title": "Week Notes - Sep 08 to Sep 27 2026",
-      "post_url": "https://noisydeadlines.net/week-notes-sep-08-to-sep-27-2026?pk_campaign=rss-feed",
-      "published": "2026-09-28T21:42:28Z"
-    },
-    {
-      "blog_title": "Priest with a Cause",
-      "blog_url": "https://priestwithacause.blogspot.com/",
-      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "One More for Sausages!",
-      "post_url": "https://priestwithacause.blogspot.com/2026/09/one-more-for-sausages.html",
-      "published": "2026-09-28T20:39:18Z"
-    },
-    {
-      "blog_title": "Lameazoid",
-      "blog_url": "https://lameazoid.com/",
-      "feed_url": "https://lameazoid.com/feed/",
-      "post_title": "Music Monday (2026.09.28)",
-      "post_url": "https://lameazoid.com/posts/music-monday-2026-09-28/",
-      "published": "2026-09-28T20:29:57Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 40 Links",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-09-28-week-40-links/",
-      "published": "2026-09-28T19:52:24Z"
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "What’s in my Filofax",
-      "post_url": "https://sylvia.studio/posts/whats-in-my-filofax",
-      "published": "2026-09-28T19:42:46Z"
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "Stop Sending Me AI Slop",
-      "post_url": "https://virtualmoose.org/2026/09/28/stop-sending-me-ai-slop/",
-      "published": "2026-09-28T19:00:30Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "The Mighty Sparrow, Trinidad and Tobago’s Legendary Calypsonian, Dies at 91",
-      "post_url": "https://trinidadexpress.com/news/mighty-sparrow-dead-at-91/article_df61574c-0db4-40cd-b6a1-31b04efe0c09.html",
-      "published": "2026-09-28T18:29:27Z"
     }
   ]
 }

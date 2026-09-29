@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T12:52:01.963614Z",
-  "source_generated_at": "2026-09-29T12:51:41.798686Z",
+  "generated_at": "2026-09-29T22:15:06.884362Z",
+  "source_generated_at": "2026-09-29T22:14:32.893115Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -8,13 +8,157 @@
   "summary_count": 20,
   "posts": [
     {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "‘In Fighting for Every Black Child, Did I Betray My Own?’",
+      "post_url": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html?unlocked_article_code=1.E1E.OkHw.4pA8UfAQHzsx",
+      "published": "2026-09-29T22:11:56Z",
+      "summary": "JAG’s Workshop reflects on Nikole Hannah-Jones’s educational choices for her daughter, contrasting parental opportunities with the struggle against racial and economic school segregation."
+    },
+    {
+      "blog_title": "Battle Stance",
+      "blog_url": "https://battlestance.org/",
+      "feed_url": "https://battlestance.org/feed/",
+      "post_title": "Catching up on Dawntrail",
+      "post_url": "https://battlestance.org/2026/09/29/catching-up-on-dawntrail/",
+      "published": "2026-09-29T21:59:00Z",
+      "summary": "The writer resumes Final Fantasy XIV, completing patches 7.2 and 7.3, progressing through raids, leveling several jobs, and advancing quests and crafting-related activities."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Furios și iute: Tokyo Drift",
+      "post_url": "https://thinkroot.xyz/furios-si-iute-tokyo-drift-665",
+      "published": "2026-09-29T21:52:27Z",
+      "summary": "A Romanian blog entry titled “Furios și iute: Tokyo Drift” records a five-star rating for the 2006 film on TMDb."
+    },
+    {
+      "blog_title": "The Capsule Critic",
+      "blog_url": "https://thecapsulecritic.com/blog/",
+      "feed_url": "https://thecapsulecritic.com/feed/",
+      "post_title": "THE AWAKENING (1980): Why So Serious?",
+      "post_url": "https://thecapsulecritic.com/2026/09/29/the-awakening-1980-why-so-serious/",
+      "published": "2026-09-29T20:38:37Z",
+      "summary": "The Awakening adapts Bram Stoker’s The Jewel of Seven Stars as a slow, serious mummy horror film featuring Charlton Heston, strong performances, atmospheric photography, and limited violence."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Hissing Tomb in Divinity 2: How to Open It Without Getting Petrified",
+      "post_url": "https://gamerofpassion.com/hissing-tomb-divinity-2/",
+      "published": "2026-09-29T19:47:36Z",
+      "summary": "This guide explains locating the Hissing Tomb in Divinity: Original Sin 2, surviving its petrification curse, defeating nearby statues, and obtaining its contents safely."
+    },
+    {
+      "blog_title": "Ribo.zone",
+      "blog_url": "https://ribo.zone/",
+      "feed_url": "https://ribo.zone/feed.xml",
+      "post_title": "today is my website's birthday!",
+      "post_url": "https://ribo.zone/archive/birthday/4",
+      "published": "2026-09-29T19:25:45Z",
+      "summary": "Ribo.zone celebrates its fourth anniversary with a map of the website’s interconnected pages, reflecting on its growth and the creator’s learning over time."
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Day Fifty And The Game Begins",
+      "post_url": "https://bhagpuss.blogspot.com/2026/09/day-fifty-and-game-begins.html",
+      "published": "2026-09-29T19:06:02Z",
+      "summary": "The narrative follows Califlora’s relaxed Valheim survival, exploring islands, raiding passive Fulings, managing scarce resources, and reconsidering her plan to avoid boss battles."
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "PSA: Clean your kitchen vent hood",
+      "post_url": "https://sals.place/blog/clean-your-vent-hood/",
+      "published": "2026-09-29T18:52:59Z",
+      "summary": "Sal describes discovering severe grease, lint, and heat-baked grime inside a kitchen vent hood blower, cleaning it, and noticing improved performance."
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "I was on a podcast (again)",
+      "post_url": "https://joelchrono.xyz/blog/i-was-on-a-podcast-again/",
+      "published": "2026-09-29T18:20:00Z",
+      "summary": "Joel describes appearing as the main guest on James’s podcast Wonders of Web Weaving #21, discussing blogging, hobbies, gaming, origami, and the future of the web."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Might as well be funny",
+      "post_url": "https://francescrossley.com/might-as-well-be-funny/",
+      "published": "2026-09-29T18:00:00Z",
+      "summary": "The writer argues that television and film should include more humour, praising observational comedy in family life and shows such as Widow’s Bay, Deadloch, Slow Horses, and The West Wing."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Three Hundred and Ten Million Skill Points",
+      "post_url": "https://tagn.wordpress.com/2026/09/29/three-hundred-and-ten-million-skill-points/",
+      "published": "2026-09-29T15:15:54Z",
+      "summary": "An EVE Online player reaches 310 million skill points on Wilhelm Arcturus, reviews character totals and training categories, and plans future skills for holiday events."
+    },
+    {
+      "blog_title": "Frostilyte Writes",
+      "blog_url": "https://frostilyte.ca/",
+      "feed_url": "https://frostilyte.ca/feed/",
+      "post_title": "A Low-Tier Playthrough of Pokémon Silver: Part 7",
+      "post_url": "https://frostilyte.ca/2026/09/29/a-low-tier-playthrough-of-pokemon-silver-part-7/",
+      "published": "2026-09-29T14:40:26Z",
+      "summary": "Frostilyte’s low-tier Pokémon Silver playthrough obtains Seadra through Whirl Islands encounters and breeding, while examining Generation 2 egg-move mechanics and encounter odds."
+    },
+    {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - free things",
-      "post_url": "https://pretendtypewriter.net/note-free-things/",
-      "published": "2026-09-29T11:25:23Z",
-      "summary": "A brief note suggests making tea in a thermos, going outside, finding a seat, and enjoying the view as free activities in Switzerland."
+      "post_title": "26-09 FLAVOR OF THE MONTH: CARDAMOM",
+      "post_url": "https://pretendtypewriter.net/26-09-flavor-of-the-month-cardamom/",
+      "published": "2026-09-29T14:36:00Z",
+      "summary": "Pretend Typewriter’s September cookie project experiments with cardamom, butter, and cornstarch, producing softer, larger cookies whose white chocolate muted the spice."
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Throwback: cell phone standards in Iraq",
+      "post_url": "https://www.kgadams.net/tiny-thoughts/throwback-cell-phone-standards-in-iraq",
+      "published": "2026-09-29T13:30:00Z",
+      "summary": "The post recalls Congressman Darrell Issa’s 2003 effort to promote CDMA for Iraq, contrasting it with the provisional government’s selection of GSM for international roaming."
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "Rimworld: Katie, you did good, girl",
+      "post_url": "https://biobreak.wordpress.com/2026/09/29/rimworld/",
+      "published": "2026-09-29T13:00:34Z",
+      "summary": "A RimWorld colony thrives after recovering from disasters, expanding with trained Labrador retrievers, defending against raids, and rescuing Katie during a lucrative battle."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "The Mysterious Monsters (1976) – Bigfoot and Yeti and Nessie, oh my!",
+      "post_url": "https://mutantreviewersmovies.com/2026/09/29/the-mysterious-monsters-1976-bigfoot-and-yeti-and-nessie-oh-my/",
+      "published": "2026-09-29T13:00:00Z",
+      "summary": "The 1976 documentary The Mysterious Monsters, narrated by Peter Graves, investigates Bigfoot, the Yeti, and Loch Ness through interviews, reenactments, and pseudoscientific evidence."
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Frosthaven Scenario #26: Quatryl Library",
+      "post_url": "https://chasingdings.com/2026/09/29/frosthaven-scenario-26-quatryl-library/",
+      "published": "2026-09-29T11:58:24Z",
+      "summary": "Frosthaven Scenario #26 features a tower-defense battle through a Quatryl library, where adventurers defend a dais from machines while uncovering the Unfettered’s origins."
     },
     {
       "blog_title": "Mar Qaroll's The Marrowing!",
@@ -35,15 +179,6 @@
       "summary": "A haiku inspired by the randomly generated word “drift” accompanies a photograph of an autumn morning sky, clouds, and trees in Scotland."
     },
     {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Luna aceasta am uitat să donez. În octombrie o să fac două donații.",
-      "post_url": "https://thinkroot.xyz/nota-662",
-      "published": "2026-09-29T07:24:36Z",
-      "summary": "ThinkRoot notes forgetting to donate this month and pledging to make two donations in October."
-    },
-    {
       "blog_title": "Overage-Gaming",
       "blog_url": "https://overage-gaming.com/",
       "feed_url": "https://overage-gaming.com/feed/",
@@ -51,141 +186,6 @@
       "post_url": "https://overage-gaming.com/2026/09/29/archon-soul-slay-the-spire-meets-dice-crafting-in-the-best-way-gameplay/",
       "published": "2026-09-29T07:01:00Z",
       "summary": "A Let’s Play introduces Archon Soul, a 2D roguelike dice-builder where players customize dice, draft spells, develop synergies, battle enemies, and advance through the Archon’s palace."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Only discontent",
-      "post_url": "https://rishidass.net/posts/only-discontent",
-      "published": "2026-09-29T06:40:00Z",
-      "summary": "Rishi Dass argues that contentment cannot be found in external circumstances, urging readers to examine and release discontent while still pursuing goals."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Journal – Week 39, September 2026",
-      "post_url": "https://cynnisblog.wordpress.com/2026/09/29/journal-week-39-september-2026/",
-      "published": "2026-09-29T05:00:00Z",
-      "summary": "Cynni’s week includes medical and therapy appointments, poor sleep, daily routines with Koa, difficulties addressing a damaged crate, and anxiety after Koa ate a wasp."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Pixel Art, New book started, lights out! - W39",
-      "post_url": "https://joelchrono.xyz/blog/2026-w39/",
-      "published": "2026-09-29T04:30:00Z",
-      "summary": "Weeknotes from September 22–28, 2026 cover Pixel Bears, purchases, social gatherings, reading progress, video games, a supermarket blackout, and several science-fiction films."
-    },
-    {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Short post (lol), blogging early, challenging a panic attack went really well, wall cow",
-      "post_url": "https://hollie.eilloh.net/posts/short-post-lol-blogging-early-challenging-a-panic-attack-went-really-well-wall-cow",
-      "published": "2026-09-29T04:15:00Z",
-      "summary": "The post describes efforts to improve sleep, a panic episode managed without flooding, and reflections on why the Dare method previously intensified chronic overwhelm."
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "I've Never Wasted My Time Writing",
-      "post_url": "https://brennan.day/i-ve-never-wasted-my-time-writing/",
-      "published": "2026-09-29T02:00:00Z",
-      "summary": "Brennan Day reflects on writing, curiosity, community, and engaging internet “weirdos,” arguing that empathetic dialogue can challenge trolling, prejudice, and harmful beliefs."
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Tuesday, 29 September 2026",
-      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-29.html",
-      "published": "2026-09-29T00:00:00Z",
-      "summary": "The September 2026 blogroll covers World of Warcraft, games, EVE Online, technology, media, books, personal weeknotes, and Bruce Schneier’s RSA security analysis."
-    },
-    {
-      "blog_title": "The Capsule Critic",
-      "blog_url": "https://thecapsulecritic.com/blog/",
-      "feed_url": "https://thecapsulecritic.com/feed/",
-      "post_title": "DR RENAULT’S SECRET (1942): Rare B Horror Movie From Twentieth Century-Fox Is Moody & Stylish",
-      "post_url": "https://thecapsulecritic.com/2026/09/28/dr-renaults-secret-1942-rare-b-horror-movie-from-twentieth-century-fox-is-moody-stylish/",
-      "published": "2026-09-28T22:52:49Z",
-      "summary": "Dr Renault’s Secret is a 1942 Twentieth Century-Fox horror film about a mad scientist, his powerful servant Noel, and disturbing experiments at a French chateau."
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "( ﾟдﾟ)ﾊｯ!",
-      "post_url": "https://elve.club/entry/2026/09/29/071130?utm_source=feed",
-      "published": "2026-09-28T22:11:30Z",
-      "summary": "The supplied text is garbled and does not provide enough identifiable content to determine the post’s subject."
-    },
-    {
-      "blog_title": "Noisy Deadlines",
-      "blog_url": "https://noisydeadlines.net/",
-      "feed_url": "https://noisydeadlines.net/feed/",
-      "post_title": "Week Notes - Sep 08 to Sep 27 2026",
-      "post_url": "https://noisydeadlines.net/week-notes-sep-08-to-sep-27-2026?pk_campaign=rss-feed",
-      "published": "2026-09-28T21:42:28Z",
-      "summary": "Week notes cover an Army Run 10K, replacing a Kobo cover, new board games, health concerns, digital decluttering, reading, music, and personal updates."
-    },
-    {
-      "blog_title": "Priest with a Cause",
-      "blog_url": "https://priestwithacause.blogspot.com/",
-      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "One More for Sausages!",
-      "post_url": "https://priestwithacause.blogspot.com/2026/09/one-more-for-sausages.html",
-      "published": "2026-09-28T20:39:18Z",
-      "summary": "The post revisits World of Warcraft’s Brewfest, highlighting ram racing, newer quests, an interactive food event, and the four-player Brewfest Chowdown sausage contest."
-    },
-    {
-      "blog_title": "Lameazoid",
-      "blog_url": "https://lameazoid.com/",
-      "feed_url": "https://lameazoid.com/feed/",
-      "post_title": "Music Monday (2026.09.28)",
-      "post_url": "https://lameazoid.com/posts/music-monday-2026-09-28/",
-      "published": "2026-09-28T20:29:57Z",
-      "summary": "The post highlights new releases from The Weeknd with Yoko Takahashi, CHVRCHES, TOMORA, and Taylor Swift, including accompanying videos and release details."
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 40 Links",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-09-28-week-40-links/",
-      "published": "2026-09-28T19:52:24Z",
-      "summary": "A late-September link compilation covers employment changes, privacy-focused car modifications, Brazilian gambling policy, battery fires, recycling, PWHL broadcasting, and Podcast Addict’s major update."
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "What’s in my Filofax",
-      "post_url": "https://sylvia.studio/posts/whats-in-my-filofax",
-      "published": "2026-09-28T19:42:46Z",
-      "summary": "Sylvia describes the contents and organization of her Filofax Clipbook, including planning pages, wellness tracking, poetry, journaling, doodles, budgeting, stationery, and accessories."
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "Stop Sending Me AI Slop",
-      "post_url": "https://virtualmoose.org/2026/09/28/stop-sending-me-ai-slop/",
-      "published": "2026-09-28T19:00:30Z",
-      "summary": "The writer asks readers to stop submitting games using generative AI, condemning its ethics, energy consumption, alleged theft of others’ work, and poor quality."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "The Mighty Sparrow, Trinidad and Tobago’s Legendary Calypsonian, Dies at 91",
-      "post_url": "https://trinidadexpress.com/news/mighty-sparrow-dead-at-91/article_df61574c-0db4-40cd-b6a1-31b04efe0c09.html",
-      "published": "2026-09-28T18:29:27Z",
-      "summary": "Trinidad and Tobago calypso legend Mighty Sparrow, born Slinger Francisco, died at 91 after a seven-decade career addressing politics, society, relationships, and everyday life."
     }
   ]
 }
