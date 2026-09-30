@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-09-30T12:34:12.276916Z",
-  "source_generated_at": "2026-09-30T12:33:45.041708Z",
+  "generated_at": "2026-09-30T22:15:47.230694Z",
+  "source_generated_at": "2026-09-30T22:15:13.062002Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 19,
+  "summary_count": 20,
   "posts": [
     {
-      "blog_title": "Bavatuesdays",
-      "blog_url": "https://bavatuesdays.com",
-      "feed_url": "http://bavatuesdays.com/feed/",
-      "post_title": "Hard Rain Falling",
-      "post_url": "https://bavatuesdays.com/hard-rain-falling/",
-      "published": "2026-09-30T12:32:00Z",
-      "summary": "A parent reflects on moving his daughter into Kalamazoo College while connecting the experience to Don Carpenter’s existential novel Hard Rain Falling."
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - right knee is fucked",
+      "post_url": "https://pretendtypewriter.net/note-right-knee-is-fucked/",
+      "published": "2026-09-30T21:34:00Z",
+      "summary": "A September 2026 note describes severe right knee pain preventing weight-bearing, reliance on crutches, plans to contact a doctor, and possible appointment rescheduling."
     },
     {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "草津の湯でも治らんらしいアレ①",
-      "post_url": "https://elve.club/entry/2026/09/30/211952?utm_source=feed",
-      "published": "2026-09-30T12:19:52Z",
-      "summary": "After heartbreak, the narrator takes a solo trip from Tokyo to Ikaho Onsen, describing an austere inn, its baths, meals, and reflections on relationships."
+      "blog_title": "Nerdy Bookahs",
+      "blog_url": "https://nerdybookahs.wordpress.com/",
+      "feed_url": "http://nerdybookahs.wordpress.com/feed/",
+      "post_title": "Random Game Night: Little Problems",
+      "post_url": "https://nerdybookahs.wordpress.com/2026/09/30/random-game-night-little-problems/",
+      "published": "2026-09-30T21:10:09Z",
+      "summary": "A random game selection leads to Little Problems, a cozy detective game involving connected university-life cases, everyday mishaps, clues, and relaxed deduction."
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "Bulawayo Jazz",
+      "post_url": "https://amf.didiermary.fr/rss-club/bulawayo-jazz/",
+      "published": "2026-09-30T21:01:34Z",
+      "summary": "Bulawayo Jazz traces an African jazz style developed in 1950s Southern Rhodesia, highlighting August Musarurwa, Skokiaan, local bands, and his meeting with Louis Armstrong."
+    },
+    {
+      "blog_title": "Off the Top",
+      "blog_url": "https://www.vanderwal.net/random/index.php",
+      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
+      "post_title": "Really Enjoying Designed In California Podcast",
+      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2219",
+      "published": "2026-09-30T20:19:55Z",
+      "summary": "Designed in California, produced by Jason Snell and Myke Hurley, explores Apple’s history through journalism, personal perspectives, guest interviews, and carefully crafted historical storytelling."
+    },
+    {
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "So You Remember? What I Played in September.",
+      "post_url": "https://scopique.com/2026/09/30/so-you-remember-what-i-played-in-september/",
+      "published": "2026-09-30T19:58:14Z",
+      "summary": "Scopique reviews September gaming activity across nine titles, highlighting time spent in Star Citizen, Space Engineers 2, Dune: Awakening, World of Warcraft, and CONTROL Resonant."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "September 2026 monthlog",
+      "post_url": "https://francescrossley.com/september-2026-monthlog/",
+      "published": "2026-09-30T18:00:00Z",
+      "summary": "A September 2026 monthlog recounts birthdays, an anniversary trip, family outings, creative projects, entertainment favourites, music, and plans for October."
+    },
+    {
+      "blog_title": "Kay Talks Games",
+      "blog_url": "https://kaytalksgames.wordpress.com/",
+      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
+      "post_title": "I Finally Got All Achievements in Skyrim",
+      "post_url": "https://kaytalksgames.wordpress.com/2026/09/30/i-finally-got-all-achievements-in-skyrim/",
+      "published": "2026-09-30T17:59:57Z",
+      "summary": "A Skyrim playthrough concludes with every achievement, including Dragonborn, legendary dragon slaying, tedious progression tasks, and reflections on mage gameplay and future characters."
     },
     {
       "blog_title": "Michael Harley",
       "blog_url": "https://michaelharley.net",
       "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "🔁 Reposted: Why Westminster Doesn’t Get Digital Sovereignty",
-      "post_url": "https://michaelharley.net/links/2026/09/30/why-westminster-doesnt-get-digital-sovereignty/",
-      "published": "2026-09-30T11:13:33Z",
-      "summary": "The piece examines digital sovereignty, data residency, infrastructure, cloud-first policies, and risks associated with outsourcing digital systems to technology monopolies or other external providers."
-    },
-    {
-      "blog_title": "In An Age",
-      "blog_url": "https://inanage.com/",
-      "feed_url": "http://inanage.com/feed/",
-      "post_title": "Valheim’s Subtle, Genius Design",
-      "post_url": "https://inanage.com/2026/09/30/valheims-subtle-genius-design/",
-      "published": "2026-09-30T11:00:00Z",
-      "summary": "Valheim’s food system makes meals central through health and stamina benefits, while smoke-producing campfires encourage practical, Viking-inspired base designs and continued use of older materials."
-    },
-    {
-      "blog_title": "Home on devz.cl",
-      "blog_url": "https://devz.cl/",
-      "feed_url": "https://devz.cl/index.xml",
-      "post_title": "My hyper-productivity morning routine",
-      "post_url": "https://devz.cl/posts/my-hyper-productivity-routine/",
-      "published": "2026-09-30T10:49:18Z",
-      "summary": "A detailed morning routine combines household chores, Yerba Mate, writing, and structured work to ease into focused productivity despite being naturally most productive at night."
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Living",
-      "post_url": "https://martinschuhmann.com/living",
-      "published": "2026-09-30T10:30:00Z",
-      "summary": null
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Haunting at the Willington Mill",
-      "post_url": "https://nomadwarmachine.co.uk/2026/09/30/haunting-at-the-willington-mill/",
-      "published": "2026-09-30T10:03:49Z",
-      "summary": "Reports of ghostly activity at Willington Mill in the early 1800s inspire a modern haunting-themed GIF combining a downloaded image with a hand-drawn ghost."
-    },
-    {
-      "blog_title": "ROSKA'S REVERIE ⋆౨ৎ˚⟡˖ ࣪",
-      "blog_url": "https://polvoronii.bearblog.dev/",
-      "feed_url": "https://polvoronii.bearblog.dev/feed/",
-      "post_title": "long-buried desire",
-      "post_url": "https://polvoronii.bearblog.dev/long-buried-desire/",
-      "published": "2026-09-30T09:33:00Z",
-      "summary": "The post describes a video inspiring the creator to revive a long-buried desire to create fan art and draw favorite characters again."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Într-o discuție despre Raspberry Pi 5 și serviciile de video streaming…",
-      "post_url": "https://thinkroot.xyz/nota-666",
-      "published": "2026-09-30T07:40:38Z",
-      "summary": "A Romanian discussion about Raspberry Pi 5 and streaming services critiques inconsistent efforts to avoid Google and Microsoft while continuing to use Meta and other US platforms."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Bannerlord Best Perks for Every Skill and Role (War Sails, v1.4.8)",
-      "post_url": "https://gamerofpassion.com/bannerlord-best-perks/",
-      "published": "2026-09-30T07:21:25Z",
-      "summary": "A v1.4.8 War Sails guide evaluates Bannerlord perks by skill and role, explaining role mechanics, fallback rules, notable choices, and broken perks."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Protect your sanity",
-      "post_url": "https://rishidass.net/posts/protect-your-sanity",
-      "published": "2026-09-30T05:45:18Z",
-      "summary": "Rishi Dass argues that maintaining routines, personal wellbeing, family time, and distance from distressing news can protect sanity amid injustice and global turmoil."
-    },
-    {
-      "blog_title": "MMORPG Blog",
-      "blog_url": "https://mmoblogg.wordpress.com",
-      "feed_url": "https://mmoblogg.wordpress.com/feed/",
-      "post_title": "Loop societies",
-      "post_url": "https://mmoblogg.wordpress.com/2026/09/30/loop-societies/",
-      "published": "2026-09-30T05:22:31Z",
-      "summary": "The writer recounts progression difficulties in Lord of the Rings Online and develops a growing civilization, buildings, economy, lore, and resource plans in Bloxd."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "The meltdown rant 🤯",
-      "post_url": "https://cynnisblog.wordpress.com/2026/09/30/the-meltdown-rant-%f0%9f%a4%af/",
-      "published": "2026-09-30T05:00:00Z",
-      "summary": "A car battery failure derails planned driving, triggering a meltdown and flashbacks before repeated assistance problems are resolved by a helpful garage receptionist and technician."
-    },
-    {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "I’m sick. So it’s actually a really short post this time.",
-      "post_url": "https://hollie.eilloh.net/posts/im-sick-so-its-actually-a-really-short-post-this-time",
-      "published": "2026-09-30T04:26:20Z",
-      "summary": "The writer reports being sick, shares a Coros Pace 4 watch update, and notes recurring missing data while praising the device and urging readers to stay masked."
-    },
-    {
-      "blog_title": "The Works of Egan",
-      "blog_url": "https://theworksofegan.net/",
-      "feed_url": "https://theworksofegan.net/feed.xml",
-      "post_title": "What Else Is On? September 29th, 2026",
-      "post_url": "https://theworksofegan.net/posts/2026-09-29-what-else-is-on-september-29th-2026/",
-      "published": "2026-09-30T02:30:00Z",
-      "summary": "Egan shares eclectic links spanning R.E.M., game criticism, self-censorship, animation, Tokyo pizza, Poinpy, and an Animal Crossing: New Leaf guide."
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "A New Design: Tradition, Rituals, and Astrology",
-      "post_url": "https://brennan.day/a-new-design-tradition-rituals-and-astrology/",
-      "published": "2026-09-30T02:00:00Z",
-      "summary": "Brennan Day introduces a grayscale website redesign while reflecting on tradition, ritual, sacredness, collective meaning, Buddhism, and the Japanese Year of the Fire Horse superstition."
+      "post_title": "Linus And The Possum",
+      "post_url": "https://michaelharley.net/videos/2026/09/30/linus-and-the-possum/",
+      "published": "2026-09-30T17:43:27Z",
+      "summary": "Linus, described as a friendly boy, has formed an unusual companionship with a possum visiting the porch."
     },
     {
       "blog_title": "JAG’s Workshop",
       "blog_url": "https://jagsworkshop.com/",
       "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Apple ‘Explains’ Last Year’s ICEBlock Removal",
-      "post_url": "https://www.cnn.com/2026/09/29/tech/apple-iceblock-app-removal-raskin",
-      "published": "2026-09-30T01:27:33Z",
-      "summary": "Apple attributed ICEBlock’s removal to safety concerns, while JAG’s Workshop questions that explanation, citing government pressure, free-speech implications, and calls for congressional review."
+      "post_title": "The 1619 Project",
+      "post_url": "https://www.nikolehannahjones.com/1619-project",
+      "published": "2026-09-30T17:27:31Z",
+      "summary": "The post recounts the White Lion’s 1619 arrival at Point Comfort with enslaved Africans stolen from a Portuguese ship and sold to colonists."
     },
     {
-      "blog_title": "Kelson Vibber: New Posts",
-      "blog_url": "https://kvibber.com/",
-      "feed_url": "https://kvibber.com/feed.xml",
-      "post_title": "Why Gemini?",
-      "post_url": "https://journal.kvibber.com/2026/09/why-gemini/",
-      "published": "2026-09-30T00:30:35Z",
-      "summary": "Kelson Vibber explains Gemini as a flexible, minimalist evolution of Gopher, adding hypertext links, word wrapping, global scripts, and TLS while retaining low-resource usability."
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Word Nerd Alert: Agog",
+      "post_url": "https://tobygeeksout.micro.blog/2026/09/30/word-nerd-alert-agog.html",
+      "published": "2026-09-30T17:26:08Z",
+      "summary": "The post explains the adjective “agog,” defining its meanings as intense excitement, being wide open, and expressing wonder or surprise through examples."
     },
     {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Wednesday, 30 September 2026",
-      "post_url": "https://westkarana.xyz/2026/09/daily-blogroll-2026-09-30.html",
-      "published": "2026-09-30T00:00:00Z",
-      "summary": "The Daily Blogroll highlights gaming adventures, Pokémon challenges, home-automation tweaks, vintage-computer repair, software updates, and reflections on design, tradition, and technology."
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Nivalis Nights - Very First Impressions",
+      "post_url": "https://bhagpuss.blogspot.com/2026/09/nivalis-nights-very-first-impressions.html",
+      "published": "2026-09-30T17:24:28Z",
+      "summary": "The piece recounts purchasing Nivalis Nights, investigating its launch performance issues, unusual Steam bundle pricing, and delayed availability through GeForce Now."
     },
     {
-      "blog_title": "Juha-Matti Santala",
-      "blog_url": "https://hamatti.org/",
-      "feed_url": "https://hamatti.org/feed/feed.xml",
-      "post_title": "Two new tiny Home Assistant improvements I made recently",
-      "post_url": "https://hamatti.org/posts/two-new-tiny-home-assistant-improvements-i-made-recently/",
-      "published": "2026-09-30T00:00:00Z",
-      "summary": "Juha-Matti Santala describes two Home Assistant refinements: a single-use toggle that skips one scheduled light shutdown and conditional dashboard controls for an active AV receiver."
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "September 2026 in Review",
+      "post_url": "https://tagn.wordpress.com/2026/09/30/september-2026-in-review/",
+      "published": "2026-09-30T17:15:43Z",
+      "summary": "September 2026’s review reflects on the blog’s twenty-first anniversary, platform issues, and gaming posts from one and five years earlier."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "O păpădie #the100pics",
+      "post_url": "https://thinkroot.xyz/photo-668",
+      "published": "2026-09-30T17:08:17Z",
+      "summary": "A photograph titled “O păpădie” (“A Dandelion”) is presented as part of ThinkRoot’s #the100pics series."
+    },
+    {
+      "blog_title": "MMO Casual",
+      "blog_url": "http://wowaltaddiction.blogspot.com/",
+      "feed_url": "http://wowaltaddiction.blogspot.com/feeds/posts/default",
+      "post_title": "Reinstalled FFXIV, Still Logging Out of WoW",
+      "post_url": "http://wowaltaddiction.blogspot.com/2026/09/reinstalled-ffxiv-still-logging-out-of.html",
+      "published": "2026-09-30T16:03:45Z",
+      "summary": "After a frustrating Guild Wars 2 jumping puzzle, the writer has returned to FFXIV’s story while repeatedly logging into and immediately leaving World of Warcraft."
+    },
+    {
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "Time to start buying some physical Xbox games!",
+      "post_url": "https://scormey.com/2026/09/30/time-to-start-buying-some-physical-xbox-games/",
+      "published": "2026-09-30T16:00:00Z",
+      "summary": "Xbox’s physical-to-digital game program prompts consideration of buying Madden 27 on disc, enabling a full-strength Los Angeles Rams season across supported devices."
+    },
+    {
+      "blog_title": "Musings Over Pints and Coffee",
+      "blog_url": "https://musingsoverpintsandcoffee.wordpress.com",
+      "feed_url": "https://musingsoverpintsandcoffee.wordpress.com/feed/",
+      "post_title": "Learning Without The Credit Hours",
+      "post_url": "https://musingsoverpintsandcoffee.wordpress.com/2026/09/30/learning-without-the-credit-hours/",
+      "published": "2026-09-30T15:54:09Z",
+      "summary": "Retirement lets the writer pursue self-directed learning about Arizona’s geology, history, culture, technology, financial planning, classics, and writing without professional requirements."
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "9 months of photos 2026",
+      "post_url": "https://nomadwarmachine.co.uk/2026/09/30/9-months-of-photos-2026/",
+      "published": "2026-09-30T14:17:00Z",
+      "summary": "NomadWarMachine presents 273 daily photographs from 2026, documenting nine months of images associated with Scotland and its landscapes."
+    },
+    {
+      "blog_title": "そのうち33歳 せいかつブログ",
+      "blog_url": "https://wakanatrium.site/",
+      "feed_url": "https://wakanatrium.site/?mode=rss",
+      "post_title": "9月終わり……？",
+      "post_url": "https://wakanatrium.site/?postid=45",
+      "published": "2026-09-30T13:51:01Z",
+      "summary": "The writer reflects on September fatigue, a five-day company placement with a lengthy Tokyo commute, seasonal changes, homesickness, and plans to rebuild stamina through exercise."
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Sapphire and the boys",
+      "post_url": "https://www.kgadams.net/critters/sapphire-and-the-boys",
+      "published": "2026-09-30T13:30:00Z",
+      "summary": "Kelly Adams shares household photographs of cats Sapphire, Pie, and Corbie, presenting them as an informal “cat tax” for readers who enjoy animal pictures."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Netherworld (1992) — Budget Twin Peaks with voodoo birds",
+      "post_url": "https://mutantreviewersmovies.com/2026/09/30/netherworld-1992-budget-twin-peaks-with-voodoo-birds/",
+      "published": "2026-09-30T13:00:18Z",
+      "summary": "David Schmoeller’s Netherworld follows Corey’s inheritance-driven journey through a bizarre Louisiana estate, blending Twin Peaks-inspired mystery, voodoo imagery, bird symbolism, creature effects, and Southern Gothic eccentricity."
     }
   ]
 }
