@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-10-01T13:12:57.758316Z",
+  "generated_at": "2026-10-01T22:40:38.855611Z",
   "feed_count": 347,
   "successful_feeds": 320,
   "failed_feeds": 27,
   "post_count": 20,
   "posts": [
     {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "It’s World Postcard Day!",
-      "post_url": "https://virtualmoose.org/2026/10/01/its-world-postcard-day/",
-      "published": "2026-10-01T13:02:27Z"
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "Syp’s gaming goals for October 2026",
-      "post_url": "https://biobreak.wordpress.com/2026/10/01/syps-gaming-goals-for-october-2026/",
-      "published": "2026-10-01T13:00:51Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "D2: The Mighty Ducks (1994) — Finally getting due revenge on Iceland",
-      "post_url": "https://mutantreviewersmovies.com/2026/10/01/d2-the-mighty-ducks-1994-finally-getting-due-revenge-on-iceland/",
-      "published": "2026-10-01T13:00:02Z"
-    },
-    {
-      "blog_title": "Chasing Dings!",
-      "blog_url": "https://chasingdings.com/",
-      "feed_url": "https://chasingdings.com/?feed=rss2",
-      "post_title": "What’s happening with EverQuest Legends?",
-      "post_url": "https://chasingdings.com/2026/10/01/whats-happening-with-everquest-legends/",
-      "published": "2026-10-01T12:14:04Z"
-    },
-    {
-      "blog_title": "Monsterlady's Diary",
-      "blog_url": "https://monsterladysdiary.wordpress.com/",
-      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
-      "post_title": "Syberia – Journey to the Unknown",
-      "post_url": "https://monsterladysdiary.wordpress.com/2026/10/01/syberia-journey-to-the-unknown/",
-      "published": "2026-10-01T12:00:38Z"
-    },
-    {
-      "blog_title": "Endgame Viable",
-      "blog_url": "https://endgameviable.com/",
-      "feed_url": "http://endgameviable.com/feed/",
-      "post_title": "Grab Bag - The Final Fantasy Slurry",
-      "post_url": "https://endgameviable.com/post/2026/10/final-fantasy-slurry/",
-      "published": "2026-10-01T11:31:05Z"
-    },
-    {
-      "blog_title": "Indiecator",
-      "blog_url": "https://indiecator.org/",
-      "feed_url": "https://indiecator.home.blog/feed/",
-      "post_title": "Introducing OCtober: A fun alternative to Inktober",
-      "post_url": "https://indiecator.org/2026/10/01/introducing-october-a-fun-alternative-to-inktober/",
-      "published": "2026-10-01T11:18:32Z"
-    },
-    {
       "blog_title": "スナックエルベ",
       "blog_url": "https://elve.club/",
       "feed_url": "https://elve.club/feed",
-      "post_title": "君の内側に触れさせて……粘膜接触欲←",
-      "post_url": "https://elve.club/entry/2026/10/01/190137?utm_source=feed",
-      "published": "2026-10-01T10:01:37Z"
+      "post_title": "ふれねみー",
+      "post_url": "https://elve.club/entry/2026/10/02/072825?utm_source=feed",
+      "published": "2026-10-01T22:28:25Z"
     },
     {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Canyon Groove",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/01/canyon-groove/",
-      "published": "2026-10-01T09:23:29Z"
+      "blog_title": "Personal InfoCloud",
+      "blog_url": "https://personalinfocloud.com/",
+      "feed_url": "https://personalinfocloud.com/feed/",
+      "post_title": "Overview of the InfoClouds",
+      "post_url": "https://personalinfocloud.com/blog/2026/10/01/overview-of-the-infoclouds/",
+      "published": "2026-10-01T22:22:29Z"
     },
     {
-      "blog_title": "Overage-Gaming",
-      "blog_url": "https://overage-gaming.com/",
-      "feed_url": "https://overage-gaming.com/feed/",
-      "post_title": "Alchemortis: Breaking the Game with Crazy Combos (Demo Gameplay)",
-      "post_url": "https://overage-gaming.com/2026/10/01/alchemortis-breaking-the-game-with-crazy-combos-demo-gameplay/",
-      "published": "2026-10-01T07:01:00Z"
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "D2R Magic Find Calculator (Reign of the Warlock, 3.x)",
+      "post_url": "https://gamerofpassion.com/d2r-magic-find-calculator/",
+      "published": "2026-10-01T21:04:53Z"
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Re: Comfortable in Linux",
+      "post_url": "https://sals.place/blog/re-comfortable-in-linux/",
+      "published": "2026-10-01T20:30:32Z"
+    },
+    {
+      "blog_title": "The Virtual Moose",
+      "blog_url": "https://virtualmoose.org/",
+      "feed_url": "https://virtualmoose.org/feed/",
+      "post_title": "My Favorite Halloween Game is Online Again!",
+      "post_url": "https://virtualmoose.org/2026/10/01/my-favorite-halloween-game-is-online-again/",
+      "published": "2026-10-01T20:09:49Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Star Trek: The Next Generation (1988) — ⭐⭐⭐⭐ (4/5)",
+      "post_url": "https://michaelharley.net/watching/2026/10/01/star-trek-the-next-generation-s2/",
+      "published": "2026-10-01T19:47:53Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Asistent de (ne)voie",
+      "post_url": "https://thinkroot.xyz/asistent-de-nevoie-670",
+      "published": "2026-10-01T19:47:22Z"
+    },
+    {
+      "blog_title": "Frostilyte Writes",
+      "blog_url": "https://frostilyte.ca/",
+      "feed_url": "https://frostilyte.ca/feed/",
+      "post_title": "Month in Review: Valheim, Fields of Mistria, & Rhell!",
+      "post_url": "https://frostilyte.ca/2026/10/01/month-in-review-valheim-fields-of-mistria-rhell/",
+      "published": "2026-10-01T19:31:22Z"
+    },
+    {
+      "blog_title": "Kay Talks Games",
+      "blog_url": "https://kaytalksgames.wordpress.com/",
+      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
+      "post_title": "Happy Spooky Season 2026!",
+      "post_url": "https://kaytalksgames.wordpress.com/2026/10/01/happy-spooky-season-2026/",
+      "published": "2026-10-01T19:03:16Z"
     },
     {
       "blog_title": "Small Good Things",
       "blog_url": "https://hollie.eilloh.net/",
       "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Still sick!",
-      "post_url": "https://hollie.eilloh.net/posts/still-sick",
-      "published": "2026-10-01T06:28:56Z"
+      "post_title": "Still sick, going back to when-the-spirit-moves-me blogging schedule",
+      "post_url": "https://hollie.eilloh.net/posts/still-sick-going-back-to-when-the-spirit-moves-me-blogging-schedule",
+      "published": "2026-10-01T19:00:52Z"
     },
     {
-      "blog_title": "A parenthetical departure",
-      "blog_url": "https://departure.blog/",
-      "feed_url": "https://sylvia.bearblog.dev/feed/",
-      "post_title": "Reveal (Weird Web October)",
-      "post_url": "https://departure.blog/wwo/2026/1-reveal/",
-      "published": "2026-10-01T06:23:00Z"
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "More that unites us",
+      "post_url": "https://francescrossley.com/more-that-unites-us/",
+      "published": "2026-10-01T17:30:00Z"
     },
     {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Trust yourself",
-      "post_url": "https://rishidass.net/posts/trust-yourself",
-      "published": "2026-10-01T06:04:45Z"
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "East Frisian Tea",
+      "post_url": "https://martinschuhmann.com/east-frisian-tea",
+      "published": "2026-10-01T16:45:00Z"
     },
     {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Thursday Strength Quote",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/01/thursday-strength-quote-5/",
-      "published": "2026-10-01T05:00:00Z"
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - witchering",
+      "post_url": "https://pretendtypewriter.net/note-witchering/",
+      "published": "2026-10-01T15:56:00Z"
     },
     {
-      "blog_title": "Kelson Vibber: New Posts",
-      "blog_url": "https://kvibber.com/",
-      "feed_url": "https://kvibber.com/feed.xml",
-      "post_title": "Gophercle (app review)",
-      "post_url": "https://kvibber.com/reviews/apps/gophercle/",
-      "published": "2026-10-01T04:35:41Z"
+      "blog_title": "Wry Writer",
+      "blog_url": "https://wrywriter.ca",
+      "feed_url": "https://wrywriter.ca/posts_feed",
+      "post_title": "Autumnal Pastimes",
+      "post_url": "https://wrywriter.ca/posts/autumnal-pastimes",
+      "published": "2026-10-01T15:18:33Z"
     },
     {
-      "blog_title": "MMORPG Blog",
-      "blog_url": "https://mmoblogg.wordpress.com",
-      "feed_url": "https://mmoblogg.wordpress.com/feed/",
-      "post_title": "Selling wolves and neighbours",
-      "post_url": "https://mmoblogg.wordpress.com/2026/10/01/selling-wolves-and-neighbours/",
-      "published": "2026-10-01T04:26:58Z"
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "Happy October!",
+      "post_url": "https://syls.blog/happy-october/",
+      "published": "2026-10-01T15:16:00Z"
     },
     {
-      "blog_title": "Blog - 鳥啼く頃に",
-      "blog_url": "https://torinakukoroni.blog.fc2.com/",
-      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
-      "post_title": "2026年９月のとりな月報",
-      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-399.html",
-      "published": "2026-10-01T04:24:26Z"
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "EverQuest Legends – Some Additional Unrest",
+      "post_url": "https://tagn.wordpress.com/2026/10/01/everquest-legends-some-additional-unrest/",
+      "published": "2026-10-01T15:15:17Z"
     },
     {
-      "blog_title": "Reay Jespersen",
-      "blog_url": "https://www.reayjespersen.com/",
-      "feed_url": "https://www.reayjespersen.com/feed/",
-      "post_title": "What I read this month",
-      "post_url": "https://www.reayjespersen.com/blog-1/2026/09/30/what-i-read-this-month-73/?utm_source=rss&utm_medium=rss&utm_campaign=what-i-read-this-month-73",
-      "published": "2026-10-01T02:47:54Z"
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "Changes in finances since March 2026",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-01-finances-six-months/",
+      "published": "2026-10-01T15:00:00Z"
     },
     {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Enamel and Diamond Tiara",
-      "post_url": "https://divergentrays.com/blog/posts/2026-09-30-Enamel-and-Diamond-Tiara.html",
-      "published": "2026-10-01T02:38:00Z"
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "EverQuest And EverQuest II - To The Letter",
+      "post_url": "https://bhagpuss.blogspot.com/2026/10/everquest-and-everquest-ii-to-letter.html",
+      "published": "2026-10-01T14:22:29Z"
     },
     {
-      "blog_title": "I wonder, if I draw a line…",
-      "blog_url": "https://sheri42.net",
-      "feed_url": "https://sheri42.net/feed/",
-      "post_title": "Weekly WrapUp Rabbits and Cards",
-      "post_url": "https://sheri42.net/2026/09/30/weekly-wrapup-rabbits-and-cards/",
-      "published": "2026-10-01T02:36:47Z"
+      "blog_title": "Mike's Take On the Movies",
+      "blog_url": "https://mikestakeonthemovies.com",
+      "feed_url": "https://mikestakeonthemovies.com/feed/",
+      "post_title": "It’s October so Whatever You’re Thinking of Doing ….. DON’T!",
+      "post_url": "https://mikestakeonthemovies.com/2026/10/01/its-october-so-whatever-youre-thinking-of-doing-dont/",
+      "published": "2026-10-01T14:05:59Z"
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "No.1274",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1274",
+      "published": "2026-10-01T13:31:16Z"
     }
   ]
 }
