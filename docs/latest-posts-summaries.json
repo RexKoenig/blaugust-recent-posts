@@ -1,12 +1,165 @@
 {
-  "generated_at": "2026-10-03T11:39:19.491117Z",
-  "source_generated_at": "2026-10-03T11:38:44.708472Z",
+  "generated_at": "2026-10-03T21:14:03.059804Z",
+  "source_generated_at": "2026-10-03T21:13:32.174054Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 20,
+  "summary_count": 19,
   "posts": [
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Why I Write (and Care) About the Internet, and What So Many People Get Wrong",
+      "post_url": "https://brennan.day/why-i-write-and-care-about-the-internet-and-what-so-many-people-get-wrong/",
+      "published": "2026-10-04T02:00:00Z",
+      "summary": "Brennan Day argues that the Internet is a social setting rather than a story, emphasizing human connection, collective experiences, and growing corporate control over online communication."
+    },
+    {
+      "blog_title": "Newsonaut",
+      "blog_url": "https://www.newsonaut.com/",
+      "feed_url": "https://www.newsonaut.com/rss",
+      "post_title": "Reddit may be cutting off RSS access, but we will always have Lemmy",
+      "post_url": "https://www.newsonaut.com/articles/reddit-may-be-cutting-off-rss-access-but-we-will-always-have-lemmy",
+      "published": "2026-10-03T20:49:47Z",
+      "summary": "Reddit’s planned RSS shutdown prompts guidance on using Lemmy’s RSS feeds, including URL formats, community availability, and server-specific exceptions."
+    },
+    {
+      "blog_title": "A parenthetical departure",
+      "blog_url": "https://departure.blog/",
+      "feed_url": "https://sylvia.bearblog.dev/feed/",
+      "post_title": "Fake (Weird Web October)",
+      "post_url": "https://departure.blog/wwo/2026/3-fake/",
+      "published": "2026-10-03T20:31:00Z",
+      "summary": "“Fake” is a Weird Web October 2026 entry accompanied by references to Closer and Blade Runner 2049."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Libelulă #the100pics",
+      "post_url": "https://thinkroot.xyz/photo-673",
+      "published": "2026-10-03T19:46:42Z",
+      "summary": "A photo entry titled “Libelulă” from ThinkRoot’s #the100pics series, apparently featuring a dragonfly."
+    },
+    {
+      "blog_title": "Off the Top",
+      "blog_url": "https://www.vanderwal.net/random/index.php",
+      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
+      "post_title": "580 California Street",
+      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2223",
+      "published": "2026-10-03T17:59:59Z",
+      "summary": "A long-standing fascination with 580 California Street’s rooftop sculptures leads to their identification as Muriel Castanis’s “corporate goddesses” and exploration of their architectural context."
+    },
+    {
+      "blog_title": "Kelson Vibber: New Posts",
+      "blog_url": "https://kvibber.com/",
+      "feed_url": "https://kvibber.com/feed.xml",
+      "post_title": "Enable Gemini (and other Small Internet) Links in WordPress",
+      "post_url": "https://kvibber.com/tech-tips/smallnet-links-wordpress/",
+      "published": "2026-10-03T16:13:04Z",
+      "summary": "Kelson Vibber explains enabling Gemini, Nex, and Spartan URLs in WordPress through the kses_allowed_protocols filter, while noting Syndication Links lacks matching icons."
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "Tidiani Koné & Poly-Rythmo de Cotonou",
+      "post_url": "https://amf.didiermary.fr/tidiani-kone-poly-rythmo-de-cotonou/",
+      "published": "2026-10-03T15:40:11Z",
+      "summary": "Tidiani Koné’s musical career, connections to Salif Keita and Fela Kuti, alleged influence on Afrobeat, and association with T.P. Orchestre Poly-Rythmo are examined."
+    },
+    {
+      "blog_title": "Dear Angel",
+      "blog_url": "https://dearangelblog.tumblr.com/",
+      "feed_url": "https://dearangelblog.tumblr.com/rss",
+      "post_title": "Who killin’ ‘em in the UK? Everybody gonna say, “You, A”",
+      "post_url": "https://dearangelblog.tumblr.com/post/829467258332020736",
+      "published": "2026-10-03T15:33:40Z",
+      "summary": "Dear Angel addresses London with a fragile greeting while presenting the title’s provocative question about who is killing in the United Kingdom."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Clash in Geminate on China’s National Day",
+      "post_url": "https://tagn.wordpress.com/2026/10/03/clash-in-geminate/",
+      "published": "2026-10-03T15:15:00Z",
+      "summary": "EVE Online alliances Fraternity and Winter Coalition launch sovereignty contests against Imperium holdings in Geminate during China’s National Day holiday, prompting major fleet mobilization and battles."
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "October Already?",
+      "post_url": "https://tobygeeksout.micro.blog/2026/10/03/october-already.html",
+      "published": "2026-10-03T14:52:52Z",
+      "summary": "Toby Geeks Out welcomes October, noting falling leaves, anticipated red, orange, and gold mountain colors, and acceptance of colder mornings."
+    },
+    {
+      "blog_title": "20ily April",
+      "blog_url": "https://20ilyapril.wordpress.com/",
+      "feed_url": "https://20ilyapril.wordpress.com/feed/",
+      "post_title": "Twenties Are The Inflection Point",
+      "post_url": "https://20ilyapril.wordpress.com/2026/10/03/twenties-are-the-inflection-point/",
+      "published": "2026-10-03T14:20:42Z",
+      "summary": "Reflections on Meg Jay’s The Defining Decade explore living fully, balancing vision with flexibility, grieving change, and viewing one’s twenties as a period of recalibration."
+    },
+    {
+      "blog_title": "The EOFFTV Review",
+      "blog_url": "https://eofftvreview.wordpress.com",
+      "feed_url": "https://eofftvreview.wordpress.com/feed/",
+      "post_title": "OK Connery (1967)",
+      "post_url": "https://eofftvreview.wordpress.com/2026/10/03/ok-connery-1967/",
+      "published": "2026-10-03T14:20:15Z",
+      "summary": "Alberto De Martino’s OK Connery stars Neil Connery as a plastic surgeon aiding British agents against Thanatos in an unabashed, lackluster James Bond imitation."
+    },
+    {
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "September 2026 Books",
+      "post_url": "https://syls.blog/september-2026-books/",
+      "published": "2026-10-03T13:25:00Z",
+      "summary": "Syl reviews three September reads: E.B. White’s New Yorker writings, Aisha Saeed’s matchmaking mystery, and Benjamin Stevenson’s witty Australian family whodunit."
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "No.1275",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1275",
+      "published": "2026-10-03T13:23:57Z",
+      "summary": "The writer tests Albaca’s free version, compares it with Clip Studio, samples liver-oil candy, and reflects on drafting methods while planning a new book."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Kolchak: The Night Stalker and its profound influence on the cult genre",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/03/kolchak-the-night-stalker-and-its-profound-influence-on-the-cult-genre/",
+      "published": "2026-10-03T13:00:20Z",
+      "summary": "Drake and Sitting Duck revisit Kolchak: The Night Stalker, its television movies, horror format, production history, and influence on later cult genre series."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "⚙︎ Apple Announces Future Constraints on ‘Full Disk Access,’ Because AI",
+      "post_url": "https://jagsworkshop.com/2026/10/apple-full-disk-access-ai/",
+      "published": "2026-10-03T12:28:35Z",
+      "summary": "Apple plans stricter Full Disk Access controls, potentially including explicit warnings, developer entitlements, review, and granular permissions amid concerns about AI tools accessing private Mac data."
+    },
+    {
+      "blog_title": "Words and essays and more",
+      "blog_url": "https://www.omz13.com/",
+      "feed_url": "https://www.omz13.com/feed.rss",
+      "post_title": "pascal",
+      "post_url": "https://www.omz13.com/pascal.txt",
+      "published": "2026-10-03T11:57:46Z",
+      "summary": null
+    },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
@@ -33,159 +186,6 @@
       "post_url": "https://gamerofpassion.com/slay-the-spire-2-card-win-rates/",
       "published": "2026-10-03T08:57:56Z",
       "summary": "The analysis compares Act 1 card choices, Neow bonuses, elite encounters, and Ascension outcomes across 1.1 million Slay the Spire 2 runs and player tier lists."
-    },
-    {
-      "blog_title": "Cubic Creativity",
-      "blog_url": "https://cubiccreativity.wordpress.com/",
-      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
-      "post_title": "Stalk’s Videogame Corner: Decktamer",
-      "post_url": "https://cubiccreativity.wordpress.com/2026/10/03/stalks-videogame-corner-decktamer/",
-      "published": "2026-10-03T07:00:00Z",
-      "summary": "Decktamer is a 2025 card-based roguelike where players position creatures across lanes, tame enemies, manage permanent losses, and build evolving decks through eight-battle runs."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Reddit renunță la fluxurile RSS: Deoarece RSS este acum o platformă co…",
-      "post_url": "https://thinkroot.xyz/nota-672",
-      "published": "2026-10-03T06:45:16Z",
-      "summary": "Reddit plans to discontinue RSS feeds on November 13, 2026, citing large-scale data extraction and automated abuse while preserving moderation workflows through supported alternatives."
-    },
-    {
-      "blog_title": "ROSKA'S REVERIE ⋆౨ৎ˚⟡˖ ࣪",
-      "blog_url": "https://polvoronii.bearblog.dev/",
-      "feed_url": "https://polvoronii.bearblog.dev/feed/",
-      "post_title": "beloved removable bangs",
-      "post_url": "https://polvoronii.bearblog.dev/beloved-removable-bangs/",
-      "published": "2026-10-03T06:30:57Z",
-      "summary": "Roska reflects on beloved removable bangs, contrasting them with sparse natural bangs formed as her baby hairs grow longer."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Stop “practicing” gratitude",
-      "post_url": "https://rishidass.net/posts/stop-practicing-gratitude",
-      "published": "2026-10-03T06:21:00Z",
-      "summary": "Rishi Dass argues that gratitude should emerge through undistracted engagement with daily activities rather than through scheduled writing exercises or deliberate reflection."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "#FitIn2026 – September edition",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/03/fitin2026-september-edition/",
-      "published": "2026-10-03T05:00:00Z",
-      "summary": "Cynni’s September fitness update details recovery from trapeziectomy surgery, disrupted sleep, limited exercise, weight changes, and Silvergear Fit body-composition measurements."
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "Men, Don't Be Jaded Into Silence",
-      "post_url": "https://brennan.day/men-dont-be-jaded-into-silence/",
-      "published": "2026-10-03T02:00:00Z",
-      "summary": "Brennan Day urges men to confront normalized violence against women, challenge harmful peer norms, speak up, and pursue individual and systemic change."
-    },
-    {
-      "blog_title": "Calishat",
-      "blog_url": "https://www.calishat.com/",
-      "feed_url": "https://www.calishat.com/feed/",
-      "post_title": "Begone, Annoying and Irrelevant LinkedIn Ads",
-      "post_url": "https://www.calishat.com/2026/10/02/begone-annoying-and-irrelevant-linkedin-ads/",
-      "published": "2026-10-03T01:22:35Z",
-      "summary": "Calishat describes a bootleg Chrome extension that removes annoying LinkedIn suggested posts and ads, offering shatter, baseball bat, fireworks, and explosive visual effects."
-    },
-    {
-      "blog_title": "Heart Soul Machine",
-      "blog_url": "https://heartsoulmachine.com/",
-      "feed_url": "https://heartsoulmachine.com/feed.xml",
-      "post_title": "Learning in 3D",
-      "post_url": "https://heartsoulmachine.com/blog/2026/10-03-learning-in-3d/",
-      "published": "2026-10-03T00:00:00Z",
-      "summary": "“Learning in 3D” proposes extending Bloom’s taxonomy across cognitive, affective, and operative domains, using six dimensions to diagnose and redesign learning outcomes."
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "September 2026 Off the Top Blogging Charts Posted",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2222",
-      "published": "2026-10-02T23:35:44Z",
-      "summary": "September 2026 Off the Top charts analyze blogging patterns using locally processed database data, interactive D3 visualizations, cumulative word counts, and monthly comparisons."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "September 2026 Summary",
-      "post_url": "https://joelchrono.xyz/blog/september-2026-summary/",
-      "published": "2026-10-02T22:59:27Z",
-      "summary": "September 2026’s media recap covers podcasts, manga, movies, videogames, television, and books, highlighting favorites and ongoing entertainment experiences."
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "お金に苦労してきたのになぁ",
-      "post_url": "https://elve.club/entry/2026/10/03/073716?utm_source=feed",
-      "published": "2026-10-02T22:37:16Z",
-      "summary": "The writer reflects on fluctuating finances, unexplained gains and losses, recent spending, and difficulty maintaining disciplined living amid Amazon sales."
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "Earlier this week, after many months of being...",
-      "post_url": "https://jasonjournals.com/posts/2026-10-02-earlier-this-week-after",
-      "published": "2026-10-02T21:14:00Z",
-      "summary": "After months of storage, Jason reconnects his gaming setup and resumes playing The Legend of Zelda: Tears of the Kingdom, exploring new areas of Hyrule."
-    },
-    {
-      "blog_title": "Monsterlady's Diary",
-      "blog_url": "https://monsterladysdiary.wordpress.com/",
-      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
-      "post_title": "Literal Muscle Man",
-      "post_url": "https://monsterladysdiary.wordpress.com/2026/10/02/literal-muscle-man/",
-      "published": "2026-10-02T20:13:47Z",
-      "summary": "A dream recounts a date with Drax from Marvel’s Guardians of the Galaxy, featuring rom-com viewing, a monster-fang necklace, and unexpected affection."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "‘I Am Not a Fan of Bitcoin’",
-      "post_url": "https://www.citizen.org/article/donald-trump-crypto-investors-4-7-billion-underwater/",
-      "published": "2026-10-02T20:10:57Z",
-      "summary": "A Public Citizen analysis examines Donald Trump’s cryptocurrency ventures, ownership structures, investor losses, and the financial details of his Trump Digital Trading Cards."
-    },
-    {
-      "blog_title": "Going Commando",
-      "blog_url": "https://swtorcommando.blogspot.com/",
-      "feed_url": "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Star Wars Stuff I've Been Watching on Disney+",
-      "post_url": "https://swtorcommando.blogspot.com/2026/10/star-wars-stuff-ive-been-watching-on.html",
-      "published": "2026-10-02T20:00:55Z",
-      "summary": "The post reviews Maul: Shadow Lord, The Ninth Jedi, and The Mandalorian and Grogu, discussing their familiar themes, characters, animation, and overall entertainment value."
-    },
-    {
-      "blog_title": "The Capsule Critic",
-      "blog_url": "https://thecapsulecritic.com/blog/",
-      "feed_url": "https://thecapsulecritic.com/feed/",
-      "post_title": "TREAD SOFTLY (1952): Brit Mystery/Musical Is A Quaint Look At Both Genres",
-      "post_url": "https://thecapsulecritic.com/2026/10/02/tread-softly-1952-brit-mystery-musical-is-a-quaint-look-at-both-genres/",
-      "published": "2026-10-02T19:46:17Z",
-      "summary": "TREAD SOFTLY (1952) combines a backstage musical plot with a haunted-theater murder mystery, featuring British B-movie performers and the demolished Granville Theatre."
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "Wonderful games collection Cartomancy Anthology is now free",
-      "post_url": "https://virtualmoose.org/2026/10/02/wonderful-games-collection-cartomancy-anthology-is-now-free/",
-      "published": "2026-10-02T18:04:44Z",
-      "summary": "Cartomancy Anthology, a free games collection on Steam and Itch.io, lets players choose games by drawing from a tarot deck and features numerous developers."
     }
   ]
 }
