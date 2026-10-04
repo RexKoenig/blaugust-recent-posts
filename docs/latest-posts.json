@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-10-03T21:13:32.174054Z",
+  "generated_at": "2026-10-04T12:20:49.136406Z",
   "feed_count": 347,
-  "successful_feeds": 320,
-  "failed_feeds": 27,
+  "successful_feeds": 316,
+  "failed_feeds": 31,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "solved",
+      "post_url": "https://write.as/blog-x2600/solved?pk_campaign=rss-feed",
+      "published": "2026-10-04T12:09:26Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "おやおや",
+      "post_url": "https://elve.club/entry/2026/10/04/191832?utm_source=feed",
+      "published": "2026-10-04T10:18:32Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "World Animal Day",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/04/world-animal-day/",
+      "published": "2026-10-04T09:51:09Z"
+    },
+    {
+      "blog_title": "Heart Soul Machine",
+      "blog_url": "https://heartsoulmachine.com/",
+      "feed_url": "https://heartsoulmachine.com/feed.xml",
+      "post_title": "Learning in 3D",
+      "post_url": "https://heartsoulmachine.com/blog/2026/10-04-learning-in-3d/",
+      "published": "2026-10-04T08:53:12Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "I've had accounts on various Mastodon instances, and I also had m…",
+      "post_url": "https://thinkroot.xyz/nota-674",
+      "published": "2026-10-04T07:39:18Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Weekly review",
+      "post_url": "https://rishidass.net/posts/weekly-review",
+      "published": "2026-10-04T06:10:00Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "#SilentSunday – Vienna ⛪Style",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/04/silentsunday-vienna-%e2%9b%aastyle/",
+      "published": "2026-10-04T05:00:00Z"
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "📺 Coven Academy (2026)",
+      "post_url": "https://tobygeeksout.micro.blog/2026/10/03/coven-academy.html",
+      "published": "2026-10-04T02:27:12Z"
+    },
+    {
+      "blog_title": "Kelson Vibber: New Posts",
+      "blog_url": "https://kvibber.com/",
+      "feed_url": "https://kvibber.com/feed.xml",
+      "post_title": "Gopher Apps on Android",
+      "post_url": "https://kvibber.com/reviews/apps/gopher-android/",
+      "published": "2026-10-04T02:17:28Z"
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
@@ -12,6 +84,38 @@
       "post_title": "Why I Write (and Care) About the Internet, and What So Many People Get Wrong",
       "post_url": "https://brennan.day/why-i-write-and-care-about-the-internet-and-what-so-many-people-get-wrong/",
       "published": "2026-10-04T02:00:00Z"
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "This Computer Or That Computer",
+      "post_url": "https://jasonjournals.com/posts/this-computer-or-that-computer",
+      "published": "2026-10-04T00:49:41Z"
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Sunday, 4 October 2026",
+      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-04.html",
+      "published": "2026-10-04T00:00:00Z"
+    },
+    {
+      "blog_title": "Off the Top",
+      "blog_url": "https://www.vanderwal.net/random/index.php",
+      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
+      "post_title": "Off the Top Search Update and More",
+      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2224",
+      "published": "2026-10-03T23:02:20Z"
+    },
+    {
+      "blog_title": "Lameazoid",
+      "blog_url": "https://lameazoid.com/",
+      "feed_url": "https://lameazoid.com/feed/",
+      "post_title": "Weekly Wrap-Up (2026.10.03)",
+      "post_url": "https://lameazoid.com/posts/weekly-wrap-up-2026-10-03/",
+      "published": "2026-10-03T22:30:00Z"
     },
     {
       "blog_title": "Newsonaut",
@@ -30,42 +134,18 @@
       "published": "2026-10-03T20:31:00Z"
     },
     {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Libelulă #the100pics",
-      "post_url": "https://thinkroot.xyz/photo-673",
-      "published": "2026-10-03T19:46:42Z"
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "580 California Street",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2223",
-      "published": "2026-10-03T17:59:59Z"
-    },
-    {
-      "blog_title": "Kelson Vibber: New Posts",
-      "blog_url": "https://kvibber.com/",
-      "feed_url": "https://kvibber.com/feed.xml",
-      "post_title": "Enable Gemini (and other Small Internet) Links in WordPress",
-      "post_url": "https://kvibber.com/tech-tips/smallnet-links-wordpress/",
-      "published": "2026-10-03T16:13:04Z"
-    },
-    {
       "blog_title": "African Music Forum",
       "blog_url": "https://amf.didiermary.fr/",
       "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Tidiani Koné & Poly-Rythmo de Cotonou",
-      "post_url": "https://amf.didiermary.fr/tidiani-kone-poly-rythmo-de-cotonou/",
-      "published": "2026-10-03T15:40:11Z"
+      "post_title": "Francis Bebey at Real World Studios",
+      "post_url": "https://amf.didiermary.fr/rss-club/francis-bebey-at-real-world-studios/",
+      "published": "2026-10-03T17:12:26Z"
     },
     {
       "blog_title": "Dear Angel",
       "blog_url": "https://dearangelblog.tumblr.com/",
       "feed_url": "https://dearangelblog.tumblr.com/rss",
-      "post_title": "Who killin’ ‘em in the UK? Everybody gonna say, “You, A”",
+      "post_title": "Who killin’ ‘em in the UK? Everybody gonna say, “You, A.”",
       "post_url": "https://dearangelblog.tumblr.com/post/829467258332020736",
       "published": "2026-10-03T15:33:40Z"
     },
@@ -78,92 +158,12 @@
       "published": "2026-10-03T15:15:00Z"
     },
     {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "October Already?",
-      "post_url": "https://tobygeeksout.micro.blog/2026/10/03/october-already.html",
-      "published": "2026-10-03T14:52:52Z"
-    },
-    {
       "blog_title": "20ily April",
       "blog_url": "https://20ilyapril.wordpress.com/",
       "feed_url": "https://20ilyapril.wordpress.com/feed/",
       "post_title": "Twenties Are The Inflection Point",
       "post_url": "https://20ilyapril.wordpress.com/2026/10/03/twenties-are-the-inflection-point/",
       "published": "2026-10-03T14:20:42Z"
-    },
-    {
-      "blog_title": "The EOFFTV Review",
-      "blog_url": "https://eofftvreview.wordpress.com",
-      "feed_url": "https://eofftvreview.wordpress.com/feed/",
-      "post_title": "OK Connery (1967)",
-      "post_url": "https://eofftvreview.wordpress.com/2026/10/03/ok-connery-1967/",
-      "published": "2026-10-03T14:20:15Z"
-    },
-    {
-      "blog_title": "Syl's Blog",
-      "blog_url": "https://syls.blog/",
-      "feed_url": "https://syls.blog/feed/",
-      "post_title": "September 2026 Books",
-      "post_url": "https://syls.blog/september-2026-books/",
-      "published": "2026-10-03T13:25:00Z"
-    },
-    {
-      "blog_title": "TGLG",
-      "blog_url": "https://392ms.witchserver.jp/kb/",
-      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "No.1275",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1275",
-      "published": "2026-10-03T13:23:57Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Kolchak: The Night Stalker and its profound influence on the cult genre",
-      "post_url": "https://mutantreviewersmovies.com/2026/10/03/kolchak-the-night-stalker-and-its-profound-influence-on-the-cult-genre/",
-      "published": "2026-10-03T13:00:20Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "⚙︎ Apple Announces Future Constraints on ‘Full Disk Access,’ Because AI",
-      "post_url": "https://jagsworkshop.com/2026/10/apple-full-disk-access-ai/",
-      "published": "2026-10-03T12:28:35Z"
-    },
-    {
-      "blog_title": "Words and essays and more",
-      "blog_url": "https://www.omz13.com/",
-      "feed_url": "https://www.omz13.com/feed.rss",
-      "post_title": "pascal",
-      "post_url": "https://www.omz13.com/pascal.txt",
-      "published": "2026-10-03T11:57:46Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "I <3 WITCHER 3",
-      "post_url": "https://pretendtypewriter.net/i-3-witcher-3/",
-      "published": "2026-10-03T10:00:00Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Paper plane",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/03/paper-plane/",
-      "published": "2026-10-03T09:59:14Z"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Slay the Spire 2 Card Win Rates vs Tier Lists: 1.1 Million Runs",
-      "post_url": "https://gamerofpassion.com/slay-the-spire-2-card-win-rates/",
-      "published": "2026-10-03T08:57:56Z"
     }
   ]
 }
