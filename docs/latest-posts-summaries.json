@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T21:24:55.006387Z",
-  "source_generated_at": "2026-10-04T21:24:19.763453Z",
+  "generated_at": "2026-10-05T14:36:51.937245Z",
+  "source_generated_at": "2026-10-05T14:36:17.489143Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -8,184 +8,184 @@
   "summary_count": 20,
   "posts": [
     {
-      "blog_title": "The Tangent Space",
-      "blog_url": "https://thetangent.space/",
-      "feed_url": "https://thetangent.space/feed.xml",
-      "post_title": "Weekly digest 76",
-      "post_url": "https://thetangent.space/2026/digest76/",
-      "published": "2026-10-04T21:47:22Z",
-      "summary": "Weekly Digest 76 recounts family illnesses, a workplace apology, a concert, poetry publication, an arboretum visit, and reflections on Nier: Automata and Aristotle."
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Here Is a Person: Enter the Tildeverse",
+      "post_url": "https://brennan.day/here-is-a-person-enter-the-tildeverse/",
+      "published": "2026-10-06T02:00:00Z",
+      "summary": "Brennan Day traces the tildeverse’s origins, Unix fellowship, shared computing culture, and personal exploration through multiple tilde accounts and mirrored home directories."
     },
     {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "WOCHE 40",
-      "post_url": "https://pretendtypewriter.net/2026-week-40/",
-      "published": "2026-10-04T21:11:29Z",
-      "summary": "A personal weekly update covers recovery after an accident, postponed work and exercise, D&D, an anniversary, plans, dinner, chores, and media viewing."
+      "blog_title": "A Pixel Nomad",
+      "blog_url": "https://pixelnomad.ca/",
+      "feed_url": "https://pixelnomad.ca/feed/",
+      "post_title": "[WoW] Gold Making Wrap Up – week 40 (2026)",
+      "post_url": "https://pixelnomad.ca/2026/10/05/wow-gold-making-wrap-up-week-40-2026/",
+      "published": "2026-10-05T14:18:31Z",
+      "summary": "A Pixel Nomad reports earning just over two million gold in World of Warcraft during week 40, while discussing reduced auction activity, sales, and WoW:Forever plans."
     },
     {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "On my iPhone and iPad, I tried the...",
-      "post_url": "https://jasonjournals.com/posts/2026-10-04-on-my-iphone-and",
-      "published": "2026-10-04T20:27:53Z",
-      "summary": "Jason Journals compares Liquid Glass display modes on iPhone and iPad, finding fully tinted buttons more readable and practical than the visually striking clear setting."
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "🔁 Reposted: $1",
+      "post_url": "https://michaelharley.net/links/2026/10/05/1/",
+      "published": "2026-10-05T14:03:19Z",
+      "summary": "Michael Harley’s brief October 2026 post titled “$1” links readers to email-is-good.com and mentions Mastodon, Bluesky, email responses, and webmentions."
     },
     {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Links: The Internet is Fun and Cool Edition",
-      "post_url": "https://francescrossley.com/links-the-internet-is-fun-and-cool-edition/",
-      "published": "2026-10-04T18:30:00Z",
-      "summary": "A personal link roundup highlights creative projects, Jules Verne, literary debates, online communities, loneliness, museums, cyanotypes, fantasy, and other internet discoveries."
+      "blog_title": "LOTRO Players",
+      "blog_url": "https://lotroplayers.com",
+      "feed_url": "http://lotroplayers.com/feed/",
+      "post_title": "LOTRO Players News Episode 685: Won’t You Be Pine’s Neighbor?",
+      "post_url": "https://lotroplayers.com/2026/10/05/lotro-players-news-episode-685-wont-you-be-pines-neighbor/?utm_source=rss&utm_medium=rss&utm_campaign=lotro-players-news-episode-685-wont-you-be-pines-neighbor",
+      "published": "2026-10-05T14:00:00Z",
+      "summary": "LOTRO Players News Episode 685 covers the Wolves of Mordor expansion, game updates, store sales, weekly activities, and hosts’ experiences across several games."
     },
     {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "RO: Mă gândesc să scriu aici doar în engleză sau să folosesc ambele li…",
-      "post_url": "https://thinkroot.xyz/nota-676",
-      "published": "2026-10-04T17:04:03Z",
-      "summary": "The writer considers publishing exclusively in English or bilingually, noting that Romanian feels easier while some visitors do not understand it."
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "The Secret World TTRPG – North America",
+      "post_url": "https://scopique.com/2026/10/05/the-secret-world-ttrpg-north-america/",
+      "published": "2026-10-05T13:43:26Z",
+      "summary": "Star Anvil Studios’ North America sourcebook for The Secret World TTRPG details the Illuminati, locations, archetypes, adventures, threats, and related Kickstarter supplements."
     },
     {
-      "blog_title": "Alex's Review Corner",
-      "blog_url": "https://super142.wordpress.com/",
-      "feed_url": "https://super142.wordpress.com/feed/",
-      "post_title": "X-Men Apocalypse (2016) Rewatch",
-      "post_url": "https://super142.wordpress.com/2026/10/04/x-men-apocalypse-2016-rewatch/",
-      "published": "2026-10-04T17:00:00Z",
-      "summary": "Alex’s review critiques X-Men: Apocalypse for recycling earlier themes, mishandling Magneto’s trauma, padding its plot with Wolverine, and embracing formulaic superhero spectacle."
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "2ヶ月ぶりに美文字トレーニング再開できた……🥹",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1277",
+      "published": "2026-10-05T13:39:46Z",
+      "summary": "The writer resumed beautiful handwriting training after two months and shares reactions to a broadcast mentioning Asari-chan’s dog, Unyo, and a song."
     },
     {
-      "blog_title": "Parallel Spirals",
-      "blog_url": "https://pradx.in",
-      "feed_url": "https://pradx.in/feed/",
-      "post_title": "Weekly Notes 40/2026",
-      "post_url": "https://pradx.in/2026/10/04/weekly-notes-40-2026/",
-      "published": "2026-10-04T16:42:43Z",
-      "summary": "Weekly notes cover Indian MSME manufacturing, an interview with Asish Mohapatra, convenience and technology, car breakdowns, Pune walking, and a technical-writing course."
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Dealing with down days",
+      "post_url": "https://www.kgadams.net/life/dealing-with-down-days",
+      "published": "2026-10-05T13:30:00Z",
+      "summary": "Ubergeek Kelly describes managing negative days through reading, learning Python, and writing, while acknowledging these distractions cannot replace supportive human listeners."
     },
     {
-      "blog_title": "Portrait of the Man as a...",
-      "blog_url": "https://angrybunnyman.com/",
-      "feed_url": "https://angrybunnyman.com/feed/",
-      "post_title": "Pick your perdition - Anthropic's throwing dice like Pascal on his deathbed",
-      "post_url": "https://angrybunnyman.com/pick-your-perdition-anthropics-throwing-dice-like-pascal-on-his-deathbed/",
-      "published": "2026-10-04T16:35:00Z",
-      "summary": "Anthropic’s leaked IPO prospectus, AI catastrophe risks, Pascal’s Wager, and the tension between industry growth, regulation, and deliberately choosing safer development paths."
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Robo Warriors (1996) — Hack the Gibson! Again!",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/05/robo-warriors-1996-hack-the-gibson-again/",
+      "published": "2026-10-05T13:00:45Z",
+      "summary": "Robo Warriors follows teenage hacker Zach and former pilot Gibson as they restore the Earth Bot for a decisive mech battle against the alien Teridaxx."
     },
     {
-      "blog_title": "20ily April",
-      "blog_url": "https://20ilyapril.wordpress.com/",
-      "feed_url": "https://20ilyapril.wordpress.com/feed/",
-      "post_title": "Twenties & Identity Capital",
-      "post_url": "https://20ilyapril.wordpress.com/2026/10/04/twenties-identity-capital/",
-      "published": "2026-10-04T16:02:52Z",
-      "summary": "A reflection on The Defining Decade examines identity capital, personal development, relationships, social networks, self-reliance, discipline, sports, and intimacy during one’s twenties."
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "LOTRO: A lesson in interior decorating and friendship",
+      "post_url": "https://biobreak.wordpress.com/2026/10/05/lotro-a-lesson-in-interior-decorating-and-friendship/",
+      "published": "2026-10-05T13:00:33Z",
+      "summary": "A LOTRO player declutters premium-house furnishings, continues extensive Barrow-downs completion, anticipates Wolves of Mordor, and experiments with the friend system and gifting mechanics."
     },
     {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "TAGN Fantasy Critic League 2026 – Week Forty and All The Scores!",
-      "post_url": "https://tagn.wordpress.com/2026/10/04/tagn-fantasy-critic-league-2026-week-forty-and-all-the-scores/",
-      "published": "2026-10-04T15:15:55Z",
-      "summary": "Week forty of the TAGN Fantasy Critic League tracks review scores, rankings, releases, and new bids, highlighting gains for Arhanta and The Witcher 3: Wild Hunt Remastered."
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Cavil",
-      "post_url": "https://tobygeeksout.micro.blog/2026/10/04/word-nerd-alert-cavil.html",
-      "published": "2026-10-04T15:15:55Z",
-      "summary": "The entry defines “cavil” as a verb meaning to raise a trivial or frivolous objection, illustrated by a complaint about a book cover’s design."
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "François Nyombo – I’m Cool",
-      "post_url": "https://amf.didiermary.fr/francois-nyombo-im-cool/",
-      "published": "2026-10-04T14:55:33Z",
-      "summary": "François Nyombo’s 1975 album I’m Cool and guitar career span Congolese music, funk jazz, classical training, European tours, and a documentary portrait."
-    },
-    {
-      "blog_title": "Monsterlady's Diary",
-      "blog_url": "https://monsterladysdiary.wordpress.com/",
-      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
-      "post_title": "No, I Won’t Break The Piggy Bank",
-      "post_url": "https://monsterladysdiary.wordpress.com/2026/10/04/no-i-wont-break-the-piggy-bank/",
-      "published": "2026-10-04T14:39:20Z",
-      "summary": "Monsterlady criticizes mobile games’ piggy bank mechanics, which lock earned currency behind microtransactions, citing Candy Crush, Wordscapes, Township, and Match 3D."
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "I Have Entered My Pinball Era",
-      "post_url": "https://virtualmoose.org/2026/10/04/i-have-entered-my-pinball-era/",
-      "published": "2026-10-04T14:34:40Z",
-      "summary": "The writer describes a renewed pinball hobby, tracking scores through Stern Pinball, playing tables at Pinball Pete’s, and anticipating posts about specific machines."
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Malifaux 4e: Rasputina vs Shenlong",
+      "post_url": "https://chasingdings.com/2026/10/05/malifaux-4e-rasputina-vs-shenlong/",
+      "published": "2026-10-05T12:56:19Z",
+      "summary": "A Malifaux 4e league game between Rasputina and Shenlong explores the updated Gaining Grounds 1 rules, terrain-control strategy, schemes, and Shenlong’s 7-4 victory."
     },
     {
       "blog_title": "The EOFFTV Review",
       "blog_url": "https://eofftvreview.wordpress.com",
       "feed_url": "https://eofftvreview.wordpress.com/feed/",
-      "post_title": "Absolute Denial (2021)",
-      "post_url": "https://eofftvreview.wordpress.com/2026/10/04/absolute-denial-2021/",
-      "published": "2026-10-04T14:17:39Z",
-      "summary": "Ryan Braund’s animated science-fiction film Absolute Denial follows isolated student David, whose attempt to create a contained artificial intelligence raises unsettling questions about reality, humanity, and technological control."
-    },
-    {
-      "blog_title": "A parenthetical departure",
-      "blog_url": "https://departure.blog/",
-      "feed_url": "https://sylvia.bearblog.dev/feed/",
-      "post_title": "Plastic (Weird Web October)",
-      "post_url": "https://departure.blog/wwo/2026/4-plastic/",
-      "published": "2026-10-04T14:01:00Z",
-      "summary": "“Plastic (Weird Web October)” presents a parenthetical visual experiment featuring Wada Sanzo colors, Jgs font and curve specimens, and fragmented typographic elements."
+      "post_title": "Underworld (1985)",
+      "post_url": "https://eofftvreview.wordpress.com/2026/10/05/underworld-1985/",
+      "published": "2026-10-05T12:47:34Z",
+      "summary": "Clive Barker’s screenplay for Underworld became a visually atmospheric but poorly paced 1985 horror film whose deviations from his vision influenced his later filmmaking career."
     },
     {
       "blog_title": "X2600",
       "blog_url": "https://write.as/blog-x2600/",
       "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "solved",
-      "post_url": "https://write.as/blog-x2600/solved?pk_campaign=rss-feed",
-      "published": "2026-10-04T12:09:26Z",
-      "summary": "The post reports resolving IRC server connectivity after replacing an expired NextDNS temporary account and correcting use of a dead endpoint."
+      "post_title": "morning bloggo",
+      "post_url": "https://write.as/blog-x2600/morning-bloggo?pk_campaign=rss-feed",
+      "published": "2026-10-05T12:30:45Z",
+      "summary": "A morning entry describes cemetery coffee, IRC client research, cool sunny weather, a trivia night, upcoming therapy, and enjoying nature."
     },
     {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "おやおや",
-      "post_url": "https://elve.club/entry/2026/10/04/191832?utm_source=feed",
-      "published": "2026-10-04T10:18:32Z",
-      "summary": "A personal reflection examines aging parents, caregiving, mismatched love, financial support through annual gifts, and arrangements for their upcoming Tokyo visit."
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Help This Blackbird - The Witch's Tale",
+      "post_url": "https://bhagpuss.blogspot.com/2026/10/help-this-blackbird-witchs-tale.html",
+      "published": "2026-10-05T11:37:49Z",
+      "summary": "Neverness to Everness’s “The Witch” adapts Salem witch-trial themes through a lengthy, dialogue-driven narrative centered on Blackbird, Merula, and the Appraiser."
+    },
+    {
+      "blog_title": "In An Age",
+      "blog_url": "https://inanage.com/",
+      "feed_url": "http://inanage.com/feed/",
+      "post_title": "Valheim “Exploration”",
+      "post_url": "https://inanage.com/2026/10/05/valheim-exploration/",
+      "published": "2026-10-05T11:00:00Z",
+      "summary": "The piece criticizes Valheim’s exploration for relying on repetitive, randomized points of interest and boss-location searches after biome progression is complete."
     },
     {
       "blog_title": "NomadWarMachine",
       "blog_url": "https://nomadwarmachine.co.uk/",
       "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "World Animal Day",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/04/world-animal-day/",
-      "published": "2026-10-04T09:51:09Z",
-      "summary": "A World Animal Day celebration featuring a 2018 puffin photograph taken during a boat trip from Mull to Lunga, alongside an arty filtered version."
+      "post_title": "Dictating to a baby elephant",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/05/dictating-to-a-baby-elephant/",
+      "published": "2026-10-05T10:48:47Z",
+      "summary": "A Daily Create prompt inspired by Stephen Nachmanovitch’s Free Play explores translating inspiration through a baby elephant dictating writing with a stylus, accompanied by an elephant doodle."
     },
     {
-      "blog_title": "Heart Soul Machine",
-      "blog_url": "https://heartsoulmachine.com/",
-      "feed_url": "https://heartsoulmachine.com/feed.xml",
-      "post_title": "Learning in 3D",
-      "post_url": "https://heartsoulmachine.com/blog/2026/10-04-learning-in-3d/",
-      "published": "2026-10-04T08:53:12Z",
-      "summary": "Learning in 3D proposes extending Bloom’s taxonomy across cognitive, affective, and operative domains, using six dimensions to diagnose and redesign learning outcomes."
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Are you bored?",
+      "post_url": "https://rishidass.net/posts/are-you-bored",
+      "published": "2026-10-05T10:32:28Z",
+      "summary": "Rishi Dass considers boredom’s naturalness, its relationship to distraction, motivation, depression, and existential dread, and whether sitting with it requires fixing anything."
+    },
+    {
+      "blog_title": "The Bibliollama",
+      "blog_url": "https://www.bibliollama.uk/",
+      "feed_url": "https://www.bibliollama.uk/feed",
+      "post_title": "Currently Reading: Seeing the Past, Imagining the Past",
+      "post_url": "https://www.bibliollama.uk/currently-reading-seeing-the-past-imagining-the-past/",
+      "published": "2026-10-05T10:31:12Z",
+      "summary": "The reading pairing explores Ancient Rome through visual historical evidence and Regency London through Andrea Penrose’s historical mystery Murder at Somerset House."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Stellaris Best Ascension Perks (4.5 Cygnus): Tier List and First Picks",
+      "post_url": "https://gamerofpassion.com/stellaris-best-ascension-perks/",
+      "published": "2026-10-05T06:18:53Z",
+      "summary": "A Stellaris 4.5.1 tier list ranks ascension perks, explains slot requirements and Colony Ascension limits, and recommends opening choices by empire type."
+    },
+    {
+      "blog_title": "20ily April",
+      "blog_url": "https://20ilyapril.wordpress.com/",
+      "feed_url": "https://20ilyapril.wordpress.com/feed/",
+      "post_title": "Some Cultural Shoulds Are Bloated",
+      "post_url": "https://20ilyapril.wordpress.com/2026/10/05/some-cultural-shoulds-are-bloated/",
+      "published": "2026-10-05T05:23:13Z",
+      "summary": "The writer contrasts internal goals with culturally imposed “shoulds,” challenging age-based respect, defending independence, and reflecting on identity, careers, aging, health, and presence."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "“What” am I, really? 🏳️‍🌈",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/05/what-am-i-really-%f0%9f%8f%b3%ef%b8%8f%f0%9f%8c%88/",
+      "published": "2026-10-05T05:00:00Z",
+      "summary": "The writer explores identifying as non-binary or autienby, describing personal gender-identity exploration and sharing Gemini’s explanation of non-binary identities, expression, and pronouns."
     }
   ]
 }
