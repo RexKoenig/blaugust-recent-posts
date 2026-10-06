@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T14:36:17.489143Z",
+  "generated_at": "2026-10-06T00:02:33.018929Z",
   "feed_count": 347,
-  "successful_feeds": 319,
-  "failed_feeds": 28,
+  "successful_feeds": 317,
+  "failed_feeds": 30,
   "post_count": 20,
   "posts": [
     {
@@ -14,6 +14,126 @@
       "published": "2026-10-06T02:00:00Z"
     },
     {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "A Killer Story (2026) — ⭐⭐⭐½ (3.5/5)",
+      "post_url": "https://michaelharley.net/watching/2026/10/05/a-killer-story-s1/",
+      "published": "2026-10-05T21:43:57Z"
+    },
+    {
+      "blog_title": "The Virtual Moose",
+      "blog_url": "https://virtualmoose.org/",
+      "feed_url": "https://virtualmoose.org/feed/",
+      "post_title": "Domino Club Delivers Boffo Games With Latest Blockbuster Jam",
+      "post_url": "https://virtualmoose.org/2026/10/05/domino-club-delivers-boffo-games-with-latest-blockbuster-jam/",
+      "published": "2026-10-05T21:07:42Z"
+    },
+    {
+      "blog_title": "A parenthetical departure",
+      "blog_url": "https://departure.blog/",
+      "feed_url": "https://sylvia.bearblog.dev/feed/",
+      "post_title": "Sheet (Weird Web October)",
+      "post_url": "https://departure.blog/wwo/2026/5-sheet/",
+      "published": "2026-10-05T19:30:00Z"
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Word Nerd Alert: Caliginous",
+      "post_url": "https://tobygeeksout.micro.blog/2026/10/05/word-nerd-alert-caliginous.html",
+      "published": "2026-10-05T16:34:57Z"
+    },
+    {
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "Spooky Season: Alien: Isolation",
+      "post_url": "https://scormey.com/2026/10/05/spooky-season-alien-isolation/",
+      "published": "2026-10-05T16:30:00Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - cold/hot pack",
+      "post_url": "https://pretendtypewriter.net/note-coldhot-pack/",
+      "published": "2026-10-05T16:19:14Z"
+    },
+    {
+      "blog_title": "The Capsule Critic",
+      "blog_url": "https://thecapsulecritic.com/blog/",
+      "feed_url": "https://thecapsulecritic.com/feed/",
+      "post_title": "MALPERTUIS (1971): Read The Book Instead",
+      "post_url": "https://thecapsulecritic.com/2026/10/05/malpertuis-1971-read-the-book-instead/",
+      "published": "2026-10-05T16:17:56Z"
+    },
+    {
+      "blog_title": "Wry Writer",
+      "blog_url": "https://wrywriter.ca",
+      "feed_url": "https://wrywriter.ca/posts_feed",
+      "post_title": "Flight of the Fantail by Steph Matuku",
+      "post_url": "https://wrywriter.ca/posts/flight-of-the-fantail-by-steph-matuku",
+      "published": "2026-10-05T16:04:00Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "I Watched 100% of This Video",
+      "post_url": "https://youtube.com/watch?v=YEaicg1kYMk",
+      "published": "2026-10-05T16:00:55Z"
+    },
+    {
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "Star Citizen Updates",
+      "post_url": "https://scopique.com/2026/10/05/star-citizen-updates/",
+      "published": "2026-10-05T15:34:48Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "No Man’s Sky – Expedition 23 – Our Journey Continues now Completed",
+      "post_url": "https://tagn.wordpress.com/2026/10/05/no-mans-sky-expedition-23-our-journey-continues-now-completed/",
+      "published": "2026-10-05T15:15:39Z"
+    },
+    {
+      "blog_title": "Another Dayu",
+      "blog_url": "https://anotherdayu.com/",
+      "feed_url": "https://anotherdayu.com/feed/",
+      "post_title": "形式熟悉，内容陌生，味道惊喜",
+      "post_url": "https://anotherdayu.com/9891/",
+      "published": "2026-10-05T15:01:00Z"
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 41 Links",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-05-week-41-links/",
+      "published": "2026-10-05T15:00:00Z"
+    },
+    {
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "October Plans",
+      "post_url": "https://syls.blog/october-plans/",
+      "published": "2026-10-05T14:55:19Z"
+    },
+    {
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "status 10052026",
+      "post_url": "https://angrybunnyman.com/status-10052026/",
+      "published": "2026-10-05T14:49:54Z"
+    },
+    {
       "blog_title": "A Pixel Nomad",
       "blog_url": "https://pixelnomad.ca/",
       "feed_url": "https://pixelnomad.ca/feed/",
@@ -22,28 +142,12 @@
       "published": "2026-10-05T14:18:31Z"
     },
     {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "🔁 Reposted: $1",
-      "post_url": "https://michaelharley.net/links/2026/10/05/1/",
-      "published": "2026-10-05T14:03:19Z"
-    },
-    {
       "blog_title": "LOTRO Players",
       "blog_url": "https://lotroplayers.com",
       "feed_url": "http://lotroplayers.com/feed/",
       "post_title": "LOTRO Players News Episode 685: Won’t You Be Pine’s Neighbor?",
       "post_url": "https://lotroplayers.com/2026/10/05/lotro-players-news-episode-685-wont-you-be-pines-neighbor/?utm_source=rss&utm_medium=rss&utm_campaign=lotro-players-news-episode-685-wont-you-be-pines-neighbor",
       "published": "2026-10-05T14:00:00Z"
-    },
-    {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "The Secret World TTRPG – North America",
-      "post_url": "https://scopique.com/2026/10/05/the-secret-world-ttrpg-north-america/",
-      "published": "2026-10-05T13:43:26Z"
     },
     {
       "blog_title": "TGLG",
@@ -60,110 +164,6 @@
       "post_title": "Dealing with down days",
       "post_url": "https://www.kgadams.net/life/dealing-with-down-days",
       "published": "2026-10-05T13:30:00Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Robo Warriors (1996) — Hack the Gibson! Again!",
-      "post_url": "https://mutantreviewersmovies.com/2026/10/05/robo-warriors-1996-hack-the-gibson-again/",
-      "published": "2026-10-05T13:00:45Z"
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "LOTRO: A lesson in interior decorating and friendship",
-      "post_url": "https://biobreak.wordpress.com/2026/10/05/lotro-a-lesson-in-interior-decorating-and-friendship/",
-      "published": "2026-10-05T13:00:33Z"
-    },
-    {
-      "blog_title": "Chasing Dings!",
-      "blog_url": "https://chasingdings.com/",
-      "feed_url": "https://chasingdings.com/?feed=rss2",
-      "post_title": "Malifaux 4e: Rasputina vs Shenlong",
-      "post_url": "https://chasingdings.com/2026/10/05/malifaux-4e-rasputina-vs-shenlong/",
-      "published": "2026-10-05T12:56:19Z"
-    },
-    {
-      "blog_title": "The EOFFTV Review",
-      "blog_url": "https://eofftvreview.wordpress.com",
-      "feed_url": "https://eofftvreview.wordpress.com/feed/",
-      "post_title": "Underworld (1985)",
-      "post_url": "https://eofftvreview.wordpress.com/2026/10/05/underworld-1985/",
-      "published": "2026-10-05T12:47:34Z"
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "morning bloggo",
-      "post_url": "https://write.as/blog-x2600/morning-bloggo?pk_campaign=rss-feed",
-      "published": "2026-10-05T12:30:45Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Help This Blackbird - The Witch's Tale",
-      "post_url": "https://bhagpuss.blogspot.com/2026/10/help-this-blackbird-witchs-tale.html",
-      "published": "2026-10-05T11:37:49Z"
-    },
-    {
-      "blog_title": "In An Age",
-      "blog_url": "https://inanage.com/",
-      "feed_url": "http://inanage.com/feed/",
-      "post_title": "Valheim “Exploration”",
-      "post_url": "https://inanage.com/2026/10/05/valheim-exploration/",
-      "published": "2026-10-05T11:00:00Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Dictating to a baby elephant",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/05/dictating-to-a-baby-elephant/",
-      "published": "2026-10-05T10:48:47Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Are you bored?",
-      "post_url": "https://rishidass.net/posts/are-you-bored",
-      "published": "2026-10-05T10:32:28Z"
-    },
-    {
-      "blog_title": "The Bibliollama",
-      "blog_url": "https://www.bibliollama.uk/",
-      "feed_url": "https://www.bibliollama.uk/feed",
-      "post_title": "Currently Reading: Seeing the Past, Imagining the Past",
-      "post_url": "https://www.bibliollama.uk/currently-reading-seeing-the-past-imagining-the-past/",
-      "published": "2026-10-05T10:31:12Z"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris Best Ascension Perks (4.5 Cygnus): Tier List and First Picks",
-      "post_url": "https://gamerofpassion.com/stellaris-best-ascension-perks/",
-      "published": "2026-10-05T06:18:53Z"
-    },
-    {
-      "blog_title": "20ily April",
-      "blog_url": "https://20ilyapril.wordpress.com/",
-      "feed_url": "https://20ilyapril.wordpress.com/feed/",
-      "post_title": "Some Cultural Shoulds Are Bloated",
-      "post_url": "https://20ilyapril.wordpress.com/2026/10/05/some-cultural-shoulds-are-bloated/",
-      "published": "2026-10-05T05:23:13Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "“What” am I, really? 🏳️‍🌈",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/05/what-am-i-really-%f0%9f%8f%b3%ef%b8%8f%f0%9f%8c%88/",
-      "published": "2026-10-05T05:00:00Z"
     }
   ]
 }
