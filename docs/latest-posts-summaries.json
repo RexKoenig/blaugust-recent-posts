@@ -1,12 +1,138 @@
 {
-  "generated_at": "2026-10-06T13:17:53.655554Z",
-  "source_generated_at": "2026-10-06T13:17:23.393390Z",
+  "generated_at": "2026-10-06T22:39:37.579342Z",
+  "source_generated_at": "2026-10-06T22:39:08.779113Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
   "summary_count": 19,
   "posts": [
+    {
+      "blog_title": "Musings Over Pints and Coffee",
+      "blog_url": "https://musingsoverpintsandcoffee.wordpress.com",
+      "feed_url": "https://musingsoverpintsandcoffee.wordpress.com/feed/",
+      "post_title": "Trying to Write a Novel",
+      "post_url": "https://musingsoverpintsandcoffee.wordpress.com/2026/10/06/trying-to-write-a-novel/",
+      "published": "2026-10-06T21:43:43Z",
+      "summary": "The writer reflects on novel-writing challenges, including distinct character voices, unnecessary scenes, and balancing creative discoveries with established story constraints."
+    },
+    {
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "Look at these neat Obsidian canvas screenshots. Subtitle: visual processing",
+      "post_url": "https://angrybunnyman.com/look-at-these-neat-obsidian-canvas-screenshots-subtitle-visual-processing/",
+      "published": "2026-10-06T21:17:23Z",
+      "summary": "The post describes using Obsidian Canvas to visually build, organize, maintain, and enforce work processes, including mapping presentation arcs through ordered notes."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "⚙︎ Facebook Wants to Charge Me to Link to My Own Blog",
+      "post_url": "https://jagsworkshop.com/2026/10/facebook-charging-for-links/",
+      "published": "2026-10-06T21:03:54Z",
+      "summary": "Facebook allegedly limits JAG’s Workshop link posts to two monthly unless the writer pays for Meta One, prompting alternative subscription and social-following options."
+    },
+    {
+      "blog_title": "A parenthetical departure",
+      "blog_url": "https://departure.blog/",
+      "feed_url": "https://sylvia.bearblog.dev/feed/",
+      "post_title": "Analog (Weird Web October)",
+      "post_url": "https://departure.blog/wwo/2026/6-analog/",
+      "published": "2026-10-06T20:54:00Z",
+      "summary": "“Analog” is a brief Weird Web October 2026 entry identified by its binary-rendered title and numbered as the sixth installment."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - Gwent tour",
+      "post_url": "https://pretendtypewriter.net/note-gwent-tour/",
+      "published": "2026-10-06T20:35:06Z",
+      "summary": "Geralt takes a break from questing to play every Gwent player in lower Velen during a tour recorded in an October 2026 note."
+    },
+    {
+      "blog_title": "Nosrednayduj's Blog",
+      "blog_url": "https://nosrednayduj.dreamwidth.org/",
+      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
+      "post_title": "On my way to 2000",
+      "post_url": "https://nosrednayduj.dreamwidth.org/188756.html",
+      "published": "2026-10-06T18:03:51Z",
+      "summary": "Cherry tomato production has overtaken bicycle mileage, reaching 1,842 tomatoes versus 1,738 miles, with tomatoes expected to lead by a substantial margin."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "100 craft books later",
+      "post_url": "https://francescrossley.com/100-craft-books-later/",
+      "published": "2026-10-06T18:00:00Z",
+      "summary": "After reading over a hundred writing craft books, Fran compares memoir-style guidance with structured instruction and questions the dominance of conventional narrative frameworks."
+    },
+    {
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "Dead and Buried",
+      "post_url": "https://scopique.com/2026/10/06/dead-and-buried/",
+      "published": "2026-10-06T16:56:29Z",
+      "summary": "Scopique examines how online reputations and polarized opinions shape perceptions of game failures, using New World, Star Citizen, and closed MMOs as examples."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Self-Censorship Does More Harm Than Good",
+      "post_url": "https://thinkroot.xyz/self-censorship-does-more-harm-than-good-680",
+      "published": "2026-10-06T16:31:33Z",
+      "summary": "The writer reconsiders self-censorship after reading “We are going to kill ‘unalive’,” arguing that suppressing words about death and difficult realities causes harm."
+    },
+    {
+      "blog_title": "Aeish's Blog Feed :3",
+      "blog_url": "https://aeish-world.neocities.org/blog_front",
+      "feed_url": "https://aeish-world.neocities.org/feed.txt",
+      "post_title": "Going in circles",
+      "post_url": "https://aeish-world.neocities.org/blog_pages/2026-10-06",
+      "published": "2026-10-06T15:35:00Z",
+      "summary": null
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Crimson Harvest 2026 Lands in EVE Online Today",
+      "post_url": "https://tagn.wordpress.com/2026/10/06/crimson-harvest-2026-lands-in-eve-online-today/",
+      "published": "2026-10-06T15:15:57Z",
+      "summary": "Crimson Harvest 2026 brings faction-based combat and hacking sites, Pochven encounters, an Akoman battlecruiser blueprint, PvP loot changes, escalated rewards, and login bonuses to EVE Online."
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Type into a cube",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/06/type-into-a-cube/",
+      "published": "2026-10-06T13:56:20Z",
+      "summary": "A Daily Create prompt presents a cube that displays typed words, inviting participants to enter inspirational text or anything else and share it."
+    },
+    {
+      "blog_title": "Mailvaltar",
+      "blog_url": "https://mailvaltar.wordpress.com/",
+      "feed_url": "https://mailvaltar.wordpress.com/feed/",
+      "post_title": "So Dune’s endgame can be fun after all!",
+      "post_url": "https://mailvaltar.wordpress.com/2026/10/06/so-dunes-endgame-can-be-fun-after-all/",
+      "published": "2026-10-06T13:46:20Z",
+      "summary": "A player finds Dune: Awakening’s endgame more enjoyable in single-player after customizing difficulty, exploring Landsraad sites, unlocking Specializations, gathering Spice, and building bases."
+    },
+    {
+      "blog_title": "The EOFFTV Review",
+      "blog_url": "https://eofftvreview.wordpress.com",
+      "feed_url": "https://eofftvreview.wordpress.com/feed/",
+      "post_title": "Vampira (1971)",
+      "post_url": "https://eofftvreview.wordpress.com/2026/10/06/vampira-1971/",
+      "published": "2026-10-06T13:20:11Z",
+      "summary": "George Moorse’s 1971 Gothic television film Vampira presents surreal, plot-light vignettes, silent performances, haunting imagery, and an ethereal early Tangerine Dream soundtrack."
+    },
     {
       "blog_title": "Mutant Reviewers",
       "blog_url": "https://mutantreviewersmovies.com",
@@ -53,15 +179,6 @@
       "summary": "Stellaris 4.5 titan design favors Perdition Beams, Kinetic Artillery, tailored defenses, auxiliary fire control, artillery computers, and fleet-specific auras."
     },
     {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "10 Things under $50 that'll INSTANTLY improve your life",
-      "post_url": "https://thinkroot.xyz/10-things-under-50-thatll-instantly-improve-your-life-677",
-      "published": "2026-10-06T07:09:35Z",
-      "summary": "A page titled “10 Things under $50 that'll INSTANTLY improve your life” appears to present affordable items claimed to improve everyday life, though no items are identifiable."
-    },
-    {
       "blog_title": "Overage-Gaming",
       "blog_url": "https://overage-gaming.com/",
       "feed_url": "https://overage-gaming.com/feed/",
@@ -69,123 +186,6 @@
       "post_url": "https://overage-gaming.com/2026/10/06/finding-polka-100-positive-and-every-award-at-gamescom-heres-why-gameplay/",
       "published": "2026-10-06T07:01:00Z",
       "summary": "Finding Polka follows Frendy and her dog Jazz through a wordless, ballpoint-pen world while searching for Polka, helping characters, and enjoying optional mini-games."
-    },
-    {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "I went outside today! 🌞",
-      "post_url": "https://hollie.eilloh.net/posts/i-went-outside-today",
-      "published": "2026-10-06T06:59:00Z",
-      "summary": "Recovering from illness, the writer reconnects with friends through calls and voice memos, then ventures into the garden with Finn and Zoe to enjoy autumn scenery."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Don’t disrupt peace",
-      "post_url": "https://rishidass.net/posts/dont-disrupt-peace",
-      "published": "2026-10-06T05:43:41Z",
-      "summary": "Rishi Dass presents peace as a natural, immediately available state, arguing that habitual thoughts and emotional reactions disrupt it and recommending silent detachment."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Journal – Week 40, September/October 2026",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/06/journal-week-40-september-october-2026/",
-      "published": "2026-10-06T05:00:00Z",
-      "summary": "Cynni recounts a fluctuating week of sleep, weather, energy, autistic meltdowns, gradual progress, writing, walks, and affectionate adventures with Labrador puppy Koa."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Christmas movie, Fool Us rabbit hole, UNO - W40",
-      "post_url": "https://joelchrono.xyz/blog/2026-w40/",
-      "published": "2026-10-06T04:34:33Z",
-      "summary": "Joelchrono’s weeknote covers a spontaneous romantic outing, Fool Us viewing, family seafood, themed UNO games, media consumed, and progress completing Final Fantasy IV."
-    },
-    {
-      "blog_title": "Gamers Esoteric",
-      "blog_url": "https://www.gamersesoteric.com/",
-      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
-      "post_title": "REDACTED Session Recap #1",
-      "post_url": "https://www.gamersesoteric.com/2026/10/redacted-session-recap-1.html",
-      "published": "2026-10-06T04:23:38Z",
-      "summary": "The recap follows two groups’ tabletop expeditions, encounters with creatures including the Porcelain Seer, and playtesting of combat mechanics and presentation."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "New Balance Honors Steve Jobs",
-      "post_url": "https://www.macworld.com/article/3252013/check-out-new-balances-secret-tribute-to-steve-jobs-on-the-anniversary-of-his-passing.html",
-      "published": "2026-10-06T03:18:46Z",
-      "summary": "New Balance recreates Steve Jobs’s iconic 2010 iPad demonstration pose, highlighting his association with the unchanged grey-and-white 992 sneaker."
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "Here Is a Person: Enter the Tildeverse",
-      "post_url": "https://brennan.day/here-is-a-person-enter-the-tildeverse/",
-      "published": "2026-10-06T02:00:00Z",
-      "summary": "Brennan Day traces the tildeverse’s origins, Unix fellowship, shared computing culture, and personal exploration through multiple tilde accounts and mirrored home directories."
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Tuesday, 6 October 2026",
-      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-06.html",
-      "published": "2026-10-06T00:00:00Z",
-      "summary": "The Daily Blogroll surveys gaming, tabletop, technology, privacy, creative projects, personal wellbeing, and commentary from numerous community contributors."
-    },
-    {
-      "blog_title": "Tommyeveryday",
-      "blog_url": "https://tommyeveryday.mataroa.blog",
-      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
-      "post_title": "Tuesday October 6, 2026",
-      "post_url": "https://tommyeveryday.mataroa.blog/blog/tuesday-october-6-2026/",
-      "published": "2026-10-06T00:00:00Z",
-      "summary": "A daily account covers autumn weather, errands, correspondence, podcast production, shipping grape pies, baseball games, family plans, and notable deaths."
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "A Killer Story (2026) — ⭐⭐⭐½ (3.5/5)",
-      "post_url": "https://michaelharley.net/watching/2026/10/05/a-killer-story-s1/",
-      "published": "2026-10-05T21:43:57Z",
-      "summary": "A documentary follows journalist Joe Sexton and citizen sleuths Eileen and Keen Umbehr as they investigate Dana Chandler’s conviction for a 2002 Kansas double homicide."
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "Domino Club Delivers Boffo Games With Latest Blockbuster Jam",
-      "post_url": "https://virtualmoose.org/2026/10/05/domino-club-delivers-boffo-games-with-latest-blockbuster-jam/",
-      "published": "2026-10-05T21:07:42Z",
-      "summary": "DOMINO CLUB’s Drive-In Jam features ten browser games spanning interactive fiction, character creation, platforming, and experimental genres, including several late or unfinished entries."
-    },
-    {
-      "blog_title": "A parenthetical departure",
-      "blog_url": "https://departure.blog/",
-      "feed_url": "https://sylvia.bearblog.dev/feed/",
-      "post_title": "Sheet (Weird Web October)",
-      "post_url": "https://departure.blog/wwo/2026/5-sheet/",
-      "published": "2026-10-05T19:30:00Z",
-      "summary": "“Sheet” is presented as entry five in the October 2026 edition of Weird Web."
-    },
-    {
-      "blog_title": "#デザイン 記事まとめ",
-      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
-      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
-      "post_title": "漫画同人誌も商業原稿サイズで作ってしまえ！ | CLIP STUDIOの縮小出力設定と注意点",
-      "post_url": "https://note.com/age_nasuo/n/nb579cc4e3c9a",
-      "published": "2026-10-05T17:41:28Z",
-      "summary": null
     }
   ]
 }
