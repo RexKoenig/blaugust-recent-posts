@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-10-09T13:16:13.460848Z",
-  "source_generated_at": "2026-10-09T13:15:49.318477Z",
+  "generated_at": "2026-10-09T22:38:08.858475Z",
+  "source_generated_at": "2026-10-09T22:37:33.502428Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 20,
+  "summary_count": 19,
   "posts": [
     {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "20 Million Miles to Earth (1957) – King Kong’s scaly cousin tours Italy",
-      "post_url": "https://mutantreviewersmovies.com/2026/10/09/20-million-miles-to-earth-1957-king-kongs-scaly-cousin-tours-italy/",
-      "published": "2026-10-09T13:00:38Z",
-      "summary": "Ray Harryhausen’s 20 Million Miles to Earth follows a Venusian creature brought to Italy aboard a crashed spaceship as it grows, escapes, and terrorizes Rome."
+      "blog_title": "Alessandro Cuzzocrea",
+      "blog_url": "https://alessandrocuzzocrea.com",
+      "feed_url": "https://alessandrocuzzocrea.com/feed.xml",
+      "post_title": "Reverse Engineering Therion's Steal Success Rate in Octopath Traveler",
+      "post_url": "https://alessandrocuzzocrea.com/reverse-engineering-octopath-traveler-therion-steal-success-rate/",
+      "published": "2026-10-10T00:00:00Z",
+      "summary": "Alessandro Cuzzocrea reverse-engineers Octopath Traveler’s Steal Path Action, detailing its data tables, difficulty calculation, Thieving Tips & Tricks bonus, and success-rate roll."
     },
     {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "What we listen to isn’t cool, and that’s OK",
-      "post_url": "https://biobreak.wordpress.com/2026/10/09/what-we-listen-to-isnt-cool-and-thats-ok/",
-      "published": "2026-10-09T13:00:29Z",
-      "summary": "A record-store visit prompts reflections on subjective music taste, youthful judgment, nostalgia, eclectic CD collecting, and reconsidering thrift-store buying habits."
+      "blog_title": "Priest with a Cause",
+      "blog_url": "https://priestwithacause.blogspot.com/",
+      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Three Worlds of Warcraft",
+      "post_url": "https://priestwithacause.blogspot.com/2026/10/three-worlds-of-warcraft.html",
+      "published": "2026-10-09T22:17:54Z",
+      "summary": "The post examines community reactions to WoW Forever’s emergence between modern and Classic WoW, including concerns about competition, player migration, and Blizzard’s future plans."
     },
     {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "🔁 Reposted: Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude",
-      "post_url": "https://michaelharley.net/links/2026/10/09/anthropic-bans-users-from-needless-abusive-or-cruel-behavior-towards-claude/",
-      "published": "2026-10-09T11:44:20Z",
-      "summary": "Anthropic bans users from engaging in “needless abusive or cruel behavior” toward Claude, as reported by The Guardian and reposted by Michael Harley."
+      "blog_title": "WCRobinson",
+      "blog_url": "https://wcrobinson.org/",
+      "feed_url": "https://wcrobinson.org/feed/",
+      "post_title": "Pragmata Review – An Innovative & Endearing Space Adventure That Only Gets Better",
+      "post_url": "https://wcrobinson.org/2026/10/09/pragmata-review-an-innovative-endearing-space-adventure-that-only-gets-better/",
+      "published": "2026-10-09T22:17:49Z",
+      "summary": "Capcom’s Pragmata follows Hugh and android Diana through an abandoned lunar station, combining third-person shooting, grid-based hacking, exploration, upgrades, and character-focused storytelling."
     },
     {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Anarchist calisthenics",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/09/anarchist-calisthenics/",
-      "published": "2026-10-09T11:39:07Z",
-      "summary": "The post reflects on resisting trivial rules through Kantian professional conduct, DS106 remixing, and a playful poem advocating small daily acts of imaginative resistance."
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "飲みに行こう、そうしよう２",
+      "post_url": "https://elve.club/entry/2026/10/10/070434?utm_source=feed",
+      "published": "2026-10-09T22:04:34Z",
+      "summary": "A planned drinks meeting in Ikebukuro is delayed for hours, prompting reflections on dating, generational differences, employment, parenthood, trust, and life choices."
     },
     {
-      "blog_title": "In An Age",
-      "blog_url": "https://inanage.com/",
-      "feed_url": "http://inanage.com/feed/",
-      "post_title": "Mistlands Complete",
-      "post_url": "https://inanage.com/2026/10/09/mistlands-complete/",
-      "published": "2026-10-09T11:00:00Z",
-      "summary": "The writer completes Valheim’s Mistlands, describing its fog, lighting mechanics, giant remains, magic crafting, frightening Gjall, difficult Queen fight, and progression toward Ashlands."
+      "blog_title": "Kelson Vibber: New Posts",
+      "blog_url": "https://kvibber.com/",
+      "feed_url": "https://kvibber.com/feed.xml",
+      "post_title": "Two Months With the Fairphone 4 (phone review)",
+      "post_url": "https://kvibber.com/reviews/products/fairphone4/",
+      "published": "2026-10-09T21:53:12Z",
+      "summary": "Kelson Vibber reviews two months with the Fairphone 4, covering its repairable hardware, camera, performance, network compatibility, /e/OS, app support, and durability."
     },
     {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "I’m doing better! I had covid.",
-      "post_url": "https://hollie.eilloh.net/posts/im-doing-better-i-had-covid",
-      "published": "2026-10-09T08:38:34Z",
-      "summary": "The writer recounts a second COVID-19 infection, contrasting it with a severe first illness, rebound symptoms, panic, chronic illness challenges, and unsafe medical masking practices."
-    },
-    {
-      "blog_title": "20ily April",
-      "blog_url": "https://20ilyapril.wordpress.com/",
-      "feed_url": "https://20ilyapril.wordpress.com/feed/",
-      "post_title": "Amygdala Needs To Get Off The Ride",
-      "post_url": "https://20ilyapril.wordpress.com/2026/10/09/amygdala-needs-to-get-off-the-ride/",
-      "published": "2026-10-09T07:52:50Z",
-      "summary": "Reflecting on amygdala-driven reactions, workplace toxicity, resilience, human freedom, social-media echo chambers, independent research, and environmental stressors."
-    },
-    {
-      "blog_title": "Matt's Blog",
-      "blog_url": "https://mtwb.blog/",
-      "feed_url": "https://mtwb.blog/index.xml",
-      "post_title": "Please Stop With The Exclamation Points!",
-      "post_url": "https://mtwb.blog/posts/2026/rants/please-stop-with-the-exclamation-points/",
-      "published": "2026-10-09T07:47:34Z",
-      "summary": "Matt criticizes excessive exclamation points and the frequent use of “chuckle,” arguing that both should be reserved for meaningful or clearly appropriate contexts."
-    },
-    {
-      "blog_title": "#デザイン 記事まとめ",
-      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
-      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
-      "post_title": "今週のグッドデザインを紹介します（10/5 〜10/9）",
-      "post_url": "https://note.com/gooddesignaward/n/n8078d675cbd1",
-      "published": "2026-10-09T07:24:38Z",
-      "summary": "The roundup presents five Good Design Award selections: a care-facility waste remover, Teruhiro Yanagihara Studio tiles, unified electrical equipment, OPEN DESIGN 2025, and preserved farmland housing."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris Enigmatic Fortress Guide (4.5)",
-      "post_url": "https://gamerofpassion.com/stellaris-enigmatic-fortress/",
-      "published": "2026-10-09T07:00:00Z",
-      "summary": "Stellaris 4.5.2 guide details the Enigmatic Fortress’s spawning, station defenses, fleet requirements, weapon strategies, and expedition mechanics from the Leviathans DLC."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Newsletter subscribers",
-      "post_url": "https://rishidass.net/posts/newsletter-subscribers",
-      "published": "2026-10-09T06:06:29Z",
-      "summary": "Rishi Dass describes Pika’s obscured subscriber counts, his focus on consistently sharing valuable work, and a deliberate 1,000-subscriber limit inspired by “1,000 True Fans.”"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "A new fear…",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/09/a-new-fear/",
-      "published": "2026-10-09T05:00:00Z",
-      "summary": "Pixy describes Koa’s worsening crate distress and possible separation anxiety, seeking safer crate flooring and professional training to help him relax alone."
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "🎬 Send Help (2026)",
-      "post_url": "https://tobygeeksout.micro.blog/2026/10/08/send-help.html",
-      "published": "2026-10-09T02:41:59Z",
-      "summary": "Sam Raimi’s 2026 film Send Help follows colleagues Linda Liddle and another survivor, stranded on an island after a plane crash and battling past grievances to survive."
-    },
-    {
-      "blog_title": "82MHz",
-      "blog_url": "http://82mhz.net/posts/",
-      "feed_url": "http://82mhz.net/index.xml",
-      "post_title": "Linkdump No 128",
-      "post_url": "http://82mhz.net/posts/2026/10/linkdump-no-128/",
-      "published": "2026-10-09T00:00:00Z",
-      "summary": "A café-set linkdump introduces observations of diverse patrons before sharing videos about physical-media bootlegs and Google Japan’s humorous Gboard version."
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Friday, 9 October 2026",
-      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-09.html",
-      "published": "2026-10-09T00:00:00Z",
-      "summary": "The October 9, 2026 blogroll covers gaming updates, EVE Online mechanics, seasonal games and books, Wisconsin photography, web links, creative projects, and a Margaret Hamilton tribute."
-    },
-    {
-      "blog_title": "Tommyeveryday",
-      "blog_url": "https://tommyeveryday.mataroa.blog",
-      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
-      "post_title": "Friday October 9, 2026",
-      "post_url": "https://tommyeveryday.mataroa.blog/blog/friday-october-9-2026/",
-      "published": "2026-10-09T00:00:00Z",
-      "summary": "Tommyeveryday recounts apple shopping, professional tree trimming, family conversations, physical discomfort, meals, Cleveland’s baseball victory, and notable deaths."
-    },
-    {
-      "blog_title": "Ubergeek Kelly's World",
-      "blog_url": "https://www.kgadams.net/",
-      "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "Death of an icon: Margaret Hamilton",
-      "post_url": "https://www.kgadams.net/tiny-thoughts/death-of-an-icon-margaret-hamilton",
-      "published": "2026-10-08T22:35:59Z",
-      "summary": "Margaret Hamilton’s death is remembered through her Apollo 11 programming, coining of “Software Engineering,” numerous honors, and enduring cultural recognition."
-    },
-    {
-      "blog_title": "Lameazoid",
-      "blog_url": "https://lameazoid.com/",
-      "feed_url": "https://lameazoid.com/feed/",
-      "post_title": "Transformers - TF x FIFA - Breakaway",
-      "post_url": "https://lameazoid.com/posts/transformers-tf-x-fifa-breakaway/",
-      "published": "2026-10-08T22:30:00Z",
-      "summary": "A review of Breakaway, a Team USA-themed Transformers figure that transforms from an articulated robot into a FIFA-branded soccer ball, covers its accessories, distribution, and design."
+      "blog_title": "Sylvia's Studio",
+      "blog_url": "https://sylvia.studio/",
+      "feed_url": "https://sylvia.studio/feed.xml",
+      "post_title": "Why I’ve stopped tracking what I read (and my habits)",
+      "post_url": "https://sylvia.studio/posts/why-ive-stopped-tracking-what-i-read-and-my-habits",
+      "published": "2026-10-09T20:53:00Z",
+      "summary": "Sylvia describes abandoning app-based tracking of reading, writing, and routines, instead using flexible book stacks and a Filofax to support untracked habits."
     },
     {
       "blog_title": "A parenthetical departure",
       "blog_url": "https://departure.blog/",
       "feed_url": "https://sylvia.bearblog.dev/feed/",
-      "post_title": "Skeuomorphism (Weird Web October)",
-      "post_url": "https://departure.blog/wwo/2026/8-skeuomorphism/",
-      "published": "2026-10-08T21:07:00Z",
-      "summary": "A Weird Web October entry presents a nostalgic 2012-style button featuring CSS vendor prefixes, referencing a period tutorial about creating it."
+      "post_title": "Spicy (Weird Web October)",
+      "post_url": "https://departure.blog/wwo/2026/9-spicy/",
+      "published": "2026-10-09T20:44:00Z",
+      "summary": "A brief, conversational post recounts plans involving tea places, reluctance to visit London without buying tea, and an impulsive button click."
     },
     {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "Kindles Cost More And Make Less Sense",
-      "post_url": "https://jasonjournals.com/posts/kindles-cost-more-and-make-less-sense",
-      "published": "2026-10-08T20:59:00Z",
-      "summary": "Amazon’s higher-priced new Kindles offer few substantial improvements, prompting the writer to favor an iPad or iPhone for reading instead."
+      "blog_title": "Matt's Blog",
+      "blog_url": "https://mtwb.blog/",
+      "feed_url": "https://mtwb.blog/index.xml",
+      "post_title": "This Is A Test",
+      "post_url": "https://mtwb.blog/posts/2026/this-is-a-test/",
+      "published": "2026-10-09T20:32:42Z",
+      "summary": "Matt describes developing a Python script with Docker and GitLab CI to automatically post blog entries to Mastodon and retrieve toot IDs for comments."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "TO KILL A MOSQUITO",
+      "post_url": "https://pretendtypewriter.net/to-kill-a-mosquito/",
+      "published": "2026-10-09T20:29:00Z",
+      "summary": "A couple confronts a returning mosquito at dawn, recounts their nighttime extermination tactics and bites, and investigates whether houseplants could support future breeding."
+    },
+    {
+      "blog_title": "Wry Writer",
+      "blog_url": "https://wrywriter.ca",
+      "feed_url": "https://wrywriter.ca/posts_feed",
+      "post_title": "Chaos Vector by Megan E. O’Keefe",
+      "post_url": "https://wrywriter.ca/posts/chaos-vector-by-megan-e-okeefe",
+      "published": "2026-10-09T19:04:00Z",
+      "summary": "Megan E. O’Keefe’s Chaos Vector continues Velocity Weapon with political intrigue, action, betrayals, character development, expanded backstory, battles, misdirection, and startling revelations."
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "Thingalene – Abdallah Ag Oumbadougou",
+      "post_url": "https://amf.didiermary.fr/abdallah-ag-oumbadougou-thingalene/",
+      "published": "2026-10-09T18:30:22Z",
+      "summary": "Abdallah Ag Oumbadougou’s 1995 Benin recording “Anou Malane” blends politically charged Tuareg guitar music with programmed rhythms and synthesizers, creating Afro-boogie-inflected desert blues."
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "🍿 Now Watching: Carrie Season 1 (2026)",
+      "post_url": "https://tobygeeksout.micro.blog/2026/10/09/now-watching-carrie-season.html",
+      "published": "2026-10-09T18:12:22Z",
+      "summary": "Carrie navigates grief, high-school bullying, social-media cruelty, and emerging telekinetic powers in a 2026 series created by Mike Flanagan."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Steam flags nearly 7,000 Early Access games as not updated in a year. Yet six in ten reviewed games reach full release",
+      "post_url": "https://gamerofpassion.com/steam-early-access-study/",
+      "published": "2026-10-09T17:47:07Z",
+      "summary": "Gamer Of Passion analyzes Steam Early Access outcomes, finding that 61% of reviewed games entering between 2013 and 2023 reached full release while many stalled."
+    },
+    {
+      "blog_title": "Forking Mad+",
+      "blog_url": "https://forkingmad.blog/",
+      "feed_url": "https://forkingmad.blog/feed/",
+      "post_title": "Nudity: a surprising and reflective experience!",
+      "post_url": "https://forkingmad.blog/nudity-a-surprising-and-reflective-experience/",
+      "published": "2026-10-09T17:16:00Z",
+      "summary": "Three friends visiting Spain unexpectedly spend a day at a mixed nudist beach, sharing drinks, swimming, changing clothes, and reflecting on newfound experiences."
+    },
+    {
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "Roll the Bones: Ten Candles",
+      "post_url": "https://scormey.com/2026/10/09/roll-the-bones-ten-candles/",
+      "published": "2026-10-09T17:00:00Z",
+      "summary": "Ten Candles is a tabletop roleplaying game of tragic horror, using ten tealights and minimal preparation to guide players through an inevitable, grisly descent toward death."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Words that are not right",
+      "post_url": "https://francescrossley.com/words-that-are-not-right/",
+      "published": "2026-10-09T17:00:00Z",
+      "summary": "A humorous reflection on English words that feel incorrect, misleading, contradictory, or culturally awkward, including irregular verbs, contronyms, and regional expressions."
+    },
+    {
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Martin Schuhmann - October 09, 2026 18:55",
+      "post_url": "https://martinschuhmann.com/blog/1f7915f4",
+      "published": "2026-10-09T16:55:00Z",
+      "summary": null
+    },
+    {
+      "blog_title": "Nosrednayduj's Blog",
+      "blog_url": "https://nosrednayduj.dreamwidth.org/",
+      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
+      "post_title": "raving lunatic",
+      "post_url": "https://nosrednayduj.dreamwidth.org/189263.html",
+      "published": "2026-10-09T16:12:47Z",
+      "summary": "A first-time rave in Cambridge features late-night dancing, vinyl DJ techniques, colorful poi performances, safety observations, and conversations with strangers afterward."
+    },
+    {
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "The tension between a fear of being abandoned and also not wanting to be seen so corporate data gathering doesn't really get you",
+      "post_url": "https://angrybunnyman.com/the-tension-between-a-fear-of-being-abandoned-and-also-not-wanting-to-be-seen-so-corporate-data-gathering-doesnt-really-get-you/",
+      "published": "2026-10-09T15:46:00Z",
+      "summary": "A personal reflection connects childhood fears of abandonment with pervasive corporate surveillance, consumer tracking, Amazon recommendations, and the visibility created by online shopping data."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "The Road to CSM21 – The Official Candidates List",
+      "post_url": "https://tagn.wordpress.com/2026/10/09/the-road-to-csm21-the-official-candidates-list/",
+      "published": "2026-10-09T15:15:57Z",
+      "summary": "The post outlines the EVE Online Council of Stellar Management 21 election timeline and categorizes announced candidates by affiliations, gameplay areas, and perceived campaign priorities."
     }
   ]
 }
