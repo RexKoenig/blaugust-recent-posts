@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T12:30:34.591098Z",
-  "blog_count": 347,
-  "other_language_count": 9,
+  "generated_at": "2026-10-10T16:09:34.786093Z",
+  "blog_count": 354,
+  "other_language_count": 10,
   "blogs": [
     {
       "name": "20ily April",
@@ -367,6 +367,14 @@
       "name": "Black Hole Reviews",
       "site_url": "https://blackholereviews.blogspot.com",
       "feed_url": "https://blackholereviews.blogspot.com/feeds/posts/default",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "B"
+    },
+    {
+      "name": "Blessing of Kings",
+      "site_url": "https://blessingofkings.blogspot.com/",
+      "feed_url": "https://blessingofkings.blogspot.com/feeds/posts/default",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "B"
@@ -959,6 +967,14 @@
       "name": "Home on devz.cl",
       "site_url": "https://devz.cl/",
       "feed_url": "https://devz.cl/index.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "H"
+    },
+    {
+      "name": "Honor's Code",
+      "site_url": "https://honorscode.blogspot.com/",
+      "feed_url": "https://honorscode.blogspot.com/feeds/posts/default",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "H"
@@ -2324,6 +2340,14 @@
       "initial": "T"
     },
     {
+      "name": "The Digital Antiquarian",
+      "site_url": "https://www.filfre.net/",
+      "feed_url": "https://www.filfre.net/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "T"
+    },
+    {
       "name": "The Dragon Chronicle",
       "site_url": "https://www.thedragonchronicle.com/",
       "feed_url": "http://feeds.feedburner.com/lazy-sniper/iEkg",
@@ -2399,6 +2423,14 @@
       "name": "The MMOist",
       "site_url": "https://themmoist.wordpress.com/",
       "feed_url": "https://themmoist.wordpress.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "T"
+    },
+    {
+      "name": "The Nosy Gamer",
+      "site_url": "https://nosygamer.blogspot.com/",
+      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "T"
@@ -2503,6 +2535,14 @@
       "name": "Toby Geeks Out",
       "site_url": "https://tobygeeksout.micro.blog/",
       "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "T"
+    },
+    {
+      "name": "Tome of the Ancient",
+      "site_url": "https://tomeoftheancient.wordpress.com/",
+      "feed_url": "https://tomeoftheancient.wordpress.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "T"
@@ -2676,6 +2716,14 @@
       "initial": "W"
     },
     {
+      "name": "World of Matticus",
+      "site_url": "https://worldofmatticus.com/",
+      "feed_url": "https://worldofmatticus.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "W"
+    },
+    {
       "name": "Wry Writer",
       "site_url": "https://wrywriter.ca",
       "feed_url": "https://wrywriter.ca/posts_feed",
@@ -2760,6 +2808,14 @@
       "site_url": "https://leehenry.top/",
       "feed_url": "https://leehenry.top/rss.xml",
       "language": "Chinese",
+      "directory_group": "other-languages",
+      "initial": "other-languages"
+    },
+    {
+      "name": "情報の灯台",
+      "site_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "language": "Japanese",
       "directory_group": "other-languages",
       "initial": "other-languages"
     },
