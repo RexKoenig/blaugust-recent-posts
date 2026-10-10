@@ -1,12 +1,111 @@
 {
-  "generated_at": "2026-10-09T22:38:08.858475Z",
-  "source_generated_at": "2026-10-09T22:37:33.502428Z",
+  "generated_at": "2026-10-10T12:31:27.290153Z",
+  "source_generated_at": "2026-10-10T12:30:34.591098Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
   "summary_count": 19,
   "posts": [
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "We'll Always Be Middle Class, We’ll Always Be Floating",
+      "post_url": "https://bhagpuss.blogspot.com/2026/10/well-always-be-middle-class-well-always.html",
+      "published": "2026-10-10T12:06:32Z",
+      "summary": "A music-focused reflection on punk identity, personal history, and assorted songs spanning heavy metal, post-rock, shoegaze, pop, and dance."
+    },
+    {
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Martin Schuhmann - October 10, 2026 13:15",
+      "post_url": "https://martinschuhmann.com/blog/8100b43b",
+      "published": "2026-10-10T11:15:00Z",
+      "summary": null
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Rain or shine, your city/town/burg is beautiful. Show us the magic",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/10/rain-or-shine-your-city-town-burg-is-beautiful-show-us-the-magic/",
+      "published": "2026-10-10T10:23:48Z",
+      "summary": "NomadWarMachine presents a seasonal photography prompt and shares a garden scene featuring Fair Flora, an apple tree, cherry foliage, and a fuchsia named ‘Delta’s Sarah’."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Supraviețuitorii",
+      "post_url": "https://thinkroot.xyz/supravietuitorii-694",
+      "published": "2026-10-10T07:53:02Z",
+      "summary": "The page identifies “Supraviețuitorii” as a 2015 title listed on TMDb, but provides no further substantive information about its plot or subject."
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com/",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Stalk’s Videogame Corner: Shin Megami Tensei V: Vengeance",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/10/10/stalks-videogame-corner-shin-megami-tensei-v-vengeance/",
+      "published": "2026-10-10T07:00:00Z",
+      "summary": "A review of Shin Megami Tensei V: Vengeance examines its story, biblical mythology, expanded Vengeance storyline, gameplay, characters, and enhancements over the original release."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Quote your replies",
+      "post_url": "https://rishidass.net/posts/quote-your-replies",
+      "published": "2026-10-10T05:59:00Z",
+      "summary": "The piece criticizes customer-support companies for quoting automated acknowledgments instead of customers’ original messages, forcing recipients to reconstruct their inquiries."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Koa, some ideas & Gemini",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/10/koa-some-ideas-gemini/",
+      "published": "2026-10-10T05:00:29Z",
+      "summary": "Cynni describes her occasional AI use and shares generated images and animations portraying her chocolate Labrador Koa alongside cherished dogs and affectionate fantasy scenes."
+    },
+    {
+      "blog_title": "Small Good Things",
+      "blog_url": "https://hollie.eilloh.net/",
+      "feed_url": "https://hollie.eilloh.net/rss.xml",
+      "post_title": "Bit of a hard day today",
+      "post_url": "https://hollie.eilloh.net/posts/bit-of-a-hard-day-today",
+      "published": "2026-10-10T02:31:08Z",
+      "summary": "After recovering from COVID, the writer describes renewed nervous-system stress, startling, extreme forgetfulness, concern about returning to older patterns, and plans for rest and recovery exercises."
+    },
+    {
+      "blog_title": "Kelson Vibber: New Posts",
+      "blog_url": "https://kvibber.com/",
+      "feed_url": "https://kvibber.com/feed.xml",
+      "post_title": "Open Camera (app review)",
+      "post_url": "https://kvibber.com/reviews/apps/open-camera/",
+      "published": "2026-10-10T02:00:30Z",
+      "summary": "Open Camera is reviewed alongside /e/OS’s camera app, covering manual controls, lens switching, geolocation toggles, panorama use, quality settings, and lock-screen replacement."
+    },
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "What Do You Stand For? What Do You Fall For?",
+      "post_url": "https://brennan.day/what-do-you-stand-for-what-do-you-fall-for/",
+      "published": "2026-10-10T02:00:00Z",
+      "summary": "Brennan Day examines workplace retaliation over generative AI, political expression, and activism, urging those with privilege to defend personal values and democratic freedoms."
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Alien Resurrection (1997) — ⭐⭐ (2/5)",
+      "post_url": "https://michaelharley.net/watching/2026/10/09/alien-resurrection/",
+      "published": "2026-10-10T00:03:50Z",
+      "summary": "Alien Resurrection follows a cloned Ellen Ripley and smugglers battling newly bred aliens, while Michael Harley’s review criticizes its lack of plot."
+    },
     {
       "blog_title": "Alessandro Cuzzocrea",
       "blog_url": "https://alessandrocuzzocrea.com",
@@ -15,6 +114,42 @@
       "post_url": "https://alessandrocuzzocrea.com/reverse-engineering-octopath-traveler-therion-steal-success-rate/",
       "published": "2026-10-10T00:00:00Z",
       "summary": "Alessandro Cuzzocrea reverse-engineers Octopath Traveler’s Steal Path Action, detailing its data tables, difficulty calculation, Thieving Tips & Tricks bonus, and success-rate roll."
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Saturday, 10 October 2026",
+      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-10.html",
+      "published": "2026-10-10T00:00:00Z",
+      "summary": "A daily blogroll surveys gaming, including EverQuest II, World of Warcraft, Castlevania, EVE Online, Pragmata, and id Software, alongside personal, technology, and fishing updates."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Trump Is Still Trying to Make ‘Super Intelligence’ Happen",
+      "post_url": "https://truthsocial.com/@realDonaldTrump/117406176604364910",
+      "published": "2026-10-09T23:56:53Z",
+      "summary": "The piece satirizes Donald Trump’s push to replace “Artificial Intelligence” with “Super Intelligence,” including Elon Musk’s proposed company renaming and altered Justice Department language."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - turned myself into a bat",
+      "post_url": "https://pretendtypewriter.net/note-turned-myself-into-a-bat/",
+      "published": "2026-10-09T23:07:39Z",
+      "summary": "The blogger describes giving Pretend Typewriter a temporary Halloween makeover inspired by fellow bloggers, with further small changes planned."
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "毎度毎度",
+      "post_url": "https://elve.club/entry/2026/10/10/073803?utm_source=feed",
+      "published": "2026-10-09T22:38:03Z",
+      "summary": "The writer reflects humorously on developing feelings for a man on the same platform and struggling to express the resulting poetic emotions publicly."
     },
     {
       "blog_title": "Priest with a Cause",
@@ -35,22 +170,13 @@
       "summary": "Capcom’s Pragmata follows Hugh and android Diana through an abandoned lunar station, combining third-person shooting, grid-based hacking, exploration, upgrades, and character-focused storytelling."
     },
     {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "飲みに行こう、そうしよう２",
-      "post_url": "https://elve.club/entry/2026/10/10/070434?utm_source=feed",
-      "published": "2026-10-09T22:04:34Z",
-      "summary": "A planned drinks meeting in Ikebukuro is delayed for hours, prompting reflections on dating, generational differences, employment, parenthood, trust, and life choices."
-    },
-    {
-      "blog_title": "Kelson Vibber: New Posts",
-      "blog_url": "https://kvibber.com/",
-      "feed_url": "https://kvibber.com/feed.xml",
-      "post_title": "Two Months With the Fairphone 4 (phone review)",
-      "post_url": "https://kvibber.com/reviews/products/fairphone4/",
-      "published": "2026-10-09T21:53:12Z",
-      "summary": "Kelson Vibber reviews two months with the Fairphone 4, covering its repairable hardware, camera, performance, network compatibility, /e/OS, app support, and durability."
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "tv",
+      "post_url": "https://write.as/blog-x2600/bunny-ears?pk_campaign=rss-feed",
+      "published": "2026-10-09T21:44:57Z",
+      "summary": "The post reflects on bunny-ear CRT television, synchronized live over-the-air broadcasts, and questions why standard free television technology was discontinued."
     },
     {
       "blog_title": "Sylvia's Studio",
@@ -60,132 +186,6 @@
       "post_url": "https://sylvia.studio/posts/why-ive-stopped-tracking-what-i-read-and-my-habits",
       "published": "2026-10-09T20:53:00Z",
       "summary": "Sylvia describes abandoning app-based tracking of reading, writing, and routines, instead using flexible book stacks and a Filofax to support untracked habits."
-    },
-    {
-      "blog_title": "A parenthetical departure",
-      "blog_url": "https://departure.blog/",
-      "feed_url": "https://sylvia.bearblog.dev/feed/",
-      "post_title": "Spicy (Weird Web October)",
-      "post_url": "https://departure.blog/wwo/2026/9-spicy/",
-      "published": "2026-10-09T20:44:00Z",
-      "summary": "A brief, conversational post recounts plans involving tea places, reluctance to visit London without buying tea, and an impulsive button click."
-    },
-    {
-      "blog_title": "Matt's Blog",
-      "blog_url": "https://mtwb.blog/",
-      "feed_url": "https://mtwb.blog/index.xml",
-      "post_title": "This Is A Test",
-      "post_url": "https://mtwb.blog/posts/2026/this-is-a-test/",
-      "published": "2026-10-09T20:32:42Z",
-      "summary": "Matt describes developing a Python script with Docker and GitLab CI to automatically post blog entries to Mastodon and retrieve toot IDs for comments."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "TO KILL A MOSQUITO",
-      "post_url": "https://pretendtypewriter.net/to-kill-a-mosquito/",
-      "published": "2026-10-09T20:29:00Z",
-      "summary": "A couple confronts a returning mosquito at dawn, recounts their nighttime extermination tactics and bites, and investigates whether houseplants could support future breeding."
-    },
-    {
-      "blog_title": "Wry Writer",
-      "blog_url": "https://wrywriter.ca",
-      "feed_url": "https://wrywriter.ca/posts_feed",
-      "post_title": "Chaos Vector by Megan E. O’Keefe",
-      "post_url": "https://wrywriter.ca/posts/chaos-vector-by-megan-e-okeefe",
-      "published": "2026-10-09T19:04:00Z",
-      "summary": "Megan E. O’Keefe’s Chaos Vector continues Velocity Weapon with political intrigue, action, betrayals, character development, expanded backstory, battles, misdirection, and startling revelations."
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Thingalene – Abdallah Ag Oumbadougou",
-      "post_url": "https://amf.didiermary.fr/abdallah-ag-oumbadougou-thingalene/",
-      "published": "2026-10-09T18:30:22Z",
-      "summary": "Abdallah Ag Oumbadougou’s 1995 Benin recording “Anou Malane” blends politically charged Tuareg guitar music with programmed rhythms and synthesizers, creating Afro-boogie-inflected desert blues."
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "🍿 Now Watching: Carrie Season 1 (2026)",
-      "post_url": "https://tobygeeksout.micro.blog/2026/10/09/now-watching-carrie-season.html",
-      "published": "2026-10-09T18:12:22Z",
-      "summary": "Carrie navigates grief, high-school bullying, social-media cruelty, and emerging telekinetic powers in a 2026 series created by Mike Flanagan."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Steam flags nearly 7,000 Early Access games as not updated in a year. Yet six in ten reviewed games reach full release",
-      "post_url": "https://gamerofpassion.com/steam-early-access-study/",
-      "published": "2026-10-09T17:47:07Z",
-      "summary": "Gamer Of Passion analyzes Steam Early Access outcomes, finding that 61% of reviewed games entering between 2013 and 2023 reached full release while many stalled."
-    },
-    {
-      "blog_title": "Forking Mad+",
-      "blog_url": "https://forkingmad.blog/",
-      "feed_url": "https://forkingmad.blog/feed/",
-      "post_title": "Nudity: a surprising and reflective experience!",
-      "post_url": "https://forkingmad.blog/nudity-a-surprising-and-reflective-experience/",
-      "published": "2026-10-09T17:16:00Z",
-      "summary": "Three friends visiting Spain unexpectedly spend a day at a mixed nudist beach, sharing drinks, swimming, changing clothes, and reflecting on newfound experiences."
-    },
-    {
-      "blog_title": "Scormus Fails",
-      "blog_url": "https://scormey.com/",
-      "feed_url": "https://scormey.com/feed/",
-      "post_title": "Roll the Bones: Ten Candles",
-      "post_url": "https://scormey.com/2026/10/09/roll-the-bones-ten-candles/",
-      "published": "2026-10-09T17:00:00Z",
-      "summary": "Ten Candles is a tabletop roleplaying game of tragic horror, using ten tealights and minimal preparation to guide players through an inevitable, grisly descent toward death."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Words that are not right",
-      "post_url": "https://francescrossley.com/words-that-are-not-right/",
-      "published": "2026-10-09T17:00:00Z",
-      "summary": "A humorous reflection on English words that feel incorrect, misleading, contradictory, or culturally awkward, including irregular verbs, contronyms, and regional expressions."
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - October 09, 2026 18:55",
-      "post_url": "https://martinschuhmann.com/blog/1f7915f4",
-      "published": "2026-10-09T16:55:00Z",
-      "summary": null
-    },
-    {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "raving lunatic",
-      "post_url": "https://nosrednayduj.dreamwidth.org/189263.html",
-      "published": "2026-10-09T16:12:47Z",
-      "summary": "A first-time rave in Cambridge features late-night dancing, vinyl DJ techniques, colorful poi performances, safety observations, and conversations with strangers afterward."
-    },
-    {
-      "blog_title": "Portrait of the Man as a...",
-      "blog_url": "https://angrybunnyman.com/",
-      "feed_url": "https://angrybunnyman.com/feed/",
-      "post_title": "The tension between a fear of being abandoned and also not wanting to be seen so corporate data gathering doesn't really get you",
-      "post_url": "https://angrybunnyman.com/the-tension-between-a-fear-of-being-abandoned-and-also-not-wanting-to-be-seen-so-corporate-data-gathering-doesnt-really-get-you/",
-      "published": "2026-10-09T15:46:00Z",
-      "summary": "A personal reflection connects childhood fears of abandonment with pervasive corporate surveillance, consumer tracking, Amazon recommendations, and the visibility created by online shopping data."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "The Road to CSM21 – The Official Candidates List",
-      "post_url": "https://tagn.wordpress.com/2026/10/09/the-road-to-csm21-the-official-candidates-list/",
-      "published": "2026-10-09T15:15:57Z",
-      "summary": "The post outlines the EVE Online Council of Stellar Management 21 election timeline and categorizes announced candidates by affiliations, gameplay areas, and perceived campaign priorities."
     }
   ]
 }
