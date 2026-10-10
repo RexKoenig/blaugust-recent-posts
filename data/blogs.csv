@@ -1,4 +1,4 @@
-name,site_url,feed_url,language,directory_group,status,show_in_directory,include_in_latest,notes
+﻿name,site_url,feed_url,language,directory_group,status,show_in_directory,include_in_latest,notes
 #デザイン 記事まとめ,https://note.com/notemagazine/m/m57787022cedc,https://note.mu/notemag/m/m57787022cedc/rss,Japanese,other-languages,included,yes,yes,
 20ily April,https://20ilyapril.wordpress.com/,https://20ilyapril.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 26g,https://26g.netlify.app/,https://26g.netlify.app/feed.xml,Unspecified,alphabetical,included,yes,yes,
@@ -46,6 +46,7 @@ Biggus Bloggus,https://taterinx.bearblog.dev/,https://taterinx.bearblog.dev/feed
 Bio Break,https://biobreak.wordpress.com/,https://biobreak.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Bitterly Indifferent,https://pmjg.blogspot.com/,https://pmjg.blogspot.com/feeds/posts/default,Unspecified,alphabetical,included,yes,yes,
 Black Hole Reviews,https://blackholereviews.blogspot.com,https://blackholereviews.blogspot.com/feeds/posts/default,Unspecified,alphabetical,included,yes,yes,
+Blessing of Kings,https://blessingofkings.blogspot.com/,https://blessingofkings.blogspot.com/feeds/posts/default,Unspecified,alphabetical,included,yes,yes,Blogger feed currently redirects to FeedBurner; feed delivery not independently confirmed.
 Blog - 鳥啼く頃に,https://torinakukoroni.blog.fc2.com/,https://torinakukoroni.blog.fc2.com/?xml,Japanese,other-languages,included,yes,yes,
 Blog of the Grubby Dog,https://your-local-grubdog.neocities.org/blog/,https://your-local-grubdog.neocities.org/feed.xml,Unspecified,alphabetical,included,yes,yes,
 Blogging on Toby Geeks Out!,https://tobygeeksout.micro.blog/categories/blogging/,https://tobygeeksout.micro.blog/categories/blogging/feed.xml,Unspecified,alphabetical,included,yes,yes,
@@ -121,6 +122,7 @@ Heartlessgamer,http://www.heartlessgamer.com/,http://feeds.feedburner.com/Heartl
 Heidy's Highly Wily MMORPG Blog,https://stoheidy.wordpress.com,https://stoheidy.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 History Will Say This Was Just a Book Blog,https://historywillsaythiswasjustabookblog.wordpress.com/,https://historywillsaythiswasjustabookblog.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Home on devz.cl,https://devz.cl/,https://devz.cl/index.xml,Unspecified,alphabetical,included,yes,yes,
+Honor's Code,https://honorscode.blogspot.com/,https://honorscode.blogspot.com/feeds/posts/default,Unspecified,alphabetical,included,yes,yes,Site indicates new posts have moved to Substack; Blogger feed retained for requested URL.
 Hundstrasse,https://hundstrasse.com/,https://hundstrasse.com/feed/,Unspecified,alphabetical,included,yes,yes,
 I Have Touched the Sky,https://ihavetouchedthesky.blogspot.com/,http://ihavetouchedthesky.blogspot.com/feeds/posts/default,Unspecified,alphabetical,included,yes,yes,
 "I wonder, if I draw a line…",https://sheri42.net,https://sheri42.net/feed/,Unspecified,alphabetical,included,yes,yes,
@@ -292,6 +294,7 @@ The Ancient Gaming Noob,https://tagn.wordpress.com/,http://feeds.feedburner.com/
 The Bibliollama,https://www.bibliollama.uk/,https://www.bibliollama.uk/feed,Unspecified,alphabetical,included,yes,yes,
 The Capsule Critic,https://thecapsulecritic.com/blog/,https://thecapsulecritic.com/feed/,Unspecified,alphabetical,included,yes,yes,
 The Chip Bag,https://blog.kalechips.net/,https://kalechips.net/RSS.xml,Unspecified,alphabetical,included,yes,yes,
+The Digital Antiquarian,https://www.filfre.net/,https://www.filfre.net/feed/,Unspecified,alphabetical,included,yes,yes,
 The Dragon Chronicle,https://www.thedragonchronicle.com/,http://feeds.feedburner.com/lazy-sniper/iEkg,Unspecified,alphabetical,included,yes,yes,
 The EOFFTV Review,https://eofftvreview.wordpress.com,https://eofftvreview.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 The Friendly Necromancer,http://thefriendlynecromancer.blogspot.com/,http://thefriendlynecromancer.blogspot.com/feeds/posts/default,Unspecified,alphabetical,included,yes,yes,
@@ -302,6 +305,7 @@ The Last Chapter Gaming Blog,https://thelastchapterguild.wordpress.com/,https://
 The Lesser Key of St. Byleth,https://saintbyleth.wordpress.com/,https://saintbyleth.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 The Maker Dad,https://themakerdad.com/,https://themakerdad.com/rss/,Unspecified,alphabetical,included,yes,yes,
 The MMOist,https://themmoist.wordpress.com/,https://themmoist.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
+The Nosy Gamer,https://nosygamer.blogspot.com/,https://nosygamer.blogspot.com/feeds/posts/default,Unspecified,alphabetical,included,yes,yes,
 The Sun and The Air,https://criminallyvulgar.dev/,https://criminallyvulgar.dev/feed/,Unspecified,alphabetical,included,yes,yes,
 The Tangent Space,https://thetangent.space/,https://thetangent.space/feed.xml,Unspecified,alphabetical,included,yes,yes,
 The Video Game Obscura,https://vgobscura.neocities.org/,https://vgobscura.neocities.org/rssfeed.xml,Unspecified,alphabetical,included,yes,yes,
@@ -315,6 +319,7 @@ Timbornholdt.com,https://timbornholdt.com/blog,https://www.timbornholdt.com/blog
 Time to Loot,https://www.timetoloot.com/,https://www.timetoloot.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Tobold's Blog,http://tobolds.blogspot.com/,http://feeds2.feedburner.com/ToboldsBlog,Unspecified,alphabetical,included,yes,yes,
 Toby Geeks Out,https://tobygeeksout.micro.blog/,https://tobygeeksout.micro.blog/feed.xml,Unspecified,alphabetical,included,yes,yes,
+Tome of the Ancient,https://tomeoftheancient.wordpress.com/,https://tomeoftheancient.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Tommyeveryday,https://tommyeveryday.mataroa.blog,https://tommyeveryday.mataroa.blog/rss/,Unspecified,alphabetical,included,yes,yes,
 Trevor's Cold Toast,https://coldtoast.org/,https://coldtoast.org/index.xml,Unspecified,alphabetical,included,yes,yes,
 Ubergeek Kelly's World,https://www.kgadams.net/,https://www.kgadams.net/feed,Unspecified,alphabetical,included,yes,yes,
@@ -336,6 +341,7 @@ When a Gamer Girl Grows up,https://grownupgamergirl.wordpress.com/,https://grown
 Why I Game,https://whyigame.wordpress.com/,http://whyigame.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Words and essays and more,https://www.omz13.com/,https://www.omz13.com/feed.rss,Unspecified,alphabetical,included,yes,yes,
 Words Under My Name,https://wordsundermyname.wordpress.com/,https://wordsundermyname.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
+World of Matticus,https://worldofmatticus.com/,https://worldofmatticus.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Wry Writer,https://wrywriter.ca,https://wrywriter.ca/posts_feed,Unspecified,alphabetical,included,yes,yes,
 WW0CJ,https://ww0cj.radio/,https://ww0cj.radio/feed/,Unspecified,alphabetical,included,yes,yes,
 X2600,https://write.as/blog-x2600/,https://write.as/blog-x2600/feed/,Unspecified,alphabetical,included,yes,yes,
@@ -345,5 +351,6 @@ Yordi - A Lifelong Journey of Growth,https://yordi.me/,https://yordi.me/feed/,Un
 コーポ雪原,https://coop-setsugen.com/,https://coop-setsugen.com/feed.xml,Japanese,other-languages,included,yes,yes,
 スナックエルベ,https://elve.club/,https://elve.club/feed,Japanese,other-languages,included,yes,yes,
 伏枥之间,https://leehenry.top/,https://leehenry.top/rss.xml,Chinese,other-languages,included,yes,yes,
+情報の灯台,https://joho-todai.com/,https://joho-todai.com/pinterest-rss/,Japanese,other-languages,included,yes,yes,Excerpt-only RSS feed explicitly requested by site owner; do not replace with full-content feed.
 粉红路,https://pinkway.mataroa.blog/,https://pinkway.mataroa.blog/rss/,Chinese,other-languages,included,yes,yes,
 素生,https://z.arlmy.me/,http://z.arlmy.me/atom.xml,Chinese,other-languages,included,yes,yes,
