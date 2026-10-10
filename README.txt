@@ -1,160 +1,185 @@
-BLAUGUST BLOGROLL — SINGLE-SOURCE SETUP
-=======================================
+BLAUGUST BLOGROLL - MAINTENANCE AND DATA NOTES
+=============================================
+Last revised: 10 October 2026
 
 PURPOSE
 -------
-This version uses one authoritative file:
+The Blaugust blogroll is a living directory, not a fixed historical list.
+Its single authoritative source is:
 
     data/blogs.csv
 
-Both the alphabetical blog directory and the twenty latest posts are generated
-from that CSV. Once installed, routine changes should normally require editing
-only this one file in GitHub.
+The alphabetical directory and the "twenty latest posts" feature are both
+built from this CSV. Routine additions, removals and corrections should be
+made in this file, rather than in the generated website data or Squarespace
+code.
 
-CURRENT IMPORT
---------------
-The master CSV was created from Feedly Blogroll.opml supplied on 6 August 2026.
-It contains 272 rows:
+DIRECTORY STATUS AND CURRENCY
+-----------------------------
+The directory is continually reviewed and updated as blogs are suggested,
+addresses change, feeds move, sites close or information is corrected.
+Consequently:
 
-- 271 visible directory entries
-- 8 entries in the Other Languages section
-- 1 disabled legacy duplicate for Orbital Martian
+- Entries, names, web addresses, feed URLs and classifications may be revised.
+- Earlier entries or feed addresses may be superseded by newer, more accurate
+  details. A record's presence in an old copy does not make it current.
+- An obsolete or duplicate entry may be retained for reference but hidden
+  from the public directory and excluded from the latest-posts feature.
+- Inclusion does not guarantee that a site is still active, that its RSS/Atom
+  feed is working or that it will appear in the latest-posts panel.
+- The directory is a best-efforts community resource, not an exhaustive or
+  permanent register of Blaugust participants.
+- Counts quoted in documentation or older exports are snapshots only. The
+  current directory display and master CSV take precedence.
 
-The original and previous OPML files are retained under data/archive for
-reference only. They are not used by the live system.
+Please consult the latest committed version of data/blogs.csv before
+relying on an older copy, quoting a total or reviving a superseded address.
+
+CURRENT CSV SNAPSHOT - 10 OCTOBER 2026
+--------------------------------------
+The accompanying updated blogs.csv contains:
+
+- 355 records in total
+- 354 entries enabled for public display
+- 344 visible entries in the alphabetical section
+- 10 visible entries in Other Languages
+- 1 hidden, disabled legacy duplicate (OrbitalMartian)
+
+These figures will change as the list is maintained. They should not be
+used as fixed totals in website copy.
+
+The original master CSV was assembled from a Feedly Blogroll OPML export
+supplied on 6 August 2026. Many subsequent changes and additions have
+superseded that initial import. Archived OPML files, where retained under
+data/archive, are historical references and are not live data sources.
 
 MASTER CSV COLUMNS
 ------------------
 name
-    The blog name shown to visitors.
+    The blog name displayed to visitors.
 
 site_url
     The address opened when a visitor selects the blog.
 
 feed_url
-    The RSS or Atom feed checked for the latest-post panel.
+    The RSS or Atom feed used by the latest-posts process.
 
 language
-    Administrative label. The eight obvious non-English-script blogs have
-    initially been marked Japanese, Chinese or Arabic. Other rows are marked
-    Unspecified because OPML does not contain dependable language metadata.
+    Administrative language label. Many entries remain "Unspecified"
+    where reliable language information was not supplied.
 
 directory_group
     Use alphabetical or other-languages.
 
 status
-    Administrative note such as included, inactive or duplicate. This field
-    does not itself hide a row.
+    Administrative description such as included, inactive or duplicate.
+    This field does not, by itself, hide a record.
 
 show_in_directory
-    yes = display the blog in the directory
-    no  = keep the row in the master file but hide it from the directory
+    yes = publish the blog in the directory
+    no  = retain the record without displaying it
 
 include_in_latest
-    yes = check the feed for the twenty latest posts
-    no  = do not check the feed
+    yes = make the feed eligible for the latest-posts check
+    no  = exclude it from that check
+    A value of yes does not guarantee a recent post will be found or shown.
 
 notes
-    Optional maintenance notes. These are never published on the website.
+    Optional internal maintenance notes, not published on the website.
+    Use them to document redirects, feed restrictions, superseded records
+    and other details needed for future updates.
 
-HOW TO EDIT THE LIST LATER
---------------------------
-1. Open data/blogs.csv in the GitHub repository.
-2. Select the pencil icon to edit it.
-3. Change, add or remove rows.
-4. Commit the change to the main branch.
-5. GitHub Actions validates the CSV, rebuilds the directory, checks eligible
-   feeds and republishes GitHub Pages.
+FEEDS AND SITE-OWNER PREFERENCES
+--------------------------------
+Use the feed selected or approved by the site owner when one has been
+specified. Do not automatically substitute a full-text feed for a requested
+excerpt-only feed, even if another feed is easier to discover.
 
-The Squarespace page then loads the revised data automatically. No fresh OPML
-export or replacement of the directory HTML should be necessary.
+For example, the site 情報の灯台 (Joho Todai) specifically requested:
+
+    https://joho-todai.com/pinterest-rss/
+
+This is its requested excerpt-only feed. Preserve that address unless the
+site owner asks for a change. The choice is also recorded in the CSV notes.
+
+When a feed moves or redirects, verify its replacement before updating the
+CSV. Record unresolved issues in notes rather than assuming that a feed
+is valid. Some blogs may remain listed even if their feeds are unavailable.
+
+ADDING, CORRECTING OR RETIRING ENTRIES
+-------------------------------------
+1. Open data/blogs.csv in the blaugust-recent-posts GitHub repository.
+2. Edit the existing entry or add the new row, keeping the column order.
+3. Check that the blog name, site URL and feed URL are appropriate and
+   that the feed respects any preference expressed by the owner.
+4. For a superseded or duplicate record, normally set
+   show_in_directory=no and include_in_latest=no. Explain the replacement
+   or reason in notes. Remove a record completely only when appropriate.
+5. Commit the change to the main branch.
+6. Check the "Update Blaugust directory and recent posts" GitHub Actions
+   workflow for successful validation and regeneration.
+7. Check the published directory and, where relevant, the latest-posts
+   display. Feed eligibility is not proof of successful retrieval.
+
+Routine changes should not require a fresh OPML export or edits to the
+Squarespace directory HTML. Its data is loaded from the published output.
 
 IMPORTANT CSV RULES
 -------------------
-- Do not rename or remove the header row.
-- Each feed_url must be unique.
-- site_url and feed_url must begin with http:// or https://.
-- show_in_directory and include_in_latest should contain yes or no.
-- directory_group must be alphabetical or other-languages.
-- If a field contains a comma, GitHub's CSV editor must retain quotation marks
-  around that field.
+- Keep all nine column names and their existing order.
+- Every feed_url must be unique across the CSV, including disabled rows.
+- site_url and feed_url must start with http:// or https://.
+- show_in_directory and include_in_latest accept yes or no.
+- directory_group accepts alphabetical or other-languages.
+- Preserve valid CSV quotation marks around fields containing commas,
+  quotation marks or line breaks.
+- Save the file as UTF-8 so international blog names remain intact.
+- Record any relevant replacement, redirect or exception in notes.
 
-FILES TO UPLOAD TO GITHUB
+SYSTEM FILES
+------------
+Source of truth:
+
+    data/blogs.csv
+
+Build script and automation named in the original setup:
+
+    scripts/build_site_data.py
+    .github/workflows/update-recent-posts.yml
+
+Published page and generated output:
+
+    docs/directory.html
+    docs/blog-directory.json
+    docs/blog-directory-data.js
+    docs/latest-posts.json
+    docs/latest-posts-data.js
+    data/feed-cache.json
+
+The generated JSON and JavaScript files should not be edited as an
+alternative to changing the master CSV. The GitHub workflow regenerates them.
+The existing Squarespace widgets consume the published data.
+
+CHECKS AND TROUBLESHOOTING
 --------------------------
-Upload the complete contents of this folder to the existing
-blaugust-recent-posts repository, preserving the folder structure.
-
-The active new files are:
-
-- data/blogs.csv
-- scripts/build_site_data.py
-- .github/workflows/update-recent-posts.yml
-- squarespace-blog-directory-widget.txt
-- squarespace-directory-iframe-fallback.txt
-- docs/directory.html
-
-The workflow will generate and maintain:
-
-- docs/blog-directory.json
-- docs/blog-directory-data.js
-- docs/latest-posts.json
-- docs/latest-posts-data.js
-- data/feed-cache.json
-
-OLD FILES TO REMOVE FROM GITHUB
--------------------------------
-After the new files are uploaded, delete these old active files from the root
-repository if they remain there:
-
-- data/feedly.opml
-- data/overrides.json
-- scripts/build_recent_posts.py
-- layout-preview.html
-
-Copies of the old OPML and overrides are included in data/archive.
-
-FIRST GITHUB TEST
------------------
-1. Open the repository's Actions tab.
-2. Select "Update Blaugust directory and recent posts".
-3. Select Run workflow.
-4. Wait for the run to show a green tick.
-5. Check these GitHub Pages addresses, replacing YOUR-GITHUB-USERNAME:
-
-   https://YOUR-GITHUB-USERNAME.github.io/blaugust-recent-posts/
-   https://YOUR-GITHUB-USERNAME.github.io/blaugust-recent-posts/directory.html
-
-SQUARESPACE CHANGE
-------------------
-The existing recent-post widget can remain in place because it continues to use
-latest-posts-data.js at the same address.
-
-Replace the old static alphabetical directory code with the contents of:
-
-    squarespace-blog-directory-widget.txt
-
-Before pasting, replace YOUR-GITHUB-USERNAME with the same GitHub username used
-in the existing recent-post widget.
-
-The new directory provides:
-
-- All, 0-9 and A-Z filtering buttons
-- an Other Languages button
-- a blog-name search box
-- automatic totals
-- two-column desktop and one-column mobile layouts
-
-ROLLBACK
---------
-Do not remove the existing Squarespace directory until the GitHub Pages preview
-works. Keep a copy of the old Squarespace code temporarily. If a problem occurs,
-restore that old code while the repository is corrected.
-
-LOCAL VALIDATION
-----------------
-The CSV and directory can be validated without checking external feeds:
+To validate the CSV and directory without checking external feeds, run from
+the repository root:
 
     python scripts/build_site_data.py --directory-only
 
-The normal GitHub workflow runs without that option and therefore also checks
-all feeds enabled by include_in_latest.
+The normal GitHub workflow runs without that option and checks feeds that
+have include_in_latest=yes. A successful build does not necessarily mean
+every external feed returned usable content; investigate individual feed
+issues separately.
+
+For major changes, retain a copy of the previous working file or rely on
+GitHub commit history for rollback. If publication fails, inspect the
+GitHub Actions log before changing Squarespace embed code.
+
+DOCUMENTATION NOTE
+------------------
+This README describes the directory's current maintenance approach as of
+10 October 2026. It is also subject to revision. Earlier setup instructions,
+old OPML imports, older CSV exports and previous README versions may be
+outdated or superseded. The latest repository configuration and committed
+master CSV are authoritative for the running directory.
