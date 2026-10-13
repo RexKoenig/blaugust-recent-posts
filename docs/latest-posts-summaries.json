@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T00:39:21.394378Z",
-  "source_generated_at": "2026-10-13T00:38:50.568107Z",
+  "generated_at": "2026-10-13T14:11:02.290223Z",
+  "source_generated_at": "2026-10-13T14:10:25.732866Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -8,13 +8,175 @@
   "summary_count": 19,
   "posts": [
     {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Overboard (2018) — Gender-swapping a ridiculous premise",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/13/overboard-2018-gender-swapping-a-ridiculous-premise/",
+      "published": "2026-10-13T13:01:32Z",
+      "summary": "The review examines Overboard (2018), evaluating its gender-swapped amnesia premise, performances, questionable morality, excessive length, language use, and connections to the 1987 original."
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Dune Awakening: The Returnining",
+      "post_url": "https://chasingdings.com/2026/10/13/dune-awakening-the-returnining/",
+      "published": "2026-10-13T12:19:16Z",
+      "summary": "The writer returns to Dune: Awakening solo, using relaxed settings to revisit story content while progressing through Harkonnen quests and considering renewed spice harvesting."
+    },
+    {
+      "blog_title": "Monsterlady's Diary",
+      "blog_url": "https://monsterladysdiary.wordpress.com/",
+      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
+      "post_title": "Wanderstop – Break for Tea Time",
+      "post_url": "https://monsterladysdiary.wordpress.com/2026/10/13/wanderstop-break-for-tea-time/",
+      "published": "2026-10-13T12:00:00Z",
+      "summary": "Wanderstop follows weary warrior Alta as she manages a tranquil tea shop, grows plants, serves customers, cares for pluffins, and confronts burnout through story-driven encounters."
+    },
+    {
+      "blog_title": "Alligators and aneurysms!",
+      "blog_url": "https://alligatorsandaneurysms.wordpress.com/",
+      "feed_url": "http://alligatorsandaneurysms.wordpress.com/feed/",
+      "post_title": "A Fun Read, But A Bit Of First-Person Overload: Threshing Day By Rebecca Yarros",
+      "post_url": "https://alligatorsandaneurysms.wordpress.com/2026/10/13/a-fun-read-but-a-bit-of-first-person-overload-threshing-day-by-rebecca-yarros/",
+      "published": "2026-10-13T11:20:18Z",
+      "summary": "A review of Rebecca Yarros’s Threshing Day praises its character moments, dragon bonds, and artwork while noting repetitive first-person perspectives and limited significance."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Men go out drinking for two reasons: They don't have a wife They …",
+      "post_url": "https://thinkroot.xyz/nota-704",
+      "published": "2026-10-13T10:53:04Z",
+      "summary": "ThinkRoot’s Journal presents a brief humorous observation that men go out drinking either because they have no wife or because they do."
+    },
+    {
+      "blog_title": "Blog - 鳥啼く頃に",
+      "blog_url": "https://torinakukoroni.blog.fc2.com/",
+      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
+      "post_title": "「なんもしない」をしに西浦温泉に行ってきた",
+      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-400.html",
+      "published": "2026-10-13T10:42:31Z",
+      "summary": "A two-night stay at Nishiura Onsen focused on relaxing, bathing, walking, reading manga and novels, enjoying meals, and limiting activities."
+    },
+    {
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Martin Schuhmann - October 13, 2026 12:25",
+      "post_url": "https://martinschuhmann.com/blog/f2d3fa6c",
+      "published": "2026-10-13T10:25:00Z",
+      "summary": "Martin Schuhmann announces becoming a Special Fish Supporter and expresses satisfaction about supporting Elliott’s work."
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "History of Advertising Trust turns 50",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/13/history-of-advertising-trust-turns-50/",
+      "published": "2026-10-13T09:45:22Z",
+      "summary": "The History of Advertising Trust archives 50 years of British advertising, including video, audio, print commercials, ghost signs, and frog-themed materials."
+    },
+    {
+      "blog_title": "素生",
+      "blog_url": "https://z.arlmy.me/",
+      "feed_url": "http://z.arlmy.me/atom.xml",
+      "post_title": "主动代谢",
+      "post_url": "https://z.arlmy.me/posts/Essays/2026/MaxwellDemon_20261013/",
+      "published": "2026-10-13T08:54:03Z",
+      "summary": null
+    },
+    {
+      "blog_title": "Overage-Gaming",
+      "blog_url": "https://overage-gaming.com/",
+      "feed_url": "https://overage-gaming.com/feed/",
+      "post_title": "Wizard Tournament: Backpack Battles Meets Tower Defense and It Is Glorious (Gameplay)",
+      "post_url": "https://overage-gaming.com/2026/10/13/wizard-tournament-backpack-battles-meets-tower-defense-and-it-is-glorious-gameplay/",
+      "published": "2026-10-13T07:01:00Z",
+      "summary": "A Let’s Play video introduces Wizard Tournament, an auto battler combining tower construction, positional synergies, asynchronous PvP against player-made towers, and online co-op."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Nothing on your mind",
+      "post_url": "https://rishidass.net/posts/nothing-on-your-mind",
+      "published": "2026-10-13T06:13:35Z",
+      "summary": "Rishi Dass argues that maintaining a complete, current inventory of commitments enables focused attention, while unprocessed obligations create anxiety, dread, and persistent mental distraction."
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "🎬 MaXXXine (2024)",
+      "post_url": "https://tobygeeksout.micro.blog/2026/10/13/maxxxine.html",
+      "published": "2026-10-13T05:50:14Z",
+      "summary": "A brief review of MaXXXine compares it with X and Pearl, while summarizing its 1980s Hollywood setting, cast, premise, and director Ti West."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Journal – Week 41, October 2026",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/13/journal-week-41-october-2026/",
+      "published": "2026-10-13T05:00:00Z",
+      "summary": "Cynni’s Week 41 journal describes fluctuating sleep, energy, pain, emotions, weather, daily routines with Koa, blogging, AI use, and household difficulties."
+    },
+    {
+      "blog_title": "Gaudete Theology",
+      "blog_url": "https://gaudetetheology.wordpress.com/",
+      "feed_url": "http://gaudetetheology.wordpress.com/feed/",
+      "post_title": "Reblog: St. Matthew of the Shepherds",
+      "post_url": "https://gaudetetheology.wordpress.com/2026/10/12/reblog-st-matthew-of-the-shepherds/",
+      "published": "2026-10-13T03:29:55Z",
+      "summary": "The post remembers Matthew Shepard as a modern saint, describing his Wyoming upbringing, friendly personality, interests in politics and theater, martyrdom, and status as a hate-crime victim."
+    },
+    {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "4日間で3か所。ヤンデックスのデータセンター攻撃で84超のクラウドサービスが停止",
-      "post_url": "https://joho-todai.com/yandex-datacenter-attack-cloud-services-outage/",
-      "published": "2026-10-13T00:35:19Z",
-      "summary": null
+      "post_title": "Exchange管理センターが構成変更で約5時間停止、Microsoftの「同じ失敗」がまた1件増えた",
+      "post_url": "https://joho-todai.com/exchange-admin-center-outage-microsoft-failure/",
+      "published": "2026-10-13T02:19:43Z",
+      "summary": "Exchange Admin Center became inaccessible for about five hours after a configuration change caused unexpected HTTP responses, prompting rollback and renewed scrutiny of Microsoft’s prevention measures."
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Carrie (2026) — ⭐⭐⭐⭐ (4/5)",
+      "post_url": "https://michaelharley.net/watching/2026/10/12/carrie-s1/",
+      "published": "2026-10-13T01:07:00Z",
+      "summary": "Carrie follows a teenager coping with her father’s death, viral bullying, social-media cruelty, and emerging telekinetic powers during her first year of high school."
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Tuesday, 13 October 2026",
+      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-13.html",
+      "published": "2026-10-13T00:00:00Z",
+      "summary": "The Daily Blogroll surveys gaming updates, seasonal events, entertainment news, technology links, security developments, personal weeknotes, and commentary on social platforms."
+    },
+    {
+      "blog_title": "Tommyeveryday",
+      "blog_url": "https://tommyeveryday.mataroa.blog",
+      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
+      "post_title": "Tuesday October 13, 2026",
+      "post_url": "https://tommyeveryday.mataroa.blog/blog/tuesday-october-13-2026/",
+      "published": "2026-10-13T00:00:00Z",
+      "summary": "A daily journal recounts rest, household chores, writing about supporting the Guardians, baseball games, meals, a nap, and ordinary activities at home."
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "anomalies and night happenings I",
+      "post_url": "https://write.as/blog-x2600/nomalies-and-night-happenings-i?pk_campaign=rss-feed",
+      "published": "2026-10-12T23:01:07Z",
+      "summary": "An account from Sacred Hearts Cemetery describes a low-flying sky anomaly, recurring dodo-like silhouettes, and a fighter-jet sound that abruptly vanished."
     },
     {
       "blog_title": "Joelchrono's blog",
@@ -24,168 +186,6 @@
       "post_url": "https://joelchrono.xyz/blog/2026-w41/",
       "published": "2026-10-12T23:00:00Z",
       "summary": "Joelchrono’s weeknotes cover cycling, reading, church solidarity, gaming plans, Steam gifting, and progress through books, films, television, puzzles, and games."
-    },
-    {
-      "blog_title": "Newsonaut",
-      "blog_url": "https://www.newsonaut.com/",
-      "feed_url": "https://www.newsonaut.com/rss",
-      "post_title": "You want minimalist? Here’s minimalist",
-      "post_url": "https://www.newsonaut.com/articles/you-want-minimalist-here-s-minimalist",
-      "published": "2026-10-12T22:22:54Z",
-      "summary": "The post reflects on minimalist blog design, contrasts Newsonaut’s existing style with Manuel Moreale’s typography, and playfully imagines removing its sun and stars."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - star wars galactic racer",
-      "post_url": "https://pretendtypewriter.net/note-star-wars-galactic-racer/",
-      "published": "2026-10-12T22:02:42Z",
-      "summary": "The note records watching Daniel play Star Wars Galactic Racer, expressing enthusiasm for Biddy Blas and mentioning “Scrip doon.”"
-    },
-    {
-      "blog_title": "Endgame Viable",
-      "blog_url": "https://endgameviable.com/",
-      "feed_url": "http://endgameviable.com/feed/",
-      "post_title": "Trying Mortal Shell 2 and AION 2",
-      "post_url": "https://endgameviable.com/post/2026/10/trying-mortal-shell-2-and-aion-2/",
-      "published": "2026-10-12T19:59:17Z",
-      "summary": "The writer evaluates Mortal Shell 2’s chaotic combat and technical shortcomings, then finds AION 2 generic, trivial, poorly translated, and unlikely to replace Final Fantasy XIV."
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "A new phone background (to help me stop using it so much)",
-      "post_url": "https://sylvia.studio/posts/a-new-phone-background-to-help-me-stop-using-it-so-much",
-      "published": "2026-10-12T19:47:54Z",
-      "summary": "Sylvia creates a phone lock-screen background reminding herself to use her laptop instead, limiting phone use at home to photography, messaging, and calls."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "‘Once Upon a Time in Harlem’ Trailer",
-      "post_url": "https://www.youtube.com/watch?v=ctNb2eHlphU",
-      "published": "2026-10-12T19:37:21Z",
-      "summary": "A trailer highlights a 1972 gathering of Harlem Renaissance artists and intellectuals at Duke Ellington’s townhouse, filmed by William Greaves and completed by David Greaves."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Call it the law of averages",
-      "post_url": "https://francescrossley.com/call-it-the-law-of-averages/",
-      "published": "2026-10-12T19:30:00Z",
-      "summary": "The piece questions the usefulness of averages, considers why people seek bland consensus, and advocates accepting imperfect art, language, questions, and beginner efforts."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Fluture #the100pics",
-      "post_url": "https://thinkroot.xyz/photo-702",
-      "published": "2026-10-12T19:13:51Z",
-      "summary": "A photo post titled “Fluture #the100pics,” featuring an image associated with ThinkRoot’s Journal."
-    },
-    {
-      "blog_title": "Portrait of the Man as a...",
-      "blog_url": "https://angrybunnyman.com/",
-      "feed_url": "https://angrybunnyman.com/feed/",
-      "post_title": "Are you ever here with me? (A poem)",
-      "post_url": "https://angrybunnyman.com/are-you-ever-here-with-me-a-poem/",
-      "published": "2026-10-12T19:04:10Z",
-      "summary": "A poem portrays fluctuating longing, unspoken needs, and emotional distance as a labyrinth where two people search for connection amid loneliness and self-doubt."
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "Games That Shaped Me",
-      "post_url": "https://jasonjournals.com/posts/games-that-shaped-me",
-      "published": "2026-10-12T17:39:26Z",
-      "summary": "Jason Journals reflects on how Final Fantasy III and Super Mario Bros. shaped his gaming tastes, introducing him to RPGs and Nintendo consoles."
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - October 12, 2026 19:05",
-      "post_url": "https://martinschuhmann.com/blog/fcbe6ac4",
-      "published": "2026-10-12T17:05:00Z",
-      "summary": "Martin Schuhmann repeats his intention to do something with his Special Fish account, without specifying what action he plans to take."
-    },
-    {
-      "blog_title": "Scormus Fails",
-      "blog_url": "https://scormey.com/",
-      "feed_url": "https://scormey.com/feed/",
-      "post_title": "Spooky Season: The Park",
-      "post_url": "https://scormey.com/2026/10/12/spooky-season-the-park/",
-      "published": "2026-10-12T17:00:00Z",
-      "summary": "“The Park” is a short psychological horror game following a woman searching for her lost son through a dark amusement park amid paranoia, fear, and madness."
-    },
-    {
-      "blog_title": "BurgeonLab",
-      "blog_url": "https://burgeonlab.com/",
-      "feed_url": "https://burgeonlab.com/all/feed.xml",
-      "post_title": "Weeknote 2026-W41: I'm Back! Blog carnival, Devlogs, S3 & F1",
-      "post_url": "https://burgeonlab.com/weeknotes/2026/w41/",
-      "published": "2026-10-12T16:02:56Z",
-      "summary": "BurgeonLab’s weeknote returns after ten weeks, covering site development, Quartz customization, Bunny.net S3 testing, a first blog carnival, music playlists, and F1 Fantasy."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Hacking and Exploring My Way into the Crimson Harvest Event",
-      "post_url": "https://tagn.wordpress.com/2026/10/12/hacking-and-exploring-my-way-into-the-crimson-harvest-event/",
-      "published": "2026-10-12T15:15:22Z",
-      "summary": "The writer explores EVE Online’s Crimson Harvest event by hacking Blood Raider sites, evaluating progression, and pursuing the Blessed Pilgrim achievement across Amarr systems."
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 42 Links",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-12-week-42-links/",
-      "published": "2026-10-12T15:00:00Z",
-      "summary": "A Canadian Thanksgiving link roundup covers Lanterns, smart-glasses privacy, Okinawa, Toronto’s Nintendo store, vaccines, lawful access, national debt, and Cloudflare’s piracy policies."
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Busy Doing Nothing Very Much - Life In Hethereau Goes On",
-      "post_url": "https://bhagpuss.blogspot.com/2026/10/busy-doing-nothing-very-much-life-in.html",
-      "published": "2026-10-12T14:53:54Z",
-      "summary": "The writer examines Neverness to Everness’s confusing progression systems, optional challenges, rewards, cafe management, and blurred distinction between combat and ancillary advancement."
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "bringer of cold",
-      "post_url": "https://write.as/blog-x2600/bringer-of-cold?pk_campaign=rss-feed",
-      "published": "2026-10-12T14:06:09Z",
-      "summary": "The writer explores occult beliefs and cosmology while anticipating a severe winter, describing cold weather, bird deterrence efforts, a new Army poncho, and IRC lurking."
-    },
-    {
-      "blog_title": "The Nosy Gamer",
-      "blog_url": "https://nosygamer.blogspot.com/",
-      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
-      "post_title": "Squadron 42 Now Has A Steam Page",
-      "post_url": "https://nosygamer.blogspot.com/2026/10/squadron-42-now-has-steam-page.html",
-      "published": "2026-10-12T14:00:00Z",
-      "summary": "Cloud Imperium Games launched a Steam page for Squadron 42, outlining its single-player space adventure, cast, hardware demands, optimization concerns, and Q2 2027 release window."
-    },
-    {
-      "blog_title": "LOTRO Players",
-      "blog_url": "https://lotroplayers.com",
-      "feed_url": "http://lotroplayers.com/feed/",
-      "post_title": "LOTRO Players News Episode 686: The Hysterical Records",
-      "post_url": "https://lotroplayers.com/2026/10/12/lotro-players-news-episode-686-the-hysterical-records/?utm_source=rss&utm_medium=rss&utm_campaign=lotro-players-news-episode-686-the-hysterical-records",
-      "published": "2026-10-12T14:00:00Z",
-      "summary": "LOTRO Players News Episode 686 covers game updates, Wolves of Mordor release information, player deaths, weekly adventures, events, store promotions, and community feedback."
     }
   ]
 }
