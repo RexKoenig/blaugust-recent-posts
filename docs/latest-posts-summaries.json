@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T11:51:34.232434Z",
-  "source_generated_at": "2026-10-14T11:50:42.931709Z",
+  "generated_at": "2026-10-14T21:40:55.098917Z",
+  "source_generated_at": "2026-10-14T21:40:14.946884Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -8,184 +8,184 @@
   "summary_count": 18,
   "posts": [
     {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "GitHubがRSA 3072ビット要件と耐量子SSH鍵交換を開始。SHA-1停止は2027年1月、既存鍵は直ちに失効しない",
-      "post_url": "https://joho-todai.com/github-rsa-3072-post-quantum-ssh-keys/",
-      "published": "2026-10-14T11:37:05Z",
-      "summary": null
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "CARING LESS...",
-      "post_url": "https://pretendtypewriter.net/caring-less/",
-      "published": "2026-10-14T10:58:00Z",
-      "summary": "“CARING LESS...” reflects on disrupted sleep, unemployment, job-application fatigue, workplace burnout, anxiety, and finding relief through a punch-needle hobby."
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Nonsense upon stilts",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/14/nonsense-upon-stilts/",
-      "published": "2026-10-14T09:55:29Z",
-      "summary": "A Daily Create prompt inspired NomadWarMachine to use NightCafe for an image interpreting Jeremy Bentham’s phrase “nonsense upon stilts.”"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris War in Heaven Guide: Trigger, Sides and How to Win (4.5)",
-      "post_url": "https://gamerofpassion.com/stellaris-war-in-heaven/",
-      "published": "2026-10-14T07:49:06Z",
-      "summary": "The guide explains Stellaris’s War in Heaven triggers, event timing, rival probabilities, prerequisites, and strategic choices for joining factions or remaining neutral."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Desk chairs",
-      "post_url": "https://rishidass.net/posts/desk-chairs",
-      "published": "2026-10-14T06:07:15Z",
-      "summary": "Rishi Dass describes an affordable desk setup using a basic IKEA chair and desk, emphasizing comfort, ventilation, durability, easy maintenance, and value compared with expensive ergonomic furniture."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "🩷💜🩵 Challenges 🐾",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/14/%f0%9f%a9%b7%f0%9f%92%9c%f0%9f%a9%b5-challenges-%f0%9f%90%be/",
-      "published": "2026-10-14T05:00:00Z",
-      "summary": "Cynni reflects on grieving Arwen while learning to love Koa, whose puberty and separation anxiety create new challenges in their developing relationship."
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "The memories locked in a blurry picture",
-      "post_url": "https://sylvia.studio/posts/the-memories-locked-in-a-blurry-picture",
-      "published": "2026-10-14T04:34:29Z",
-      "summary": "A blurry concert photograph recalls Sylvia’s exhilarating 2015 experience seeing The Notwist at Rotterdam’s Motel Mozaique festival with her husband."
-    },
-    {
       "blog_title": "JAG’s Workshop",
       "blog_url": "https://jagsworkshop.com/",
       "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Apple Introduces HomeView, an iPad mini on a Swiveling Base",
-      "post_url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "published": "2026-10-14T01:42:40Z",
-      "summary": "Apple introduces HomeView, a 7-inch swiveling display and speaker for personalized entertainment, FaceTime, smart-home management, and Siri AI-powered assistance."
+      "post_title": "Apple Home Collection",
+      "post_url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+      "published": "2026-10-14T21:27:35Z",
+      "summary": "Apple Home Collection introduces privacy-focused cameras, thermostats, sensors, a video doorbell, and door lock developed with LG Electronics and Schneider Electric."
     },
     {
-      "blog_title": "The Friendly Necromancer",
-      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
-      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
-      "post_title": "An Enchanting Beastlord in Everquest Legends",
-      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/10/an-enchanting-beastlord-in-everquest.html",
-      "published": "2026-10-14T00:24:48Z",
-      "summary": "A player replaces Shadow Knight with Enchanter in an EverQuest Legends Beastlord/Cleric trio, exploring effects on gear, combat, illusions, pets, mana, mounts, and tradeskills."
+      "blog_title": "Beto Dealmeida",
+      "blog_url": "https://robida.net/",
+      "feed_url": "https://robida.net/feed.xml",
+      "post_title": "What I've been up to and why this blog is so quiet",
+      "post_url": "https://robida.net/entries/2026/10/14/what-ive-been-up-to-and-why-this-blog-is-so-quiet",
+      "published": "2026-10-14T20:52:52Z",
+      "summary": "Beto Dealmeida describes moving to Brooklyn, rebuilding his blog with Forth and Python, learning Forth and Zig, and reconsidering AI-assisted programming."
     },
     {
-      "blog_title": "Bongo Twisty",
-      "blog_url": "https://www.bongotwisty.blog/",
-      "feed_url": "https://www.bongotwisty.blog/index.xml",
-      "post_title": "audax: West then East - North Downs 200 DiY",
-      "post_url": "https://www.bongotwisty.blog/west_east_downs/",
-      "published": "2026-10-14T00:00:00Z",
-      "summary": "Bongo Twisty recounts a 207.7-kilometre North Downs audax, describing scenery, weather, food stops, a tyre failure, and completing the season with 66 points."
+      "blog_title": "Priest with a Cause",
+      "blog_url": "https://priestwithacause.blogspot.com/",
+      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Waiting (For) Forever",
+      "post_url": "https://priestwithacause.blogspot.com/2026/10/waiting-for-forever.html",
+      "published": "2026-10-14T20:36:16Z",
+      "summary": "The writer describes anticipation for WoW Forever, avoiding beta gameplay, exploring character customization, unpacking its collector’s edition, and enjoying retail while awaiting release."
     },
     {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Wednesday, 14 October 2026",
-      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-14.html",
-      "published": "2026-10-14T00:00:00Z",
-      "summary": "The Daily Blogroll highlights gaming experiences, upcoming releases, accessibility tooling, cooking practice, and retro-computing work across several contributors."
+      "blog_title": "Leekscosycorner",
+      "blog_url": "https://leekscosycorner.com/",
+      "feed_url": "https://leekscosycorner.com/feed/",
+      "post_title": "8 Standout Narrative Games From LudoNarraCon 2026",
+      "post_url": "https://leekscosycorner.com/2026/10/14/ludonarracon-2026/",
+      "published": "2026-10-14T19:50:23Z",
+      "summary": "Eight narrative and interactive indie games showcased at LudoNarraCon 2026 are highlighted, including mysteries, road trips, slice-of-life stories, puzzles, and workplace adventures."
     },
     {
-      "blog_title": "Juha-Matti Santala",
-      "blog_url": "https://hamatti.org/",
-      "feed_url": "https://hamatti.org/feed/feed.xml",
-      "post_title": "Double check your website’s alt texts with a bookmarklet",
-      "post_url": "https://hamatti.org/posts/double-check-your-websites-alt-texts-with-a-bookmarklet/",
-      "published": "2026-10-14T00:00:00Z",
-      "summary": "Juha-Matti Santala introduces the Alt Text Debugging bookmarklet, which outlines images according to whether their alternative text is missing, empty, or non-empty."
+      "blog_title": "In Another Place",
+      "blog_url": "https://www.ivyrun.com/inanotherplace",
+      "feed_url": "https://www.ivyrun.com/inanotherplace/?feed=rss2",
+      "post_title": "Revisiting a Rant: The Reading Police",
+      "post_url": "https://www.ivyrun.com/inanotherplace/?p=2948",
+      "published": "2026-10-14T19:39:56Z",
+      "summary": "A reader revisits a 2023 rant defending personal reading choices, including audiobooks and high annual book counts, against judgmental social media gatekeepers."
     },
     {
-      "blog_title": "Lameazoid",
-      "blog_url": "https://lameazoid.com/",
-      "feed_url": "https://lameazoid.com/feed/",
-      "post_title": "Transformers - Studio Series 86 Prowl",
-      "post_url": "https://lameazoid.com/posts/transformers---studio-series-86-prowl/",
-      "published": "2026-10-13T22:30:00Z",
-      "summary": "A review of Transformers Studio Series 86 Prowl examines its G1-inspired design, accessories, transformation, cartoon styling, mold degradation, loose waist, and overall strengths and flaws."
+      "blog_title": "Aeish's Blog Feed :3",
+      "blog_url": "https://aeish-world.neocities.org/blog_front",
+      "feed_url": "https://aeish-world.neocities.org/feed.txt",
+      "post_title": "The Large Family",
+      "post_url": "https://aeish-world.neocities.org/blog_pages/blog-large-family",
+      "published": "2026-10-14T19:12:00Z",
+      "summary": "Aeish examines the Japanese mockumentaries Saiko! The Large Family and Cursed Large Family, analyzing the Ura family's disturbing history through layered revelations and viewer theories."
     },
     {
-      "blog_title": "Fleapits and Picture Palaces",
-      "blog_url": "https://fleapitsandpicturepalaces.blogspot.com",
-      "feed_url": "https://fleapitsandpicturepalaces.blogspot.com/feeds/posts/default",
-      "post_title": "CRYSTAL LAKE - TV SERIES (2026) - Episodes 1 & 2 review and Q & A with Brad Caleb Kane and Linda Cardellini",
-      "post_url": "https://fleapitsandpicturepalaces.blogspot.com/2026/10/crystal-lake-tv-series-2026-episodes-1.html",
-      "published": "2026-10-13T21:38:50Z",
-      "summary": "The review examines Crystal Lake’s first two episodes, Linda Cardellini’s portrayal of Pamela Voorhees, franchise authenticity, returning characters, altered mythology, and promised practical gore."
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "anomalies and night happenings II",
-      "post_url": "https://write.as/blog-x2600/anomalies-and-night-happenings-ii?pk_campaign=rss-feed",
-      "published": "2026-10-13T21:38:31Z",
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Martin Schuhmann - October 14, 2026 20:35",
+      "post_url": "https://martinschuhmann.com/blog/ce51b099",
+      "published": "2026-10-14T18:35:00Z",
       "summary": null
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "Eight Rounds of Link Clean-up",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2231",
-      "published": "2026-10-13T19:54:04Z",
-      "summary": "An eighth link-cleaning pass reduced a 943-link page to 866, revealing widespread web decay and prompting a search for reliable human-created sources."
-    },
-    {
-      "blog_title": "Cotswold Diary",
-      "blog_url": "https://diary.uncountable.uk/",
-      "feed_url": "https://diary.uncountable.uk/feed/",
-      "post_title": "Biologically recording the canal",
-      "post_url": "https://diary.uncountable.uk/2026/10/biologically-recording-the-canal/",
-      "published": "2026-10-13T19:16:52Z",
-      "summary": "A Gloucestershire Wildlife Trust trainee joins a canal tree walk, records species in iRecord, distributes Thrive Local guides, and helps run Dursley Code Club."
     },
     {
       "blog_title": "Joelchrono's blog",
       "blog_url": "https://joelchrono.xyz/",
       "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Emio - The Smiling Man",
-      "post_url": "https://joelchrono.xyz/blog/emio-the-smiling-man/",
-      "published": "2026-10-13T19:00:00Z",
-      "summary": "Emio – The Smiling Man reviews Nintendo’s mystery visual novel, covering its story, investigative gameplay, animated presentation, characters, environments, and nostalgic soundtrack."
+      "post_title": "I expect nothing of my games and books",
+      "post_url": "https://joelchrono.xyz/blog/i-expect-nothing-of-games-books/",
+      "published": "2026-10-14T18:20:00Z",
+      "summary": "Joelchrono describes approaching games and books without expectations, appreciating creators’ intent and historical context while accepting flaws, dated mechanics, and uneven storytelling."
+    },
+    {
+      "blog_title": "The Nosy Gamer",
+      "blog_url": "https://nosygamer.blogspot.com/",
+      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
+      "post_title": "FFXIV's Cosmic Exploration - The Final Crafting Macros",
+      "post_url": "https://nosygamer.blogspot.com/2026/10/ffxivs-cosmic-exploration-final.html",
+      "published": "2026-10-14T18:00:00Z",
+      "summary": "The post chronicles progress toward Final Fantasy XIV’s Cosmic Exploration High Mobility Vacuum Suit and presents non-specialist and specialist crafting macros for earning class points."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Ducklings #the100pics",
+      "post_url": "https://thinkroot.xyz/photo-705",
+      "published": "2026-10-14T17:58:01Z",
+      "summary": "A photo post titled “Ducklings #the100pics” featuring ducklings, with no further descriptive text provided."
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "Lego Technic engines.",
+      "post_url": "https://jasonjournals.com/posts/2026-10-14-ford-broncoford-raptor-lego",
+      "published": "2026-10-14T17:50:16Z",
+      "summary": "The post features Lego Technic engines associated with the Ford Bronco and Ford Raptor."
+    },
+    {
+      "blog_title": "Cobb.land",
+      "blog_url": "https://cobb.land/",
+      "feed_url": "https://cobb.land/feed.xml",
+      "post_title": "My Thoughts on AI",
+      "post_url": "https://cobb.land/posts/my-thoughts-on-ai/",
+      "published": "2026-10-14T17:30:00Z",
+      "summary": "Cobb.land critiques LLMs and related technologies as unreliable, unethical, unpredictable, and prone to creating dangerous illusions of competence while defending human-made creative work."
     },
     {
       "blog_title": "What the Fran",
       "blog_url": "https://francescrossley.com/",
       "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Free high fives here",
-      "post_url": "https://francescrossley.com/free-high-fives-here/",
-      "published": "2026-10-13T19:00:00Z",
-      "summary": "A spectator celebrates the encouragement, camaraderie, costumes, volunteers, and shared purpose surrounding running events, while comparing them with experiences in swim competitions."
+      "post_title": "It's all self-awareness",
+      "post_url": "https://francescrossley.com/its-all-self-awareness/",
+      "published": "2026-10-14T17:00:00Z",
+      "summary": "The essay advocates self-awareness, examining human irrationality, unconscious bias, unreliable perceptions, and the difficulty of understanding other minds and motivations."
     },
     {
-      "blog_title": "Endgame Viable",
-      "blog_url": "https://endgameviable.com/",
-      "feed_url": "http://endgameviable.com/feed/",
-      "post_title": "Carrie on Prime",
-      "post_url": "https://endgameviable.com/post/2026/10/carrie-on-prime/",
-      "published": "2026-10-13T18:18:18Z",
-      "summary": "A review of Amazon’s eight-episode Carrie adaptation examines its expanded characters, cyberbullying storyline, performances, uncomfortable scenes, diluted tragedy, and apparent setup for future seasons."
+      "blog_title": "MMO Casual",
+      "blog_url": "http://wowaltaddiction.blogspot.com/",
+      "feed_url": "http://wowaltaddiction.blogspot.com/feeds/posts/default",
+      "post_title": "An Hour in Queue is Not Playing The Game",
+      "post_url": "http://wowaltaddiction.blogspot.com/2026/10/an-hour-in-queue-is-not-playing-game.html",
+      "published": "2026-10-14T15:51:39Z",
+      "summary": "Returning to Final Fantasy XIV highlights long dialogue sequences and queue waits, while early Aion 2 play offers a contrasting new MMO experience."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - nap time",
+      "post_url": "https://pretendtypewriter.net/note-nap-time/",
+      "published": "2026-10-14T15:41:58Z",
+      "summary": "A brief note records that at 17:41, it was time for a quick nap."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "The Madness of Lord British and the Ultima Copyright",
+      "post_url": "https://tagn.wordpress.com/2026/10/14/the-madness-of-lord-british-and-the-ultima-copyright/",
+      "published": "2026-10-14T15:15:39Z",
+      "summary": "The piece examines Richard “Lord British” Garriott’s planned 2027 attempt to reclaim Ultima copyrights from Electronic Arts and the resulting trademark and legal complications."
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Windows 11のマウスカクつき、原因はマウスでもドライバでもなかった。KB5127648で修正",
+      "post_url": "https://joho-todai.com/windows-11-mouse-stuttering-kb5127648-fix/",
+      "published": "2026-10-14T14:40:57Z",
+      "summary": null
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "LOTRO: Bree-land can kiss my grits",
+      "post_url": "https://biobreak.wordpress.com/2026/10/14/lotro-10/",
+      "published": "2026-10-14T14:08:05Z",
+      "summary": "A LOTRO player reflects on the delayed expansion, repetitive reputation dailies, completing Bree-land, and plans to alternate Lone-lands and Wolves of Mordor questing."
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Word Nerd Alert: Dally",
+      "post_url": "https://tobygeeksout.micro.blog/2026/10/14/word-nerd-alert-dally.html",
+      "published": "2026-10-14T14:03:28Z",
+      "summary": "The post defines “dally” as acting playfully, treating something lightly, or wasting time, with an example involving a serious problem."
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "How do I stream",
+      "post_url": "https://www.kgadams.net/geekdom/how-do-i-stream",
+      "published": "2026-10-14T13:30:00Z",
+      "summary": "Kelly evaluates household streaming subscriptions, their costs and usage, and argues that content bundling has made television more expensive despite cord-cutting promises."
     }
   ]
 }
