@@ -1,12 +1,75 @@
 {
-  "generated_at": "2026-10-15T21:22:50.399719Z",
-  "source_generated_at": "2026-10-15T21:22:09.500611Z",
+  "generated_at": "2026-10-16T11:23:22.677168Z",
+  "source_generated_at": "2026-10-16T11:22:47.324187Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 18,
+  "summary_count": 20,
   "posts": [
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "World Food Day 2026",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/16/world-food-day-2026/",
+      "published": "2026-10-16T11:21:32Z",
+      "summary": "World Food Day 2026 highlights a United Nations poster challenge themed “Innovate today. Nourish tomorrow.” and connects it with gardening and weeds."
+    },
+    {
+      "blog_title": "In An Age",
+      "blog_url": "https://inanage.com/",
+      "feed_url": "http://inanage.com/feed/",
+      "post_title": "Disappearing Features",
+      "post_url": "https://inanage.com/2026/10/16/disappearing-features/",
+      "published": "2026-10-16T11:00:00Z",
+      "summary": "Tim Cain’s disappearing RPG features prompt examination of changing design practices, commercial pressures, development costs, and the continuing appeal of older games."
+    },
+    {
+      "blog_title": "Amerpie by Lou Plummer",
+      "blog_url": "https://amerpie.lol/",
+      "feed_url": "https://amerpie.lol/feed.xml",
+      "post_title": "Crucial Track for October 16, 2026",
+      "post_url": "https://amerpie.lol/2026/10/16/crucial-track-for-october.html",
+      "published": "2026-10-16T10:57:07Z",
+      "summary": "Kate Jacobs’s song “Eddy Went to Spain” was discovered through John McCain’s obituary for an American communist who fought in the Spanish Civil War."
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Google Willow、量子コンピュータの「95%問題」にマジックステート培養で風穴。エラー40分の1に",
+      "post_url": "https://joho-todai.com/google-willow-quantum-error-correction-magic-state/",
+      "published": "2026-10-16T10:49:57Z",
+      "summary": "Google Quantum AI demonstrated magic-state cultivation on its Willow processor, reducing errors fortyfold and achieving 99.99% logical fidelity while highlighting remaining scalability challenges."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Apple HomeView",
+      "post_url": "https://rishidass.net/posts/apple-homeview",
+      "published": "2026-10-16T06:55:00Z",
+      "summary": "Rishi Dass considers Apple HomeView as a wall-mounted household computer for recipes, messages, calendars, timers, reminders, and potential intercom integration."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Begging for help…",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/16/begging-for-help/",
+      "published": "2026-10-16T05:00:00Z",
+      "summary": "Cynni seeks financial and professional support for Koa’s severe separation anxiety, describing its impact on their daily lives and fear of losing him."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "A Trifling Observation About the Aforelinked WaPo Ballroom Donors Article",
+      "post_url": "https://jagsworkshop.com/2026/10/trump-ballroom-donor-list/",
+      "published": "2026-10-16T02:05:19Z",
+      "summary": "The post highlights newly disclosed donors and contribution amounts for Donald Trump’s White House ballroom project, questioning corporate donations and alleging corruption."
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
@@ -15,6 +78,42 @@
       "post_url": "https://brennan.day/rivyayr-pimiciwan-we-are-always-somewhere/",
       "published": "2026-10-16T02:00:00Z",
       "summary": "Brennan Day traces Métis land resistance and Indigenous-led efforts worldwide to recognize rivers and ecosystems as legal persons with inherent rights."
+    },
+    {
+      "blog_title": "Tome of the Ancient",
+      "blog_url": "https://tomeoftheancient.wordpress.com/",
+      "feed_url": "https://tomeoftheancient.wordpress.com/feed/",
+      "post_title": "Seriously???",
+      "post_url": "https://tomeoftheancient.wordpress.com/2026/10/15/seriously/",
+      "published": "2026-10-16T01:09:53Z",
+      "summary": "A player recounts struggling through Feral Druid quests in WoW’s Forever beta, eventually obtaining cat form amid difficult enemies, crowded objectives, and scarce quest creatures."
+    },
+    {
+      "blog_title": "82MHz",
+      "blog_url": "http://82mhz.net/posts/",
+      "feed_url": "http://82mhz.net/index.xml",
+      "post_title": "Linkdump No 129",
+      "post_url": "http://82mhz.net/posts/2026/10/linkdump-no-129/",
+      "published": "2026-10-16T00:00:00Z",
+      "summary": "Linkdump No 129 highlights Nokia phone display programming, a critical Trump Phone video, Xbox 360 soft-modding, and a map of free neighborhood libraries."
+    },
+    {
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "I really like how Ultrapool calculates your money rewards",
+      "post_url": "https://hamatti.org/posts/i-really-like-how-ultrapool-calculates-your-money-rewards/",
+      "published": "2026-10-16T00:00:00Z",
+      "summary": "Juha-Matti Santala explains Ultrapool’s Balatro-esque pool gameplay and escalating money-reward calculation, where exceeding round goals determines funds for purchasing upgrades."
+    },
+    {
+      "blog_title": "粉红路",
+      "blog_url": "https://pinkway.mataroa.blog/",
+      "feed_url": "https://pinkway.mataroa.blog/rss/",
+      "post_title": "预制蛋糕",
+      "post_url": "https://pinkway.mataroa.blog/blog/f68-ee-e0a/",
+      "published": "2026-10-16T00:00:00Z",
+      "summary": "The writer reflects on using supermarket cake mix, questioning when baking becomes genuinely homemade and emphasizing transparency about ingredients and personal taste."
     },
     {
       "blog_title": "Off the Top",
@@ -87,105 +186,6 @@
       "post_url": "https://nosygamer.blogspot.com/2026/10/i-cant-hide-from-ai.html",
       "published": "2026-10-15T18:00:00Z",
       "summary": "The blogger describes using Copilot and Google AI to develop the blog, planning experiments with infographics, visualizations, EVE Online economics, and game-crafting comparisons."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Houseplant tour",
-      "post_url": "https://francescrossley.com/houseplant-tour/",
-      "published": "2026-10-15T17:30:00Z",
-      "summary": "A houseplant audit records living plants, propagation, seasonal movement, losses, and informal distribution, featuring plentiful pothos, jade, monstera, and money plants."
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - October 15, 2026 19:25",
-      "post_url": "https://martinschuhmann.com/blog/44bb9ba6",
-      "published": "2026-10-15T17:25:00Z",
-      "summary": "Martin Schuhmann recommends Pagecord as a simple, flexible, fast, attractive blogging platform, praising developer Olly’s helpfulness and ongoing improvements."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "WoW Forever Beta Vibes",
-      "post_url": "https://tagn.wordpress.com/2026/10/15/wow-forever-beta-vibes/",
-      "published": "2026-10-15T15:15:42Z",
-      "summary": "The post shares beta impressions of WoW Forever, covering familiar questing, visual updates, hunter pets, professions, alt-friendly systems, dungeons, and launch expectations."
-    },
-    {
-      "blog_title": "Kay Talks Games",
-      "blog_url": "https://kaytalksgames.wordpress.com/",
-      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
-      "post_title": "Jason Voorhees Has a Pretty Good Video Game Track Record",
-      "post_url": "https://kaytalksgames.wordpress.com/2026/10/15/jason-voorhees-has-a-pretty-good-video-game-track-record/",
-      "published": "2026-10-15T15:14:55Z",
-      "summary": "Jason Voorhees’ video game appearances span the NES, asymmetrical multiplayer, Mortal Kombat X, Fortnite, and Friday the 13th: Killer Puzzle, generally offering creative gameplay."
-    },
-    {
-      "blog_title": "Reay Jespersen",
-      "blog_url": "https://www.reayjespersen.com/",
-      "feed_url": "https://www.reayjespersen.com/feed/",
-      "post_title": "Morning dog walk oddness",
-      "post_url": "https://www.reayjespersen.com/blog-1/2026/10/15/morning-dog-walk-oddness/?utm_source=rss&utm_medium=rss&utm_campaign=morning-dog-walk-oddness",
-      "published": "2026-10-15T14:58:44Z",
-      "summary": null
-    },
-    {
-      "blog_title": "A Pixel Nomad",
-      "blog_url": "https://pixelnomad.ca/",
-      "feed_url": "https://pixelnomad.ca/feed/",
-      "post_title": "[WoW] Progress is Progress",
-      "post_url": "https://pixelnomad.ca/2026/10/15/wow-progress-is-progress/",
-      "published": "2026-10-15T14:53:34Z",
-      "summary": "The writer returns to World of Warcraft, pursues a social guild, advances the story, completes Engineering, and plans further crafting and collection progress."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Windows Server 2012/2012 R2、14年の歴史に幕。有償の延命措置も期限切れ",
-      "post_url": "https://joho-todai.com/windows-server-2012-support-ends/",
-      "published": "2026-10-15T14:07:54Z",
-      "summary": null
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Revisited: 1997’s Cube",
-      "post_url": "https://mutantreviewersmovies.com/2026/10/15/revisited-1997s-cube/",
-      "published": "2026-10-15T13:05:32Z",
-      "summary": "Mutant Reviewers revisits the 1997 Canadian science-fiction horror film Cube, weighing its originality and influence against low-budget flaws, plot holes, and disappointing sequels."
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "Rimworld: I’m off on an Odyssey!",
-      "post_url": "https://biobreak.wordpress.com/2026/10/15/rimworld-im-off-on-an-odyssey/",
-      "published": "2026-10-15T13:00:57Z",
-      "summary": "A RimWorld player explores the Odyssey expansion’s new biomes, species, gravships, fishing, flooding, animals, and wind-powered colony development in grasslands."
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "#bitsyjam100, the final #bitsyjam, has started",
-      "post_url": "https://virtualmoose.org/2026/10/15/bitsyjam100-the-final-bitsyjam-has-started/",
-      "published": "2026-10-15T12:48:02Z",
-      "summary": "The final #bitsyjam, organized by the creator of the free Bitsy game-making tool, has begun and will run for several months."
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Playing Transport Fever 3 well vs. having fun",
-      "post_url": "http://tobolds.blogspot.com/2026/10/playing-transport-fever-3-well-vs.html",
-      "published": "2026-10-15T12:02:40Z",
-      "summary": "The post explains how to enjoy Transport Fever 3 by prioritizing city growth, triaging problems, supplying basic goods, managing passenger lines, and monitoring finances."
     }
   ]
 }
