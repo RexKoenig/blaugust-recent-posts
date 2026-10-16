@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-10-16T11:23:22.677168Z",
-  "source_generated_at": "2026-10-16T11:22:47.324187Z",
+  "generated_at": "2026-10-16T21:07:21.851816Z",
+  "source_generated_at": "2026-10-16T21:06:47.547433Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 20,
+  "summary_count": 19,
   "posts": [
     {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "World Food Day 2026",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/16/world-food-day-2026/",
-      "published": "2026-10-16T11:21:32Z",
-      "summary": "World Food Day 2026 highlights a United Nations poster challenge themed “Innovate today. Nourish tomorrow.” and connects it with gardening and weeds."
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - ugh",
+      "post_url": "https://pretendtypewriter.net/note-ugh-1/",
+      "published": "2026-10-16T19:11:00Z",
+      "summary": "A brief note records mistaken preparation for choir rehearsal, which is scheduled for Sunday rather than the following day, including concern about lunch lasting."
     },
     {
-      "blog_title": "In An Age",
-      "blog_url": "https://inanage.com/",
-      "feed_url": "http://inanage.com/feed/",
-      "post_title": "Disappearing Features",
-      "post_url": "https://inanage.com/2026/10/16/disappearing-features/",
-      "published": "2026-10-16T11:00:00Z",
-      "summary": "Tim Cain’s disappearing RPG features prompt examination of changing design practices, commercial pressures, development costs, and the continuing appeal of older games."
-    },
-    {
-      "blog_title": "Amerpie by Lou Plummer",
-      "blog_url": "https://amerpie.lol/",
-      "feed_url": "https://amerpie.lol/feed.xml",
-      "post_title": "Crucial Track for October 16, 2026",
-      "post_url": "https://amerpie.lol/2026/10/16/crucial-track-for-october.html",
-      "published": "2026-10-16T10:57:07Z",
-      "summary": "Kate Jacobs’s song “Eddy Went to Spain” was discovered through John McCain’s obituary for an American communist who fought in the Spanish Civil War."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Google Willow、量子コンピュータの「95%問題」にマジックステート培養で風穴。エラー40分の1に",
-      "post_url": "https://joho-todai.com/google-willow-quantum-error-correction-magic-state/",
-      "published": "2026-10-16T10:49:57Z",
-      "summary": "Google Quantum AI demonstrated magic-state cultivation on its Willow processor, reducing errors fortyfold and achieving 99.99% logical fidelity while highlighting remaining scalability challenges."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Apple HomeView",
-      "post_url": "https://rishidass.net/posts/apple-homeview",
-      "published": "2026-10-16T06:55:00Z",
-      "summary": "Rishi Dass considers Apple HomeView as a wall-mounted household computer for recipes, messages, calendars, timers, reminders, and potential intercom integration."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Begging for help…",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/16/begging-for-help/",
-      "published": "2026-10-16T05:00:00Z",
-      "summary": "Cynni seeks financial and professional support for Koa’s severe separation anxiety, describing its impact on their daily lives and fear of losing him."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "A Trifling Observation About the Aforelinked WaPo Ballroom Donors Article",
-      "post_url": "https://jagsworkshop.com/2026/10/trump-ballroom-donor-list/",
-      "published": "2026-10-16T02:05:19Z",
-      "summary": "The post highlights newly disclosed donors and contribution amounts for Donald Trump’s White House ballroom project, questioning corporate donations and alleging corruption."
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "RIVYAYR PIMICÎWAN: We Are Always Somewhere",
-      "post_url": "https://brennan.day/rivyayr-pimiciwan-we-are-always-somewhere/",
-      "published": "2026-10-16T02:00:00Z",
-      "summary": "Brennan Day traces Métis land resistance and Indigenous-led efforts worldwide to recognize rivers and ecosystems as legal persons with inherent rights."
-    },
-    {
-      "blog_title": "Tome of the Ancient",
-      "blog_url": "https://tomeoftheancient.wordpress.com/",
-      "feed_url": "https://tomeoftheancient.wordpress.com/feed/",
-      "post_title": "Seriously???",
-      "post_url": "https://tomeoftheancient.wordpress.com/2026/10/15/seriously/",
-      "published": "2026-10-16T01:09:53Z",
-      "summary": "A player recounts struggling through Feral Druid quests in WoW’s Forever beta, eventually obtaining cat form amid difficult enemies, crowded objectives, and scarce quest creatures."
-    },
-    {
-      "blog_title": "82MHz",
-      "blog_url": "http://82mhz.net/posts/",
-      "feed_url": "http://82mhz.net/index.xml",
-      "post_title": "Linkdump No 129",
-      "post_url": "http://82mhz.net/posts/2026/10/linkdump-no-129/",
-      "published": "2026-10-16T00:00:00Z",
-      "summary": "Linkdump No 129 highlights Nokia phone display programming, a critical Trump Phone video, Xbox 360 soft-modding, and a map of free neighborhood libraries."
-    },
-    {
-      "blog_title": "Juha-Matti Santala",
-      "blog_url": "https://hamatti.org/",
-      "feed_url": "https://hamatti.org/feed/feed.xml",
-      "post_title": "I really like how Ultrapool calculates your money rewards",
-      "post_url": "https://hamatti.org/posts/i-really-like-how-ultrapool-calculates-your-money-rewards/",
-      "published": "2026-10-16T00:00:00Z",
-      "summary": "Juha-Matti Santala explains Ultrapool’s Balatro-esque pool gameplay and escalating money-reward calculation, where exceeding round goals determines funds for purchasing upgrades."
-    },
-    {
-      "blog_title": "粉红路",
-      "blog_url": "https://pinkway.mataroa.blog/",
-      "feed_url": "https://pinkway.mataroa.blog/rss/",
-      "post_title": "预制蛋糕",
-      "post_url": "https://pinkway.mataroa.blog/blog/f68-ee-e0a/",
-      "published": "2026-10-16T00:00:00Z",
-      "summary": "The writer reflects on using supermarket cake mix, questioning when baking becomes genuinely homemade and emphasizing transparency about ingredients and personal taste."
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "Zen Browser Privacy and Ease of Routing",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2232",
-      "published": "2026-10-15T21:07:44Z",
-      "summary": "Zen Browser’s Spaces and Space Routing organize LinkedIn and O’Reilly Media links into dedicated, privacy-focused browsing environments, often with Choosy integration."
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Sunrise Over The Stacks: Some More First Impressions Of Nivalis Nights",
-      "post_url": "https://bhagpuss.blogspot.com/2026/10/sunrise-over-stacks-some-more-first.html",
-      "published": "2026-10-15T20:02:31Z",
-      "summary": "The writer’s early impressions of Nivalis Nights examine its competing restaurant-management and narrative quests, achievement progression, visuals, stories, and perceived gameplay shortcomings."
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Fela @ Lekki Sunsplash",
-      "post_url": "https://amf.didiermary.fr/fela-lekki-sunsplash/",
-      "published": "2026-10-15T20:00:00Z",
-      "summary": "The post presents live Fela Anikulapo Kuti recordings, his scarce catalog, politically charged songs, and a 1991 Apollo Theater concert featuring Egypt 80."
-    },
-    {
-      "blog_title": "Portrait of the Man as a...",
-      "blog_url": "https://angrybunnyman.com/",
-      "feed_url": "https://angrybunnyman.com/feed/",
-      "post_title": "The New Morality™️: Non-Interference as Compassion",
-      "post_url": "https://angrybunnyman.com/the-new-moralitytm-non-interference-as-compassion/",
-      "published": "2026-10-15T19:40:00Z",
-      "summary": "The New Morality™ framework presents non-interference as compassion, arguing that deliberate restraint preserves autonomy and challenges assumptions that struggling people require rescue."
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Martin Schuhmann - October 16, 2026 20:35",
+      "post_url": "https://martinschuhmann.com/blog/3c1f7a35",
+      "published": "2026-10-16T18:35:00Z",
+      "summary": "Martin Schuhmann reflects on New Music Friday and his growing queue on Record Club."
     },
     {
       "blog_title": "ThinkRoot",
       "blog_url": "https://thinkroot.xyz/",
       "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Noua Dezordine Morala",
-      "post_url": "https://thinkroot.xyz/noua-dezordine-morala-712",
-      "published": "2026-10-15T19:34:36Z",
-      "summary": "The post titled “Noua Dezordine Morala” is identified as a 2026 entry by Sisu Tudor, with no substantive article content provided."
+      "post_title": "Ducks in the Valley #the100pics",
+      "post_url": "https://thinkroot.xyz/photo-714",
+      "published": "2026-10-16T17:30:17Z",
+      "summary": "A photo titled “Ducks in the Valley” is presented as part of ThinkRoot’s #the100pics series."
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "What I wrote while Mastodon was down",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-16-what-i-wrote-while-mastodon-down/",
+      "published": "2026-10-16T17:02:16Z",
+      "summary": "During a Mastodon outage, the writer journals about planning work shifts, balancing finances and rest, daily routines, therapy, groceries, and forgotten blogging tasks."
     },
     {
       "blog_title": "Joelchrono's blog",
       "blog_url": "https://joelchrono.xyz/",
       "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "On my state in life",
-      "post_url": "https://joelchrono.xyz/blog/on-my-state-in-life/",
-      "published": "2026-10-15T18:40:00Z",
-      "summary": "Joelchrono reflects on a comfortable routine, family concerns, neglected fitness and organization, online friendships, and hopes that travel will encourage balance and change."
+      "post_title": "My Laptop Stickers",
+      "post_url": "https://joelchrono.xyz/blog/laptop-stickers/",
+      "published": "2026-10-16T17:00:00Z",
+      "summary": "Joelchrono showcases a sticker-covered laptop, cataloguing stickers from games, gifts, Linux projects, AntennaPod, and UFO 50 before ranking them by personal preference."
     },
     {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Amsel Suite LORE: Just Off the Mark",
-      "post_url": "https://scopique.com/2026/10/15/amsel-suite-lore-just-off-the-mark/",
-      "published": "2026-10-15T18:08:20Z",
-      "summary": "Scopique examines Amsel Suite’s LORE, a flexible offline worldbuilding tool for tabletop RPGs, highlighting customizable templates, linking features, strengths, and documentation challenges."
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "Roll the Bones: Plan 9 From Outer Space TTRPG",
+      "post_url": "https://scormey.com/2026/10/16/roll-the-bones-plan-9-from-outer-space-ttrpg/",
+      "published": "2026-10-16T17:00:00Z",
+      "summary": "A tabletop roleplaying game based on Ed Wood Jr.’s campy sci-fi horror film Plan 9 From Outer Space is presented as a cheap, silly Halloween one-shot option."
     },
     {
-      "blog_title": "The Nosy Gamer",
-      "blog_url": "https://nosygamer.blogspot.com/",
-      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
-      "post_title": "I Can't Hide From AI",
-      "post_url": "https://nosygamer.blogspot.com/2026/10/i-cant-hide-from-ai.html",
-      "published": "2026-10-15T18:00:00Z",
-      "summary": "The blogger describes using Copilot and Google AI to develop the blog, planning experiments with infographics, visualizations, EVE Online economics, and game-crafting comparisons."
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Laying down stores for winter",
+      "post_url": "https://francescrossley.com/laying-down-stores-for-winter/",
+      "published": "2026-10-16T17:00:00Z",
+      "summary": "Fran describes preserving garden produce for winter by cooking and freezing soups, dal, pasta sauce, cauliflower, and garlic, while awaiting pumpkins and planning pizza sauce."
+    },
+    {
+      "blog_title": "The Digital Antiquarian",
+      "blog_url": "https://www.filfre.net/",
+      "feed_url": "https://www.filfre.net/feed/",
+      "post_title": "This Week on The Analog Antiquarian",
+      "post_url": "https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/",
+      "published": "2026-10-16T16:14:39Z",
+      "summary": "The page announces “Opus 6: The Taming of the Shrew,” dated October 16, 2026, but provides no substantive description of its content."
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "The Melancholy Of Akane Rin",
+      "post_url": "https://bhagpuss.blogspot.com/2026/10/the-melancholy-of-akane-rin.html",
+      "published": "2026-10-16T15:59:02Z",
+      "summary": "Neverness to Everness’s upcoming Akane storyline features a band performance covering “God Knows” from The Melancholy of Haruhi Suzumiya, blending game characters with anime-inspired staging."
+    },
+    {
+      "blog_title": "Orbital Martian",
+      "blog_url": "https://orbitalmartian.polymaths.page/",
+      "feed_url": "https://orbitalmartian.polymaths.page/feed.xml",
+      "post_title": "2 Weeks of Android",
+      "post_url": "https://orbitalmartian.polymaths.page/blog/2026-10-16-2-weeks-of-android/",
+      "published": "2026-10-16T15:30:00Z",
+      "summary": "A Pixel 11 user recounts two weeks transitioning from iOS, customising KISS Launcher, selecting apps, and configuring gestures and scheduled Do Not Disturb modes."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Enshrouded Leaves Early Access with a Big 1.0 Update",
+      "post_url": "https://tagn.wordpress.com/2026/10/16/enshrouded-leaves-early-access-with-a-big-1-0-update/",
+      "published": "2026-10-16T15:15:35Z",
+      "summary": "Enshrouded’s 1.0 update completes its world, adds the Cinder’s Cradle biome, raises the level cap, introduces new content, and reduces shader compilation times."
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Cloudflare、認証済みボットの行動評価を内部運用。公開スコアと顧客別閾値を計画",
+      "post_url": "https://joho-todai.com/cloudflare-authenticated-bot-behavior-scoring/",
+      "published": "2026-10-16T15:06:01Z",
+      "summary": null
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Bannerlord Companions: Best Companion for Every Role (War Sails, v1.4.8)",
+      "post_url": "https://gamerofpassion.com/bannerlord-companions/",
+      "published": "2026-10-16T14:50:13Z",
+      "summary": "A v1.4.8 guide ranks Mount & Blade II: Bannerlord companions for party, caravan, combat, and War Sails naval roles using character-file skill ranges."
+    },
+    {
+      "blog_title": "Aywren's Nook",
+      "blog_url": "https://www.aywren.com/",
+      "feed_url": "https://aywren.com/feed.xml",
+      "post_title": "FFXIV: Alt Realities",
+      "post_url": "https://aywren.com/2026/10/16/ffxiv-alt-realities",
+      "published": "2026-10-16T14:30:41Z",
+      "summary": "Aywren describes reorganizing numerous FFXIV alt characters across Mateus and Coeurl, balancing story roles, progression, crafting, and plans for the Evercold expansion."
+    },
+    {
+      "blog_title": "Heartlessgamer",
+      "blog_url": "http://www.heartlessgamer.com/",
+      "feed_url": "http://feeds.feedburner.com/Heartless_Gamer",
+      "post_title": "Brewers are going to the World Series!",
+      "post_url": "http://www.heartlessgamer.com/2026/10/brewers-are-going-to-world-series.html",
+      "published": "2026-10-16T14:28:43Z",
+      "summary": "Heartlessgamer celebrates the Milwaukee Brewers reaching the World Series after sweeping the Los Angeles Dodgers 4–0 in the NLCS, reflecting on longtime fandom."
+    },
+    {
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "October Check-In",
+      "post_url": "https://syls.blog/october-check-in/",
+      "published": "2026-10-16T14:07:00Z",
+      "summary": "Syl reviews her October progress across books, video games, films, and personal activities, updating plans and reflecting on completed and postponed goals."
+    },
+    {
+      "blog_title": "Superior Realities",
+      "blog_url": "https://superior-realities.com",
+      "feed_url": "https://superior-realities.com/feed/",
+      "post_title": "Song of the Month: Sloan, Coax Me",
+      "post_url": "https://superior-realities.com/2026/10/16/song-of-the-month-sloan-coax-me/",
+      "published": "2026-10-16T14:00:55Z",
+      "summary": "The post highlights Sloan’s song “Coax Me,” connecting it to a frequently quoted lyric and the band’s “Canadian Beatles” characterization."
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "一次創作オンリー のスペースナンバーが出ました",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1281",
+      "published": "2026-10-16T13:35:22Z",
+      "summary": "TGLG announces space D15 at an original-fiction-only event, featuring creative male-female works, with character designs and settings possibly available."
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "On friendship and habits",
+      "post_url": "https://www.kgadams.net/tiny-thoughts/on-friendship-and-habits",
+      "published": "2026-10-16T13:30:00Z",
+      "summary": "Kelly reflects on maintaining a decades-long friendship with Chris, recognizing that isolation and distraction make regular contact difficult and genuine effort essential."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Snowbeast (1977) – Jaws by way of Bigfoot",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/16/snowbeast-1977-jaws-by-way-of-bigfoot/",
+      "published": "2026-10-16T13:00:46Z",
+      "summary": "Snowbeast is a 1977 television horror film modeled on Jaws, featuring a rarely seen Bigfoot-like creature terrorizing a Colorado ski lodge during its Winter Carnival."
     }
   ]
 }

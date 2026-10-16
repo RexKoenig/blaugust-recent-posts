@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-10-16T11:22:47.324187Z",
+  "generated_at": "2026-10-16T21:06:47.547433Z",
   "feed_count": 354,
-  "successful_feeds": 316,
-  "failed_feeds": 38,
+  "successful_feeds": 325,
+  "failed_feeds": 29,
   "post_count": 20,
   "posts": [
     {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "World Food Day 2026",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/16/world-food-day-2026/",
-      "published": "2026-10-16T11:21:32Z"
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - ugh",
+      "post_url": "https://pretendtypewriter.net/note-ugh-1/",
+      "published": "2026-10-16T19:11:00Z"
     },
     {
-      "blog_title": "In An Age",
-      "blog_url": "https://inanage.com/",
-      "feed_url": "http://inanage.com/feed/",
-      "post_title": "Disappearing Features",
-      "post_url": "https://inanage.com/2026/10/16/disappearing-features/",
-      "published": "2026-10-16T11:00:00Z"
-    },
-    {
-      "blog_title": "Amerpie by Lou Plummer",
-      "blog_url": "https://amerpie.lol/",
-      "feed_url": "https://amerpie.lol/feed.xml",
-      "post_title": "Crucial Track for October 16, 2026",
-      "post_url": "https://amerpie.lol/2026/10/16/crucial-track-for-october.html",
-      "published": "2026-10-16T10:57:07Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Google Willow、量子コンピュータの「95%問題」にマジックステート培養で風穴。エラー40分の1に",
-      "post_url": "https://joho-todai.com/google-willow-quantum-error-correction-magic-state/",
-      "published": "2026-10-16T10:49:57Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Apple HomeView",
-      "post_url": "https://rishidass.net/posts/apple-homeview",
-      "published": "2026-10-16T06:55:00Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Begging for help…",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/16/begging-for-help/",
-      "published": "2026-10-16T05:00:00Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "A Trifling Observation About the Aforelinked WaPo Ballroom Donors Article",
-      "post_url": "https://jagsworkshop.com/2026/10/trump-ballroom-donor-list/",
-      "published": "2026-10-16T02:05:19Z"
-    },
-    {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "RIVYAYR PIMICÎWAN: We Are Always Somewhere",
-      "post_url": "https://brennan.day/rivyayr-pimiciwan-we-are-always-somewhere/",
-      "published": "2026-10-16T02:00:00Z"
-    },
-    {
-      "blog_title": "Tome of the Ancient",
-      "blog_url": "https://tomeoftheancient.wordpress.com/",
-      "feed_url": "https://tomeoftheancient.wordpress.com/feed/",
-      "post_title": "Seriously???",
-      "post_url": "https://tomeoftheancient.wordpress.com/2026/10/15/seriously/",
-      "published": "2026-10-16T01:09:53Z"
-    },
-    {
-      "blog_title": "82MHz",
-      "blog_url": "http://82mhz.net/posts/",
-      "feed_url": "http://82mhz.net/index.xml",
-      "post_title": "Linkdump No 129",
-      "post_url": "http://82mhz.net/posts/2026/10/linkdump-no-129/",
-      "published": "2026-10-16T00:00:00Z"
-    },
-    {
-      "blog_title": "Juha-Matti Santala",
-      "blog_url": "https://hamatti.org/",
-      "feed_url": "https://hamatti.org/feed/feed.xml",
-      "post_title": "I really like how Ultrapool calculates your money rewards",
-      "post_url": "https://hamatti.org/posts/i-really-like-how-ultrapool-calculates-your-money-rewards/",
-      "published": "2026-10-16T00:00:00Z"
-    },
-    {
-      "blog_title": "粉红路",
-      "blog_url": "https://pinkway.mataroa.blog/",
-      "feed_url": "https://pinkway.mataroa.blog/rss/",
-      "post_title": "预制蛋糕",
-      "post_url": "https://pinkway.mataroa.blog/blog/f68-ee-e0a/",
-      "published": "2026-10-16T00:00:00Z"
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "Zen Browser Privacy and Ease of Routing",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2232",
-      "published": "2026-10-15T21:07:44Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Sunrise Over The Stacks: Some More First Impressions Of Nivalis Nights",
-      "post_url": "https://bhagpuss.blogspot.com/2026/10/sunrise-over-stacks-some-more-first.html",
-      "published": "2026-10-15T20:02:31Z"
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Fela @ Lekki Sunsplash",
-      "post_url": "https://amf.didiermary.fr/fela-lekki-sunsplash/",
-      "published": "2026-10-15T20:00:00Z"
-    },
-    {
-      "blog_title": "Portrait of the Man as a...",
-      "blog_url": "https://angrybunnyman.com/",
-      "feed_url": "https://angrybunnyman.com/feed/",
-      "post_title": "The New Morality™️: Non-Interference as Compassion",
-      "post_url": "https://angrybunnyman.com/the-new-moralitytm-non-interference-as-compassion/",
-      "published": "2026-10-15T19:40:00Z"
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Martin Schuhmann - October 16, 2026 20:35",
+      "post_url": "https://martinschuhmann.com/blog/3c1f7a35",
+      "published": "2026-10-16T18:35:00Z"
     },
     {
       "blog_title": "ThinkRoot",
       "blog_url": "https://thinkroot.xyz/",
       "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Noua Dezordine Morala",
-      "post_url": "https://thinkroot.xyz/noua-dezordine-morala-712",
-      "published": "2026-10-15T19:34:36Z"
+      "post_title": "Ducks in the Valley #the100pics",
+      "post_url": "https://thinkroot.xyz/photo-714",
+      "published": "2026-10-16T17:30:17Z"
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "What I wrote while Mastodon was down",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-16-what-i-wrote-while-mastodon-down/",
+      "published": "2026-10-16T17:02:16Z"
     },
     {
       "blog_title": "Joelchrono's blog",
       "blog_url": "https://joelchrono.xyz/",
       "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "On my state in life",
-      "post_url": "https://joelchrono.xyz/blog/on-my-state-in-life/",
-      "published": "2026-10-15T18:40:00Z"
+      "post_title": "My Laptop Stickers",
+      "post_url": "https://joelchrono.xyz/blog/laptop-stickers/",
+      "published": "2026-10-16T17:00:00Z"
     },
     {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Amsel Suite LORE: Just Off the Mark",
-      "post_url": "https://scopique.com/2026/10/15/amsel-suite-lore-just-off-the-mark/",
-      "published": "2026-10-15T18:08:20Z"
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "Roll the Bones: Plan 9 From Outer Space TTRPG",
+      "post_url": "https://scormey.com/2026/10/16/roll-the-bones-plan-9-from-outer-space-ttrpg/",
+      "published": "2026-10-16T17:00:00Z"
     },
     {
-      "blog_title": "The Nosy Gamer",
-      "blog_url": "https://nosygamer.blogspot.com/",
-      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
-      "post_title": "I Can't Hide From AI",
-      "post_url": "https://nosygamer.blogspot.com/2026/10/i-cant-hide-from-ai.html",
-      "published": "2026-10-15T18:00:00Z"
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Laying down stores for winter",
+      "post_url": "https://francescrossley.com/laying-down-stores-for-winter/",
+      "published": "2026-10-16T17:00:00Z"
+    },
+    {
+      "blog_title": "The Digital Antiquarian",
+      "blog_url": "https://www.filfre.net/",
+      "feed_url": "https://www.filfre.net/feed/",
+      "post_title": "This Week on The Analog Antiquarian",
+      "post_url": "https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/",
+      "published": "2026-10-16T16:14:39Z"
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "The Melancholy Of Akane Rin",
+      "post_url": "https://bhagpuss.blogspot.com/2026/10/the-melancholy-of-akane-rin.html",
+      "published": "2026-10-16T15:59:02Z"
+    },
+    {
+      "blog_title": "Orbital Martian",
+      "blog_url": "https://orbitalmartian.polymaths.page/",
+      "feed_url": "https://orbitalmartian.polymaths.page/feed.xml",
+      "post_title": "2 Weeks of Android",
+      "post_url": "https://orbitalmartian.polymaths.page/blog/2026-10-16-2-weeks-of-android/",
+      "published": "2026-10-16T15:30:00Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Enshrouded Leaves Early Access with a Big 1.0 Update",
+      "post_url": "https://tagn.wordpress.com/2026/10/16/enshrouded-leaves-early-access-with-a-big-1-0-update/",
+      "published": "2026-10-16T15:15:35Z"
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Cloudflare、認証済みボットの行動評価を内部運用。公開スコアと顧客別閾値を計画",
+      "post_url": "https://joho-todai.com/cloudflare-authenticated-bot-behavior-scoring/",
+      "published": "2026-10-16T15:06:01Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Bannerlord Companions: Best Companion for Every Role (War Sails, v1.4.8)",
+      "post_url": "https://gamerofpassion.com/bannerlord-companions/",
+      "published": "2026-10-16T14:50:13Z"
+    },
+    {
+      "blog_title": "Aywren's Nook",
+      "blog_url": "https://www.aywren.com/",
+      "feed_url": "https://aywren.com/feed.xml",
+      "post_title": "FFXIV: Alt Realities",
+      "post_url": "https://aywren.com/2026/10/16/ffxiv-alt-realities",
+      "published": "2026-10-16T14:30:41Z"
+    },
+    {
+      "blog_title": "Heartlessgamer",
+      "blog_url": "http://www.heartlessgamer.com/",
+      "feed_url": "http://feeds.feedburner.com/Heartless_Gamer",
+      "post_title": "Brewers are going to the World Series!",
+      "post_url": "http://www.heartlessgamer.com/2026/10/brewers-are-going-to-world-series.html",
+      "published": "2026-10-16T14:28:43Z"
+    },
+    {
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "October Check-In",
+      "post_url": "https://syls.blog/october-check-in/",
+      "published": "2026-10-16T14:07:00Z"
+    },
+    {
+      "blog_title": "Superior Realities",
+      "blog_url": "https://superior-realities.com",
+      "feed_url": "https://superior-realities.com/feed/",
+      "post_title": "Song of the Month: Sloan, Coax Me",
+      "post_url": "https://superior-realities.com/2026/10/16/song-of-the-month-sloan-coax-me/",
+      "published": "2026-10-16T14:00:55Z"
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "一次創作オンリー のスペースナンバーが出ました",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1281",
+      "published": "2026-10-16T13:35:22Z"
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "On friendship and habits",
+      "post_url": "https://www.kgadams.net/tiny-thoughts/on-friendship-and-habits",
+      "published": "2026-10-16T13:30:00Z"
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Snowbeast (1977) – Jaws by way of Bigfoot",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/16/snowbeast-1977-jaws-by-way-of-bigfoot/",
+      "published": "2026-10-16T13:00:46Z"
     }
   ]
 }
