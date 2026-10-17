@@ -1,12 +1,183 @@
 {
-  "generated_at": "2026-10-17T10:44:26.560698Z",
-  "source_generated_at": "2026-10-17T10:42:44.714159Z",
+  "generated_at": "2026-10-17T20:36:08.634245Z",
+  "source_generated_at": "2026-10-17T20:35:32.822835Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
   "summary_count": 19,
   "posts": [
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Major IndieWeb Services Now Have genAI and Claude Built-in. What Do We Do?",
+      "post_url": "https://brennan.day/the-indieweb-now-has-genai-and-claude-built-in-what-do-we-do/",
+      "published": "2026-10-18T02:00:00Z",
+      "summary": "Brennan Day examines Aaron Parecki’s use of Claude Code across major IndieWeb projects and considers its implications for the movement’s pro-human, anti-corporate ideals."
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 42 Digest",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-17-week-42-digest/",
+      "published": "2026-10-17T19:09:57Z",
+      "summary": "A personal weekly digest covers starting a new job, baking, mystery novels, television, a jigsaw puzzle, Fate/Grand Order, Divinity: Original Sin 2, and Pentiment."
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "Biking To The Koi",
+      "post_url": "https://jasonjournals.com/posts/biking-to-the-koi",
+      "published": "2026-10-17T19:09:12Z",
+      "summary": "A Texas cyclist describes a six-mile ride to a friend’s tranquil koi pond, enjoying autumn weather, exercise, nature, and anticipation of upcoming travel and surgery."
+    },
+    {
+      "blog_title": "Bavatuesdays",
+      "blog_url": "https://bavatuesdays.com",
+      "feed_url": "http://bavatuesdays.com/feed/",
+      "post_title": "They Live Diorama",
+      "post_url": "https://bavatuesdays.com/they-live-diorama/",
+      "published": "2026-10-17T18:24:21Z",
+      "summary": "A detailed account of constructing a They Live diorama, covering its perspective-based design, lightweight polystyrene structure, printed buildings, vehicles, alien imagery, posters, lighting, and assembly."
+    },
+    {
+      "blog_title": "The Works of Egan",
+      "blog_url": "https://theworksofegan.net/",
+      "feed_url": "https://theworksofegan.net/feed.xml",
+      "post_title": "R Train Animation",
+      "post_url": "https://theworksofegan.net/posts/2026-10-17-r-train-animation/",
+      "published": "2026-10-17T17:07:00Z",
+      "summary": "A looping animation depicts an R Train entering a station, operating its doors, and departing, accompanied by locally sourced subway sound design."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Food questions",
+      "post_url": "https://francescrossley.com/food-questions/",
+      "published": "2026-10-17T17:00:00Z",
+      "summary": "Fran answers food prompts about childhood veggie burgers, regional Indian cuisine, favourite chaat, memorable camping pizza, desired sushi, cooking photos, spice preferences, and vegetarian habits."
+    },
+    {
+      "blog_title": "Off the Top",
+      "blog_url": "https://www.vanderwal.net/random/index.php",
+      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
+      "post_title": "Saturday Morning Comfort Dish",
+      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2234",
+      "published": "2026-10-17T16:48:09Z",
+      "summary": "A sweet potato hash combines garlic, turmeric, onion, mushrooms, cumin, and coriander, then cooks with steamed eggs for a warming Saturday breakfast."
+    },
+    {
+      "blog_title": "Forking Mad+",
+      "blog_url": "https://forkingmad.blog/",
+      "feed_url": "https://forkingmad.blog/feed/",
+      "post_title": "TV viewing options are very fragmented",
+      "post_url": "https://forkingmad.blog/tv-viewing-fragmented/",
+      "published": "2026-10-17T16:42:00Z",
+      "summary": "The piece examines how UK television evolved from terrestrial and satellite broadcasting into fragmented, subscription-based streaming services that make viewing increasingly costly and complicated."
+    },
+    {
+      "blog_title": "Nosrednayduj's Blog",
+      "blog_url": "https://nosrednayduj.dreamwidth.org/",
+      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
+      "post_title": "Action #30",
+      "post_url": "https://nosrednayduj.dreamwidth.org/189552.html",
+      "published": "2026-10-17T16:17:40Z",
+      "summary": "The post recounts 350 Mass advocacy at a No Kings protest, urging Massachusetts residents to preserve Mass Save and reduce GSEP in a pending energy bill."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Rambling About Streaming and Finding Shows and Missing Episodes",
+      "post_url": "https://tagn.wordpress.com/2026/10/17/rambling-about-streaming-and-availability/",
+      "published": "2026-10-17T16:15:07Z",
+      "summary": "Streaming searches reveal where current and older shows are available, while missing episodes, regional restrictions, archival losses, and poorly presented FAST channels complicate viewing."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Bannerlord Executing Lords: Penalties, Honor and When It Is Worth It (War Sails, v1.4.8)",
+      "post_url": "https://gamerofpassion.com/bannerlord-execute-lords/",
+      "published": "2026-10-17T16:00:00Z",
+      "summary": "A Bannerlord v1.4.8 guide explains execution’s relation penalties, hidden Honor costs, clan succession effects, and when eliminating lords may be worthwhile."
+    },
+    {
+      "blog_title": "Beto Dealmeida",
+      "blog_url": "https://robida.net/",
+      "feed_url": "https://robida.net/feed.xml",
+      "post_title": "Linux kernel goes full AI slop code, hides chatbot commits",
+      "post_url": "https://robida.net/entries/2026/10/17/linux-kernel-goes-full-ai-slop-code-hides-chatbot-",
+      "published": "2026-10-17T15:33:37Z",
+      "summary": "The text contrasts Linux’s alleged AI-generated code with NetBSD’s resistance to AI slop, while noting NetBSD’s hardware, gaming, and Nvidia-driver limitations."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - lying around",
+      "post_url": "https://pretendtypewriter.net/note-lying-around/",
+      "published": "2026-10-17T14:54:31Z",
+      "summary": "A personal note describes digestive discomfort, spending a suddenly free Saturday lying around and sleeping, and trying to stop feeling guilty about it."
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "NVIDIA幹部、RTX 5090の生産終了を否定。供給制約は認める",
+      "post_url": "https://joho-todai.com/nvidia-executive-denies-rtx-5090-production-halt/",
+      "published": "2026-10-17T14:07:45Z",
+      "summary": null
+    },
+    {
+      "blog_title": "BurgeonLab",
+      "blog_url": "https://burgeonlab.com/",
+      "feed_url": "https://burgeonlab.com/all/feed.xml",
+      "post_title": "PSA: RSS and Atom XML Feeds Failure",
+      "post_url": "https://burgeonlab.com/notes/2026/1017-2202/",
+      "published": "2026-10-17T14:02:00Z",
+      "summary": "BurgeonLab explains how an invalid date format in Atom and RSS feed identifiers caused duplicate entries, alongside template fixes and validation plans."
+    },
+    {
+      "blog_title": "素生",
+      "blog_url": "https://z.arlmy.me/",
+      "feed_url": "http://z.arlmy.me/atom.xml",
+      "post_title": "入蜀记 day507 做饭与附近、哼鸣、紫美石榴",
+      "post_url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_507/",
+      "published": "2026-10-17T13:15:27Z",
+      "summary": "A daily diary covers cooking, neighborhood connections, food discoveries, humming, business observations, pomegranate tasting, exercise concerns, and learning server administration."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Revisiting the most triumphant Bill and Ted trilogy",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/17/revisiting-the-most-triumphant-bill-and-ted-trilogy/",
+      "published": "2026-10-17T13:00:17Z",
+      "summary": "A marathon revisits Bill and Ted’s Excellent Adventure, Bogus Journey, and Face the Music, examining their humor, pacing, characters, continuity, and evolving legacy-sequel approach."
+    },
+    {
+      "blog_title": "Aeish's Blog Feed :3",
+      "blog_url": "https://aeish-world.neocities.org/blog_front",
+      "feed_url": "https://aeish-world.neocities.org/feed.txt",
+      "post_title": "Liveblogging 5: Name Archive",
+      "post_url": "https://aeish-world.neocities.org/blog_pages/liveblogging-5",
+      "published": "2026-10-17T11:33:00Z",
+      "summary": "Aeish reflects on their name’s uncertain origins, personal worldview, colourful fashion, assertive personality, and current enjoyment of Annihilation, Twin Peaks, and Mononoke."
+    },
+    {
+      "blog_title": "Blog - 鳥啼く頃に",
+      "blog_url": "https://torinakukoroni.blog.fc2.com/",
+      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
+      "post_title": "ミネラルマルシェに行ってきたよ！",
+      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-402.html",
+      "published": "2026-10-17T10:54:49Z",
+      "summary": "A visit to Nagoya’s Mineral Marche yields Tanzanite, opal, meteorites, decorative items, and accessories while revealing preferences for sparkling, translucent, unusual stones."
+    },
     {
       "blog_title": "NomadWarMachine",
       "blog_url": "https://nomadwarmachine.co.uk/",
@@ -15,177 +186,6 @@
       "post_url": "https://nomadwarmachine.co.uk/2026/10/17/six-word-story/",
       "published": "2026-10-17T10:41:59Z",
       "summary": "A six-word story about Glasgow portrays rain surrounding a beloved green place, accompanied by a garden view photographed through the writer’s study window."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Brave Leo、AIへの質問をブラウザ内で暗号化。保護環境の外では誰も読めない仕組みを正式導入",
-      "post_url": "https://joho-todai.com/brave-leo-encrypted-ai-questions-browser/",
-      "published": "2026-10-17T10:25:03Z",
-      "summary": null
-    },
-    {
-      "blog_title": "Going Commando",
-      "blog_url": "https://swtorcommando.blogspot.com/",
-      "feed_url": "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Legacy of the Sith as an Expansion",
-      "post_url": "https://swtorcommando.blogspot.com/2026/10/legacy-of-sith-as-expansion.html",
-      "published": "2026-10-17T10:22:21Z",
-      "summary": "Legacy of the Sith added story updates, planetary and endgame content, seasonal systems, housing, combat styles, loadouts, and quality-of-life improvements to SWTOR."
-    },
-    {
-      "blog_title": "Model Aircraft in the Cinema",
-      "blog_url": "https://modelaircraftinthecinema.blogspot.com",
-      "feed_url": "https://modelaircraftinthecinema.blogspot.com/feeds/posts/default",
-      "post_title": "Test Pilot 1938",
-      "post_url": "https://modelaircraftinthecinema.blogspot.com/2026/10/test-pilot-1938.html",
-      "published": "2026-10-17T09:26:53Z",
-      "summary": "Test Pilot (1938) features miniature aircraft effects supervised by A. Arnold Gillespie and Donald Jahraus, including crashes, shearing wings, and imperfectly synchronized rear projection."
-    },
-    {
-      "blog_title": "Model Ships in the Cinema",
-      "blog_url": "https://www.modelshipsinthecinema.com",
-      "feed_url": "https://www.modelshipsinthecinema.com/feeds/posts/default",
-      "post_title": "High Barbaree 1947",
-      "post_url": "https://www.modelshipsinthecinema.com/2026/10/high-barbaree-1947.html",
-      "published": "2026-10-17T09:13:34Z",
-      "summary": "High Barbaree (1947) features A. Arnold Gillespie’s miniature effects, including a bombed submarine, distant ship, fairground bicycle attraction, and rear-projected tornado footage."
-    },
-    {
-      "blog_title": "Cubic Creativity",
-      "blog_url": "https://cubiccreativity.wordpress.com/",
-      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
-      "post_title": "Stalk’s Videogame Corner: Overcooked! 2",
-      "post_url": "https://cubiccreativity.wordpress.com/2026/10/17/stalks-videogame-corner-overcooked-2/",
-      "published": "2026-10-17T07:00:00Z",
-      "summary": "Stalk reviews Overcooked! 2, describing its cooperative cooking gameplay, chaotic kitchen challenges, campaign, improvements over the original, and multiplayer-focused appeal."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Hades Best Keepsakes: Tier List and When to Swap Them (Hades 1)",
-      "post_url": "https://gamerofpassion.com/hades-best-keepsakes/",
-      "published": "2026-10-17T07:00:00Z",
-      "summary": "A guide ranks all 25 Hades keepsakes, explains their effects, unlocking and leveling rules, regional swapping, and recommended progression from Tartarus through Styx."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Favorite cats",
-      "post_url": "https://rishidass.net/posts/favorite-cats",
-      "published": "2026-10-17T06:01:20Z",
-      "summary": "Rishi Dass shares favorite YouTube cats, including Hosico, Kitten Pudding, Kiki, Gin, and Leon, highlighting their appearances, behaviors, personalities, and distinctive meows."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "So many worries…",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/17/so-many-worries-2/",
-      "published": "2026-10-17T05:00:43Z",
-      "summary": "Cynni describes worries about managing Koa’s puberty-related stress, acknowledging limited preparedness and comparing his upbringing with earlier dogs during health challenges."
-    },
-    {
-      "blog_title": "The Works of Egan",
-      "blog_url": "https://theworksofegan.net/",
-      "feed_url": "https://theworksofegan.net/feed.xml",
-      "post_title": "This toaster is America or something",
-      "post_url": "https://theworksofegan.net/posts/2026-10-16-free-toaster/",
-      "published": "2026-10-17T04:11:00Z",
-      "summary": "A brief photography post tagged #irl and #nyc presents a toaster as an ambiguous representation of America."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "A New Unit of Incompetence Just Dropped: A Zacharia",
-      "post_url": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html?unlocked_article_code=1.JVE.b1Se.b1CtkRmKk7pO",
-      "published": "2026-10-17T03:23:33Z",
-      "summary": "The post satirically proposes “Zacharia” as a new time-to-termination unit, replacing “Scaramucci” except when referring to Anthony Scaramucci’s tenure."
-    },
-    {
-      "blog_title": "Blog - 鳥啼く頃に",
-      "blog_url": "https://torinakukoroni.blog.fc2.com/",
-      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
-      "post_title": "映画『ストリートファイター／ザ・ムービー』観たよ！",
-      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-401.html",
-      "published": "2026-10-17T02:35:33Z",
-      "summary": "A spoiler-filled review of Street Fighter: The Movie examines its characters, action sequences, Japanese dubbing, game-inspired elements, and uncertain sequel prospects."
-    },
-    {
-      "blog_title": "Dirchansky Freetalk",
-      "blog_url": "https://dirchansky.com/freetalk/",
-      "feed_url": "https://dirchansky.com/freetalk/rss.xml",
-      "post_title": "Varying fidelity",
-      "post_url": "https://dirchansky.com/freetalk/varying-fidelity",
-      "published": "2026-10-17T00:23:27Z",
-      "summary": "Dirchansky shares site updates, comic development notes for SitM and Mesha, creative projects, payment concerns, crafts, character trivia, and recent media reactions."
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "🎬 Pride and Prejudice and Zombies (2016)",
-      "post_url": "https://tobygeeksout.micro.blog/2026/10/16/pride-and-prejudice-and-zombies.html",
-      "published": "2026-10-16T23:54:26Z",
-      "summary": "Pride and Prejudice and Zombies reimagines Jane Austen’s romance as a bloody 19th-century zombie outbreak, pairing martial artist Elizabeth Bennet with zombie killer Mr. Darcy."
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "🔁 Reposted: We don't want decentralized systems, we want small ones",
-      "post_url": "https://michaelharley.net/links/2026/10/16/we-dont-want-decentralized-systems-we-want-small-ones/",
-      "published": "2026-10-16T22:50:54Z",
-      "summary": "Michael Harley contrasts decentralized and distributed systems with a preference for smaller systems, while retaining interest in distributed, federated systems."
-    },
-    {
-      "blog_title": "Lucky Instar",
-      "blog_url": "https://luckyinstar.neocities.org/blog",
-      "feed_url": "https://luckyinstar.neocities.org/feed.xml",
-      "post_title": "genetic linkage Oct 16: not dead",
-      "post_url": "https://luckyinstar.neocities.org/blog/linkage_2026_10_16",
-      "published": "2026-10-16T21:08:54Z",
-      "summary": "Lucky Instar returns from a break with reading recommendations, reflections on banned books, science writing, beavers, evolution, genetics, and planned spooky biology posts."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - ugh",
-      "post_url": "https://pretendtypewriter.net/note-ugh-1/",
-      "published": "2026-10-16T19:11:00Z",
-      "summary": "A brief note records mistaken preparation for choir rehearsal, which is scheduled for Sunday rather than the following day, including concern about lunch lasting."
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - October 16, 2026 20:35",
-      "post_url": "https://martinschuhmann.com/blog/3c1f7a35",
-      "published": "2026-10-16T18:35:00Z",
-      "summary": "Martin Schuhmann reflects on New Music Friday and his growing queue on Record Club."
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Ducks in the Valley #the100pics",
-      "post_url": "https://thinkroot.xyz/photo-714",
-      "published": "2026-10-16T17:30:17Z",
-      "summary": "A photo titled “Ducks in the Valley” is presented as part of ThinkRoot’s #the100pics series."
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "What I wrote while Mastodon was down",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-16-what-i-wrote-while-mastodon-down/",
-      "published": "2026-10-16T17:02:16Z",
-      "summary": "During a Mastodon outage, the writer journals about planning work shifts, balancing finances and rest, daily routines, therapy, groceries, and forgotten blogging tasks."
     }
   ]
 }
