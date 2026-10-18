@@ -1,12 +1,93 @@
 {
-  "generated_at": "2026-10-17T20:36:08.634245Z",
-  "source_generated_at": "2026-10-17T20:35:32.822835Z",
+  "generated_at": "2026-10-18T11:03:50.695141Z",
+  "source_generated_at": "2026-10-18T11:03:13.262676Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 19,
+  "summary_count": 18,
   "posts": [
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "なぜ非同期が遅いのか。VirtIO-FSの同期キューで仮想マシンのビルド時間28%短縮",
+      "post_url": "https://joho-todai.com/virtio-fs-sync-queue-vm-build-faster/",
+      "published": "2026-10-18T10:26:05Z",
+      "summary": null
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Observational Haiku",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/18/observational-haiku-2/",
+      "published": "2026-10-18T10:10:56Z",
+      "summary": "NomadWarMachine presents a haiku inspired by observing garden frost, comparing its sunlit appearance to icing on a cupcake."
+    },
+    {
+      "blog_title": "Sylvia's Studio",
+      "blog_url": "https://sylvia.studio/",
+      "feed_url": "https://sylvia.studio/feed.xml",
+      "post_title": "A morning in the life of a chronic listmaker",
+      "post_url": "https://sylvia.studio/posts/a-morning-in-the-life-of-a-chronic-listmaker",
+      "published": "2026-10-18T09:50:00Z",
+      "summary": "Sylvia describes preparing for a long-awaited Dublin trip through extensive digital and paper lists that organize packing, errands, destinations, purchases, contacts, and itinerary ideas."
+    },
+    {
+      "blog_title": "Model Aircraft in the Cinema",
+      "blog_url": "https://modelaircraftinthecinema.blogspot.com",
+      "feed_url": "https://modelaircraftinthecinema.blogspot.com/feeds/posts/default",
+      "post_title": "A Lady Without Passport 1950",
+      "post_url": "https://modelaircraftinthecinema.blogspot.com/2026/10/a-lady-without-passport-1950.html",
+      "published": "2026-10-18T07:58:30Z",
+      "summary": "A. Arnold Gillespie’s aircraft effects for A Lady Without Passport include a 1/12-scale BT-13 miniature, rear projection, wire work, and possibly full-size crash footage."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - long way",
+      "post_url": "https://pretendtypewriter.net/note-long-way/",
+      "published": "2026-10-18T06:26:27Z",
+      "summary": "A brief note describes traveling a long way to Basel after apparently sleeping only four hours."
+    },
+    {
+      "blog_title": "ComradeNerdy",
+      "blog_url": "https://comradenerdy.com/",
+      "feed_url": "https://comradenerdy.com/feed/",
+      "post_title": "Steam Next Fest Demo Showcase. October 2026",
+      "post_url": "https://comradenerdy.com/steam-next-fest-demo-showcase-october-2026/",
+      "published": "2026-10-18T05:53:01Z",
+      "summary": "Steam Next Fest Demo Showcase. October 2026 is identified by its title, but the supplied text provides no details about the showcased demos."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "#SilentSunday – Sunrise 🌅 love 🐾",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/18/silentsunday-sunrise-%f0%9f%8c%85-love-%f0%9f%90%be/",
+      "published": "2026-10-18T05:21:43Z",
+      "summary": "A Silent Sunday photograph captures senior chocolate Labrador Arwen sitting in meadow grass beside the water as vibrant sunrise colors illuminate the background."
+    },
+    {
+      "blog_title": "わくパンの思考のかけら",
+      "blog_url": "https://wakupanbouquet.hatenablog.com/",
+      "feed_url": "https://wakupanbouquet.hatenablog.com/rss",
+      "post_title": "2026-W42 週報 ぜったいに精神科をやめるぞい（※よいこのみんなはまねしないでね）",
+      "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/10/18/140534",
+      "published": "2026-10-18T05:05:34Z",
+      "summary": "A distressed weekly report describes social-media overuse, compulsive shopping, an impending move, abandoning pixiv, and plans to reduce psychiatric treatment while writing fiction."
+    },
+    {
+      "blog_title": "A 3D Blog for a 3D World",
+      "blog_url": "https://kingwilly105.blogspot.com/",
+      "feed_url": "https://kingwilly105.blogspot.com/feeds/posts/default",
+      "post_title": "Pictures from the October Vintage Computer Meeting (90s Edition)",
+      "post_url": "https://kingwilly105.blogspot.com/2026/10/pictures-from-october-vintage-computer.html",
+      "published": "2026-10-18T03:20:08Z",
+      "summary": null
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
@@ -15,6 +96,78 @@
       "post_url": "https://brennan.day/the-indieweb-now-has-genai-and-claude-built-in-what-do-we-do/",
       "published": "2026-10-18T02:00:00Z",
       "summary": "Brennan Day examines Aaron Parecki’s use of Claude Code across major IndieWeb projects and considers its implications for the movement’s pro-human, anti-corporate ideals."
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "Wildcat, Terror on the Praire and Deep Cover",
+      "post_url": "http://josephskyrim.blogspot.com/2026/10/wildcat-terror-on-praire-and-deep-cover.html",
+      "published": "2026-10-18T01:36:14Z",
+      "summary": "Reviews cover Wildcat, Terror on the Prairie, and Deep Cover, describing their action, Western, and comedy plots alongside criticisms of pacing, characters, realism, and plot armor."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Elon’s Flying Fantasy",
+      "post_url": "https://www.status.news/p/elon-musk-flying-car-tesla-roadster",
+      "published": "2026-10-18T00:05:15Z",
+      "summary": "The piece critiques media coverage of Elon Musk’s Tesla Roadster unveiling, highlighting its limited flight capability, uncertain delivery, high reservation cost, and promotional purpose."
+    },
+    {
+      "blog_title": "粉红路",
+      "blog_url": "https://pinkway.mataroa.blog/",
+      "feed_url": "https://pinkway.mataroa.blog/rss/",
+      "post_title": "我想一觉不醒",
+      "post_url": "https://pinkway.mataroa.blog/blog/999-f5-180/",
+      "published": "2026-10-18T00:00:00Z",
+      "summary": "An introspective seasonal reflection describes reluctance to leave bed, memories of excessive sleep, concern over a suicidal-sounding message, and ambivalence toward facing each new day."
+    },
+    {
+      "blog_title": "Michcia's Notes",
+      "blog_url": "https://michcia.bearblog.dev/",
+      "feed_url": "https://michcia.bearblog.dev/feed/",
+      "post_title": "declarative tailnet sharing? we asked 2 gay girls and here's what they said",
+      "post_url": "https://michcia.bearblog.dev/declarative-tailnet-sharing-we-asked-2-gay-girls-and-heres-what-they-said/",
+      "published": "2026-10-17T23:52:00Z",
+      "summary": "Michcia and Tea test Tailscale’s alpha declarative tailnet sharing, explaining ACL configuration, tagged-server permissions, troubleshooting, device visibility, and current limitations."
+    },
+    {
+      "blog_title": "Lameazoid",
+      "blog_url": "https://lameazoid.com/",
+      "feed_url": "https://lameazoid.com/feed/",
+      "post_title": "Weekly Wrap-Up (2026.10.17)",
+      "post_url": "https://lameazoid.com/posts/weekly-wrap-up-2026-10-17/",
+      "published": "2026-10-17T22:30:00Z",
+      "summary": "The weekly roundup covers a family festival, guitar lessons, a smart toothbrush, Legacy Armada Jetfire, television viewing, comics, and organizing a Komga library."
+    },
+    {
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "Amsel, I Hardly Knew Ya",
+      "post_url": "https://scopique.com/2026/10/17/amsel-i-hardly-knew-ya/",
+      "published": "2026-10-17T21:31:35Z",
+      "summary": "Scopique evaluates Amsel for building a Secret World lore database, criticizing its inflexible templates, scaling problems, limited formatting, and constrained layout controls."
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Enshrouded: We are in you",
+      "post_url": "https://chasingdings.com/2026/10/17/enshrouded-we-are-in-you/",
+      "published": "2026-10-17T20:39:27Z",
+      "summary": "Enshrouded is a multiplayer survival-crafting game featuring poisonous mists, shared world progression, customizable combat, exploration, crafting, and a defined endgame."
+    },
+    {
+      "blog_title": "Battle Stance",
+      "blog_url": "https://battlestance.org/",
+      "feed_url": "https://battlestance.org/feed/",
+      "post_title": "Raiding the Venomous Abyss – Week 8",
+      "post_url": "https://battlestance.org/2026/10/17/raiding-the-venomous-abyss-week-8/",
+      "published": "2026-10-17T20:28:00Z",
+      "summary": "Battle Stance reports raid progress against Nek’zali, Sentinels, Explorers, Vashnik, Sszorak, and Nymrissa, alongside Mythic+ efforts on resilient 13s and 14s."
     },
     {
       "blog_title": "An Archaeopteryx",
@@ -33,159 +186,6 @@
       "post_url": "https://jasonjournals.com/posts/biking-to-the-koi",
       "published": "2026-10-17T19:09:12Z",
       "summary": "A Texas cyclist describes a six-mile ride to a friend’s tranquil koi pond, enjoying autumn weather, exercise, nature, and anticipation of upcoming travel and surgery."
-    },
-    {
-      "blog_title": "Bavatuesdays",
-      "blog_url": "https://bavatuesdays.com",
-      "feed_url": "http://bavatuesdays.com/feed/",
-      "post_title": "They Live Diorama",
-      "post_url": "https://bavatuesdays.com/they-live-diorama/",
-      "published": "2026-10-17T18:24:21Z",
-      "summary": "A detailed account of constructing a They Live diorama, covering its perspective-based design, lightweight polystyrene structure, printed buildings, vehicles, alien imagery, posters, lighting, and assembly."
-    },
-    {
-      "blog_title": "The Works of Egan",
-      "blog_url": "https://theworksofegan.net/",
-      "feed_url": "https://theworksofegan.net/feed.xml",
-      "post_title": "R Train Animation",
-      "post_url": "https://theworksofegan.net/posts/2026-10-17-r-train-animation/",
-      "published": "2026-10-17T17:07:00Z",
-      "summary": "A looping animation depicts an R Train entering a station, operating its doors, and departing, accompanied by locally sourced subway sound design."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Food questions",
-      "post_url": "https://francescrossley.com/food-questions/",
-      "published": "2026-10-17T17:00:00Z",
-      "summary": "Fran answers food prompts about childhood veggie burgers, regional Indian cuisine, favourite chaat, memorable camping pizza, desired sushi, cooking photos, spice preferences, and vegetarian habits."
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "Saturday Morning Comfort Dish",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2234",
-      "published": "2026-10-17T16:48:09Z",
-      "summary": "A sweet potato hash combines garlic, turmeric, onion, mushrooms, cumin, and coriander, then cooks with steamed eggs for a warming Saturday breakfast."
-    },
-    {
-      "blog_title": "Forking Mad+",
-      "blog_url": "https://forkingmad.blog/",
-      "feed_url": "https://forkingmad.blog/feed/",
-      "post_title": "TV viewing options are very fragmented",
-      "post_url": "https://forkingmad.blog/tv-viewing-fragmented/",
-      "published": "2026-10-17T16:42:00Z",
-      "summary": "The piece examines how UK television evolved from terrestrial and satellite broadcasting into fragmented, subscription-based streaming services that make viewing increasingly costly and complicated."
-    },
-    {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "Action #30",
-      "post_url": "https://nosrednayduj.dreamwidth.org/189552.html",
-      "published": "2026-10-17T16:17:40Z",
-      "summary": "The post recounts 350 Mass advocacy at a No Kings protest, urging Massachusetts residents to preserve Mass Save and reduce GSEP in a pending energy bill."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Rambling About Streaming and Finding Shows and Missing Episodes",
-      "post_url": "https://tagn.wordpress.com/2026/10/17/rambling-about-streaming-and-availability/",
-      "published": "2026-10-17T16:15:07Z",
-      "summary": "Streaming searches reveal where current and older shows are available, while missing episodes, regional restrictions, archival losses, and poorly presented FAST channels complicate viewing."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Bannerlord Executing Lords: Penalties, Honor and When It Is Worth It (War Sails, v1.4.8)",
-      "post_url": "https://gamerofpassion.com/bannerlord-execute-lords/",
-      "published": "2026-10-17T16:00:00Z",
-      "summary": "A Bannerlord v1.4.8 guide explains execution’s relation penalties, hidden Honor costs, clan succession effects, and when eliminating lords may be worthwhile."
-    },
-    {
-      "blog_title": "Beto Dealmeida",
-      "blog_url": "https://robida.net/",
-      "feed_url": "https://robida.net/feed.xml",
-      "post_title": "Linux kernel goes full AI slop code, hides chatbot commits",
-      "post_url": "https://robida.net/entries/2026/10/17/linux-kernel-goes-full-ai-slop-code-hides-chatbot-",
-      "published": "2026-10-17T15:33:37Z",
-      "summary": "The text contrasts Linux’s alleged AI-generated code with NetBSD’s resistance to AI slop, while noting NetBSD’s hardware, gaming, and Nvidia-driver limitations."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - lying around",
-      "post_url": "https://pretendtypewriter.net/note-lying-around/",
-      "published": "2026-10-17T14:54:31Z",
-      "summary": "A personal note describes digestive discomfort, spending a suddenly free Saturday lying around and sleeping, and trying to stop feeling guilty about it."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "NVIDIA幹部、RTX 5090の生産終了を否定。供給制約は認める",
-      "post_url": "https://joho-todai.com/nvidia-executive-denies-rtx-5090-production-halt/",
-      "published": "2026-10-17T14:07:45Z",
-      "summary": null
-    },
-    {
-      "blog_title": "BurgeonLab",
-      "blog_url": "https://burgeonlab.com/",
-      "feed_url": "https://burgeonlab.com/all/feed.xml",
-      "post_title": "PSA: RSS and Atom XML Feeds Failure",
-      "post_url": "https://burgeonlab.com/notes/2026/1017-2202/",
-      "published": "2026-10-17T14:02:00Z",
-      "summary": "BurgeonLab explains how an invalid date format in Atom and RSS feed identifiers caused duplicate entries, alongside template fixes and validation plans."
-    },
-    {
-      "blog_title": "素生",
-      "blog_url": "https://z.arlmy.me/",
-      "feed_url": "http://z.arlmy.me/atom.xml",
-      "post_title": "入蜀记 day507 做饭与附近、哼鸣、紫美石榴",
-      "post_url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_507/",
-      "published": "2026-10-17T13:15:27Z",
-      "summary": "A daily diary covers cooking, neighborhood connections, food discoveries, humming, business observations, pomegranate tasting, exercise concerns, and learning server administration."
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Revisiting the most triumphant Bill and Ted trilogy",
-      "post_url": "https://mutantreviewersmovies.com/2026/10/17/revisiting-the-most-triumphant-bill-and-ted-trilogy/",
-      "published": "2026-10-17T13:00:17Z",
-      "summary": "A marathon revisits Bill and Ted’s Excellent Adventure, Bogus Journey, and Face the Music, examining their humor, pacing, characters, continuity, and evolving legacy-sequel approach."
-    },
-    {
-      "blog_title": "Aeish's Blog Feed :3",
-      "blog_url": "https://aeish-world.neocities.org/blog_front",
-      "feed_url": "https://aeish-world.neocities.org/feed.txt",
-      "post_title": "Liveblogging 5: Name Archive",
-      "post_url": "https://aeish-world.neocities.org/blog_pages/liveblogging-5",
-      "published": "2026-10-17T11:33:00Z",
-      "summary": "Aeish reflects on their name’s uncertain origins, personal worldview, colourful fashion, assertive personality, and current enjoyment of Annihilation, Twin Peaks, and Mononoke."
-    },
-    {
-      "blog_title": "Blog - 鳥啼く頃に",
-      "blog_url": "https://torinakukoroni.blog.fc2.com/",
-      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
-      "post_title": "ミネラルマルシェに行ってきたよ！",
-      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-402.html",
-      "published": "2026-10-17T10:54:49Z",
-      "summary": "A visit to Nagoya’s Mineral Marche yields Tanzanite, opal, meteorites, decorative items, and accessories while revealing preferences for sparkling, translucent, unusual stones."
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Six Word Story",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/17/six-word-story/",
-      "published": "2026-10-17T10:41:59Z",
-      "summary": "A six-word story about Glasgow portrays rain surrounding a beloved green place, accompanied by a garden view photographed through the writer’s study window."
     }
   ]
 }
