@@ -1,10 +1,146 @@
 {
-  "generated_at": "2026-10-19T22:20:42.574114Z",
+  "generated_at": "2026-10-20T11:34:56.090944Z",
   "feed_count": 354,
-  "successful_feeds": 318,
-  "failed_feeds": 36,
+  "successful_feeds": 324,
+  "failed_feeds": 30,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "If I use a social network like Starling, is there still a point in usi…",
+      "post_url": "https://thinkroot.xyz/nota-803",
+      "published": "2026-10-20T11:25:03Z"
+    },
+    {
+      "blog_title": "In An Age",
+      "blog_url": "https://inanage.com/",
+      "feed_url": "http://inanage.com/feed/",
+      "post_title": "Ashlands and the North",
+      "post_url": "https://inanage.com/2026/10/20/ashlands-and-the-north/",
+      "published": "2026-10-20T11:00:00Z"
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "AIエージェントが1,200超のECサイトを攻撃、日本も標的に。侵入1件あたり約50ドル",
+      "post_url": "https://joho-todai.com/ai-agents-attack-1200-ecommerce-sites-japan-targeted/",
+      "published": "2026-10-20T10:59:26Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "A Wish for Your Place",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/20/a-wish-for-your-place/",
+      "published": "2026-10-20T10:01:17Z"
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Next Fest Autumn 2026 - The Choosing",
+      "post_url": "https://bhagpuss.blogspot.com/2026/10/next-fest-autumn-2026-choosing.html",
+      "published": "2026-10-20T09:28:25Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Amazing Cultivation Simulator Laws: Tier List, Law Match and How to Get Them",
+      "post_url": "https://gamerofpassion.com/amazing-cultivation-simulator-laws/",
+      "published": "2026-10-20T09:18:18Z"
+    },
+    {
+      "blog_title": "#デザイン 記事まとめ",
+      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
+      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
+      "post_title": "前年を乗り越えるデザインの挑戦。「Hello Friends!」3年目のブランド体験ができるまで",
+      "post_url": "https://lydesign.jp/n/n348212aeedbb",
+      "published": "2026-10-20T08:00:00Z"
+    },
+    {
+      "blog_title": "Overage-Gaming",
+      "blog_url": "https://overage-gaming.com/",
+      "feed_url": "https://overage-gaming.com/feed/",
+      "post_title": "Slay The Horde: Vampire Survivors Meets Slay the Spire and It Is Absurd (Gameplay)",
+      "post_url": "https://overage-gaming.com/2026/10/20/slay-the-horde-vampire-survivors-meets-slay-the-spire-and-it-is-absurd-gameplay/",
+      "published": "2026-10-20T07:01:00Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Isn’t it wonderful?",
+      "post_url": "https://rishidass.net/posts/isnt-it-wonderful",
+      "published": "2026-10-20T05:58:15Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Journal – Week 42, October 2026",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/20/journal-week-42-october-2026/",
+      "published": "2026-10-20T05:00:00Z"
+    },
+    {
+      "blog_title": "Off the Top",
+      "blog_url": "https://www.vanderwal.net/random/index.php",
+      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
+      "post_title": "The Fate of Logic Poem Now on This Site",
+      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2235",
+      "published": "2026-10-20T03:19:10Z"
+    },
+    {
+      "blog_title": "Noisy Deadlines",
+      "blog_url": "https://noisydeadlines.net/",
+      "feed_url": "https://noisydeadlines.net/feed/",
+      "post_title": "Week Notes – Oct 01 to Oct 18 2026",
+      "post_url": "https://noisydeadlines.net/week-notes-oct-01-to-oct-18-2026?pk_campaign=rss-feed",
+      "published": "2026-10-20T01:27:12Z"
+    },
+    {
+      "blog_title": "Cheshire Gaming",
+      "blog_url": "https://www.cheshiregaming.com/",
+      "feed_url": "https://www.cheshiregaming.com/feeds/posts/default",
+      "post_title": "Epoch Operation: Taubound",
+      "post_url": "https://www.cheshiregaming.com/2026/10/epoch-operation-taubound.html",
+      "published": "2026-10-20T00:58:31Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Michael Che: Shot in Minnesota (2026) — ⭐⭐⭐ (3/5)",
+      "post_url": "https://michaelharley.net/watching/2026/10/19/michael-che-shot-in-minnesota/",
+      "published": "2026-10-20T00:19:24Z"
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Tuesday, 20 October 2026",
+      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-20.html",
+      "published": "2026-10-20T00:00:00Z"
+    },
+    {
+      "blog_title": "Heart Soul Machine",
+      "blog_url": "https://heartsoulmachine.com/",
+      "feed_url": "https://heartsoulmachine.com/feed.xml",
+      "post_title": "The Value of Process and Artefact",
+      "post_url": "https://heartsoulmachine.com/blog/2026/10-20-the-value-of-process-and-artefact/",
+      "published": "2026-10-20T00:00:00Z"
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "The Librarian: Quest for the Spear, Return to King Solomon's Mines, Curse of the Judas Chalice",
+      "post_url": "http://josephskyrim.blogspot.com/2026/10/the-librarian-quest-for-spear-return-to.html",
+      "published": "2026-10-19T22:51:08Z"
+    },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
@@ -28,142 +164,6 @@
       "post_title": "Reddit Post Collection",
       "post_url": "https://cobb.land/posts/reddit-post-collection/",
       "published": "2026-10-19T21:00:00Z"
-    },
-    {
-      "blog_title": "Cotswold Diary",
-      "blog_url": "https://diary.uncountable.uk/",
-      "feed_url": "https://diary.uncountable.uk/feed/",
-      "post_title": "Seeding with Longhorns",
-      "post_url": "https://diary.uncountable.uk/2026/10/seeding-with-longhorns/",
-      "published": "2026-10-19T20:03:14Z"
-    },
-    {
-      "blog_title": "The Nosy Gamer",
-      "blog_url": "https://nosygamer.blogspot.com/",
-      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
-      "post_title": "Cloud Imperium UK Ltd Late Filing Its Accounts Again",
-      "post_url": "https://nosygamer.blogspot.com/2026/10/cloud-imperium-uk-ltd-late-filing-its.html",
-      "published": "2026-10-19T18:30:00Z"
-    },
-    {
-      "blog_title": "Forking Mad+",
-      "blog_url": "https://forkingmad.blog/",
-      "feed_url": "https://forkingmad.blog/feed/",
-      "post_title": "Are you a NIMBY?",
-      "post_url": "https://forkingmad.blog/are-you-a-nimby/",
-      "published": "2026-10-19T18:20:00Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Any Color You Want, So Long As It's Blue: Pre-Ordering Descent to Val'Zyroth",
-      "post_url": "https://bhagpuss.blogspot.com/2026/10/any-color-you-want-so-long-as-its-blue.html",
-      "published": "2026-10-19T18:19:14Z"
-    },
-    {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Lore Forge",
-      "post_url": "https://scopique.com/2026/10/19/lore-forge/",
-      "published": "2026-10-19T18:04:09Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Good old-fashioned visit to the cobbler",
-      "post_url": "https://francescrossley.com/good-old-fashioned-visit-to-the-cobbler/",
-      "published": "2026-10-19T18:00:00Z"
-    },
-    {
-      "blog_title": "The Works of Egan",
-      "blog_url": "https://theworksofegan.net/",
-      "feed_url": "https://theworksofegan.net/feed.xml",
-      "post_title": "Finished Proverbs!",
-      "post_url": "https://theworksofegan.net/posts/2026-10-19-finished-proverbs/",
-      "published": "2026-10-19T18:00:00Z"
-    },
-    {
-      "blog_title": "Scormus Fails",
-      "blog_url": "https://scormey.com/",
-      "feed_url": "https://scormey.com/feed/",
-      "post_title": "Spooky Season: The Thing",
-      "post_url": "https://scormey.com/2026/10/19/spooky-season-the-thing/",
-      "published": "2026-10-19T17:00:00Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Fall Is Taking Its Time",
-      "post_url": "https://tobygeeksout.micro.blog/2026/10/19/fall-is-taking-its-time.html",
-      "published": "2026-10-19T16:16:11Z"
-    },
-    {
-      "blog_title": "Frostilyte Writes",
-      "blog_url": "https://frostilyte.ca/",
-      "feed_url": "https://frostilyte.ca/feed/",
-      "post_title": "Next Fest October 2026: Alethra First Impressions",
-      "post_url": "https://frostilyte.ca/2026/10/19/next-fest-october-2026-alethra-first-impressions/",
-      "published": "2026-10-19T15:26:34Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Into Over the Hill",
-      "post_url": "https://tagn.wordpress.com/2026/10/19/into-over-the-hill/",
-      "published": "2026-10-19T15:15:33Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "John Ternus Lands His First Cover of ‘Time’ Magazine",
-      "post_url": "https://time.com/collection/best-inventions/2026/apple-iphone-duo/",
-      "published": "2026-10-19T15:07:29Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 43 Links",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-19-week-43-links/",
-      "published": "2026-10-19T15:00:00Z"
-    },
-    {
-      "blog_title": "Wry Writer",
-      "blog_url": "https://wrywriter.ca",
-      "feed_url": "https://wrywriter.ca/posts_feed",
-      "post_title": "Little ‘Joyful’ Things",
-      "post_url": "https://alexandrawolfe.ca/posts/little-joyful-things",
-      "published": "2026-10-19T14:53:05Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Windows Serverの更新でExchangeが不安定に。メール配送停止の原因はRPCの同時処理上限",
-      "post_url": "https://joho-todai.com/windows-server-update-exchange-unstable-rpc-limit/",
-      "published": "2026-10-19T14:38:10Z"
-    },
-    {
-      "blog_title": "A Pixel Nomad",
-      "blog_url": "https://pixelnomad.ca/",
-      "feed_url": "https://pixelnomad.ca/feed/",
-      "post_title": "[WoW] Gold Making Wrap Up – week 42 (2026)",
-      "post_url": "https://pixelnomad.ca/2026/10/19/wow-gold-making-wrap-up-week-42-2026/",
-      "published": "2026-10-19T14:07:48Z"
-    },
-    {
-      "blog_title": "LOTRO Players",
-      "blog_url": "https://lotroplayers.com",
-      "feed_url": "http://lotroplayers.com/feed/",
-      "post_title": "LOTRO Players News Episode 687: Falling Lightly On Prairie",
-      "post_url": "https://lotroplayers.com/2026/10/19/lotro-players-news-episode-687-falling-lightly-on-prairie/?utm_source=rss&utm_medium=rss&utm_campaign=lotro-players-news-episode-687-falling-lightly-on-prairie",
-      "published": "2026-10-19T14:00:00Z"
     }
   ]
 }
