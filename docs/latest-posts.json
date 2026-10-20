@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-10-20T11:34:56.090944Z",
+  "generated_at": "2026-10-20T21:36:22.068021Z",
   "feed_count": 354,
-  "successful_feeds": 324,
-  "failed_feeds": 30,
+  "successful_feeds": 327,
+  "failed_feeds": 27,
   "post_count": 20,
   "posts": [
     {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "If I use a social network like Starling, is there still a point in usi…",
-      "post_url": "https://thinkroot.xyz/nota-803",
-      "published": "2026-10-20T11:25:03Z"
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "The Better Web / The Human Web / The Living Web",
+      "post_url": "https://brennan.day/the-better-web-the-human-web-the-living-web/",
+      "published": "2026-10-21T02:00:00Z"
     },
     {
-      "blog_title": "In An Age",
-      "blog_url": "https://inanage.com/",
-      "feed_url": "http://inanage.com/feed/",
-      "post_title": "Ashlands and the North",
-      "post_url": "https://inanage.com/2026/10/20/ashlands-and-the-north/",
-      "published": "2026-10-20T11:00:00Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "AIエージェントが1,200超のECサイトを攻撃、日本も標的に。侵入1件あたり約50ドル",
-      "post_url": "https://joho-todai.com/ai-agents-attack-1200-ecommerce-sites-japan-targeted/",
-      "published": "2026-10-20T10:59:26Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "A Wish for Your Place",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/20/a-wish-for-your-place/",
-      "published": "2026-10-20T10:01:17Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Next Fest Autumn 2026 - The Choosing",
-      "post_url": "https://bhagpuss.blogspot.com/2026/10/next-fest-autumn-2026-choosing.html",
-      "published": "2026-10-20T09:28:25Z"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Amazing Cultivation Simulator Laws: Tier List, Law Match and How to Get Them",
-      "post_url": "https://gamerofpassion.com/amazing-cultivation-simulator-laws/",
-      "published": "2026-10-20T09:18:18Z"
-    },
-    {
-      "blog_title": "#デザイン 記事まとめ",
-      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
-      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
-      "post_title": "前年を乗り越えるデザインの挑戦。「Hello Friends!」3年目のブランド体験ができるまで",
-      "post_url": "https://lydesign.jp/n/n348212aeedbb",
-      "published": "2026-10-20T08:00:00Z"
-    },
-    {
-      "blog_title": "Overage-Gaming",
-      "blog_url": "https://overage-gaming.com/",
-      "feed_url": "https://overage-gaming.com/feed/",
-      "post_title": "Slay The Horde: Vampire Survivors Meets Slay the Spire and It Is Absurd (Gameplay)",
-      "post_url": "https://overage-gaming.com/2026/10/20/slay-the-horde-vampire-survivors-meets-slay-the-spire-and-it-is-absurd-gameplay/",
-      "published": "2026-10-20T07:01:00Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Isn’t it wonderful?",
-      "post_url": "https://rishidass.net/posts/isnt-it-wonderful",
-      "published": "2026-10-20T05:58:15Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Journal – Week 42, October 2026",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/20/journal-week-42-october-2026/",
-      "published": "2026-10-20T05:00:00Z"
-    },
-    {
-      "blog_title": "Off the Top",
-      "blog_url": "https://www.vanderwal.net/random/index.php",
-      "feed_url": "http://feeds.feedburner.com/VanderwalnetOffTheTop",
-      "post_title": "The Fate of Logic Poem Now on This Site",
-      "post_url": "https://www.vanderwal.net/random/entrysel.php?blog=2235",
-      "published": "2026-10-20T03:19:10Z"
-    },
-    {
-      "blog_title": "Noisy Deadlines",
-      "blog_url": "https://noisydeadlines.net/",
-      "feed_url": "https://noisydeadlines.net/feed/",
-      "post_title": "Week Notes – Oct 01 to Oct 18 2026",
-      "post_url": "https://noisydeadlines.net/week-notes-oct-01-to-oct-18-2026?pk_campaign=rss-feed",
-      "published": "2026-10-20T01:27:12Z"
-    },
-    {
-      "blog_title": "Cheshire Gaming",
-      "blog_url": "https://www.cheshiregaming.com/",
-      "feed_url": "https://www.cheshiregaming.com/feeds/posts/default",
-      "post_title": "Epoch Operation: Taubound",
-      "post_url": "https://www.cheshiregaming.com/2026/10/epoch-operation-taubound.html",
-      "published": "2026-10-20T00:58:31Z"
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "Michael Che: Shot in Minnesota (2026) — ⭐⭐⭐ (3/5)",
-      "post_url": "https://michaelharley.net/watching/2026/10/19/michael-che-shot-in-minnesota/",
-      "published": "2026-10-20T00:19:24Z"
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Tuesday, 20 October 2026",
-      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-20.html",
-      "published": "2026-10-20T00:00:00Z"
-    },
-    {
-      "blog_title": "Heart Soul Machine",
-      "blog_url": "https://heartsoulmachine.com/",
-      "feed_url": "https://heartsoulmachine.com/feed.xml",
-      "post_title": "The Value of Process and Artefact",
-      "post_url": "https://heartsoulmachine.com/blog/2026/10-20-the-value-of-process-and-artefact/",
-      "published": "2026-10-20T00:00:00Z"
-    },
-    {
-      "blog_title": "JVT Workshop",
-      "blog_url": "http://josephskyrim.blogspot.com/",
-      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
-      "post_title": "The Librarian: Quest for the Spear, Return to King Solomon's Mines, Curse of the Judas Chalice",
-      "post_url": "http://josephskyrim.blogspot.com/2026/10/the-librarian-quest-for-spear-return-to.html",
-      "published": "2026-10-19T22:51:08Z"
+      "blog_title": "Leekscosycorner",
+      "blog_url": "https://leekscosycorner.com/",
+      "feed_url": "https://leekscosycorner.com/feed/",
+      "post_title": "Oboro No Ichi Preview: Build a Cosy Spirit Market Between Worlds",
+      "post_url": "https://leekscosycorner.com/2026/10/20/oboro-no-ichi-demo/",
+      "published": "2026-10-20T21:34:57Z"
     },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "MONDAY CLEANING: HALLWAY, DECLUTTERING",
-      "post_url": "https://pretendtypewriter.net/monday-cleaning-hallway-decluttering/",
-      "published": "2026-10-19T21:57:00Z"
+      "post_title": "note - street fighter",
+      "post_url": "https://pretendtypewriter.net/note-street-fighter/",
+      "published": "2026-10-20T20:48:29Z"
     },
     {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Card magic, faulty laptop, Alita - W42",
-      "post_url": "https://joelchrono.xyz/blog/2026-w42/",
-      "published": "2026-10-19T21:50:00Z"
+      "blog_title": "Personal InfoCloud",
+      "blog_url": "https://personalinfocloud.com/",
+      "feed_url": "https://personalinfocloud.com/feed/",
+      "post_title": "Developer Skill Maturity Matrix",
+      "post_url": "https://personalinfocloud.com/blog/2026/10/20/developer-skill-maturity-matrix/",
+      "published": "2026-10-20T20:46:43Z"
     },
     {
-      "blog_title": "Cobb.land",
-      "blog_url": "https://cobb.land/",
-      "feed_url": "https://cobb.land/feed.xml",
-      "post_title": "Reddit Post Collection",
-      "post_url": "https://cobb.land/posts/reddit-post-collection/",
-      "published": "2026-10-19T21:00:00Z"
+      "blog_title": "Endgame Viable",
+      "blog_url": "https://endgameviable.com/",
+      "feed_url": "http://endgameviable.com/feed/",
+      "post_title": "Every Team Lost in Week 6",
+      "post_url": "https://endgameviable.com/post/2026/10/every-team-lost-in-week-6/",
+      "published": "2026-10-20T20:03:30Z"
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "[Now reading…]",
+      "post_url": "https://jasonjournals.com/posts/2026-10-20-now-reading",
+      "published": "2026-10-20T18:16:21Z"
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Invisibilities",
+      "post_url": "https://francescrossley.com/invisibilities/",
+      "published": "2026-10-20T18:00:00Z"
+    },
+    {
+      "blog_title": "Heartlessgamer",
+      "blog_url": "http://www.heartlessgamer.com/",
+      "feed_url": "http://feeds.feedburner.com/Heartless_Gamer",
+      "post_title": "First Impressions: The ArcheAge Chronicles Demo",
+      "post_url": "http://www.heartlessgamer.com/2026/10/first-impressions-archeage-chronicles.html",
+      "published": "2026-10-20T17:51:54Z"
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Wainwright Base Fire",
+      "post_url": "https://www.kgadams.net/tiny-thoughts/wainwright-base-fire",
+      "published": "2026-10-20T17:44:59Z"
+    },
+    {
+      "blog_title": "Bavatuesdays",
+      "blog_url": "https://bavatuesdays.com",
+      "feed_url": "http://bavatuesdays.com/feed/",
+      "post_title": "And it was 10 God Damned Years Ago!",
+      "post_url": "https://bavatuesdays.com/and-it-was-10-god-damned-years-ago/",
+      "published": "2026-10-20T17:16:24Z"
+    },
+    {
+      "blog_title": "Newsonaut",
+      "blog_url": "https://www.newsonaut.com/",
+      "feed_url": "https://www.newsonaut.com/rss",
+      "post_title": "A Mac user’s adventures in Linux land",
+      "post_url": "https://www.newsonaut.com/articles/a-mac-users-adventures-in-linux-land",
+      "published": "2026-10-20T17:11:49Z"
+    },
+    {
+      "blog_title": "Sylvia's Studio",
+      "blog_url": "https://sylvia.studio/",
+      "feed_url": "https://sylvia.studio/feed.xml",
+      "post_title": "Noodling on doodling",
+      "post_url": "https://sylvia.studio/posts/noodling-on-doodling",
+      "published": "2026-10-20T16:56:29Z"
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "YouTube、低評価ボタンをメニュー奥に移動。Shortsに続き通常動画でも",
+      "post_url": "https://joho-todai.com/youtube-dislikes-button-moved-menu/",
+      "published": "2026-10-20T16:21:58Z"
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "🎬 Sacrifice (2026)",
+      "post_url": "https://tobygeeksout.micro.blog/2026/10/20/sacrifice.html",
+      "published": "2026-10-20T16:10:59Z"
+    },
+    {
+      "blog_title": "Nosrednayduj's Blog",
+      "blog_url": "https://nosrednayduj.dreamwidth.org/",
+      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
+      "post_title": "How it started/How it's going",
+      "post_url": "https://nosrednayduj.dreamwidth.org/189950.html",
+      "published": "2026-10-20T16:04:06Z"
+    },
+    {
+      "blog_title": "素生",
+      "blog_url": "https://z.arlmy.me/",
+      "feed_url": "http://z.arlmy.me/atom.xml",
+      "post_title": "入蜀记 day512 刚需与服从性",
+      "post_url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/",
+      "published": "2026-10-20T16:03:27Z"
+    },
+    {
+      "blog_title": "Battle Stance",
+      "blog_url": "https://battlestance.org/",
+      "feed_url": "https://battlestance.org/feed/",
+      "post_title": "Leveling more FFXIV Jobs",
+      "post_url": "https://battlestance.org/2026/10/20/leveling-more-ffxiv-jobs/",
+      "published": "2026-10-20T15:55:09Z"
+    },
+    {
+      "blog_title": "Musings Over Pints and Coffee",
+      "blog_url": "https://musingsoverpintsandcoffee.wordpress.com",
+      "feed_url": "https://musingsoverpintsandcoffee.wordpress.com/feed/",
+      "post_title": "Nine Books and a Few Favorites: My Third-Quarter Reading",
+      "post_url": "https://musingsoverpintsandcoffee.wordpress.com/2026/10/20/nine-books-and-a-few-favorites-my-third-quarter-reading/",
+      "published": "2026-10-20T15:21:21Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Crimson Harvest – The First Reward Track Complete",
+      "post_url": "https://tagn.wordpress.com/2026/10/20/crimson-harvest-the-first-reward-track-complete/",
+      "published": "2026-10-20T15:15:49Z"
+    },
+    {
+      "blog_title": "Joe and STO",
+      "blog_url": "https://joeandsto.wordpress.com",
+      "feed_url": "https://joeandsto.wordpress.com/feed/",
+      "post_title": "Narada or Not: The Review of the Narada Miracle Worker Juggernaut, DPS Reveal, and Contest Winners!",
+      "post_url": "https://joeandsto.wordpress.com/2026/10/20/narada-or-not-the-review-of-the-narada-miracle-worker-juggernaut-dps-reveal-and-contest-winners/",
+      "published": "2026-10-20T15:00:00Z"
     }
   ]
 }
