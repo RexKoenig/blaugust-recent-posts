@@ -1,12 +1,66 @@
 {
-  "generated_at": "2026-10-20T21:36:58.184018Z",
-  "source_generated_at": "2026-10-20T21:36:22.068021Z",
+  "generated_at": "2026-10-21T11:48:16.408570Z",
+  "source_generated_at": "2026-10-21T11:47:28.180074Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 19,
+  "summary_count": 18,
   "posts": [
+    {
+      "blog_title": "Monsterlady's Diary",
+      "blog_url": "https://monsterladysdiary.wordpress.com/",
+      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
+      "post_title": "On the Way to the Wedding – Don’t Fear The Scandal",
+      "post_url": "https://monsterladysdiary.wordpress.com/2026/10/21/on-the-way-to-the-wedding-dont-fear-the-scandal/",
+      "published": "2026-10-21T11:46:34Z",
+      "summary": "A review of Julia Quinn’s final Bridgerton novel follows Gregory’s love for Hermione, Lucy’s arranged engagement, and the reviewer’s reservations about Lucy’s character development."
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "デルCEO、2027年のメモリ不足悪化を予想か。AI向け生産がPC用DRAMを圧迫",
+      "post_url": "https://joho-todai.com/dell-ceo-memory-shortage-2027-ai-production/",
+      "published": "2026-10-21T11:42:49Z",
+      "summary": null
+    },
+    {
+      "blog_title": "The Nosy Gamer",
+      "blog_url": "https://nosygamer.blogspot.com/",
+      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
+      "post_title": "EVE Online's Winter Expansion Fractured Skies Launches November 10th",
+      "post_url": "https://nosygamer.blogspot.com/2026/10/eve-onlines-winter-expansion-fractured.html",
+      "published": "2026-10-21T11:00:00Z",
+      "summary": "EVE Online’s Fractured Skies expansion launches November 10, introducing Military Campaigns, Conquests, new warships, and persistent gameplay connections with EVE Vanguard."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - steamed eggs",
+      "post_url": "https://pretendtypewriter.net/note-steamed-eggs/",
+      "published": "2026-10-21T08:57:52Z",
+      "summary": "The writer notes that today’s steamed eggs were less visually appealing than usual and expresses hope for better results tomorrow."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Find the others",
+      "post_url": "https://rishidass.net/posts/find-the-others",
+      "published": "2026-10-21T05:46:07Z",
+      "summary": "Rishi Dass reflects on using blogging, creative expression, and shared-interest events to build meaningful connections and sustain friendships across distance."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Getting back on track 💪🏻",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/21/getting-back-on-track-%f0%9f%92%aa%f0%9f%8f%bb/",
+      "published": "2026-10-21T05:00:00Z",
+      "summary": "After more than six months away due to caring for Koa and several health problems, Cynni plans to resume gym workouts with her parents’ help."
+    },
     {
       "blog_title": "Brennan Day",
       "blog_url": "https://brennan.day/",
@@ -17,6 +71,42 @@
       "summary": "Brennan Day responds to Aaron Parecki’s use of Claude Code, defending handcrafted programming, leadership responsibility, and human-centered online spaces that reject generative AI."
     },
     {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Wednesday, 21 October 2026",
+      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-21.html",
+      "published": "2026-10-21T00:00:00Z",
+      "summary": "A gaming-focused blogroll features Frosthaven, Steam Next Fest demos, ArcheAge Chronicles, Oboro No Ichi, Dune: Awakening, EVE Online, and Myst, alongside sports, books, programming, notebooks, and habits."
+    },
+    {
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "A new notebook day",
+      "post_url": "https://hamatti.org/posts/a-new-notebook-day/",
+      "published": "2026-10-21T00:00:00Z",
+      "summary": "Juha-Matti Santala describes replacing a worn pocket notebook, preserving its index digitally, transferring keepsakes, and reflecting on notebooks as archives of lived experiences."
+    },
+    {
+      "blog_title": "Words Under My Name",
+      "blog_url": "https://wordsundermyname.wordpress.com/",
+      "feed_url": "https://wordsundermyname.wordpress.com/feed/",
+      "post_title": "10/20/2026 – Seeing-Eye Singles",
+      "post_url": "https://wordsundermyname.wordpress.com/2026/10/20/10-20-2026-seeing-eye-singles/",
+      "published": "2026-10-20T22:54:22Z",
+      "summary": "The writer describes managing work, household projects, and video games through incremental progress, applying shorter sessions and planned stages to avoid exhaustion and overwhelm."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "70 Percent of Americans Are Not Confident Donald Trump Will Accept Election Results if Republicans Lose",
+      "post_url": "https://abcnews.com/Politics/6-10-americans-confident-election-conducted-fairly-accurately/story?id=137385192",
+      "published": "2026-10-20T22:34:39Z",
+      "summary": "An ABC News/Washington Post/Ipsos poll examines Americans’ confidence in election fairness, Donald Trump’s acceptance of potential Republican losses, and expectations for House control."
+    },
+    {
       "blog_title": "Leekscosycorner",
       "blog_url": "https://leekscosycorner.com/",
       "feed_url": "https://leekscosycorner.com/feed/",
@@ -24,15 +114,6 @@
       "post_url": "https://leekscosycorner.com/2026/10/20/oboro-no-ichi-demo/",
       "published": "2026-10-20T21:34:57Z",
       "summary": "Oboro No Ichi is a cosy Japanese-inspired spirit-market game where players design, manage, and expand spaces, with a demo featuring free building and wandering spirits."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - street fighter",
-      "post_url": "https://pretendtypewriter.net/note-street-fighter/",
-      "published": "2026-10-20T20:48:29Z",
-      "summary": "A brief note recounts wearing a Street Fighter jersey to watch the movie, praising it enthusiastically and expressing interest in a sequel."
     },
     {
       "blog_title": "Personal InfoCloud",
@@ -105,87 +186,6 @@
       "post_url": "https://www.newsonaut.com/articles/a-mac-users-adventures-in-linux-land",
       "published": "2026-10-20T17:11:49Z",
       "summary": "A Mac user explores Fedora with GNOME on an old ThinkPad, comparing interfaces, customizing features, troubleshooting applications, and assessing Linux’s flexibility and occasional complexity."
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Noodling on doodling",
-      "post_url": "https://sylvia.studio/posts/noodling-on-doodling",
-      "published": "2026-10-20T16:56:29Z",
-      "summary": "Sylvia compares two shipping-box sketches, reflecting on how slowing down, studying angles, and erasing mistakes improved her doodling without sacrificing its joy."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "YouTube、低評価ボタンをメニュー奥に移動。Shortsに続き通常動画でも",
-      "post_url": "https://joho-todai.com/youtube-dislikes-button-moved-menu/",
-      "published": "2026-10-20T16:21:58Z",
-      "summary": "YouTube is testing moving the dislike button for regular videos into the three-dot menu, following hidden counts and similar Shorts changes."
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "🎬 Sacrifice (2026)",
-      "post_url": "https://tobygeeksout.micro.blog/2026/10/20/sacrifice.html",
-      "published": "2026-10-20T16:10:59Z",
-      "summary": "Romain Gavras’s Sacrifice stars Chris Evans, Anya Taylor-Joy, and Vincent Cassel in a hostage thriller set during a chaotic celebrity-filled charity gala."
-    },
-    {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "How it started/How it's going",
-      "post_url": "https://nosrednayduj.dreamwidth.org/189950.html",
-      "published": "2026-10-20T16:04:06Z",
-      "summary": "After a 29F freeze, an ice chest partially protected one squash plant, while other squash and tarp-covered tomato plants suffered frost damage."
-    },
-    {
-      "blog_title": "素生",
-      "blog_url": "https://z.arlmy.me/",
-      "feed_url": "http://z.arlmy.me/atom.xml",
-      "post_title": "入蜀记 day512 刚需与服从性",
-      "post_url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/",
-      "published": "2026-10-20T16:03:27Z",
-      "summary": "A personal diary recounts dreams, cultural memories, shopping, cooking, and extensive reflections on renovation costs, labor shortages, pricing, efficiency, and consumer demand."
-    },
-    {
-      "blog_title": "Battle Stance",
-      "blog_url": "https://battlestance.org/",
-      "feed_url": "https://battlestance.org/feed/",
-      "post_title": "Leveling more FFXIV Jobs",
-      "post_url": "https://battlestance.org/2026/10/20/leveling-more-ffxiv-jobs/",
-      "published": "2026-10-20T15:55:09Z",
-      "summary": "An FFXIV leveling update covers progress across combat jobs, Blue Mage tactics, crafting levels, Manderville Relic Weapons, gear management, and remaining goals before a subscription renewal."
-    },
-    {
-      "blog_title": "Musings Over Pints and Coffee",
-      "blog_url": "https://musingsoverpintsandcoffee.wordpress.com",
-      "feed_url": "https://musingsoverpintsandcoffee.wordpress.com/feed/",
-      "post_title": "Nine Books and a Few Favorites: My Third-Quarter Reading",
-      "post_url": "https://musingsoverpintsandcoffee.wordpress.com/2026/10/20/nine-books-and-a-few-favorites-my-third-quarter-reading/",
-      "published": "2026-10-20T15:21:21Z",
-      "summary": "The third-quarter reading roundup covers nine books spanning classics, fantasy, science fiction, literary fiction, Shakespearean drama, early British history, and small-town Maine."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Crimson Harvest – The First Reward Track Complete",
-      "post_url": "https://tagn.wordpress.com/2026/10/20/crimson-harvest-the-first-reward-track-complete/",
-      "published": "2026-10-20T15:15:49Z",
-      "summary": "The post recounts completing EVE Online’s 2026 Crimson Harvest reward track, planning remaining activities, and exploring Amarr space for an achievement."
-    },
-    {
-      "blog_title": "Joe and STO",
-      "blog_url": "https://joeandsto.wordpress.com",
-      "feed_url": "https://joeandsto.wordpress.com/feed/",
-      "post_title": "Narada or Not: The Review of the Narada Miracle Worker Juggernaut, DPS Reveal, and Contest Winners!",
-      "post_url": "https://joeandsto.wordpress.com/2026/10/20/narada-or-not-the-review-of-the-narada-miracle-worker-juggernaut-dps-reveal-and-contest-winners/",
-      "published": "2026-10-20T15:00:00Z",
-      "summary": "Joe reviews STO’s Narada Miracle Worker Juggernaut, comparing its maneuverability, damage capability, visual design, and performance with other Juggernauts."
     }
   ]
 }
