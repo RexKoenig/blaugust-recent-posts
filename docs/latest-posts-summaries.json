@@ -1,12 +1,183 @@
 {
-  "generated_at": "2026-10-22T11:51:31.723411Z",
-  "source_generated_at": "2026-10-22T11:51:02.960813Z",
+  "generated_at": "2026-10-22T21:35:30.844703Z",
+  "source_generated_at": "2026-10-22T21:34:41.423672Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
   "summary_count": 20,
   "posts": [
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "「新しいOutlook」に統合受信トレイがようやく届く。Mac版には何年も前からあった機能",
+      "post_url": "https://joho-todai.com/new-outlook-unified-inbox-mac/",
+      "published": "2026-10-22T21:29:49Z",
+      "summary": "Microsoft is rolling out a unified “All Accounts” inbox for new Outlook for Windows, years after the feature arrived on Mac and mobile."
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Short form",
+      "post_url": "https://sals.place/blog/short-form/",
+      "published": "2026-10-22T20:48:11Z",
+      "summary": "Sal explains a decision to keep the blog’s posts brief, citing unfinished drafts, shifting interests, and a preference for spontaneous, enjoyable topics over substantial writing."
+    },
+    {
+      "blog_title": "Pour The Coffee",
+      "blog_url": "https://pourthecoffee.bearblog.dev/",
+      "feed_url": "https://pourthecoffee.bearblog.dev/feed/",
+      "post_title": "Three of Swords and Ace of Pentacles",
+      "post_url": "https://pourthecoffee.bearblog.dev/three-of-swords-and-ace-of-pentacles/",
+      "published": "2026-10-22T20:46:45Z",
+      "summary": "A playful tarot reading interprets the Three of Swords and Ace of Pentacles as urging confrontation, self-reliance, and decisive action to overcome stagnation."
+    },
+    {
+      "blog_title": "Point, Click, Repeat",
+      "blog_url": "https://welshtroll.co.uk/",
+      "feed_url": "http://welshtroll.co.uk/feed/",
+      "post_title": "Over The Hill, then that one, then another",
+      "post_url": "https://welshtroll.co.uk/post/2026-over-the-hill-then-that-one-then-another.html",
+      "published": "2026-10-22T18:20:40Z",
+      "summary": "Over The Hill is a relaxed off-road driving and exploration game emphasizing open-ended routes, self-directed discovery, optional challenges, and varied playthroughs."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Apple Music’s New ‘Liquid Glass’ Identity",
+      "post_url": "https://www.wallpaper.com/art/music/apple-musics-new-visual-identity-turns-sound-into-liquid-with-help-from-fred-again",
+      "published": "2026-10-22T18:05:05Z",
+      "summary": "Apple Music’s new visual identity uses music-driven oil vibrations, developed with Fred Again.. and Nest Acoustics, alongside Liquid Glass-inspired typography and branding."
+    },
+    {
+      "blog_title": "The Capsule Critic",
+      "blog_url": "https://thecapsulecritic.com/blog/",
+      "feed_url": "https://thecapsulecritic.com/feed/",
+      "post_title": "JERICHO OF SCOTLAND YARD (2005): Period Brit Crime Drama Bites Off More Than It Can Chew",
+      "post_url": "https://thecapsulecritic.com/2026/10/22/jericho-of-scotland-yard-2005-period-brit-crime-drama-bites-off-more-than-it-can-chew/",
+      "published": "2026-10-22T17:55:43Z",
+      "summary": "Jericho of Scotland Yard is a four-part miniseries following a troubled detective investigating brutal 1950s London murders amid themes of prejudice, secrecy, romance, and family."
+    },
+    {
+      "blog_title": "Kay Talks Games",
+      "blog_url": "https://kaytalksgames.wordpress.com/",
+      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
+      "post_title": "I Watched the Baffling Silent Hill 2 Movie",
+      "post_url": "https://kaytalksgames.wordpress.com/2026/10/22/i-watched-the-baffling-silent-hill-2-movie/",
+      "published": "2026-10-22T17:20:09Z",
+      "summary": "A fan examines Return to Silent Hill, criticizing its loose adaptation of Silent Hill 2, altered character histories, bizarre cult mythology, monsters, and confusing climax."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "And everyone is writing a book",
+      "post_url": "https://francescrossley.com/and-everyone-is-writing-a-book/",
+      "published": "2026-10-22T17:00:00Z",
+      "summary": "The piece challenges the old complaint that everyone is writing books, arguing that amateurs naturally create in response to activities they enjoy."
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "coffee morning and markets",
+      "post_url": "https://write.as/blog-x2600/coffee-morning-and-markets?pk_campaign=rss-feed",
+      "published": "2026-10-22T15:30:32Z",
+      "summary": "A morning routine involving coffee and breakfast leads into observations about Apple’s perceived safety, Meta’s AI spending, market shifts, and upcoming personal errands."
+    },
+    {
+      "blog_title": "Another Dayu",
+      "blog_url": "https://anotherdayu.com/",
+      "feed_url": "https://anotherdayu.com/feed/",
+      "post_title": "QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面",
+      "post_url": "https://anotherdayu.com/quietsearch-kagi-deepseek-api/",
+      "published": "2026-10-22T15:30:00Z",
+      "summary": "QuietSearch is a lightweight Cloudflare-deployable search interface supporting Kagi and DeepSeek APIs, with source-cited answers, deployment guidance, and reflections on search quality and pricing."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "I'm using CachyOS with GNOME, but after watching the KDE document…",
+      "post_url": "https://thinkroot.xyz/nota-805",
+      "published": "2026-10-22T15:22:47Z",
+      "summary": "A CachyOS user considers switching from GNOME to KDE Plasma after watching a documentary, while Linux Mint’s integrated programs and potential device-syncing service remain appealing."
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "One Of These Things Is A Lot Like The Other",
+      "post_url": "https://bhagpuss.blogspot.com/2026/10/one-of-these-things-is-lot-like-other.html",
+      "published": "2026-10-22T15:20:41Z",
+      "summary": "Inventory Full compares Steam Next Fest demos Never Wither and World of Slime, examining their stories, visuals, controls, creature-collection mechanics, and differing gameplay styles."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Over the Hill and Playing With Friends",
+      "post_url": "https://tagn.wordpress.com/2026/10/22/over-the-hill-and-playing-with-friends/",
+      "published": "2026-10-22T15:15:57Z",
+      "summary": "Over the Hill’s multiplayer lets players explore together, share map pins, tackle challenges, recover vehicles, and retain individual progress without map sharing or in-game chat."
+    },
+    {
+      "blog_title": "Beto Dealmeida",
+      "blog_url": "https://robida.net/",
+      "feed_url": "https://robida.net/feed.xml",
+      "post_title": "Fish in a barrel",
+      "post_url": "https://robida.net/entries/2026/10/22/fish-in-a-barrel",
+      "published": "2026-10-22T15:06:20Z",
+      "summary": "A humorous dialogue imagines Bitcoin as a CIA honeypot for identifying time travelers, linking its origin, blockchain traces, and an alleged rookie mistake."
+    },
+    {
+      "blog_title": "Varun Barad - Curious Developer",
+      "blog_url": "https://varunbarad.com/",
+      "feed_url": "https://varunbarad.com/feed.xml",
+      "post_title": "Finding my old writing",
+      "post_url": "https://varunbarad.com/blog/add-gre-writing-posts.html",
+      "published": "2026-10-22T14:48:24Z",
+      "summary": "Varun Barad indexes essays written in 2017 while preparing for the GRE, covering reading, habits, technology, society, education, politics, and other topics."
+    },
+    {
+      "blog_title": "The Nosy Gamer",
+      "blog_url": "https://nosygamer.blogspot.com/",
+      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
+      "post_title": "Down The Rabbit Hole: Squadron 42 And Computer Hardware",
+      "post_url": "https://nosygamer.blogspot.com/2026/10/down-rabbit-hole-squadron-42-and.html",
+      "published": "2026-10-22T14:00:00Z",
+      "summary": "The article compares Squadron 42 demo computers using RTX 5090 graphics cards with the author’s RTX 4070 Ti Super system and examines hardware requirements."
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "PHPの脆弱性、お借りしているサーバーさんが緊急メンテナンス…",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1284",
+      "published": "2026-10-22T13:28:59Z",
+      "summary": "TGLG reports emergency server maintenance prompted by a PHP vulnerability and encourages readers to check security and update browsers and operating systems."
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "Bye-bye BioWare",
+      "post_url": "https://biobreak.wordpress.com/2026/10/22/bye-bye-bioware/",
+      "published": "2026-10-22T13:00:22Z",
+      "summary": "The writer reflects on BioWare’s shutdown, recalling beloved games including Baldur’s Gate, Mass Effect, Star Wars: Knights of the Old Republic, and SWTOR."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Hellraiser: Bloodline (1996) – Cenobites in spaaace!",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/22/hellraiser-bloodline-1996-cenobites-in-spaaace/",
+      "published": "2026-10-22T13:00:16Z",
+      "summary": "Hellraiser: Bloodline follows the cursed LeMarchand family, the Lament Configuration’s origins, and conflicts involving Angelique and Pinhead across historical and space-set storylines."
+    },
     {
       "blog_title": "スナックエルベ",
       "blog_url": "https://elve.club/",
@@ -15,177 +186,6 @@
       "post_url": "https://elve.club/entry/2026/10/22/204405?utm_source=feed",
       "published": "2026-10-22T11:44:05Z",
       "summary": "A late-evening camping trip to Kawasemi Kawara features rain, tent setup, jingisukan, affordable firewood, friendly management, and nearby facilities."
-    },
-    {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Requiem for a Great House",
-      "post_url": "https://scopique.com/2026/10/22/requiem-for-a-great-house/",
-      "published": "2026-10-22T11:43:18Z",
-      "summary": "Scopique reflects on BioWare’s layoffs and decline under EA, recalling its influential games while criticizing corporate consolidation and anticipating safer, franchise-driven releases."
-    },
-    {
-      "blog_title": "In An Age",
-      "blog_url": "https://inanage.com/",
-      "feed_url": "http://inanage.com/feed/",
-      "post_title": "End of BioWare",
-      "post_url": "https://inanage.com/2026/10/22/end-of-bioware/",
-      "published": "2026-10-22T11:00:00Z",
-      "summary": "BioWare’s closure and cancellation of early Mass Effect development prompt reflection on its troubled releases, Frostbite’s impact, and EA’s responsibility."
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Outside Writing/Inside You",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/22/outside-writing-inside-you/",
-      "published": "2026-10-22T10:57:39Z",
-      "summary": "NomadWarMachine reflects on writing in the garden, away from internet distractions, while recalling thesis work, doodling as procrastination, and an unhelpful cat."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "アフリカ中心に21か国でサイバー犯罪1,462人逮捕。一斉摘発作戦「Operation Serengeti III」",
-      "post_url": "https://joho-todai.com/operation-serengeti-iii-cybercrime-arrests-africa/",
-      "published": "2026-10-22T09:52:53Z",
-      "summary": "Operation Serengeti III saw 21 countries arrest 1,462 suspects, dismantle 10,909 cybercrime networks, recover over $105 million, and expose diverse fraud operations."
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "20 random thoughts on an early Thursday morning",
-      "post_url": "https://sylvia.studio/posts/20-random-thoughts-on-an-early-thursday-morning",
-      "published": "2026-10-22T09:33:59Z",
-      "summary": "Sylvia shares twenty miscellaneous observations about cold weather, cats, health, household tasks, crafts, reading difficulties, travel preparations, cameras, and renewed enjoyment of list-making."
-    },
-    {
-      "blog_title": "BurgeonLab",
-      "blog_url": "https://burgeonlab.com/",
-      "feed_url": "https://burgeonlab.com/all/feed.xml",
-      "post_title": "A Message For Myself",
-      "post_url": "https://burgeonlab.com/notes/2026/1022-1729/",
-      "published": "2026-10-22T09:29:39Z",
-      "summary": "A personal reflection describes leaving a familiar situation to protect mental health, reduce self-imposed pressure, and advocate for personal well-being."
-    },
-    {
-      "blog_title": "Ubergeek Kelly's World",
-      "blog_url": "https://www.kgadams.net/",
-      "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "PHP2Shell: updating to PHP 8.5.12",
-      "post_url": "https://www.kgadams.net/sitenews/php2shell-updating-to-php-8-5-12",
-      "published": "2026-10-22T07:35:33Z",
-      "summary": "Kelly upgrades Fedora 43 to 44 and PHP 8.5.12 to address PHP2Shell vulnerabilities, while examining automatic updates and delayed patches for older Fedora releases."
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Ports of Call: The Board Game",
-      "post_url": "http://tobolds.blogspot.com/2026/10/ports-of-call-board-game.html",
-      "published": "2026-10-22T07:29:25Z",
-      "summary": "Tobold recalls playing the Amiga logistics game Ports of Call and explains backing its new board-game adaptation, a pickup-and-delivery economic game seeking Kickstarter funding."
-    },
-    {
-      "blog_title": "Overage-Gaming",
-      "blog_url": "https://overage-gaming.com/",
-      "feed_url": "https://overage-gaming.com/feed/",
-      "post_title": "HELLCARD II: Four Heroes, One Deck Each, Way Too Many Dragons (Demo Gameplay)",
-      "post_url": "https://overage-gaming.com/2026/10/22/hellcard-ii-four-heroes-one-deck-each-way-too-many-dragons-demo-gameplay/",
-      "published": "2026-10-22T07:01:00Z",
-      "summary": "A Let’s Play of HELLCARD II’s demo showcases cooperative roguelike deck-building, tactical card battles, party-based play, dragons, and papercraft dungeon exploration."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Better battery life",
-      "post_url": "https://rishidass.net/posts/better-battery-life",
-      "published": "2026-10-22T05:57:00Z",
-      "summary": "Rishi Dass describes charging devices to 80 percent to potentially preserve battery capacity while encouraging more intentional phone use and reduced screen time."
-    },
-    {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Post-covid update, feelings about not having a career, crow scorn",
-      "post_url": "https://hollie.eilloh.net/posts/post-covid-update-feelings-about-not-having-a-career-crow-scorn",
-      "published": "2026-10-22T05:48:00Z",
-      "summary": "The writer describes post-COVID struggles, renewed use of the Re-Origin recovery program, and painful feelings about careerlessness shaped by fibromyalgia and chronic illness."
-    },
-    {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Entry of the Queen of the Night",
-      "post_url": "https://divergentrays.com/blog/posts/2026-10-21-Entry-of-the-Queen-of-the-Night.html",
-      "published": "2026-10-22T05:36:00Z",
-      "summary": "Kevin Coates’s 1997 Entry of the Queen of the Night tiara, inspired by Mozart’s Die Zauberflöte, converts into a necklace and features elaborate gemstone ornamentation."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Thursday Quote",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/22/thursday-quote-9/",
-      "published": "2026-10-22T05:00:00Z",
-      "summary": "A quote by Alex Lieberman about underestimated timelines appears over a vintage-styled image of Koa, a chocolate Labrador Retriever puppy."
-    },
-    {
-      "blog_title": "Kelson Vibber: New Posts",
-      "blog_url": "https://kvibber.com/",
-      "feed_url": "https://kvibber.com/feed.xml",
-      "post_title": "Gopher (UMN Terminal Client) (software review)",
-      "post_url": "https://kvibber.com/reviews/software/gopher-umn/",
-      "published": "2026-10-22T03:37:42Z",
-      "summary": "A review of Debian’s University of Minnesota Gopher client covers its terminal interface, navigation features, compatibility, limitations, and compilation on modern distributions."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Converting YAML to Jekyll collection",
-      "post_url": "https://joelchrono.xyz/blog/converting-yaml-to-jekyll-collection/",
-      "published": "2026-10-22T03:36:01Z",
-      "summary": "Joelchrono describes a Bash script using yq to convert YAML book records into Markdown files for a Jekyll collection, including filename generation and configuration."
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "Divinity Original Sin 2 - Act 1 - Fort Joy",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-21-dos2/",
-      "published": "2026-10-22T02:26:59Z",
-      "summary": "A gameplay account recounts leaving Fort Joy after completing quests, battles, exploration, crafting preparations, and securing a summonable cat in Divinity: Original Sin 2."
-    },
-    {
-      "blog_title": "Matt's Blog",
-      "blog_url": "https://mtwb.blog/",
-      "feed_url": "https://mtwb.blog/index.xml",
-      "post_title": "A Different Type Of Blog Post",
-      "post_url": "https://mtwb.blog/posts/2026/blogging/a-different-type-of-blog-post/",
-      "published": "2026-10-22T01:42:59Z",
-      "summary": "Matt describes using Whisper speech-to-text with Emacs and NixOS to create more natural video scripts and rapidly dictate blog posts while improving spoken communication."
-    },
-    {
-      "blog_title": "JVT Workshop",
-      "blog_url": "http://josephskyrim.blogspot.com/",
-      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
-      "post_title": "Neagley and Mr Inbetween",
-      "post_url": "http://josephskyrim.blogspot.com/2026/10/neagley-and-mr-inbetween.html",
-      "published": "2026-10-22T01:40:13Z",
-      "summary": "Neagley follows private investigator Frances Neagley through a personal case, while Australian dark comedy Mr Inbetween portrays hit man Ray Shoesmith’s violent and ordinary life."
-    },
-    {
-      "blog_title": "I wonder, if I draw a line…",
-      "blog_url": "https://sheri42.net",
-      "feed_url": "https://sheri42.net/feed/",
-      "post_title": "Weekly WrapUp Brushtober and Mini C",
-      "post_url": "https://sheri42.net/2026/10/21/weekly-wrapup-brushtober-and-mini-c/",
-      "published": "2026-10-22T00:01:17Z",
-      "summary": "Sheri Edwards shares progress on Brushtober brush experiments and Liz Kohler Brown’s Mini Collection challenge, developing coordinated Pond Life patterns in Affinity Designer."
     }
   ]
 }
