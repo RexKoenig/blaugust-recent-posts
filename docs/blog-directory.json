@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T21:34:41.423672Z",
-  "blog_count": 354,
+  "generated_at": "2026-10-22T23:30:53.110923Z",
+  "blog_count": 357,
   "other_language_count": 10,
   "blogs": [
     {
@@ -1116,6 +1116,14 @@
       "initial": "J"
     },
     {
+      "name": "Joho Todai (English)",
+      "site_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "language": "English",
+      "directory_group": "alphabetical",
+      "initial": "J"
+    },
+    {
       "name": "Juha-Matti Santala",
       "site_url": "https://hamatti.org/",
       "feed_url": "https://hamatti.org/feed/feed.xml",
@@ -1740,6 +1748,14 @@
       "initial": "N"
     },
     {
+      "name": "North Line Gaming",
+      "site_url": "https://northlinegaming.com/",
+      "feed_url": "https://northlinegaming.com/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "N"
+    },
+    {
       "name": "Nosrednayduj's Blog",
       "site_url": "https://nosrednayduj.dreamwidth.org/",
       "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
@@ -1871,6 +1887,14 @@
       "name": "Personal InfoCloud",
       "site_url": "https://personalinfocloud.com/",
       "feed_url": "https://personalinfocloud.com/feed/",
+      "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "P"
+    },
+    {
+      "name": "Peterson Reviews",
+      "site_url": "https://petersonreviews.com/",
+      "feed_url": "https://petersonreviews.com/feed/",
       "language": "Unspecified",
       "directory_group": "alphabetical",
       "initial": "P"
