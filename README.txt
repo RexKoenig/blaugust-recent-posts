@@ -1,6 +1,6 @@
 BLAUGUST BLOGROLL - MAINTENANCE AND DATA NOTES
 =============================================
-Last revised: 10 October 2026
+Last revised: 23 October 2026
 
 PURPOSE
 -------
@@ -39,8 +39,8 @@ CURRENT CSV SNAPSHOT - 10 OCTOBER 2026
 --------------------------------------
 The accompanying updated blogs.csv contains:
 
-- 355 records in total
-- 354 entries enabled for public display
+- 358 records in total
+- 357 entries enabled for public display
 - 344 visible entries in the alphabetical section
 - 10 visible entries in Other Languages
 - 1 hidden, disabled legacy duplicate (OrbitalMartian)
