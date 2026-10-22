@@ -1,4 +1,4 @@
-﻿name,site_url,feed_url,language,directory_group,status,show_in_directory,include_in_latest,notes
+name,site_url,feed_url,language,directory_group,status,show_in_directory,include_in_latest,notes
 #デザイン 記事まとめ,https://note.com/notemagazine/m/m57787022cedc,https://note.mu/notemag/m/m57787022cedc/rss,Japanese,other-languages,included,yes,yes,
 20ily April,https://20ilyapril.wordpress.com/,https://20ilyapril.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 26g,https://26g.netlify.app/,https://26g.netlify.app/feed.xml,Unspecified,alphabetical,included,yes,yes,
@@ -219,7 +219,7 @@ Newsonaut,https://www.newsonaut.com/,https://www.newsonaut.com/rss,Unspecified,a
 Noisy Deadlines,https://noisydeadlines.net/,https://noisydeadlines.net/feed/,Unspecified,alphabetical,included,yes,yes,
 Nomadic Gamers,https://nomadicgamer.wordpress.com/,http://nomadicgamer.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 NomadWarMachine,https://nomadwarmachine.co.uk/,https://nomadwarmachine.co.uk/feed/,Unspecified,alphabetical,included,yes,yes,
-North Line Gaming,https://northlinegaming.com/,,Unspecified,alphabetical,included,yes,no,No RSS/Atom feed confirmed as of 2026-10-23; directory listing only until a valid feed is supplied.
+North Line Gaming,https://northlinegaming.com/,https://northlinegaming.com/,Unspecified,alphabetical,included,yes,no,No RSS/Atom feed confirmed as of 2026-10-23. Site URL used as directory-only feed_url placeholder to satisfy existing CSV validation; include_in_latest=no prevents fetching it. Replace placeholder if a real feed becomes available.
 Nosrednayduj's Blog,https://nosrednayduj.dreamwidth.org/,https://nosrednayduj.dreamwidth.org/data/rss,Unspecified,alphabetical,included,yes,yes,
 Not all those who wander are lost,https://kavmac.com/,https://kavmac.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Notes by druchan,https://notes.druchan.com/,https://notes.druchan.com/feed.xml,Unspecified,alphabetical,included,yes,yes,
