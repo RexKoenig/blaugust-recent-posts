@@ -140,6 +140,7 @@ Jayeless.net,https://www.jayeless.net/,https://www.jayeless.net/index.xml,Unspec
 Jiggy's Horror Corner,https://jigsawshorrorcorner.com,https://jigsawshorrorcorner.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Joe and STO,https://joeandsto.wordpress.com,https://joeandsto.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Joelchrono's blog,https://joelchrono.xyz/,https://joelchrono.xyz/feed.xml,Unspecified,alphabetical,included,yes,yes,
+Joho Todai (English),https://joho-todai.com/,https://joho-todai.com/en/rss/,English,alphabetical,included,yes,yes,English-language feed companion to existing Japanese listing 情報の灯台. No English homepage verified; /en/ article links exist.
 Juha-Matti Santala,https://hamatti.org/,https://hamatti.org/feed/feed.xml,Unspecified,alphabetical,included,yes,yes,
 Just Text,https://justtext.net/,https://justtext.net/feed.atom,Unspecified,alphabetical,included,yes,yes,
 Justcallmeroybert,https://justcallmeroybert.wordpress.com/,https://justcallmeroybert.ca/feed/,Unspecified,alphabetical,included,yes,yes,
@@ -218,6 +219,7 @@ Newsonaut,https://www.newsonaut.com/,https://www.newsonaut.com/rss,Unspecified,a
 Noisy Deadlines,https://noisydeadlines.net/,https://noisydeadlines.net/feed/,Unspecified,alphabetical,included,yes,yes,
 Nomadic Gamers,https://nomadicgamer.wordpress.com/,http://nomadicgamer.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 NomadWarMachine,https://nomadwarmachine.co.uk/,https://nomadwarmachine.co.uk/feed/,Unspecified,alphabetical,included,yes,yes,
+North Line Gaming,https://northlinegaming.com/,,Unspecified,alphabetical,included,yes,no,No RSS/Atom feed confirmed as of 2026-10-23; directory listing only until a valid feed is supplied.
 Nosrednayduj's Blog,https://nosrednayduj.dreamwidth.org/,https://nosrednayduj.dreamwidth.org/data/rss,Unspecified,alphabetical,included,yes,yes,
 Not all those who wander are lost,https://kavmac.com/,https://kavmac.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Notes by druchan,https://notes.druchan.com/,https://notes.druchan.com/feed.xml,Unspecified,alphabetical,included,yes,yes,
@@ -236,6 +238,7 @@ Parallel Spirals,https://pradx.in,https://pradx.in/feed/,Unspecified,alphabetica
 Paseo Baggage,https://paseobaggage.bearblog.dev/,https://paseobaggage.bearblog.dev/feed/,Unspecified,alphabetical,included,yes,yes,
 People and Blogs — Zachary Kai,https://zacharykai.net/,https://manuelmoreale.com/feed/peopleandblogs,Unspecified,alphabetical,included,yes,yes,
 Personal InfoCloud,https://personalinfocloud.com/,https://personalinfocloud.com/feed/,Unspecified,alphabetical,included,yes,yes,
+Peterson Reviews,https://petersonreviews.com/,https://petersonreviews.com/feed/,Unspecified,alphabetical,included,yes,yes,
 "Point, Click, Repeat",https://welshtroll.co.uk/,http://welshtroll.co.uk/feed/,Unspecified,alphabetical,included,yes,yes,
 Portrait of the Man as a...,https://angrybunnyman.com/,https://angrybunnyman.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Posts and notes from Nick Simson,https://www.nicksimson.com/,https://www.nicksimson.com/feed.xml,Unspecified,alphabetical,included,yes,yes,
@@ -351,6 +354,6 @@ Yordi - A Lifelong Journey of Growth,https://yordi.me/,https://yordi.me/feed/,Un
 コーポ雪原,https://coop-setsugen.com/,https://coop-setsugen.com/feed.xml,Japanese,other-languages,included,yes,yes,
 スナックエルベ,https://elve.club/,https://elve.club/feed,Japanese,other-languages,included,yes,yes,
 伏枥之间,https://leehenry.top/,https://leehenry.top/rss.xml,Chinese,other-languages,included,yes,yes,
-情報の灯台,https://joho-todai.com/,https://joho-todai.com/pinterest-rss/,Japanese,other-languages,included,yes,yes,Excerpt-only RSS feed explicitly requested by site owner; do not replace with full-content feed.
+情報の灯台,https://joho-todai.com/,https://joho-todai.com/pinterest-rss/,Japanese,other-languages,included,yes,yes,Excerpt-only RSS feed explicitly requested by site owner; do not replace with full-content feed. English-language RSS edition is listed separately as Joho Todai (English).
 粉红路,https://pinkway.mataroa.blog/,https://pinkway.mataroa.blog/rss/,Chinese,other-languages,included,yes,yes,
 素生,https://z.arlmy.me/,http://z.arlmy.me/atom.xml,Chinese,other-languages,included,yes,yes,
