@@ -41,7 +41,7 @@ The accompanying updated blogs.csv contains:
 
 - 358 records in total
 - 357 entries enabled for public display
-- 344 visible entries in the alphabetical section
+- 347 visible entries in the alphabetical section
 - 10 visible entries in Other Languages
 - 1 hidden, disabled legacy duplicate (OrbitalMartian)
 
