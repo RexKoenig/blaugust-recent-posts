@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T11:38:14.558264Z",
-  "source_generated_at": "2026-10-23T11:37:27.910981Z",
+  "generated_at": "2026-10-23T21:24:08.235954Z",
+  "source_generated_at": "2026-10-23T21:23:32.273830Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -8,184 +8,184 @@
   "summary_count": 19,
   "posts": [
     {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "iPod Turns 25",
+      "post_url": "https://sixcolors.com/post/2026/10/the-ipod-which-set-apple-on-its-course-turns-25/",
+      "published": "2026-10-23T21:04:58Z",
+      "summary": "The iPod’s 25th anniversary prompts reflection on its rapid development, transformative impact on Apple’s fortunes, retail strategy, brand, and eventual foundation for the iPhone."
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "Anniversary And Surgery",
+      "post_url": "https://jasonjournals.com/posts/anniversary-and-surgery",
+      "published": "2026-10-23T19:55:41Z",
+      "summary": "Jason Journals recounts a couple’s 25th-anniversary trip, planned surgery and recovery, including travel activities, outpatient treatment, pain management, and returning home."
+    },
+    {
+      "blog_title": "Aywren's Nook",
+      "blog_url": "https://www.aywren.com/",
+      "feed_url": "https://aywren.com/feed.xml",
+      "post_title": "Steam Next Fest Roundup: October 2026 Edition",
+      "post_url": "https://aywren.com/2026/10/22/steam-next-fest-roundup-october-2026-edition",
+      "published": "2026-10-23T19:15:03Z",
+      "summary": "Aywren reviews four Steam Next Fest demos: horse-ranch idle game My Little Ranch, writing companion Little Writer, customizable Character House, and medieval gatekeeping game Gate Guard Simulator."
+    },
+    {
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "Roll the Bones: Sleepy Hollow",
+      "post_url": "https://scormey.com/2026/10/23/roll-the-bones-sleepy-hollow/",
+      "published": "2026-10-23T17:00:00Z",
+      "summary": "Sleepy Hollow is a Year Zero roleplaying game adapting Washington Irving’s folk-horror poem into a historical drama set in early-colonial New England."
+    },
+    {
+      "blog_title": "Robert Birming",
+      "blog_url": "https://birming.com/",
+      "feed_url": "https://birming.com/feed/",
+      "post_title": "Unusual You",
+      "post_url": "https://birming.com/posts/unusual-you",
+      "published": "2026-10-23T16:54:55Z",
+      "summary": "Robert Birming recounts Bloodshy’s story about Britney Spears’s “Unusual You,” emphasizing how respectful collaboration inspired its songwriter to express feeling seen and valued."
+    },
+    {
+      "blog_title": "The Digital Antiquarian",
+      "blog_url": "https://www.filfre.net/",
+      "feed_url": "https://www.filfre.net/feed/",
+      "post_title": "An Ion Storm!, Part 2: The Return to Ground Level",
+      "post_url": "https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/",
+      "published": "2026-10-23T16:19:26Z",
+      "summary": "Stevie Case’s rise from aspiring politician to Quake competitor leads to a highly publicized deathmatch rivalry and budding relationship with John Romero."
+    },
+    {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Stolen RTX 5090 Listed Online and Traced by Serial Number: Three Airport Workers Identified as Suspects",
-      "post_url": "https://joho-todai.com/en/rtx-5090-stolen-identified-serial-number/",
-      "published": "2026-10-23T11:10:46Z",
-      "summary": "Two pallets of RTX 5090 graphics cards vanished at a Brazilian airport, implicating three workers after a stolen card appeared on OLX and was traced by serial number."
+      "post_title": "Three PostgreSQL Incremental Backup Bugs Produce Incorrect Restores Despite Passing Verification",
+      "post_url": "https://joho-todai.com/en/postgresql-incremental-backup-data-corruption-bug/",
+      "published": "2026-10-23T16:09:39Z",
+      "summary": "Three PostgreSQL incremental backup bugs can cause missing current rows and resurrected deleted rows after verified restores, involving WAL summaries, visibility maps, and backup generation handling."
     },
     {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "RTX 5090盗難の続報、盗品がオンラインに出品されシリアル番号で特定。空港職員3人が容疑者に",
-      "post_url": "https://joho-todai.com/rtx-5090-stolen-identified-serial-number/",
-      "published": "2026-10-23T11:10:46Z",
+      "post_title": "PostgreSQLの増分バックアップに3件の誤復元報告、検証通過でもデータ不整合",
+      "post_url": "https://joho-todai.com/postgresql-incremental-backup-data-corruption-bug/",
+      "published": "2026-10-23T16:09:39Z",
       "summary": null
     },
     {
-      "blog_title": "Nerdy Bookahs",
-      "blog_url": "https://nerdybookahs.wordpress.com/",
-      "feed_url": "http://nerdybookahs.wordpress.com/feed/",
-      "post_title": "First Look: Unmess Co.: Rewind the Wreck Demo",
-      "post_url": "https://nerdybookahs.wordpress.com/2026/10/23/first-look-unmess-co-rewind-the-wreck-demo/",
-      "published": "2026-10-23T10:33:12Z",
-      "summary": "Unmess Co.: Rewind the Wreck is a first-person puzzle demo where players restore obstructed objects in wrecked rooms, featuring two scenarios and time-based challenges."
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "Garage Sale Success and Other Happenings",
+      "post_url": "https://syls.blog/garage-sale-success-and-other-happenings/",
+      "published": "2026-10-23T15:26:09Z",
+      "summary": "Syl recounts a successful multi-household garage sale, homemade apple pie, autumn activities with Ranni, reading Holly Black’s trilogy, and Danny’s yellow-themed dinner."
     },
     {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Amazing Cultivation Simulator Cultivation Room Guide: Best Setup for Every Law (1.26)",
-      "post_url": "https://gamerofpassion.com/amazing-cultivation-simulator-cultivation-room/",
-      "published": "2026-10-23T10:00:00Z",
-      "summary": "A version 1.26 guide explains cultivation-room layouts, elemental affinities, terrain, item placement, and resulting effects on cultivation speed, breakthroughs, and Golden Core quality."
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Friday EVE Online Bullet Points about the Next Expansion, CSM21 Voting, and Other Items",
+      "post_url": "https://tagn.wordpress.com/2026/10/23/friday-eve-online-bullet-points-about-the-next-expansion-csm21-voting-and-other-items/",
+      "published": "2026-10-23T15:15:51Z",
+      "summary": "The article covers EVE Online’s Fractured Skies expansion, CSM21 voting, and updated Partner Program rules governing streamer giveaways and charity promotions."
     },
     {
-      "blog_title": "BurgeonLab",
-      "blog_url": "https://burgeonlab.com/",
-      "feed_url": "https://burgeonlab.com/all/feed.xml",
-      "post_title": "First Time Finisher: 100 Days To Offload Blogging Challenge",
-      "post_url": "https://burgeonlab.com/blog/100daystooffload-2026/",
-      "published": "2026-10-23T08:47:35Z",
-      "summary": "BurgeonLab reflects on completing the #100DaysToOffload challenge, shares blogging lessons and ideas, and explains creating a Hugo progress bar to track progress."
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Haicomic",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/23/haicomic/",
+      "published": "2026-10-23T15:14:01Z",
+      "summary": "Grant Snider’s haikomic concept combines haiku with three-panel nature comics, illustrated through a poem about singing from a branch alongside friends."
     },
     {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Nichts zu Essen",
-      "post_url": "http://tobolds.blogspot.com/2026/10/nichts-zu-essen.html",
-      "published": "2026-10-23T07:13:35Z",
-      "summary": "Tobold explains why he skipped Spiel 2026 in Essen, describing overwhelming crowds, disappointing demonstrations, previous purchasing experiences, and his more comfortable strategy of watching videos and pre-ordering games."
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Final Fantasy IV - I finally beat one!",
+      "post_url": "https://joelchrono.xyz/blog/final-fantasy-iv/",
+      "published": "2026-10-23T14:40:00Z",
+      "summary": "Joelchrono reviews Final Fantasy IV: The Complete Collection, covering its story, ATB combat, exploration, soundtrack, and enhanced PSP visuals after finally completing it."
     },
     {
-      "blog_title": "Small Good Things",
-      "blog_url": "https://hollie.eilloh.net/",
-      "feed_url": "https://hollie.eilloh.net/rss.xml",
-      "post_title": "Ideal reassurance, death ignores the signs, pizza dough achieves full potential, WoW reminder",
-      "post_url": "https://hollie.eilloh.net/posts/ideal-reassurance-death-ignores-the-signs-pizza-dough-achieves-full-potential-wow-reminder",
-      "published": "2026-10-23T07:10:00Z",
-      "summary": "The writer reflects on sharing vulnerable thoughts online, describes a costumed skeleton encounter, celebrates homemade pizza dough, and anticipates returning to World of Warcraft."
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Too Many Games. Let's Play Another!",
+      "post_url": "https://bhagpuss.blogspot.com/2026/10/too-many-games-lets-play-another.html",
+      "published": "2026-10-23T14:37:54Z",
+      "summary": "The writer explores discovering and trying DC: Dark Legion, criticising its sparse information and Windows presentation while describing its installation, gameplay introduction, characters, voice acting, and visuals."
     },
     {
-      "blog_title": "Peterson Reviews",
-      "blog_url": "https://petersonreviews.com/",
-      "feed_url": "https://petersonreviews.com/feed/",
-      "post_title": "Deadly Double",
-      "post_url": "https://petersonreviews.com/2026/10/23/dr-jekyll-and-mr-hyde-1931-movie-review/",
-      "published": "2026-10-23T07:00:00Z",
-      "summary": "Rouben Mamoulian’s 1931 Dr. Jekyll and Mr. Hyde is examined as a visually inventive, unusually violent adaptation centered on Fredric March’s Oscar-winning dual performance and Ivy’s victimization."
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "WoW Forever: 12 days to go…",
+      "post_url": "https://biobreak.wordpress.com/2026/10/23/wow-forever-12-days-to-go/",
+      "published": "2026-10-23T14:34:59Z",
+      "summary": "With WoW Forever’s beta ending, the writer considers character names, guilds, and choosing between Night Elf and Skyborne Druids while awaiting launch."
     },
     {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Question for you",
-      "post_url": "https://rishidass.net/posts/question-for-you",
-      "published": "2026-10-23T05:49:53Z",
-      "summary": "Rishi Dass questions whether using products and platforms linked to controversial companies or individuals conflicts with personal values, political beliefs, and ethical consistency."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "It’s been 6 months…",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/23/its-been-6-months/",
-      "published": "2026-10-23T05:00:00Z",
-      "summary": "After six months away, the writer cautiously returns to the gym following hip surgeries, managing a short bike ride and light strength exercises while prioritizing recovery."
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "Divinity Original Sin 2 - Act 1 - Hollow Marshes 12hrs",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-22-dos2/",
-      "published": "2026-10-23T03:03:06Z",
-      "summary": "A playthrough of Divinity: Original Sin 2’s Hollow Marshes follows battles, exploration, rescuing Gareth, Fane’s mask, Source magic, and conversations with Seekers and animals."
-    },
-    {
-      "blog_title": "JVT Workshop",
-      "blog_url": "http://josephskyrim.blogspot.com/",
-      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
-      "post_title": "More than Nothing: Captives",
-      "post_url": "http://josephskyrim.blogspot.com/2026/10/more-than-nothing-captives.html",
-      "published": "2026-10-23T01:59:02Z",
-      "summary": "Adventurers arrested as heretics must escape a deadly time loop, decipher the Bridgerton Blood hex, and prevent an explosive attack on Papa Smorfonof."
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "The Diplomat (2026) — ⭐⭐⭐⭐½ (4.5/5)",
-      "post_url": "https://michaelharley.net/watching/2026/10/22/the-diplomat-s4/",
-      "published": "2026-10-23T01:02:25Z",
-      "summary": "The Diplomat’s fourth season follows a US ambassador to the UK navigating an international crisis, demanding diplomatic responsibilities, and a strained marriage to a political star."
-    },
-    {
-      "blog_title": "Cheshire Gaming",
-      "blog_url": "https://www.cheshiregaming.com/",
-      "feed_url": "https://www.cheshiregaming.com/feeds/posts/default",
-      "post_title": "The Old Peace",
-      "post_url": "https://www.cheshiregaming.com/2026/10/the-old-peace.html",
-      "published": "2026-10-23T00:34:33Z",
-      "summary": "The Old Peace update adds a cinematic quest, Uriel Warframe, Dark Refractory activities, Perita Rebellion resources, La Cathédrale vendors, and KIM relationships."
-    },
-    {
-      "blog_title": "82MHz",
-      "blog_url": "http://82mhz.net/posts/",
-      "feed_url": "http://82mhz.net/index.xml",
-      "post_title": "Linkdump No 130",
-      "post_url": "http://82mhz.net/posts/2026/10/linkdump-no-130/",
-      "published": "2026-10-23T00:00:00Z",
-      "summary": "Linkdump No 130 covers recent internet security incidents, an iPod modernization project, programming nostalgia, small-web services, corporate bug responses, and personal archiving tools."
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Friday, 23 October 2026",
-      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-23.html",
-      "published": "2026-10-23T00:00:00Z",
-      "summary": "The Daily Blogroll surveys BioWare’s decline, Steam Next Fest discoveries, MMORPGs, gaming experiences, cybersecurity concerns, Bridgerton, and blogging practices."
-    },
-    {
-      "blog_title": "Juha-Matti Santala",
-      "blog_url": "https://hamatti.org/",
-      "feed_url": "https://hamatti.org/feed/feed.xml",
-      "post_title": "Debugging a flaky test — how I methodologically tamed an annoying bug",
-      "post_url": "https://hamatti.org/posts/debugging-a-flaky-test-how-i-methodologically-tamed-an-annoying-bug/",
-      "published": "2026-10-23T00:00:00Z",
-      "summary": "Juha-Matti Santala details systematically isolating and fixing a flaky Django test using pytest, controlled test selection, debugger sessions, and running notes."
+      "blog_title": "Nosrednayduj's Blog",
+      "blog_url": "https://nosrednayduj.dreamwidth.org/",
+      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
+      "post_title": "Quick update: action #31",
+      "post_url": "https://nosrednayduj.dreamwidth.org/190067.html",
+      "published": "2026-10-23T13:51:11Z",
+      "summary": "A small “get out the vote” gathering also became a “no kings” protest, while preparations for an upcoming square dance faced illness-related cancellations and late registrations."
     },
     {
       "blog_title": "スナックエルベ",
       "blog_url": "https://elve.club/",
       "feed_url": "https://elve.club/feed",
-      "post_title": "一体ここはどこなんだ！？（いるま）",
-      "post_url": "https://elve.club/entry/2026/10/23/070504?utm_source=feed",
-      "published": "2026-10-22T22:05:04Z",
-      "summary": "A newcomer to Saitama expresses confusion over the distinctions and locations of Iruma City, Iruma District, and Iruma-no while traveling toward Tokyo."
+      "post_title": "人の気持ちは人のもの",
+      "post_url": "https://elve.club/entry/2026/10/23/224949?utm_source=feed",
+      "published": "2026-10-23T13:49:49Z",
+      "summary": "The writer reflects on struggling to understand others’ feelings, family violence and alienation, and resisting assumptions of empathy while remaining uncertain about personal emotions."
     },
     {
-      "blog_title": "Going Commando",
-      "blog_url": "https://swtorcommando.blogspot.com/",
-      "feed_url": "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Bye-Bye, Bioware",
-      "post_url": "https://swtorcommando.blogspot.com/2026/10/bye-bye-bioware.html",
-      "published": "2026-10-22T21:59:35Z",
-      "summary": "Bioware’s closure, its relationship with Electronic Arts, declining game performance, internal dysfunction, and the studio’s limited connection to Star Wars: The Old Republic are examined."
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Argent Linux 1.5.4, the first stable release after 10 years",
+      "post_url": "https://thinkroot.xyz/argent-linux-154-the-first-stable-release-after-10-years-807",
+      "published": "2026-10-23T13:41:03Z",
+      "summary": "Argent Linux 1.5.4 is the distribution’s first stable release after a decade in beta, offering a Gentoo-based, systemd-powered KDE Plasma edition for 64-bit workstations and servers."
     },
     {
-      "blog_title": "The Capsule Critic",
-      "blog_url": "https://thecapsulecritic.com/blog/",
-      "feed_url": "https://thecapsulecritic.com/feed/",
-      "post_title": "HUDSON’S BAY (1941): Paul Muni Has Some Fun For A Change",
-      "post_url": "https://thecapsulecritic.com/2026/10/22/hudsons-bay-1941-paul-muni-has-fun-for-a-change/",
-      "published": "2026-10-22T21:46:02Z",
-      "summary": "Paul Muni brings comic exaggeration to historical adventure film Hudson’s Bay, portraying Pierre-Esprit Radisson amid romance, betrayal, spectacle, and deliberate inaccuracies."
+      "blog_title": "Wry Writer",
+      "blog_url": "https://wrywriter.ca",
+      "feed_url": "https://wrywriter.ca/posts_feed",
+      "post_title": "Fantastical Fiction",
+      "post_url": "https://alexandrawolfe.ca/posts/fantastical-fiction",
+      "published": "2026-10-23T13:30:00Z",
+      "summary": "Three thriller novels—AMAZONIA, THE ANCIENT CURSE, and THE BEGGAR’S OPERA—are presented as genre-crossing stories incorporating supernatural, mysterious, or fantastical elements."
+    },
+    {
+      "blog_title": "Blog - 鳥啼く頃に",
+      "blog_url": "https://torinakukoroni.blog.fc2.com/",
+      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
+      "post_title": "映画『BOSS／ボス』を観たよ～！",
+      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-404.html",
+      "published": "2026-10-23T13:03:37Z",
+      "summary": "A spoiler-filled review praises the compact Korean entertainment film BOSS, highlighting its characters, villains, retro music, romance, and satisfying story despite limited action."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Road Lawyers and Other Briefs (1990) — What we have here is a failure to excommunicate",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/23/road-lawyers-and-other-briefs-1990-what-we-have-here-is-a-failure-to-excommunicate/",
+      "published": "2026-10-23T13:00:53Z",
+      "summary": "Road Lawyers and Other Briefs is an obscure Australian anthology combining a Mad Max parody, religious jailbreak fantasy, redubbed serial footage, and a baldness story."
     }
   ]
 }
