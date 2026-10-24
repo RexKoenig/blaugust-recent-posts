@@ -1,17 +1,129 @@
 {
-  "generated_at": "2026-10-23T21:23:32.273830Z",
+  "generated_at": "2026-10-24T10:58:48.920688Z",
   "feed_count": 356,
-  "successful_feeds": 329,
-  "failed_feeds": 27,
+  "successful_feeds": 330,
+  "failed_feeds": 26,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "M-am uitat pe Distrowatch la câteva distribuții de care nu am auzit ni…",
+      "post_url": "https://thinkroot.xyz/nota-810",
+      "published": "2026-10-24T10:52:37Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "とんちき道中膝栗毛～群馬 伊香保～②",
+      "post_url": "https://elve.club/entry/2026/10/24/191918?utm_source=feed",
+      "published": "2026-10-24T10:19:18Z"
+    },
     {
       "blog_title": "JAG’s Workshop",
       "blog_url": "https://jagsworkshop.com/",
       "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "iPod Turns 25",
-      "post_url": "https://sixcolors.com/post/2026/10/the-ipod-which-set-apple-on-its-course-turns-25/",
-      "published": "2026-10-23T21:04:58Z"
+      "post_title": "Meta Stakes Its Future on Muse, So a Corporate Rename Shouldn’t Be Far Behind",
+      "post_url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "published": "2026-10-24T09:05:59Z"
+    },
+    {
+      "blog_title": "Gamers Esoteric",
+      "blog_url": "https://www.gamersesoteric.com/",
+      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
+      "post_title": "The AUDACITY - Full Game Summary",
+      "post_url": "https://www.gamersesoteric.com/2026/10/the-audacity-entire-game-summary.html",
+      "published": "2026-10-24T08:51:23Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - busy halloween week",
+      "post_url": "https://pretendtypewriter.net/note-busy-halloween-week/",
+      "published": "2026-10-24T08:50:58Z"
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "X's Public Recommendation Code Changes by 96,000 Lines in 10 Days: Scoring Weights Stay Put as the Surrounding Layers Shift",
+      "post_url": "https://joho-todai.com/en/x-algorithm-code-96000-lines-changes/",
+      "published": "2026-10-24T07:36:18Z"
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "X推薦アルゴリズム公開コード、10日間で9万6千行の変更。係数は不変、動いたのは「その外側」",
+      "post_url": "https://joho-todai.com/x-algorithm-code-96000-lines-changes/",
+      "published": "2026-10-24T07:36:18Z"
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "The hottest games at the Spiel 2026",
+      "post_url": "http://tobolds.blogspot.com/2026/10/the-hottest-games-at-spiel-2026.html",
+      "published": "2026-10-24T07:26:48Z"
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com/",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Stalk’s Mini Review-Mashup 8",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/10/24/stalks-mini-review-mashup-8/",
+      "published": "2026-10-24T07:00:00Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Stormy weather ☔🌧️🌬️",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/24/stormy-weather-%e2%98%94%f0%9f%8c%a7%ef%b8%8f%f0%9f%8c%ac%ef%b8%8f/",
+      "published": "2026-10-24T05:00:02Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Literature festival",
+      "post_url": "https://rishidass.net/posts/literature-festival",
+      "published": "2026-10-24T04:03:05Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Bannerlord Nords Guide: Troop Tree, Best Units and Culture Bonuses (War Sails, v1.4.8)",
+      "post_url": "https://gamerofpassion.com/bannerlord-nords/",
+      "published": "2026-10-24T01:00:00Z"
+    },
+    {
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "Assumptions are sneaky",
+      "post_url": "https://hamatti.org/posts/assumptions-are-sneaky/",
+      "published": "2026-10-24T00:00:00Z"
+    },
+    {
+      "blog_title": "MMO Casual",
+      "blog_url": "http://wowaltaddiction.blogspot.com/",
+      "feed_url": "http://wowaltaddiction.blogspot.com/feeds/posts/default",
+      "post_title": "WoW Forever: I Was There The First Time",
+      "post_url": "http://wowaltaddiction.blogspot.com/2026/10/wow-forever-i-was-there-first-time.html",
+      "published": "2026-10-23T23:20:11Z"
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "fraud",
+      "post_url": "https://write.as/blog-x2600/fraud?pk_campaign=rss-feed",
+      "published": "2026-10-23T20:06:21Z"
     },
     {
       "blog_title": "JASON JOURNALS",
@@ -52,118 +164,6 @@
       "post_title": "An Ion Storm!, Part 2: The Return to Ground Level",
       "post_url": "https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/",
       "published": "2026-10-23T16:19:26Z"
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Three PostgreSQL Incremental Backup Bugs Produce Incorrect Restores Despite Passing Verification",
-      "post_url": "https://joho-todai.com/en/postgresql-incremental-backup-data-corruption-bug/",
-      "published": "2026-10-23T16:09:39Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "PostgreSQLの増分バックアップに3件の誤復元報告、検証通過でもデータ不整合",
-      "post_url": "https://joho-todai.com/postgresql-incremental-backup-data-corruption-bug/",
-      "published": "2026-10-23T16:09:39Z"
-    },
-    {
-      "blog_title": "Syl's Blog",
-      "blog_url": "https://syls.blog/",
-      "feed_url": "https://syls.blog/feed/",
-      "post_title": "Garage Sale Success and Other Happenings",
-      "post_url": "https://syls.blog/garage-sale-success-and-other-happenings/",
-      "published": "2026-10-23T15:26:09Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Friday EVE Online Bullet Points about the Next Expansion, CSM21 Voting, and Other Items",
-      "post_url": "https://tagn.wordpress.com/2026/10/23/friday-eve-online-bullet-points-about-the-next-expansion-csm21-voting-and-other-items/",
-      "published": "2026-10-23T15:15:51Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Haicomic",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/23/haicomic/",
-      "published": "2026-10-23T15:14:01Z"
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Final Fantasy IV - I finally beat one!",
-      "post_url": "https://joelchrono.xyz/blog/final-fantasy-iv/",
-      "published": "2026-10-23T14:40:00Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Too Many Games. Let's Play Another!",
-      "post_url": "https://bhagpuss.blogspot.com/2026/10/too-many-games-lets-play-another.html",
-      "published": "2026-10-23T14:37:54Z"
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "WoW Forever: 12 days to go…",
-      "post_url": "https://biobreak.wordpress.com/2026/10/23/wow-forever-12-days-to-go/",
-      "published": "2026-10-23T14:34:59Z"
-    },
-    {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "Quick update: action #31",
-      "post_url": "https://nosrednayduj.dreamwidth.org/190067.html",
-      "published": "2026-10-23T13:51:11Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "人の気持ちは人のもの",
-      "post_url": "https://elve.club/entry/2026/10/23/224949?utm_source=feed",
-      "published": "2026-10-23T13:49:49Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Argent Linux 1.5.4, the first stable release after 10 years",
-      "post_url": "https://thinkroot.xyz/argent-linux-154-the-first-stable-release-after-10-years-807",
-      "published": "2026-10-23T13:41:03Z"
-    },
-    {
-      "blog_title": "Wry Writer",
-      "blog_url": "https://wrywriter.ca",
-      "feed_url": "https://wrywriter.ca/posts_feed",
-      "post_title": "Fantastical Fiction",
-      "post_url": "https://alexandrawolfe.ca/posts/fantastical-fiction",
-      "published": "2026-10-23T13:30:00Z"
-    },
-    {
-      "blog_title": "Blog - 鳥啼く頃に",
-      "blog_url": "https://torinakukoroni.blog.fc2.com/",
-      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
-      "post_title": "映画『BOSS／ボス』を観たよ～！",
-      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-404.html",
-      "published": "2026-10-23T13:03:37Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Road Lawyers and Other Briefs (1990) — What we have here is a failure to excommunicate",
-      "post_url": "https://mutantreviewersmovies.com/2026/10/23/road-lawyers-and-other-briefs-1990-what-we-have-here-is-a-failure-to-excommunicate/",
-      "published": "2026-10-23T13:00:53Z"
     }
   ]
 }
