@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-10-25T21:47:02.001536Z",
+  "generated_at": "2026-10-26T14:14:55.306077Z",
   "feed_count": 356,
-  "successful_feeds": 326,
-  "failed_feeds": 30,
+  "successful_feeds": 330,
+  "failed_feeds": 26,
   "post_count": 20,
   "posts": [
     {
-      "blog_title": "コーポ雪原",
-      "blog_url": "https://coop-setsugen.com/",
-      "feed_url": "https://coop-setsugen.com/feed.xml",
-      "post_title": "辞書について",
-      "post_url": "https://coop-setsugen.com/essay/2026/10/26/",
-      "published": "2026-10-26T00:00:00Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "とんちき道中膝栗毛～群馬 伊香保～⑥岸権旅館２",
-      "post_url": "https://elve.club/entry/2026/10/26/062317?utm_source=feed",
-      "published": "2026-10-25T21:23:17Z"
-    },
-    {
-      "blog_title": "Orbital Martian",
-      "blog_url": "https://orbitalmartian.polymaths.page/",
-      "feed_url": "https://orbitalmartian.polymaths.page/feed.xml",
-      "post_title": "Week Notes - 43",
-      "post_url": "https://orbitalmartian.polymaths.page/blog/2026-10-25-week-notes-43/",
-      "published": "2026-10-25T21:10:09Z"
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - October 25, 2026 18:15",
-      "post_url": "https://martinschuhmann.com/blog/70fb2f26",
-      "published": "2026-10-25T17:15:00Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Autumn cosiness",
-      "post_url": "https://francescrossley.com/autumn-cosiness/",
-      "published": "2026-10-25T17:00:00Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Just Taking a Breath on the Bridge",
-      "post_url": "https://tobygeeksout.micro.blog/2026/10/25/just-taking-a-breath-on.html",
-      "published": "2026-10-25T16:53:59Z"
-    },
-    {
-      "blog_title": "Frostilyte Writes",
-      "blog_url": "https://frostilyte.ca/",
-      "feed_url": "https://frostilyte.ca/feed/",
-      "post_title": "A Low-Tier Playthrough of Pokémon Silver: Part 8",
-      "post_url": "https://frostilyte.ca/2026/10/25/a-low-tier-playthrough-of-pokemon-silver-part-8/",
-      "published": "2026-10-25T16:47:04Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "WEEK 43",
-      "post_url": "https://pretendtypewriter.net/2026-week-43/",
-      "published": "2026-10-25T16:03:00Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "TAGN Fantasy Critic League 2026 – Week Forty-Three and The Final Launches are Within Sight",
-      "post_url": "https://tagn.wordpress.com/2026/10/25/tagn-fantasy-critic-league-2026-week-forty-three-and-the-final-launches-are-within-sight/",
-      "published": "2026-10-25T15:15:15Z"
+      "blog_title": "gRegorLove.com",
+      "blog_url": "https://gregorlove.com",
+      "feed_url": "http://feeds.feedburner.com/gregorlove",
+      "post_title": "Beginning",
+      "post_url": "https://gregorlove.com/2026/10/beginning/",
+      "published": "2026-10-26T15:25:00Z"
     },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Ukrainian Drones Strike Russian Finance Ministry Data Center: Tax Database Infrastructure Hit",
-      "post_url": "https://joho-todai.com/en/ukraine-drone-attacks-russia-finance-ministry-datacenter/",
-      "published": "2026-10-25T15:09:37Z"
+      "post_title": "Cloudflare Redesigns Partial Large-File Fetching, Roughly Halving R2's p99 Response Time",
+      "post_url": "https://joho-todai.com/en/cloudflare-r2-large-file-partial-requests-optimization/",
+      "published": "2026-10-26T14:09:22Z"
     },
     {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "ウクライナのドローン、ロシア財務省のデータセンターを攻撃。税務データベースを格納する国家の行政基盤が被弾",
-      "post_url": "https://joho-todai.com/ukraine-drone-attacks-russia-finance-ministry-datacenter/",
-      "published": "2026-10-25T15:09:37Z"
+      "post_title": "Cloudflare、大容量ファイルの部分取得を再設計。R2のp99応答時間を約半減",
+      "post_url": "https://joho-todai.com/cloudflare-r2-large-file-partial-requests-optimization/",
+      "published": "2026-10-26T14:09:22Z"
     },
     {
-      "blog_title": "The Friendly Necromancer",
-      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
-      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
-      "post_title": "Hoop jumping through Nektropos Castle",
-      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/10/hoop-jumping-through-nektropos-castle.html",
-      "published": "2026-10-25T14:59:21Z"
+      "blog_title": "LOTRO Players",
+      "blog_url": "https://lotroplayers.com",
+      "feed_url": "http://lotroplayers.com/feed/",
+      "post_title": "LOTRO Players News Episode 688: Trees, Spiders, and Trolls-Oh My!",
+      "post_url": "https://lotroplayers.com/2026/10/26/lotro-players-news-episode-688-trees-spiders-and-trolls-oh-my/?utm_source=rss&utm_medium=rss&utm_campaign=lotro-players-news-episode-688-trees-spiders-and-trolls-oh-my",
+      "published": "2026-10-26T14:00:00Z"
     },
     {
-      "blog_title": "Forking Mad+",
-      "blog_url": "https://forkingmad.blog/",
-      "feed_url": "https://forkingmad.blog/feed/",
-      "post_title": "I actually started journaling!",
-      "post_url": "https://forkingmad.blog/i-actually-started-journaling/",
-      "published": "2026-10-25T14:06:37Z"
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "橋立川キャンプ場デイキャンプ",
+      "post_url": "https://elve.club/entry/2026/10/26/225848?utm_source=feed",
+      "published": "2026-10-26T13:58:48Z"
     },
     {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Palworld Best Weapons (1.0): Tier List and What to Use at Each Level",
-      "post_url": "https://gamerofpassion.com/palworld-best-weapons/",
-      "published": "2026-10-25T14:00:00Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Once Around The Isles of Abyss",
-      "post_url": "https://bhagpuss.blogspot.com/2026/10/once-around-isles-of-abyss.html",
-      "published": "2026-10-25T13:58:12Z"
+      "blog_title": "Leekscosycorner",
+      "blog_url": "https://leekscosycorner.com/",
+      "feed_url": "https://leekscosycorner.com/feed/",
+      "post_title": "Loftia Steam Next Fest Demo Impressions & Steam Deck Performance",
+      "post_url": "https://leekscosycorner.com/2026/10/26/loftia-demo-thoughts/",
+      "published": "2026-10-26T13:18:13Z"
     },
     {
       "blog_title": "Mutant Reviewers",
       "blog_url": "https://mutantreviewersmovies.com",
       "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "The Funhouse Massacre (2015) – Just your everyday splatterfest",
-      "post_url": "https://mutantreviewersmovies.com/2026/10/25/the-funhouse-massacre-2015-just-your-everyday-splatterfest/",
-      "published": "2026-10-25T13:05:30Z"
+      "post_title": "Garfield’s Halloween Adventure (1985) — Candy candy candy candy",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/26/garfields-halloween-adventure-1985-candy-candy-candy-candy/",
+      "published": "2026-10-26T13:00:45Z"
+    },
+    {
+      "blog_title": "The EOFFTV Review",
+      "blog_url": "https://eofftvreview.wordpress.com",
+      "feed_url": "https://eofftvreview.wordpress.com/feed/",
+      "post_title": "The Unfolding (2016)",
+      "post_url": "https://eofftvreview.wordpress.com/2026/10/26/the-unfolding-2016/",
+      "published": "2026-10-26T12:52:52Z"
+    },
+    {
+      "blog_title": "Monsterlady's Diary",
+      "blog_url": "https://monsterladysdiary.wordpress.com/",
+      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
+      "post_title": "Reaping This Devastation",
+      "post_url": "https://monsterladysdiary.wordpress.com/2026/10/26/reaping-this-devastation/",
+      "published": "2026-10-26T12:00:45Z"
+    },
+    {
+      "blog_title": "In An Age",
+      "blog_url": "https://inanage.com/",
+      "feed_url": "http://inanage.com/feed/",
+      "post_title": "Valheim Complete",
+      "post_url": "https://inanage.com/2026/10/26/valheim-complete/",
+      "published": "2026-10-26T11:00:00Z"
     },
     {
       "blog_title": "NomadWarMachine",
       "blog_url": "https://nomadwarmachine.co.uk/",
       "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Pavement Talk",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/25/pavement-talk/",
-      "published": "2026-10-25T11:01:11Z"
+      "post_title": "Flower Pie Chart Art",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/26/flower-pie-chart-art/",
+      "published": "2026-10-26T10:30:42Z"
     },
     {
-      "blog_title": "わくパンの思考のかけら",
-      "blog_url": "https://wakupanbouquet.hatenablog.com/",
-      "feed_url": "https://wakupanbouquet.hatenablog.com/rss",
-      "post_title": "2026-W43 週報 体調が悪いとそのことしか考えられない",
-      "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/10/25/170000",
-      "published": "2026-10-25T08:00:00Z"
+      "blog_title": "Home on devz.cl",
+      "blog_url": "https://devz.cl/",
+      "feed_url": "https://devz.cl/index.xml",
+      "post_title": "\"For The Colony!” and Other Phrases to Comfort Ourselves In Modern Life",
+      "post_url": "https://devz.cl/posts/for-the-colony-and-other-phrases-to-comfort-ourselves/",
+      "published": "2026-10-26T10:10:37Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "No Man’s Sky Beginner Guide (COSMOS 7.0): What to Do First, Step by Step",
+      "post_url": "https://gamerofpassion.com/no-mans-sky-beginner-guide/",
+      "published": "2026-10-26T09:19:13Z"
+    },
+    {
+      "blog_title": "Sylvia's Studio",
+      "blog_url": "https://sylvia.studio/",
+      "feed_url": "https://sylvia.studio/feed.xml",
+      "post_title": "Five Joyful Things for week 43",
+      "post_url": "https://sylvia.studio/posts/five-joyful-things-for-week-43",
+      "published": "2026-10-26T07:57:34Z"
+    },
+    {
+      "blog_title": "The Tangent Space",
+      "blog_url": "https://thetangent.space/",
+      "feed_url": "https://thetangent.space/feed.xml",
+      "post_title": "Prepping",
+      "post_url": "https://thetangent.space/2026/prepping/",
+      "published": "2026-10-26T07:43:31Z"
+    },
+    {
+      "blog_title": "Peterson Reviews",
+      "blog_url": "https://petersonreviews.com/",
+      "feed_url": "https://petersonreviews.com/feed/",
+      "post_title": "‘The Only Living Pickpocket in New York’ Knows the Power of John Turturro",
+      "post_url": "https://petersonreviews.com/2026/10/26/the-only-living-pickpocket-in-new-york-2026-movie-review/",
+      "published": "2026-10-26T07:00:00Z"
     },
     {
       "blog_title": "Cynni’s Blog",
       "blog_url": "https://cynnisblog.wordpress.com/",
       "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "#SilentSunday 🍄🍄",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/25/silentsunday-%f0%9f%8d%84%f0%9f%8d%84/",
-      "published": "2026-10-25T06:00:00Z"
+      "post_title": "Stupid body 💀",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/26/stupid-body-%f0%9f%92%80/",
+      "published": "2026-10-26T06:00:46Z"
     },
     {
       "blog_title": "Rishi Dass",
       "blog_url": "https://rishidass.net",
       "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Cultural club",
-      "post_url": "https://rishidass.net/posts/cultural-club",
-      "published": "2026-10-25T03:42:42Z"
+      "post_title": "Finding inner peace",
+      "post_url": "https://rishidass.net/posts/finding-inner-peace",
+      "published": "2026-10-26T05:42:34Z"
+    },
+    {
+      "blog_title": "Divergent Rays' Blog",
+      "blog_url": "https://divergentrays.com/blog/",
+      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
+      "post_title": "Weekly Wrap Up 133",
+      "post_url": "https://divergentrays.com/blog/posts/2026-10-25-Weekly-Wrap-Up-133.html",
+      "published": "2026-10-26T02:24:00Z"
+    },
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Where the Sidewalk Ends",
+      "post_url": "https://brennan.day/where-the-sidewalk-ends/",
+      "published": "2026-10-26T02:00:00Z"
     }
   ]
 }
