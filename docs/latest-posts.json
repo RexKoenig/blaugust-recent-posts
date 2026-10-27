@@ -1,10 +1,122 @@
 {
-  "generated_at": "2026-10-27T13:11:42.592384Z",
+  "generated_at": "2026-10-27T22:57:11.905037Z",
   "feed_count": 356,
   "successful_feeds": 330,
   "failed_feeds": 26,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "トランプ大統領、WSJが「AI」を使い続けることに激怒。旧称の使用禁止を宣言",
+      "post_url": "https://joho-todai.com/trump-bans-ai-wsj-continues-use/",
+      "published": "2026-10-27T22:43:02Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "🔁 Reposted: Polish Your Postings, Please",
+      "post_url": "https://michaelharley.net/links/2026/10/27/polish-your-postings-please/",
+      "published": "2026-10-27T22:25:26Z"
+    },
+    {
+      "blog_title": "Battle Stance",
+      "blog_url": "https://battlestance.org/",
+      "feed_url": "https://battlestance.org/feed/",
+      "post_title": "Raiding the Venomous Abyss – Week 10",
+      "post_url": "https://battlestance.org/2026/10/27/raiding-the-venomous-abyss-week-10/",
+      "published": "2026-10-27T21:04:18Z"
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Of Mice And Cats",
+      "post_url": "https://bhagpuss.blogspot.com/2026/10/of-mice-and-cats.html",
+      "published": "2026-10-27T20:07:51Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Apple Releases 14-inch MacBook Pro with M6",
+      "post_url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "published": "2026-10-27T18:26:43Z"
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Being what I want to see",
+      "post_url": "https://francescrossley.com/being-what-i-want-to-see/",
+      "published": "2026-10-27T18:00:00Z"
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "Flight log",
+      "post_url": "https://joelchrono.xyz/blog/flight-log/",
+      "published": "2026-10-27T16:00:00Z"
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "Fallout 76: Free time in the apocalypse",
+      "post_url": "https://biobreak.wordpress.com/2026/10/27/fallout-76-free-time-in-the-apocalypse/",
+      "published": "2026-10-27T15:42:05Z"
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Morning Fog",
+      "post_url": "https://tobygeeksout.micro.blog/2026/10/27/morning-fog.html",
+      "published": "2026-10-27T15:36:25Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Over the Hill, Gimli Ridge, and the Waddington Scree Trail",
+      "post_url": "https://tagn.wordpress.com/2026/10/27/over-the-hill-gimli-ridge-and-the-waddington-scree-trail/",
+      "published": "2026-10-27T15:15:09Z"
+    },
+    {
+      "blog_title": "The EOFFTV Review",
+      "blog_url": "https://eofftvreview.wordpress.com",
+      "feed_url": "https://eofftvreview.wordpress.com/feed/",
+      "post_title": "Devil Girl from Mars (1954)",
+      "post_url": "https://eofftvreview.wordpress.com/2026/10/27/devil-girl-from-mars-1954/",
+      "published": "2026-10-27T14:35:27Z"
+    },
+    {
+      "blog_title": "Musings Over Pints and Coffee",
+      "blog_url": "https://musingsoverpintsandcoffee.wordpress.com",
+      "feed_url": "https://musingsoverpintsandcoffee.wordpress.com/feed/",
+      "post_title": "Guest Post: Yoshi Reviews the Move",
+      "post_url": "https://musingsoverpintsandcoffee.wordpress.com/2026/10/27/guest-post-yoshi-reviews-the-move/",
+      "published": "2026-10-27T14:25:57Z"
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Upvotes on Bear Blog",
+      "post_url": "https://sals.place/blog/upvotes-on-bear/",
+      "published": "2026-10-27T14:24:17Z"
+    },
+    {
+      "blog_title": "Superior Realities",
+      "blog_url": "https://superior-realities.com",
+      "feed_url": "https://superior-realities.com/feed/",
+      "post_title": "Gaming Round-Up: Diablo, BioWare, NextFest, and More",
+      "post_url": "https://superior-realities.com/2026/10/27/gaming-round-up-diablo-bioware-nextfest-and-more/",
+      "published": "2026-10-27T14:00:38Z"
+    },
     {
       "blog_title": "Mutant Reviewers",
       "blog_url": "https://mutantreviewersmovies.com",
@@ -52,118 +164,6 @@
       "post_title": "「誰もがUXライターになれる」─ ひとりの専門知をAIで使えるスキルにするまで",
       "post_url": "https://lydesign.jp/n/n6195c9f6ea3e",
       "published": "2026-10-27T08:00:00Z"
-    },
-    {
-      "blog_title": "わくパンの思考のかけら",
-      "blog_url": "https://wakupanbouquet.hatenablog.com/",
-      "feed_url": "https://wakupanbouquet.hatenablog.com/rss",
-      "post_title": "ブログ名を変えたよ～ん",
-      "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/10/27/160806",
-      "published": "2026-10-27T07:08:06Z"
-    },
-    {
-      "blog_title": "Peterson Reviews",
-      "blog_url": "https://petersonreviews.com/",
-      "feed_url": "https://petersonreviews.com/feed/",
-      "post_title": "Getting Lost with Phoebe Bridgers",
-      "post_url": "https://petersonreviews.com/2026/10/27/phoebe-bridgers-seattle-climate-pledge-arena-concert-review/",
-      "published": "2026-10-27T07:00:00Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Journal – Week 43, October 2026",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/27/journal-week-43-october-2026/",
-      "published": "2026-10-27T06:00:00Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Stop using Gmail",
-      "post_url": "https://rishidass.net/posts/stop-using-gmail",
-      "published": "2026-10-27T05:46:57Z"
-    },
-    {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Spooky Jewels - Milk Tooth Jewelry",
-      "post_url": "https://divergentrays.com/blog/posts/2026-10-26-Spooky-Jewels-Milk-Tooth-Jewelry.html",
-      "published": "2026-10-27T02:48:00Z"
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "CVE-2026-111497 Also Affects Palo Alto's PAN-OS: TLS Decryption and Brotli Inspection Must Both Be Enabled",
-      "post_url": "https://joho-todai.com/en/palo-alto-pan-os-cve-2026-111497-tls-brotli/",
-      "published": "2026-10-27T02:25:28Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "CVE-2026-111497、Palo AltoのファイアウォールOS「PAN-OS」にも波及。TLS復号とBrotli検査の併用が条件",
-      "post_url": "https://joho-todai.com/palo-alto-pan-os-cve-2026-111497-tls-brotli/",
-      "published": "2026-10-27T02:25:28Z"
-    },
-    {
-      "blog_title": "Blog - 鳥啼く頃に",
-      "blog_url": "https://torinakukoroni.blog.fc2.com/",
-      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
-      "post_title": "同人サークル用必要経費管理【Notionテンプレ配布】",
-      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-405.html",
-      "published": "2026-10-27T02:05:38Z"
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Tuesday, 27 October 2026",
-      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-27.html",
-      "published": "2026-10-27T00:00:00Z"
-    },
-    {
-      "blog_title": "Tommyeveryday",
-      "blog_url": "https://tommyeveryday.mataroa.blog",
-      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
-      "post_title": "Tuesday October 27, 2026",
-      "post_url": "https://tommyeveryday.mataroa.blog/blog/tuesday-october-27-2026/",
-      "published": "2026-10-27T00:00:00Z"
-    },
-    {
-      "blog_title": "コーポ雪原",
-      "blog_url": "https://coop-setsugen.com/",
-      "feed_url": "https://coop-setsugen.com/feed.xml",
-      "post_title": "病識曖昧3センチ",
-      "post_url": "https://coop-setsugen.com/essay/2026/10/27/",
-      "published": "2026-10-27T00:00:00Z"
-    },
-    {
-      "blog_title": "Newsonaut",
-      "blog_url": "https://www.newsonaut.com/",
-      "feed_url": "https://www.newsonaut.com/rss",
-      "post_title": "The internet police lead the way",
-      "post_url": "https://www.newsonaut.com/articles/the-internet-police-lead-the-way",
-      "published": "2026-10-26T22:32:42Z"
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Echoes, Castles, Dunes - W43",
-      "post_url": "https://joelchrono.xyz/blog/2026-w43/",
-      "published": "2026-10-26T22:30:00Z"
-    },
-    {
-      "blog_title": "Lameazoid",
-      "blog_url": "https://lameazoid.com/",
-      "feed_url": "https://lameazoid.com/feed/",
-      "post_title": "My Project Server",
-      "post_url": "https://lameazoid.com/posts/tech-my-project-server/",
-      "published": "2026-10-26T22:30:00Z"
     }
   ]
 }
