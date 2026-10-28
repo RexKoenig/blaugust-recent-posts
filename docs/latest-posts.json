@@ -1,25 +1,161 @@
 {
-  "generated_at": "2026-10-27T22:57:11.905037Z",
+  "generated_at": "2026-10-28T14:01:01.203296Z",
   "feed_count": 356,
-  "successful_feeds": 330,
-  "failed_feeds": 26,
+  "successful_feeds": 329,
+  "failed_feeds": 27,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "VKD3D-Proton 3.1 Released With Direct3D 12 Rendering Improvements on Linux and Steam Frame Support",
+      "post_url": "https://joho-todai.com/en/vkd3d-proton-3-1-linux-direct3d-12/",
+      "published": "2026-10-28T13:48:30Z"
+    },
     {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "トランプ大統領、WSJが「AI」を使い続けることに激怒。旧称の使用禁止を宣言",
-      "post_url": "https://joho-todai.com/trump-bans-ai-wsj-continues-use/",
-      "published": "2026-10-27T22:43:02Z"
+      "post_title": "VKD3D-Proton 3.1公開、LinuxのDirect3D 12描画を改善。Steam Frameにも対応",
+      "post_url": "https://joho-todai.com/vkd3d-proton-3-1-linux-direct3d-12/",
+      "published": "2026-10-28T13:48:30Z"
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Halloweentown (1998) — A nightmare before Hogwarts",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/28/halloweentown-1998-a-nightmare-before-hogwarts/",
+      "published": "2026-10-28T13:00:57Z"
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "WoW Forever: The roster forms on the bench",
+      "post_url": "https://biobreak.wordpress.com/2026/10/28/wow-forever-the-roster-forms-on-the-bench/",
+      "published": "2026-10-28T13:00:08Z"
     },
     {
       "blog_title": "Michael Harley",
       "blog_url": "https://michaelharley.net",
       "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "🔁 Reposted: Polish Your Postings, Please",
-      "post_url": "https://michaelharley.net/links/2026/10/27/polish-your-postings-please/",
-      "published": "2026-10-27T22:25:26Z"
+      "post_title": "Webmention tweak: removing interactions from social sites",
+      "post_url": "https://michaelharley.net/posts/2026/10/28/webmention-tweak-removing-interactions-from-social-sites/",
+      "published": "2026-10-28T11:51:00Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Heckethaler",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/28/heckethaler/",
+      "published": "2026-10-28T10:44:05Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Amazing Cultivation Simulator Golden Core Guide: How to Get a Tier 1 Core (1.26)",
+      "post_url": "https://gamerofpassion.com/amazing-cultivation-simulator-golden-core/",
+      "published": "2026-10-28T08:00:00Z"
+    },
+    {
+      "blog_title": "Gamers Esoteric",
+      "blog_url": "https://www.gamersesoteric.com/",
+      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
+      "post_title": "REDACTED Session Recap #2",
+      "post_url": "https://www.gamersesoteric.com/2026/10/redacted-session-recap-2.html",
+      "published": "2026-10-28T06:49:32Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Daring to be a bit more positive 🙏🏻",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/28/daring-to-be-a-bit-more-positive-%f0%9f%99%8f%f0%9f%8f%bb/",
+      "published": "2026-10-28T06:00:40Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Normal is amazing",
+      "post_url": "https://rishidass.net/posts/normal-is-amazing",
+      "published": "2026-10-28T05:57:27Z"
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "Divinity Original Sin 2 - Act 1 - Braccus' Tower 17hr23",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-28-dos2/",
+      "published": "2026-10-28T04:08:00Z"
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "^nix things on the qux",
+      "post_url": "https://write.as/blog-x2600/nix-things-on-the-qux?pk_campaign=rss-feed",
+      "published": "2026-10-28T03:52:57Z"
+    },
+    {
+      "blog_title": "Divergent Rays' Blog",
+      "blog_url": "https://divergentrays.com/blog/",
+      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
+      "post_title": "Spooky Jewels - Killer Clown",
+      "post_url": "https://divergentrays.com/blog/posts/2026-10-27-Spooky-Jewels-Killer-Clown.html",
+      "published": "2026-10-28T03:22:00Z"
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "More than Nothing: Lost at Sea",
+      "post_url": "http://josephskyrim.blogspot.com/2026/10/more-than-nothing-lost-at-sea.html",
+      "published": "2026-10-28T02:33:47Z"
+    },
+    {
+      "blog_title": "#デザイン 記事まとめ",
+      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
+      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
+      "post_title": "丸ゴシック体はやわらかい！…でもどんな風に？ 作例で感じる使い分けのヒント",
+      "post_url": "https://note.morisawa.co.jp/n/n9b9c1deb81d9",
+      "published": "2026-10-28T02:00:00Z"
+    },
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Thank You For Today",
+      "post_url": "https://brennan.day/thank-you-for-today/",
+      "published": "2026-10-28T02:00:00Z"
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Willy and Charlie: Solitaire",
+      "post_url": "https://chasingdings.com/2026/10/27/willy-and-charlie-solitaire/",
+      "published": "2026-10-28T01:25:52Z"
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Wednesday, 28 October 2026",
+      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-28.html",
+      "published": "2026-10-28T00:00:00Z"
+    },
+    {
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "Sharing notes with Hermes and Agora",
+      "post_url": "https://hamatti.org/posts/sharing-notes-with-hermes-and-agora/",
+      "published": "2026-10-28T00:00:00Z"
     },
     {
       "blog_title": "Battle Stance",
@@ -28,142 +164,6 @@
       "post_title": "Raiding the Venomous Abyss – Week 10",
       "post_url": "https://battlestance.org/2026/10/27/raiding-the-venomous-abyss-week-10/",
       "published": "2026-10-27T21:04:18Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Of Mice And Cats",
-      "post_url": "https://bhagpuss.blogspot.com/2026/10/of-mice-and-cats.html",
-      "published": "2026-10-27T20:07:51Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Apple Releases 14-inch MacBook Pro with M6",
-      "post_url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "published": "2026-10-27T18:26:43Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Being what I want to see",
-      "post_url": "https://francescrossley.com/being-what-i-want-to-see/",
-      "published": "2026-10-27T18:00:00Z"
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Flight log",
-      "post_url": "https://joelchrono.xyz/blog/flight-log/",
-      "published": "2026-10-27T16:00:00Z"
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "Fallout 76: Free time in the apocalypse",
-      "post_url": "https://biobreak.wordpress.com/2026/10/27/fallout-76-free-time-in-the-apocalypse/",
-      "published": "2026-10-27T15:42:05Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Morning Fog",
-      "post_url": "https://tobygeeksout.micro.blog/2026/10/27/morning-fog.html",
-      "published": "2026-10-27T15:36:25Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Over the Hill, Gimli Ridge, and the Waddington Scree Trail",
-      "post_url": "https://tagn.wordpress.com/2026/10/27/over-the-hill-gimli-ridge-and-the-waddington-scree-trail/",
-      "published": "2026-10-27T15:15:09Z"
-    },
-    {
-      "blog_title": "The EOFFTV Review",
-      "blog_url": "https://eofftvreview.wordpress.com",
-      "feed_url": "https://eofftvreview.wordpress.com/feed/",
-      "post_title": "Devil Girl from Mars (1954)",
-      "post_url": "https://eofftvreview.wordpress.com/2026/10/27/devil-girl-from-mars-1954/",
-      "published": "2026-10-27T14:35:27Z"
-    },
-    {
-      "blog_title": "Musings Over Pints and Coffee",
-      "blog_url": "https://musingsoverpintsandcoffee.wordpress.com",
-      "feed_url": "https://musingsoverpintsandcoffee.wordpress.com/feed/",
-      "post_title": "Guest Post: Yoshi Reviews the Move",
-      "post_url": "https://musingsoverpintsandcoffee.wordpress.com/2026/10/27/guest-post-yoshi-reviews-the-move/",
-      "published": "2026-10-27T14:25:57Z"
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Upvotes on Bear Blog",
-      "post_url": "https://sals.place/blog/upvotes-on-bear/",
-      "published": "2026-10-27T14:24:17Z"
-    },
-    {
-      "blog_title": "Superior Realities",
-      "blog_url": "https://superior-realities.com",
-      "feed_url": "https://superior-realities.com/feed/",
-      "post_title": "Gaming Round-Up: Diablo, BioWare, NextFest, and More",
-      "post_url": "https://superior-realities.com/2026/10/27/gaming-round-up-diablo-bioware-nextfest-and-more/",
-      "published": "2026-10-27T14:00:38Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Hell Night (1981) – Never spend the night in a murder mansion",
-      "post_url": "https://mutantreviewersmovies.com/2026/10/27/hell-night-1981-never-spend-the-night-in-a-murder-mansion/",
-      "published": "2026-10-27T13:00:55Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Snobby Nursery Rhymes",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/27/snobby-nursery-rhymes/",
-      "published": "2026-10-27T12:22:10Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "健康で文化的な最低限度の生活～千葉市美術館～",
-      "post_url": "https://elve.club/entry/2026/10/27/211604?utm_source=feed",
-      "published": "2026-10-27T12:16:04Z"
-    },
-    {
-      "blog_title": "Alligators and aneurysms!",
-      "blog_url": "https://alligatorsandaneurysms.wordpress.com/",
-      "feed_url": "http://alligatorsandaneurysms.wordpress.com/feed/",
-      "post_title": "Is This “Arthuriana”? How a Antoine Fuqua’s King Arthur Ruined My Canon Knowledge",
-      "post_url": "https://alligatorsandaneurysms.wordpress.com/2026/10/27/is-this-arthuriana-how-a-antoine-fuquas-king-arthur-ruined-my-canon-knowledge/",
-      "published": "2026-10-27T12:00:36Z"
-    },
-    {
-      "blog_title": "Overage-Gaming",
-      "blog_url": "https://overage-gaming.com/",
-      "feed_url": "https://overage-gaming.com/feed/",
-      "post_title": "Wanderburg: My Castle Ate a Whole Village and Kept Rolling (Gameplay)",
-      "post_url": "https://overage-gaming.com/2026/10/27/wanderburg-my-castle-ate-a-whole-village-and-kept-rolling-gameplay/",
-      "published": "2026-10-27T08:01:00Z"
-    },
-    {
-      "blog_title": "#デザイン 記事まとめ",
-      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
-      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
-      "post_title": "「誰もがUXライターになれる」─ ひとりの専門知をAIで使えるスキルにするまで",
-      "post_url": "https://lydesign.jp/n/n6195c9f6ea3e",
-      "published": "2026-10-27T08:00:00Z"
     }
   ]
 }

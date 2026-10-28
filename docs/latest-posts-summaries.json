@@ -1,29 +1,182 @@
 {
-  "generated_at": "2026-10-27T22:57:48.423349Z",
-  "source_generated_at": "2026-10-27T22:57:11.905037Z",
+  "generated_at": "2026-10-28T14:01:42.234188Z",
+  "source_generated_at": "2026-10-28T14:01:01.203296Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 20,
+  "summary_count": 19,
   "posts": [
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "VKD3D-Proton 3.1 Released With Direct3D 12 Rendering Improvements on Linux and Steam Frame Support",
+      "post_url": "https://joho-todai.com/en/vkd3d-proton-3-1-linux-direct3d-12/",
+      "published": "2026-10-28T13:48:30Z",
+      "summary": "VKD3D-Proton 3.1 improves Direct3D 12 translation on Linux with descriptor heaps, Shader Model 6.9, ray tracing, rendering optimizations, compatibility fixes, and Steam Frame support."
+    },
     {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "トランプ大統領、WSJが「AI」を使い続けることに激怒。旧称の使用禁止を宣言",
-      "post_url": "https://joho-todai.com/trump-bans-ai-wsj-continues-use/",
-      "published": "2026-10-27T22:43:02Z",
-      "summary": "Donald Trump reportedly grew frustrated that the Wall Street Journal continued using “AI,” despite his order to replace the term with “superintelligence” (SI)."
+      "post_title": "VKD3D-Proton 3.1公開、LinuxのDirect3D 12描画を改善。Steam Frameにも対応",
+      "post_url": "https://joho-todai.com/vkd3d-proton-3-1-linux-direct3d-12/",
+      "published": "2026-10-28T13:48:30Z",
+      "summary": "VKD3D-Proton 3.1 adds Direct3D 12 features, ray-tracing improvements, rendering optimizations, compatibility fixes, and Steam Frame support for Linux gaming."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Halloweentown (1998) — A nightmare before Hogwarts",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/28/halloweentown-1998-a-nightmare-before-hogwarts/",
+      "published": "2026-10-28T13:00:57Z",
+      "summary": "A review of Disney’s 1998 television film Halloweentown follows Marnie and her siblings into a monster-filled magical realm threatened by a dark presence."
+    },
+    {
+      "blog_title": "Bio Break",
+      "blog_url": "https://biobreak.wordpress.com/",
+      "feed_url": "https://biobreak.wordpress.com/feed/",
+      "post_title": "WoW Forever: The roster forms on the bench",
+      "post_url": "https://biobreak.wordpress.com/2026/10/28/wow-forever-the-roster-forms-on-the-bench/",
+      "published": "2026-10-28T13:00:08Z",
+      "summary": "Blizzard’s WoW Forever name-reservation launch suffered errors and poor communication, but the writer secured three alliterative names on a PvE realm for later RP use."
     },
     {
       "blog_title": "Michael Harley",
       "blog_url": "https://michaelharley.net",
       "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "🔁 Reposted: Polish Your Postings, Please",
-      "post_url": "https://michaelharley.net/links/2026/10/27/polish-your-postings-please/",
-      "published": "2026-10-27T22:25:26Z",
-      "summary": "Michael Harley reposts “Polish Your Postings, Please,” linking to khleedril.org and expressing renewed inspiration to write more."
+      "post_title": "Webmention tweak: removing interactions from social sites",
+      "post_url": "https://michaelharley.net/posts/2026/10/28/webmention-tweak-removing-interactions-from-social-sites/",
+      "published": "2026-10-28T11:51:00Z",
+      "summary": "Michael Harley explains removing Mastodon and other social-media avatars and comments from his site, citing consent concerns, Webmention boundaries, and artificial engagement."
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Heckethaler",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/28/heckethaler/",
+      "published": "2026-10-28T10:44:05Z",
+      "summary": "A creative response to the German fairy tale “The Heckethaler (Swinemünde)” presents a poem about a magical self-replicating coin and charitable nursery-rhyme imagery."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Amazing Cultivation Simulator Golden Core Guide: How to Get a Tier 1 Core (1.26)",
+      "post_url": "https://gamerofpassion.com/amazing-cultivation-simulator-golden-core/",
+      "published": "2026-10-28T08:00:00Z",
+      "summary": "Amazing Cultivation Simulator’s version 1.26 Golden Core guide explains grade thresholds, score mechanics, Max Qi requirements, preparation factors, and strategies for achieving Tier 1 or Tier 0 cores."
+    },
+    {
+      "blog_title": "Gamers Esoteric",
+      "blog_url": "https://www.gamersesoteric.com/",
+      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
+      "post_title": "REDACTED Session Recap #2",
+      "post_url": "https://www.gamersesoteric.com/2026/10/redacted-session-recap-2.html",
+      "published": "2026-10-28T06:49:32Z",
+      "summary": "Two gaming groups explore hostile schools and executive towers, encountering supernatural entities while the sessions test combat mechanics and provide feedback for ongoing game development."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Daring to be a bit more positive 🙏🏻",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/28/daring-to-be-a-bit-more-positive-%f0%9f%99%8f%f0%9f%8f%bb/",
+      "published": "2026-10-28T06:00:40Z",
+      "summary": "Cynni describes trauma-related fears of optimism, persistent physical and emotional pain, bereavement, and challenges managing adolescent Labrador Koa’s puberty-related anxiety."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Normal is amazing",
+      "post_url": "https://rishidass.net/posts/normal-is-amazing",
+      "published": "2026-10-28T05:57:27Z",
+      "summary": "A sore throat prompts reflections on taking good health and everyday normality for granted, practicing gratitude, and recognizing normal life as valuable rather than boring."
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "Divinity Original Sin 2 - Act 1 - Braccus' Tower 17hr23",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-28-dos2/",
+      "published": "2026-10-28T04:08:00Z",
+      "summary": "Gameplay notes cover blessing burning pigs, fighting Voidwoken and undead, aiding a chained dragon, navigating Braccus’ Tower, and encountering a cursed rat."
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "^nix things on the qux",
+      "post_url": "https://write.as/blog-x2600/nix-things-on-the-qux?pk_campaign=rss-feed",
+      "published": "2026-10-28T03:52:57Z",
+      "summary": "The writer describes ^nix, a growing quxnet node offering boards, updates, SSH, and hosting, alongside plans to preserve Ctrl-ZINE and foster moderated community interaction."
+    },
+    {
+      "blog_title": "Divergent Rays' Blog",
+      "blog_url": "https://divergentrays.com/blog/",
+      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
+      "post_title": "Spooky Jewels - Killer Clown",
+      "post_url": "https://divergentrays.com/blog/posts/2026-10-27-Spooky-Jewels-Killer-Clown.html",
+      "published": "2026-10-28T03:22:00Z",
+      "summary": "An early-1800s diamond- and ruby-studded 18K-gold-and-silver killer clown stickpin is identified as Pierrot, whose theatrical character had violent undertones."
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "More than Nothing: Lost at Sea",
+      "post_url": "http://josephskyrim.blogspot.com/2026/10/more-than-nothing-lost-at-sea.html",
+      "published": "2026-10-28T02:33:47Z",
+      "summary": "A fantasy adventuring party survives a sea worm attack, island exile, and mutiny aboard a Segamban galley before reaching Pelican Rock and causing further trouble."
+    },
+    {
+      "blog_title": "#デザイン 記事まとめ",
+      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
+      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
+      "post_title": "丸ゴシック体はやわらかい！…でもどんな風に？ 作例で感じる使い分けのヒント",
+      "post_url": "https://note.morisawa.co.jp/n/n9b9c1deb81d9",
+      "published": "2026-10-28T02:00:00Z",
+      "summary": null
+    },
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Thank You For Today",
+      "post_url": "https://brennan.day/thank-you-for-today/",
+      "published": "2026-10-28T02:00:00Z",
+      "summary": "Brennan Day reflects on gratitude, renewal, spiritual cleansing, daily waking, thanking bus drivers, coral records of time, and changing day lengths."
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Willy and Charlie: Solitaire",
+      "post_url": "https://chasingdings.com/2026/10/27/willy-and-charlie-solitaire/",
+      "published": "2026-10-28T01:25:52Z",
+      "summary": "Willy and Charlie: Solitaire is a head-to-head solitaire deckbuilder featuring card chains, faction-based cards, strategic passing, battles, events, shops, and challenging final bosses."
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Wednesday, 28 October 2026",
+      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-28.html",
+      "published": "2026-10-28T00:00:00Z",
+      "summary": "The blogroll surveys gaming, toy reviews, travel, note-sharing, hardware modifications, retrocomputing, web architecture, economic inequality, and an introduction to reading Arabic script."
+    },
+    {
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "Sharing notes with Hermes and Agora",
+      "post_url": "https://hamatti.org/posts/sharing-notes-with-hermes-and-agora/",
+      "published": "2026-10-28T00:00:00Z",
+      "summary": "Juha-Matti Santala presents early experiments with Hermes and Agora, enabling short-lived private sharing of Obsidian notes through a website."
     },
     {
       "blog_title": "Battle Stance",
@@ -33,159 +186,6 @@
       "post_url": "https://battlestance.org/2026/10/27/raiding-the-venomous-abyss-week-10/",
       "published": "2026-10-27T21:04:18Z",
       "summary": "A raid team reports Week 10 progress, defeating Nek’zali, Sentinels, Vashnik, Explorers, Sszorak, Kith’ix, and Twin Fangs after several attempts."
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Of Mice And Cats",
-      "post_url": "https://bhagpuss.blogspot.com/2026/10/of-mice-and-cats.html",
-      "published": "2026-10-27T20:07:51Z",
-      "summary": "Inventory Full reviews the Hela: of Mice & Magic demo, highlighting its puzzles, exploration, movement mechanics, charming visuals, cooperative features, and accessible performance."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Apple Releases 14-inch MacBook Pro with M6",
-      "post_url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "published": "2026-10-27T18:26:43Z",
-      "summary": "Apple’s 14-inch MacBook Pro with M6 features faster CPU and graphics performance, enhanced on-device AI, Wi-Fi 7, a Liquid Retina XDR display, and up to 24 hours of battery life."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Being what I want to see",
-      "post_url": "https://francescrossley.com/being-what-i-want-to-see/",
-      "published": "2026-10-27T18:00:00Z",
-      "summary": "Fran reflects on embracing authenticity and earnestness through enthusiastic conversation, attentive listening, creative generosity, and modelling behaviours without fearing excess or awkwardness."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Flight log",
-      "post_url": "https://joelchrono.xyz/blog/flight-log/",
-      "published": "2026-10-27T16:00:00Z",
-      "summary": "A vivid first-person account of flying after five years, covering airport activities, takeoff sensations, views above the clouds, reading, and descent."
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "Fallout 76: Free time in the apocalypse",
-      "post_url": "https://biobreak.wordpress.com/2026/10/27/fallout-76-free-time-in-the-apocalypse/",
-      "published": "2026-10-27T15:42:05Z",
-      "summary": "A player recounts spending unexpected free time progressing through Fallout 76’s Forest quests, appreciating its grim environmental storytelling, comic contrasts, and upcoming CAMP pet companions."
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Morning Fog",
-      "post_url": "https://tobygeeksout.micro.blog/2026/10/27/morning-fog.html",
-      "published": "2026-10-27T15:36:25Z",
-      "summary": "A morning view from a house shows fog over a mountain, sunlight illuminating autumn leaves, and trees transitioning from green and gold to bare branches."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Over the Hill, Gimli Ridge, and the Waddington Scree Trail",
-      "post_url": "https://tagn.wordpress.com/2026/10/27/over-the-hill-gimli-ridge-and-the-waddington-scree-trail/",
-      "published": "2026-10-27T15:15:09Z",
-      "summary": "The post chronicles exploring Over the Hill’s Emerald Lake and Gimli Ridge regions, emphasizing vehicle handling, swamp driving, boardwalk challenges, cooperative trails, and difficult terrain."
-    },
-    {
-      "blog_title": "The EOFFTV Review",
-      "blog_url": "https://eofftvreview.wordpress.com",
-      "feed_url": "https://eofftvreview.wordpress.com/feed/",
-      "post_title": "Devil Girl from Mars (1954)",
-      "post_url": "https://eofftvreview.wordpress.com/2026/10/27/devil-girl-from-mars-1954/",
-      "published": "2026-10-27T14:35:27Z",
-      "summary": "Devil Girl from Mars follows an alien dominatrix and her robot arriving in rural Scotland to abduct men for a Martian breeding program."
-    },
-    {
-      "blog_title": "Musings Over Pints and Coffee",
-      "blog_url": "https://musingsoverpintsandcoffee.wordpress.com",
-      "feed_url": "https://musingsoverpintsandcoffee.wordpress.com/feed/",
-      "post_title": "Guest Post: Yoshi Reviews the Move",
-      "post_url": "https://musingsoverpintsandcoffee.wordpress.com/2026/10/27/guest-post-yoshi-reviews-the-move/",
-      "published": "2026-10-27T14:25:57Z",
-      "summary": "Yoshi, a six-year-old mini goldendoodle, humorously reviews her household’s relocation from Ohio to Arizona through stops in Lewis Center, Cave Creek, California, Tempe, and Prescott."
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Upvotes on Bear Blog",
-      "post_url": "https://sals.place/blog/upvotes-on-bear/",
-      "published": "2026-10-27T14:24:17Z",
-      "summary": "Sal’s Blog praises Herman’s decision to hide upvote counts on Bear Blog’s Discovery page, aiming to reduce popularity effects and support discovery based on titles and writing."
-    },
-    {
-      "blog_title": "Superior Realities",
-      "blog_url": "https://superior-realities.com",
-      "feed_url": "https://superior-realities.com/feed/",
-      "post_title": "Gaming Round-Up: Diablo, BioWare, NextFest, and More",
-      "post_url": "https://superior-realities.com/2026/10/27/gaming-round-up-diablo-bioware-nextfest-and-more/",
-      "published": "2026-10-27T14:00:38Z",
-      "summary": "The roundup covers Diablo IV character experiments and class balance, BioWare’s closure, Steam NextFest demos, and renewed efforts to build decks in Eternal."
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Hell Night (1981) – Never spend the night in a murder mansion",
-      "post_url": "https://mutantreviewersmovies.com/2026/10/27/hell-night-1981-never-spend-the-night-in-a-murder-mansion/",
-      "published": "2026-10-27T13:00:55Z",
-      "summary": "Hell Night follows sorority and fraternity pledges trapped overnight in Garth Manor, where staged scares give way to attacks by the mansion’s surviving inhabitant."
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Snobby Nursery Rhymes",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/27/snobby-nursery-rhymes/",
-      "published": "2026-10-27T12:22:10Z",
-      "summary": "A contributor reads a childhood nursery rhyme in a deliberately snobby accent, sharing a personal variation recited by their mother while drying their hair."
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "健康で文化的な最低限度の生活～千葉市美術館～",
-      "post_url": "https://elve.club/entry/2026/10/27/211604?utm_source=feed",
-      "published": "2026-10-27T12:16:04Z",
-      "summary": "A rainy visit to Chiba City Museum of Art includes a volunteer tour covering Chiba history, star beliefs, historical artifacts, Western astronomy, and contemporary artworks."
-    },
-    {
-      "blog_title": "Alligators and aneurysms!",
-      "blog_url": "https://alligatorsandaneurysms.wordpress.com/",
-      "feed_url": "http://alligatorsandaneurysms.wordpress.com/feed/",
-      "post_title": "Is This “Arthuriana”? How a Antoine Fuqua’s King Arthur Ruined My Canon Knowledge",
-      "post_url": "https://alligatorsandaneurysms.wordpress.com/2026/10/27/is-this-arthuriana-how-a-antoine-fuquas-king-arthur-ruined-my-canon-knowledge/",
-      "published": "2026-10-27T12:00:36Z",
-      "summary": "Antoine Fuqua’s 2004 King Arthur shapes the writer’s understanding of Arthuriana while blending historical speculation, action, moral themes, and secular virtue ethics."
-    },
-    {
-      "blog_title": "Overage-Gaming",
-      "blog_url": "https://overage-gaming.com/",
-      "feed_url": "https://overage-gaming.com/feed/",
-      "post_title": "Wanderburg: My Castle Ate a Whole Village and Kept Rolling (Gameplay)",
-      "post_url": "https://overage-gaming.com/2026/10/27/wanderburg-my-castle-ate-a-whole-village-and-kept-rolling-gameplay/",
-      "published": "2026-10-27T08:01:00Z",
-      "summary": "A Let’s Play of Wanderburg showcases a mobile castle devouring villages, expanding siege machinery, and battling increasingly enormous fortresses in a minimalist medieval roguelike."
-    },
-    {
-      "blog_title": "#デザイン 記事まとめ",
-      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
-      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
-      "post_title": "「誰もがUXライターになれる」─ ひとりの専門知をAIで使えるスキルにするまで",
-      "post_url": "https://lydesign.jp/n/n6195c9f6ea3e",
-      "published": "2026-10-27T08:00:00Z",
-      "summary": "A LINE Yahoo UX writer converts personal expertise into AI Skills that guide UX writing reviews, creation, judgment, and knowledge sharing."
     }
   ]
 }
