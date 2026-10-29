@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T14:18:38.129087Z",
-  "source_generated_at": "2026-10-29T14:17:45.112290Z",
+  "generated_at": "2026-10-29T23:17:40.485495Z",
+  "source_generated_at": "2026-10-29T23:17:05.636146Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -8,22 +8,103 @@
   "summary_count": 19,
   "posts": [
     {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Walnuts for Focus? I Went Looking",
-      "post_url": "https://tobygeeksout.micro.blog/2026/10/29/walnuts-for-focus-i-went.html",
-      "published": "2026-10-29T14:17:42Z",
-      "summary": "A review of walnut research examines possible effects on focus and memory, finding faster task responses but mixed memory results and no proven everyday cognitive benefit."
+      "blog_title": "Priest with a Cause",
+      "blog_url": "https://priestwithacause.blogspot.com/",
+      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "My 3 Biggest Concerns for WoW Forever",
+      "post_url": "https://priestwithacause.blogspot.com/2026/10/my-3-biggest-concerns-for-wow-forever.html",
+      "published": "2026-10-29T23:15:12Z",
+      "summary": "The post identifies megaservers and sharding as major risks for WoW Forever, warning they may undermine immersion, population balance, and community connections."
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Oracle、AIの仕事量で課金する「AI units」を導入。売上目標2250億ドルへ巨額投資",
+      "post_url": "https://joho-todai.com/oracle-ai-units-pricing-revenue-growth/",
+      "published": "2026-10-29T23:06:30Z",
+      "summary": null
     },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "AFTER-SCHOOL HALLOWEEN PARTY",
-      "post_url": "https://pretendtypewriter.net/after-school-halloween-party/",
-      "published": "2026-10-29T14:00:00Z",
-      "summary": "A Halloween party at a German after-school center features face painting, themed snacks, dancing games, and a handmade haunted obstacle course."
+      "post_title": "note - pumpkins",
+      "post_url": "https://pretendtypewriter.net/note-pumpkins/",
+      "published": "2026-10-29T21:53:19Z",
+      "summary": "A 29 October 2026 note describes V&N carving pumpkins for the first time, using a purchased carving kit, with designs previewed for Saturday’s party."
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "🍿 Now Watching: Balaraw: Blood Island, Season 1",
+      "post_url": "https://tobygeeksout.micro.blog/2026/10/29/now-watching-balaraw-blood-island.html",
+      "published": "2026-10-29T19:44:00Z",
+      "summary": "Balaraw: Blood Island, Season 1 stars Janine Gutierrez, Charlie Dizon, and Agot Isidro in a mystery involving a vanished mother, an uncharted island, and family secrets."
+    },
+    {
+      "blog_title": "Wry Writer",
+      "blog_url": "https://wrywriter.ca",
+      "feed_url": "https://wrywriter.ca/posts_feed",
+      "post_title": "The Great British Bake Off: Book Challenge",
+      "post_url": "https://alexandrawolfe.ca/posts/the-great-british-bake-off-book-challenge",
+      "published": "2026-10-29T19:02:55Z",
+      "summary": "A Great British Bake Off-inspired reading challenge highlights the writer’s anticipated, favorite, emotionally affecting, unfinished, five-star, and personally meaningful books."
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Some useful Vim stuff for prose",
+      "post_url": "https://sals.place/blog/vim-for-prose/",
+      "published": "2026-10-29T18:05:46Z",
+      "summary": "Sal’s Blog presents Vim commands for prose editing, covering text objects, navigation, spelling tools, surrounding plugins, digraphs, repeated edits, line joining, and macros."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Links: Fun projects, joy, hope, community, and more",
+      "post_url": "https://francescrossley.com/links-fun-projects-joy-hope-community-and-more/",
+      "published": "2026-10-29T18:00:00Z",
+      "summary": "A personal link roundup highlights writing on romance, joy, community, doomerism, creativity, cyberpunk gardening, accessibility, blogging, and playful internet projects."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Apple Developers: Get Ready for Touch on Mac",
+      "post_url": "https://developer.apple.com/touch-on-mac/",
+      "published": "2026-10-29T17:56:38Z",
+      "summary": "Apple Developer resources help developers prepare Mac applications for touch input through videos, labs, SDKs, documentation, sample code, and design guidance."
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "The Glitched Call Is Coming From Inside The Game",
+      "post_url": "https://bhagpuss.blogspot.com/2026/10/the-glitched-call-is-coming-from-inside.html",
+      "published": "2026-10-29T15:21:06Z",
+      "summary": "Inventory Full examines Neverness To Everness’s metafictional update presentation, its “Once Upon A Glitched Call” storyline, and concerns about the game’s episodic narrative retaining players amid competition."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "The No Man’s Sky Forsaken Update Brings iOS Support, Forsaken Traders, and More Corvette Things",
+      "post_url": "https://tagn.wordpress.com/2026/10/29/the-no-mans-sky-forsaken-update-brings-ios-support-forsaken-traders-and-more-corvette-things/",
+      "published": "2026-10-29T15:15:02Z",
+      "summary": "No Man’s Sky’s Forsaken update adds iOS support, forsaken traders, new corvette modules, courier missions, gameplay options, and various quality-of-life improvements."
+    },
+    {
+      "blog_title": "Kay Talks Games",
+      "blog_url": "https://kaytalksgames.wordpress.com/",
+      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
+      "post_title": "Ecstatica is an Unhinged Horror Classic",
+      "post_url": "https://kaytalksgames.wordpress.com/2026/10/29/ecstatica-is-an-unhinged-horror-classic/",
+      "published": "2026-10-29T15:03:19Z",
+      "summary": "Ecstatica, a 1994 Psygnosis horror game, combines colorful ellipsoid graphics, chaotic monsters, gruesome humor, exploration, puzzles, trial-and-error deaths, and modernized remaster controls."
     },
     {
       "blog_title": "The Nosy Gamer",
@@ -105,87 +186,6 @@
       "post_url": "https://wakanatrium.site/?postid=47",
       "published": "2026-10-29T11:42:15Z",
       "summary": "A personal update covers Halloween preparations, manga creation, recovering mental health, job searching, internet security concerns, and plans to change hosting providers."
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "We’re All Changing",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/29/were-all-changing/",
-      "published": "2026-10-29T10:13:08Z",
-      "summary": "Photographs of Mugdock Loch in June and October illustrate seasonal change, while a walk around the loch reveals fallen leaves and a red squirrel sighting."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "How to Get Nanites in No Man’s Sky: Fastest Ways at Every Stage (Forsaken 7.10)",
-      "post_url": "https://gamerofpassion.com/no-mans-sky-nanites/",
-      "published": "2026-10-29T09:57:39Z",
-      "summary": "The guide details nanite sources in No Man’s Sky, covering exploration, refining, fishing, derelict freighters, mould farms, outlaw trading, and progression-based strategies."
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "NVIDIA Vera Rubin Production Specs Cut HBM4 Bandwidth by 12.7% and NVLink by 16.7%, Affecting Japan's AI Factory Plans",
-      "post_url": "https://joho-todai.com/en/nvidia-vera-rubin-hbm4-nvlink-bandwidth-reduction/",
-      "published": "2026-10-29T09:48:02Z",
-      "summary": "NVIDIA’s production Vera Rubin specifications reduce HBM4 and NVLink bandwidth from development targets, prompting revised performance estimates for Japan’s planned AI factory."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "NVIDIA Vera Rubin、量産仕様でHBM4帯域12.7%・NVLink帯域16.7%低下 国内AIファクトリー計画にも関係",
-      "post_url": "https://joho-todai.com/nvidia-vera-rubin-hbm4-nvlink-bandwidth-reduction/",
-      "published": "2026-10-29T09:48:02Z",
-      "summary": null
-    },
-    {
-      "blog_title": "The Sun and The Air",
-      "blog_url": "https://criminallyvulgar.dev/",
-      "feed_url": "https://criminallyvulgar.dev/feed/",
-      "post_title": "What Veilguard tells me about Mass Effect 5",
-      "post_url": "https://criminallyvulgar.dev/what-veilguard-tells-me-about-mass-effect-5/",
-      "published": "2026-10-29T09:25:17Z",
-      "summary": "The piece argues that BioWare’s closure and Mass Effect 5’s uncertain development resemble Dragon Age: Veilguard’s troubled evolution under EA’s shifting strategies."
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Decompiling",
-      "post_url": "http://tobolds.blogspot.com/2026/10/decompiling.html",
-      "published": "2026-10-29T08:23:46Z",
-      "summary": "Tobold examines AI-assisted software decompiling, its applications to games and Adobe products, alongside concerns about code quality, copyright, and economic viability."
-    },
-    {
-      "blog_title": "Overage-Gaming",
-      "blog_url": "https://overage-gaming.com/",
-      "feed_url": "https://overage-gaming.com/feed/",
-      "post_title": "SHIFU: Traffic Masters:The 90s China Driving Game Nobody Expected and Everyone Needs (Demo Gameplay)",
-      "post_url": "https://overage-gaming.com/2026/10/29/shifu-traffic-mastersthe-90s-china-driving-game-nobody-expected-and-everyone-needs-demo-gameplay/",
-      "published": "2026-10-29T08:01:00Z",
-      "summary": "A Let’s Play showcases SHIFU: Traffic Masters’ demo, featuring diverse driving modes, workhorse vehicles, and a low-poly open world depicting 1990s northern China."
-    },
-    {
-      "blog_title": "Peterson Reviews",
-      "blog_url": "https://petersonreviews.com/",
-      "feed_url": "https://petersonreviews.com/feed/",
-      "post_title": "‘Kaun?’ is Pleasingly Ridiculous",
-      "post_url": "https://petersonreviews.com/2026/10/29/kaun-1999-movie-review/",
-      "published": "2026-10-29T07:00:00Z",
-      "summary": "Kaun? is a gripping, melodramatic chamber thriller about a fearful woman, a persistent stranger, and plot twists that expand its woman-in-trouble premise."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Opt out as default",
-      "post_url": "https://rishidass.net/posts/opt-out-as-default",
-      "published": "2026-10-29T06:30:58Z",
-      "summary": "Rishi Dass argues privacy should default to opting out, describes Global Privacy Control and Privacy Badger, and recommends layered tools and proactive measures against tracking."
     }
   ]
 }
