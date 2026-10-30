@@ -1,25 +1,113 @@
 {
-  "generated_at": "2026-10-30T14:07:00.360870Z",
+  "generated_at": "2026-10-30T22:58:10.564895Z",
   "feed_count": 356,
-  "successful_feeds": 327,
-  "failed_feeds": 29,
+  "successful_feeds": 330,
+  "failed_feeds": 26,
   "post_count": 20,
   "posts": [
     {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "GeForce RTX 5080 24GB、12月にも発売か。中国市場で16GB版とRTX 5090D V2は終売へ",
-      "post_url": "https://joho-todai.com/geforce-rtx-5080-december-release-china/",
-      "published": "2026-10-30T14:05:57Z"
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "Duo And Mini",
+      "post_url": "https://jasonjournals.com/posts/duo-and-mini",
+      "published": "2026-10-30T22:32:09Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - grittibänz",
+      "post_url": "https://pretendtypewriter.net/note-grittibanz/",
+      "published": "2026-10-30T22:28:00Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "向き不向きで言うならば",
+      "post_url": "https://elve.club/entry/2026/10/31/070527?utm_source=feed",
+      "published": "2026-10-30T22:05:27Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Sir Patrick Stewart Dies at 86",
+      "post_url": "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/",
+      "published": "2026-10-30T19:50:21Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "Return to Art of Rally",
+      "post_url": "https://tagn.wordpress.com/2026/10/30/return-to-art-of-rally/",
+      "published": "2026-10-30T17:15:26Z"
+    },
+    {
+      "blog_title": "The Digital Antiquarian",
+      "blog_url": "https://www.filfre.net/",
+      "feed_url": "https://www.filfre.net/feed/",
+      "post_title": "This Week on The Analog Antiquarian",
+      "post_url": "https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/",
+      "published": "2026-10-30T17:03:04Z"
+    },
+    {
+      "blog_title": "Scormus Fails",
+      "blog_url": "https://scormey.com/",
+      "feed_url": "https://scormey.com/feed/",
+      "post_title": "Roll the Bones: Haunts and Horrors, 2nd Edition",
+      "post_url": "https://scormey.com/2026/10/30/roll-the-bones-haunts-and-horrors-2nd-edition/",
+      "published": "2026-10-30T17:00:00Z"
+    },
+    {
+      "blog_title": "The Virtual Moose",
+      "blog_url": "https://virtualmoose.org/",
+      "feed_url": "https://virtualmoose.org/feed/",
+      "post_title": "GUBBLE 2 IS BACK BABY!",
+      "post_url": "https://virtualmoose.org/2026/10/30/gubble-2-is-back-baby/",
+      "published": "2026-10-30T16:05:04Z"
+    },
+    {
+      "blog_title": "Heartlessgamer",
+      "blog_url": "http://www.heartlessgamer.com/",
+      "feed_url": "http://feeds.feedburner.com/Heartless_Gamer",
+      "post_title": "Packers beat Panthers; score 27",
+      "post_url": "http://www.heartlessgamer.com/2026/10/packers-beat-panthers-score-27.html",
+      "published": "2026-10-30T16:04:34Z"
+    },
+    {
+      "blog_title": "Wry Writer",
+      "blog_url": "https://wrywriter.ca",
+      "feed_url": "https://wrywriter.ca/posts_feed",
+      "post_title": "In Shadows We Fall by Devin Madson",
+      "post_url": "https://alexandrawolfe.ca/posts/in-shadows-we-fall-by-devin-madson",
+      "published": "2026-10-30T15:56:32Z"
     },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "775Gbps Observed on an 800Gbps Kobe–Kashiwa Optical Link: What the Research Data Transfer Trial Shows and Leaves Open",
-      "post_url": "https://joho-todai.com/en/kobe-kashiwa-800gbps-optical-line-775gbps-observed/",
-      "published": "2026-10-30T13:15:17Z"
+      "post_title": "Asahi Linux's macsmc Driver Heads to Intel Macs: 14 RFC Patches Propose Replacing applesmc",
+      "post_url": "https://joho-todai.com/en/asahi-linux-macsmc-driver-intel-mac-applesmc/",
+      "published": "2026-10-30T15:11:58Z"
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Asahi Linuxのmacsmcドライバ、Intel Macにも適用へ。14件のRFCパッチでapplesmc置き換えを提案",
+      "post_url": "https://joho-todai.com/asahi-linux-macsmc-driver-intel-mac-applesmc/",
+      "published": "2026-10-30T15:11:58Z"
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "A terminal renaissance",
+      "post_url": "https://sals.place/blog/terminal-renaissance/",
+      "published": "2026-10-30T14:29:01Z"
     },
     {
       "blog_title": "TGLG",
@@ -76,94 +164,6 @@
       "post_title": "I Read All the Bridgerton Books, Here’s Why I Won’t Be Watching the Show",
       "post_url": "https://monsterladysdiary.wordpress.com/2026/10/30/i-read-all-the-bridgerton-books-heres-why-i-wont-be-watching-the-show/",
       "published": "2026-10-30T12:00:30Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "いやはや",
-      "post_url": "https://elve.club/entry/2026/10/30/203555?utm_source=feed",
-      "published": "2026-10-30T11:35:55Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "RIP Jean-Luc",
-      "post_url": "https://nomadwarmachine.co.uk/2026/10/30/rip-jean-luc/",
-      "published": "2026-10-30T10:57:17Z"
-    },
-    {
-      "blog_title": "Home on devz.cl",
-      "blog_url": "https://devz.cl/",
-      "feed_url": "https://devz.cl/index.xml",
-      "post_title": "Lets Stop Harassing People Online for Using AI",
-      "post_url": "https://devz.cl/posts/slop-is-bad-and-ai-isn-t-automatically-slop/",
-      "published": "2026-10-30T10:35:46Z"
-    },
-    {
-      "blog_title": "#デザイン 記事まとめ",
-      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
-      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
-      "post_title": "誰もが表現できる社会で、なぜ私たちはためらうのか",
-      "post_url": "https://note.com/uss_un/n/n129fc7de6286",
-      "published": "2026-10-30T08:35:57Z"
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Adventures! Excitement!",
-      "post_url": "https://sylvia.studio/posts/adventures-excitement",
-      "published": "2026-10-30T07:41:14Z"
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Frosthaven Digital has improved",
-      "post_url": "http://tobolds.blogspot.com/2026/10/frosthaven-digital-has-improved.html",
-      "published": "2026-10-30T07:15:52Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Brain going bläh 🥴",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/30/brain-going-blah-%f0%9f%a5%b4/",
-      "published": "2026-10-30T06:00:39Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "No great shakes",
-      "post_url": "https://rishidass.net/posts/no-great-shakes",
-      "published": "2026-10-30T05:36:16Z"
-    },
-    {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "În zilele care urmează voi schimba platforma acestui blog cu altă plat…",
-      "post_url": "https://thinkroot.xyz/nota-815",
-      "published": "2026-10-30T04:15:15Z"
-    },
-    {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Spooky Jewels - Hummingbird Head Necklace",
-      "post_url": "https://divergentrays.com/blog/posts/2026-10-29-Spooky-Jewels-Hummingbird-Head-Necklace.html",
-      "published": "2026-10-30T04:11:00Z"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "No Man’s Sky Forsaken Guide: Mementos, Forsaken Trader and Larva Cannon (7.11)",
-      "post_url": "https://gamerofpassion.com/no-mans-sky-forsaken/",
-      "published": "2026-10-30T02:05:50Z"
     }
   ]
 }
