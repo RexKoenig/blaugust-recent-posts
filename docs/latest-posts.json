@@ -1,25 +1,145 @@
 {
-  "generated_at": "2026-10-30T22:58:10.564895Z",
+  "generated_at": "2026-10-31T13:38:53.048803Z",
   "feed_count": 356,
-  "successful_feeds": 330,
-  "failed_feeds": 26,
+  "successful_feeds": 329,
+  "failed_feeds": 27,
   "post_count": 20,
   "posts": [
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "Duo And Mini",
-      "post_url": "https://jasonjournals.com/posts/duo-and-mini",
-      "published": "2026-10-30T22:32:09Z"
-    },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - grittibänz",
-      "post_url": "https://pretendtypewriter.net/note-grittibanz/",
-      "published": "2026-10-30T22:28:00Z"
+      "post_title": "CELEBRATING SPYDER'S 6TH DEATHDAY",
+      "post_url": "https://pretendtypewriter.net/celebrating-spyders-6th-deathday/",
+      "published": "2026-10-31T13:18:00Z"
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Stat Sheets: Dark Gathering",
+      "post_url": "https://mutantreviewersmovies.com/2026/10/31/stat-sheets-dark-gathering/",
+      "published": "2026-10-31T13:00:42Z"
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "Today I turn 49...",
+      "post_url": "https://jasonjournals.com/posts/2026-10-30-today-i-turn-49",
+      "published": "2026-10-31T13:00:00Z"
+    },
+    {
+      "blog_title": "Monocyte’s blog",
+      "blog_url": "https://monocyte.blog/",
+      "feed_url": "https://monocyte.bearblog.dev/feed/?type=rss",
+      "post_title": "little update",
+      "post_url": "https://monocyte.blog/little-update/",
+      "published": "2026-10-31T12:14:13Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Ten months of photos 2026",
+      "post_url": "https://nomadwarmachine.co.uk/2026/10/31/ten-days-of-photos-2026/",
+      "published": "2026-10-31T12:07:37Z"
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "OpenAI CEO Altman Calls DRAM in PCs “Quite Terrible,” Argues It Belongs in Data Centers",
+      "post_url": "https://joho-todai.com/en/openai-altman-dram-pc-data-center/",
+      "published": "2026-10-31T11:16:09Z"
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "OpenAIアルトマンCEO「PCにDRAMがあるのはかなりひどい」。データセンターに集約すべきと主張",
+      "post_url": "https://joho-todai.com/openai-altman-dram-pc-data-center/",
+      "published": "2026-10-31T11:16:09Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "No Man’s Sky Best Multi-Tool: Which Type to Get (7.11)",
+      "post_url": "https://gamerofpassion.com/no-mans-sky-best-multi-tool/",
+      "published": "2026-10-31T08:00:00Z"
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com/",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Stalk’s Videogame Corner: Overlooting",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/10/31/stalks-videogame-corner-overlooting/",
+      "published": "2026-10-31T07:00:00Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Stop clinging",
+      "post_url": "https://rishidass.net/posts/stop-clinging",
+      "published": "2026-10-31T06:29:28Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Happy Doggoween",
+      "post_url": "https://cynnisblog.wordpress.com/2026/10/31/happy-doggoween/",
+      "published": "2026-10-31T06:00:15Z"
+    },
+    {
+      "blog_title": "Divergent Rays' Blog",
+      "blog_url": "https://divergentrays.com/blog/",
+      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
+      "post_title": "Spooky Jewels - 🕸️Spider Webs🕸️",
+      "post_url": "https://divergentrays.com/blog/posts/2026-10-30-Spooky-Jewels-Spider-Webs.html",
+      "published": "2026-10-31T05:53:00Z"
+    },
+    {
+      "blog_title": "Dirchansky Freetalk",
+      "blog_url": "https://dirchansky.com/freetalk/",
+      "feed_url": "https://dirchansky.com/freetalk/rss.xml",
+      "post_title": "Pumpkins 4 ever",
+      "post_url": "https://dirchansky.com/freetalk/pumpkins-4-ever",
+      "published": "2026-10-31T04:19:46Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Time (2023) — ⭐⭐⭐⭐ (4/5)",
+      "post_url": "https://michaelharley.net/watching/2026/10/30/time-s2/",
+      "published": "2026-10-31T01:37:33Z"
+    },
+    {
+      "blog_title": "82MHz",
+      "blog_url": "http://82mhz.net/posts/",
+      "feed_url": "http://82mhz.net/index.xml",
+      "post_title": "How to Remove Unwanted Elements from a Website with Browser Extensions",
+      "post_url": "http://82mhz.net/posts/2026/10/how-to-remove-unwanted-elements-from-a-website-with-browser-extensions/",
+      "published": "2026-10-31T00:00:00Z"
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Saturday, 31 October 2026",
+      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-31.html",
+      "published": "2026-10-31T00:00:00Z"
+    },
+    {
+      "blog_title": "Tommyeveryday",
+      "blog_url": "https://tommyeveryday.mataroa.blog",
+      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
+      "post_title": "Saturday October 31, 2026",
+      "post_url": "https://tommyeveryday.mataroa.blog/blog/saturday-october-31-2026/",
+      "published": "2026-10-31T00:00:00Z"
     },
     {
       "blog_title": "スナックエルベ",
@@ -44,126 +164,6 @@
       "post_title": "Return to Art of Rally",
       "post_url": "https://tagn.wordpress.com/2026/10/30/return-to-art-of-rally/",
       "published": "2026-10-30T17:15:26Z"
-    },
-    {
-      "blog_title": "The Digital Antiquarian",
-      "blog_url": "https://www.filfre.net/",
-      "feed_url": "https://www.filfre.net/feed/",
-      "post_title": "This Week on The Analog Antiquarian",
-      "post_url": "https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/",
-      "published": "2026-10-30T17:03:04Z"
-    },
-    {
-      "blog_title": "Scormus Fails",
-      "blog_url": "https://scormey.com/",
-      "feed_url": "https://scormey.com/feed/",
-      "post_title": "Roll the Bones: Haunts and Horrors, 2nd Edition",
-      "post_url": "https://scormey.com/2026/10/30/roll-the-bones-haunts-and-horrors-2nd-edition/",
-      "published": "2026-10-30T17:00:00Z"
-    },
-    {
-      "blog_title": "The Virtual Moose",
-      "blog_url": "https://virtualmoose.org/",
-      "feed_url": "https://virtualmoose.org/feed/",
-      "post_title": "GUBBLE 2 IS BACK BABY!",
-      "post_url": "https://virtualmoose.org/2026/10/30/gubble-2-is-back-baby/",
-      "published": "2026-10-30T16:05:04Z"
-    },
-    {
-      "blog_title": "Heartlessgamer",
-      "blog_url": "http://www.heartlessgamer.com/",
-      "feed_url": "http://feeds.feedburner.com/Heartless_Gamer",
-      "post_title": "Packers beat Panthers; score 27",
-      "post_url": "http://www.heartlessgamer.com/2026/10/packers-beat-panthers-score-27.html",
-      "published": "2026-10-30T16:04:34Z"
-    },
-    {
-      "blog_title": "Wry Writer",
-      "blog_url": "https://wrywriter.ca",
-      "feed_url": "https://wrywriter.ca/posts_feed",
-      "post_title": "In Shadows We Fall by Devin Madson",
-      "post_url": "https://alexandrawolfe.ca/posts/in-shadows-we-fall-by-devin-madson",
-      "published": "2026-10-30T15:56:32Z"
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Asahi Linux's macsmc Driver Heads to Intel Macs: 14 RFC Patches Propose Replacing applesmc",
-      "post_url": "https://joho-todai.com/en/asahi-linux-macsmc-driver-intel-mac-applesmc/",
-      "published": "2026-10-30T15:11:58Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Asahi Linuxのmacsmcドライバ、Intel Macにも適用へ。14件のRFCパッチでapplesmc置き換えを提案",
-      "post_url": "https://joho-todai.com/asahi-linux-macsmc-driver-intel-mac-applesmc/",
-      "published": "2026-10-30T15:11:58Z"
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "A terminal renaissance",
-      "post_url": "https://sals.place/blog/terminal-renaissance/",
-      "published": "2026-10-30T14:29:01Z"
-    },
-    {
-      "blog_title": "TGLG",
-      "blog_url": "https://392ms.witchserver.jp/kb/",
-      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "Umekomi",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1288",
-      "published": "2026-10-30T13:11:50Z"
-    },
-    {
-      "blog_title": "Bio Break",
-      "blog_url": "https://biobreak.wordpress.com/",
-      "feed_url": "https://biobreak.wordpress.com/feed/",
-      "post_title": "LOTRO: Welcoming the Wolves of Mordor",
-      "post_url": "https://biobreak.wordpress.com/2026/10/30/lotro-welcoming-the-wolves-of-mordor/",
-      "published": "2026-10-30T13:00:52Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Elvira’s Haunted Hills (2001) — Time to hang up the wig, m’lady",
-      "post_url": "https://mutantreviewersmovies.com/2026/10/30/elviras-haunted-hills-2001-time-to-hang-up-the-wig-mlady/",
-      "published": "2026-10-30T13:00:30Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 44 Digest",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-30-week-44-digest/",
-      "published": "2026-10-30T13:00:00Z"
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "battery, gear and tasks",
-      "post_url": "https://write.as/blog-x2600/battery-gear-and-tasks?pk_campaign=rss-feed",
-      "published": "2026-10-30T12:24:57Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Tunes? We Don' Need No Stinkin' Tunes!",
-      "post_url": "https://bhagpuss.blogspot.com/2026/10/tunes-we-don-need-no-stinkin-tunes.html",
-      "published": "2026-10-30T12:20:17Z"
-    },
-    {
-      "blog_title": "Monsterlady's Diary",
-      "blog_url": "https://monsterladysdiary.wordpress.com/",
-      "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
-      "post_title": "I Read All the Bridgerton Books, Here’s Why I Won’t Be Watching the Show",
-      "post_url": "https://monsterladysdiary.wordpress.com/2026/10/30/i-read-all-the-bridgerton-books-heres-why-i-wont-be-watching-the-show/",
-      "published": "2026-10-30T12:00:30Z"
     }
   ]
 }
