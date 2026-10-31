@@ -1,10 +1,122 @@
 {
-  "generated_at": "2026-10-31T13:38:53.048803Z",
+  "generated_at": "2026-10-31T22:28:54.366362Z",
   "feed_count": 356,
-  "successful_feeds": 329,
-  "failed_feeds": 27,
+  "successful_feeds": 326,
+  "failed_feeds": 30,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Trying Herdr",
+      "post_url": "https://sals.place/blog/trying-herdr/",
+      "published": "2026-10-31T21:51:53Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Stellaris Best Builds (4.5): Strongest, Beginner and Fun Empires",
+      "post_url": "https://gamerofpassion.com/stellaris-best-builds/",
+      "published": "2026-10-31T19:51:31Z"
+    },
+    {
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "Happy Halloween!",
+      "post_url": "https://syls.blog/happy-halloween/",
+      "published": "2026-10-31T18:53:39Z"
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "October 2026 monthlog",
+      "post_url": "https://francescrossley.com/october-2026-monthlog/",
+      "published": "2026-10-31T18:00:00Z"
+    },
+    {
+      "blog_title": "Frostilyte Writes",
+      "blog_url": "https://frostilyte.ca/",
+      "feed_url": "https://frostilyte.ca/feed/",
+      "post_title": "Did AI Slop Ruin Next Fest?",
+      "post_url": "https://frostilyte.ca/2026/10/31/did-ai-slop-ruin-next-fest/",
+      "published": "2026-10-31T17:23:18Z"
+    },
+    {
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "status 1031",
+      "post_url": "https://angrybunnyman.com/status-1031/",
+      "published": "2026-10-31T17:23:06Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "October 2026 in Review",
+      "post_url": "https://tagn.wordpress.com/2026/10/31/october-2026-in-review/",
+      "published": "2026-10-31T17:15:44Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "RIP Sir Patrick Stewart",
+      "post_url": "https://michaelharley.net/posts/2026/10/31/rip-sir-patrick-stewart/",
+      "published": "2026-10-31T17:14:00Z"
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "Claude Code Restricts Recreating Existing Games: Anthropic Confirms Two Added Prompt Sentences",
+      "post_url": "https://joho-todai.com/en/claude-code-limits-game-reproduction/",
+      "published": "2026-10-31T15:12:11Z"
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Claude Code、既存ゲームの再現を制限。プロンプトに2文追加、Anthropicが確認",
+      "post_url": "https://joho-todai.com/claude-code-limits-game-reproduction/",
+      "published": "2026-10-31T15:12:11Z"
+    },
+    {
+      "blog_title": "Indiecator",
+      "blog_url": "https://indiecator.org/",
+      "feed_url": "https://indiecator.home.blog/feed/",
+      "post_title": "Steam Next Fest October 2026: The Best Indie Demos I Played",
+      "post_url": "https://indiecator.org/2026/10/31/steam-next-fest-2026-october/",
+      "published": "2026-10-31T14:33:35Z"
+    },
+    {
+      "blog_title": "LOTRO Players",
+      "blog_url": "https://lotroplayers.com",
+      "feed_url": "http://lotroplayers.com/feed/",
+      "post_title": "Vampires In Middle-earth??",
+      "post_url": "https://lotroplayers.com/2026/10/31/vampires-in-middle-earth-2/?utm_source=rss&utm_medium=rss&utm_campaign=vampires-in-middle-earth-2",
+      "published": "2026-10-31T14:10:15Z"
+    },
+    {
+      "blog_title": "Aywren's Nook",
+      "blog_url": "https://www.aywren.com/",
+      "feed_url": "https://aywren.com/feed.xml",
+      "post_title": "FFXIV: Spooky Time Update!",
+      "post_url": "https://aywren.com/2026/10/31/ffxiv-spooky-time-update",
+      "published": "2026-10-31T13:52:27Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "半年間の契約社員終了",
+      "post_url": "https://elve.club/entry/2026/10/31/224718?utm_source=feed",
+      "published": "2026-10-31T13:47:18Z"
+    },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
@@ -46,124 +158,12 @@
       "published": "2026-10-31T12:07:37Z"
     },
     {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "OpenAI CEO Altman Calls DRAM in PCs “Quite Terrible,” Argues It Belongs in Data Centers",
-      "post_url": "https://joho-todai.com/en/openai-altman-dram-pc-data-center/",
-      "published": "2026-10-31T11:16:09Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "OpenAIアルトマンCEO「PCにDRAMがあるのはかなりひどい」。データセンターに集約すべきと主張",
-      "post_url": "https://joho-todai.com/openai-altman-dram-pc-data-center/",
-      "published": "2026-10-31T11:16:09Z"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "No Man’s Sky Best Multi-Tool: Which Type to Get (7.11)",
-      "post_url": "https://gamerofpassion.com/no-mans-sky-best-multi-tool/",
-      "published": "2026-10-31T08:00:00Z"
-    },
-    {
       "blog_title": "Cubic Creativity",
       "blog_url": "https://cubiccreativity.wordpress.com/",
       "feed_url": "https://cubiccreativity.wordpress.com/feed/",
       "post_title": "Stalk’s Videogame Corner: Overlooting",
       "post_url": "https://cubiccreativity.wordpress.com/2026/10/31/stalks-videogame-corner-overlooting/",
       "published": "2026-10-31T07:00:00Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Stop clinging",
-      "post_url": "https://rishidass.net/posts/stop-clinging",
-      "published": "2026-10-31T06:29:28Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Happy Doggoween",
-      "post_url": "https://cynnisblog.wordpress.com/2026/10/31/happy-doggoween/",
-      "published": "2026-10-31T06:00:15Z"
-    },
-    {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Spooky Jewels - 🕸️Spider Webs🕸️",
-      "post_url": "https://divergentrays.com/blog/posts/2026-10-30-Spooky-Jewels-Spider-Webs.html",
-      "published": "2026-10-31T05:53:00Z"
-    },
-    {
-      "blog_title": "Dirchansky Freetalk",
-      "blog_url": "https://dirchansky.com/freetalk/",
-      "feed_url": "https://dirchansky.com/freetalk/rss.xml",
-      "post_title": "Pumpkins 4 ever",
-      "post_url": "https://dirchansky.com/freetalk/pumpkins-4-ever",
-      "published": "2026-10-31T04:19:46Z"
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "Time (2023) — ⭐⭐⭐⭐ (4/5)",
-      "post_url": "https://michaelharley.net/watching/2026/10/30/time-s2/",
-      "published": "2026-10-31T01:37:33Z"
-    },
-    {
-      "blog_title": "82MHz",
-      "blog_url": "http://82mhz.net/posts/",
-      "feed_url": "http://82mhz.net/index.xml",
-      "post_title": "How to Remove Unwanted Elements from a Website with Browser Extensions",
-      "post_url": "http://82mhz.net/posts/2026/10/how-to-remove-unwanted-elements-from-a-website-with-browser-extensions/",
-      "published": "2026-10-31T00:00:00Z"
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Saturday, 31 October 2026",
-      "post_url": "https://westkarana.xyz/2026/10/daily-blogroll-2026-10-31.html",
-      "published": "2026-10-31T00:00:00Z"
-    },
-    {
-      "blog_title": "Tommyeveryday",
-      "blog_url": "https://tommyeveryday.mataroa.blog",
-      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
-      "post_title": "Saturday October 31, 2026",
-      "post_url": "https://tommyeveryday.mataroa.blog/blog/saturday-october-31-2026/",
-      "published": "2026-10-31T00:00:00Z"
-    },
-    {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "向き不向きで言うならば",
-      "post_url": "https://elve.club/entry/2026/10/31/070527?utm_source=feed",
-      "published": "2026-10-30T22:05:27Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Sir Patrick Stewart Dies at 86",
-      "post_url": "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/",
-      "published": "2026-10-30T19:50:21Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Return to Art of Rally",
-      "post_url": "https://tagn.wordpress.com/2026/10/30/return-to-art-of-rally/",
-      "published": "2026-10-30T17:15:26Z"
     }
   ]
 }
