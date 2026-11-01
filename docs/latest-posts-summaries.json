@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-11-01T14:16:22.727142Z",
-  "source_generated_at": "2026-11-01T14:15:48.047504Z",
+  "generated_at": "2026-11-01T22:49:31.198597Z",
+  "source_generated_at": "2026-11-01T22:48:45.899448Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 20,
+  "summary_count": 19,
   "posts": [
     {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "ChatGPT Shared-Link Flaw Exposed Private Conversations Through MathLive Message Handling",
-      "post_url": "https://joho-todai.com/en/chatgpt-shared-link-vulnerability-private-conversation-exposure/",
-      "published": "2026-11-01T13:51:12Z",
-      "summary": "Parameter reported that a ChatGPT shared-link flaw involving MathLive message handling could expose private conversations, prompting OpenAI and MathLive fixes."
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - goddammit",
+      "post_url": "https://pretendtypewriter.net/note-goddammit/",
+      "published": "2026-11-01T22:36:24Z",
+      "summary": "A note recounts an unwanted CHF 48 Substack subscription charge, the writer’s regret about forgetting it, and cancellation taking effect the following year."
     },
     {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "ChatGPT共有リンクの脆弱性、非公開会話の読み取りを実証。MathLiveの受信処理に欠陥",
-      "post_url": "https://joho-todai.com/chatgpt-shared-link-vulnerability-private-conversation-exposure/",
-      "published": "2026-11-01T13:51:12Z",
-      "summary": "Parameter demonstrated that crafted ChatGPT shared links could exploit MathLive message handling to access private conversations through authenticated sessions, prompting OpenAI and library fixes."
+      "blog_title": "Noisy Deadlines",
+      "blog_url": "https://noisydeadlines.net/",
+      "feed_url": "https://noisydeadlines.net/feed/",
+      "post_title": "What I read in October 2026",
+      "post_url": "https://noisydeadlines.net/what-i-read-in-october-2026?pk_campaign=rss-feed",
+      "published": "2026-11-01T21:10:15Z",
+      "summary": "Noisy Deadlines reviews five October 2026 reads, spanning science fiction, fairy-tale fantasy, historical romance, techno-thriller, and Buddhist mindfulness."
     },
     {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - November 01, 2026 14:35",
-      "post_url": "https://martinschuhmann.com/blog/91c89691",
-      "published": "2026-11-01T13:35:00Z",
-      "summary": "Together Board is presented as a shared cork board for people to use collaboratively with loved ones."
+      "blog_title": "The Nosy Gamer",
+      "blog_url": "https://nosygamer.blogspot.com/",
+      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
+      "post_title": "Cloud Imperium Cash Shop Records Third Consecutive Month Of YoY Sales Declines",
+      "post_url": "https://nosygamer.blogspot.com/2026/11/cloud-imperium-cash-shop-records-third.html",
+      "published": "2026-11-01T20:01:22Z",
+      "summary": "Cloud Imperium Games’ Pledge Store sales and new user accounts declined year over year, while cumulative revenue, investments, delays, and upcoming IAE sales projections are examined."
     },
     {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "LLM agents work for their parent companies, not for you",
-      "post_url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "published": "2026-11-01T13:02:00Z",
-      "summary": "Michael Harley argues that LLM agents prioritize corporate policies and interests over users, advocating local models and examining restrictions, copyright, and open-model limitations."
+      "blog_title": "Battle Stance",
+      "blog_url": "https://battlestance.org/",
+      "feed_url": "https://battlestance.org/feed/",
+      "post_title": "Slower progress",
+      "post_url": "https://battlestance.org/2026/11/01/slower-progress/",
+      "published": "2026-11-01T18:29:13Z",
+      "summary": "The writer recounts progressing through Final Fantasy XIV jobs, crafting and reputation tasks, seasonal activities, relic weapons, and plans to preorder upcoming content."
     },
     {
-      "blog_title": "TGLG",
-      "blog_url": "https://392ms.witchserver.jp/kb/",
-      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "7周年サイト公開されてる！！",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1289",
-      "published": "2026-11-01T12:47:11Z",
-      "summary": "A post notes the release of a seventh-anniversary website, comments on character visuals, and mentions replenishing household items during Muji’s shopping week."
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "European Spring",
-      "post_url": "http://tobolds.blogspot.com/2026/11/european-spring.html",
-      "published": "2026-11-01T12:32:50Z",
-      "summary": "Tobold compares contemporary protests in Europe with the Arab Spring, suggesting widespread dissatisfaction with political representation despite differences in democratic conditions."
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "hello and good morning",
-      "post_url": "https://write.as/blog-x2600/hello-and-good-morning?pk_campaign=rss-feed",
-      "published": "2026-11-01T12:02:54Z",
-      "summary": "A morning laundromat visit covers donation laundry, coffee, shaving, and a startled nighttime encounter with a skunk near the writer’s campsite."
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "🎬 My Best Friend, His Girlfriend and Me (2026)",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/01/my-best-friend-his-girlfriend.html",
+      "published": "2026-11-01T18:04:16Z",
+      "summary": "Director Marco Petry’s film follows best friends Olli and Matze whose plans to travel the world together change after Matze begins dating Rebecca."
     },
     {
       "blog_title": "スナックエルベ",
       "blog_url": "https://elve.club/",
       "feed_url": "https://elve.club/feed",
-      "post_title": "お前の友達の領域ってどうなってんの？ ～Romanticが止まらない～",
-      "post_url": "https://elve.club/entry/2026/11/01/205858?utm_source=feed",
-      "published": "2026-11-01T11:58:58Z",
-      "summary": "A humorous reading of CCB’s “Romanticが止まらない” questions whether its kissing, necklace removal, and blue high heels exceed friendship."
+      "post_title": "過去記事のリンク修正",
+      "post_url": "https://elve.club/entry/2026/11/02/030232?utm_source=feed",
+      "published": "2026-11-01T18:02:32Z",
+      "summary": "A link-maintenance update describes repairing many broken historical URLs, noting remaining errors, deleted articles, design changes, and displaced reader subscriptions."
     },
     {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Turnips",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/01/turnips/",
-      "published": "2026-11-01T11:08:22Z",
-      "summary": "A vegetarian Cornish pasty made with cheese instead of beef highlights regional terminology for turnips, rutabagas, and swedes."
+      "blog_title": "Alex's Review Corner",
+      "blog_url": "https://super142.wordpress.com/",
+      "feed_url": "https://super142.wordpress.com/feed/",
+      "post_title": "Resident Evil (2026) Review",
+      "post_url": "https://super142.wordpress.com/2026/11/01/resident-evil-2026-review/",
+      "published": "2026-11-01T18:00:00Z",
+      "summary": "Zack Cregger’s Resident Evil (2026) review examines its game-inspired horror structure, original protagonist Bryan, comedic tone, survival challenges, and approach to franchise continuity."
     },
     {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Dublin day 2 - my Halloween wish",
-      "post_url": "https://sylvia.studio/posts/dublin-day-2-my-halloween-wish",
-      "published": "2026-11-01T09:14:42Z",
-      "summary": "Sylvia explores Christchurch Cathedral, discovers its medieval “foxy friars” imagery, and celebrates Halloween with Guinness, live music, and a Radiohead song at Darkey Kelly’s."
+      "blog_title": "Lost Letters",
+      "blog_url": "https://lostletters.neocities.org/",
+      "feed_url": "https://lostletters.neocities.org/feed.xml",
+      "post_title": "Never Go at It Alone: Overcoming Self-Limiting Beliefs",
+      "post_url": "https://lostletters.neocities.org/2026/11/01/self-limiting-beliefs.html",
+      "published": "2026-11-01T17:55:00Z",
+      "summary": "The writer challenges beliefs about language learning and health, describing Spanish study, professional dietary guidance, accountability, and support from others as catalysts for change."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Playing November for points",
+      "post_url": "https://francescrossley.com/playing-november-for-points/",
+      "published": "2026-11-01T17:30:00Z",
+      "summary": "A writer describes a November challenge combining creative sessions, wellbeing habits, milestone bonuses, and point targets to complete a fanfiction chapter."
     },
     {
       "blog_title": "Gamer Of Passion",
       "blog_url": "https://gamerofpassion.com/",
       "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris Best Origins: Tier List for 4.5",
-      "post_url": "https://gamerofpassion.com/stellaris-best-origins/",
-      "published": "2026-11-01T08:00:00Z",
-      "summary": "A tier list ranks all 58 Stellaris origins in patch 4.5.2 by single-player power, DLC requirements, empire restrictions, playstyles, and suitability for new players."
+      "post_title": "No Man’s Sky Settlement Guide: From Debt to S-Class (7.11)",
+      "post_url": "https://gamerofpassion.com/no-mans-sky-settlement-guide/",
+      "published": "2026-11-01T17:02:43Z",
+      "summary": "No Man’s Sky Settlement Guide: From Debt to S-Class explains acquiring settlements, managing debt, upgrading towns, and claiming rare Autophage settlements in version 7.11."
     },
     {
-      "blog_title": "わくパンの思考のかけら",
-      "blog_url": "https://wakupanbouquet.hatenablog.com/",
-      "feed_url": "https://wakupanbouquet.hatenablog.com/rss",
-      "post_title": "2026-W44 週報 過集中って、やばすぎる",
-      "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/11/01/170000",
-      "published": "2026-11-01T08:00:00Z",
-      "summary": "A weekly report describes medication-induced mania, intense work building an Astro blog, a first offline reading group, family illness, and plans to move."
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Coraline (2009) — ⭐⭐⭐⭐½ (4.5/5)",
+      "post_url": "https://michaelharley.net/watching/2026/11/01/coraline/",
+      "published": "2026-11-01T16:47:18Z",
+      "summary": "Coraline follows an 11-year-old girl who discovers an idealized parallel version of her life behind a hidden door, demanding a frightening sacrifice to remain there."
     },
     {
-      "blog_title": "Heidy's Highly Wily MMORPG Blog",
-      "blog_url": "https://stoheidy.wordpress.com",
-      "feed_url": "https://stoheidy.wordpress.com/feed/",
-      "post_title": "Godspeed, Captain Picard",
-      "post_url": "https://stoheidy.wordpress.com/2026/10/31/godspeed-captain-picard/",
-      "published": "2026-11-01T06:36:11Z",
-      "summary": "The writer mourns Sir Patrick Stewart’s reported death, reflecting on his portrayal of Captain Jean-Luc Picard and the character’s enduring influence since The Next Generation."
+      "blog_title": "Orbital Martian",
+      "blog_url": "https://orbitalmartian.polymaths.page/",
+      "feed_url": "https://orbitalmartian.polymaths.page/feed.xml",
+      "post_title": "Week Notes - 44",
+      "post_url": "https://orbitalmartian.polymaths.page/blog/2026-11-01-week-notes-44/",
+      "published": "2026-11-01T16:45:00Z",
+      "summary": "Week Notes 44 covers limited reading and writing, YouTube viewing, podcast listening, and gaming with FlightGear, Stormworks, Flashing Lights, and BeamNG.drive."
     },
     {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "#SilentSunday 💜🩵🩷485 days 😢",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/01/silentsunday-%f0%9f%92%9c%f0%9f%a9%b5%f0%9f%a9%b7485-days-%f0%9f%98%a2/",
-      "published": "2026-11-01T06:00:00Z",
-      "summary": "A Silent Sunday tribute features Arwen, a chocolate Labrador, in a joyful photograph commemorating her loving companionship with Cynni and marking her life dates."
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Nivalis Nights: Twenty Hours In",
+      "post_url": "https://bhagpuss.blogspot.com/2026/11/nivalis-nights-twenty-hours-in.html",
+      "published": "2026-11-01T16:36:42Z",
+      "summary": "The writer evaluates Nivalis Nights after twenty hours, questioning its genre, reviewers’ expectations, critical reception, and Gemini’s summary of common complaints."
     },
     {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Landline or cellphone?",
-      "post_url": "https://rishidass.net/posts/landline-or-cellphone",
-      "published": "2026-11-01T05:44:00Z",
-      "summary": "Rishi Dass compares landlines and cellphones, arguing that silenced cellphones offer greater control over interruptions and personal attention than constantly ringing landlines."
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "PostgreSQL Recovery Race Can Expose Old and New Rows Together: MultiXact Fix Proposed",
+      "post_url": "https://joho-todai.com/en/postgresql-multixact-conflict-recovery-issue/",
+      "published": "2026-11-01T16:16:04Z",
+      "summary": "PostgreSQL’s proposed MultiXact fix addresses a checkpoint race that can lose transaction membership data during recovery, causing old and new row versions to appear together."
     },
     {
-      "blog_title": "The Works of Egan",
-      "blog_url": "https://theworksofegan.net/",
-      "feed_url": "https://theworksofegan.net/feed.xml",
-      "post_title": "Cool Rock 2: Rock-lectric Boogaloo",
-      "post_url": "https://theworksofegan.net/posts/2026-10-31-cool-rock-2/",
-      "published": "2026-11-01T04:01:00Z",
-      "summary": "A brief entry highlights another “cool rock” perched atop a mailbox, acknowledges its maker, and links to a previous rock."
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "PostgreSQLの復旧で新旧の行が同時に見える競合を報告、MultiXact修正案",
+      "post_url": "https://joho-todai.com/postgresql-multixact-conflict-recovery-issue/",
+      "published": "2026-11-01T16:16:04Z",
+      "summary": null
     },
     {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "Divinity Original Sin 2 - Act 1 - Return to Fort Joy 23hr27",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-10-31-dos2/",
-      "published": "2026-11-01T03:57:00Z",
-      "summary": "A Divinity: Original Sin 2 playthrough returns to Fort Joy, defeats Magisters, manages equipment and skills, and prepares to storm the harbour before Act 2."
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "TAGN Fantasy Critic League 2026 – Week Forty-Four and Phantom Blade Zero",
+      "post_url": "https://tagn.wordpress.com/2026/11/01/tagn-fantasy-critic-league-2026-week-forty-four-and-phantom-blade-zero/",
+      "published": "2026-11-01T16:15:50Z",
+      "summary": "Fantasy Critic League Week 44 covers Phantom Blade Zero’s strong launch score, shifting game ratings, unchanged standings, delayed releases, player bids, and upcoming titles."
     },
     {
-      "blog_title": "Reay Jespersen",
-      "blog_url": "https://www.reayjespersen.com/",
-      "feed_url": "https://www.reayjespersen.com/feed/",
-      "post_title": "What I read this month",
-      "post_url": "https://www.reayjespersen.com/blog-1/2026/10/31/what-i-read-this-month-74/?utm_source=rss&utm_medium=rss&utm_campaign=what-i-read-this-month-74",
-      "published": "2026-11-01T03:56:46Z",
-      "summary": "Reay Jespersen lists recent reading, including novels by Charles Stross, Adrian Tchaikovsky, and Francis Wren, alongside Ryder Carroll’s journaling guide."
+      "blog_title": "Newsonaut",
+      "blog_url": "https://www.newsonaut.com/",
+      "feed_url": "https://www.newsonaut.com/rss",
+      "post_title": "Ah, the traditional Halloween fireworks",
+      "post_url": "https://www.newsonaut.com/articles/ah-the-traditional-halloween-fireworks",
+      "published": "2026-11-01T16:14:25Z",
+      "summary": "Halloween fireworks in British Columbia are described as an annual tradition evolving from teenage firecracker pranks, despite regulations requiring permits and limiting sales."
     },
     {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Spooky Jewels - A Bag of Tricks and Treats!",
-      "post_url": "https://divergentrays.com/blog/posts/2026-10-31-Spooky-Jewels-A-Bag-of-Tricks-and-Treats.html",
-      "published": "2026-11-01T02:32:00Z",
-      "summary": "The post surveys unsettling jewelry and talismans made from kneecaps, umbilical cord, centipedes, lizard legs, and roaches, blending descriptions with personal reactions."
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Un nou blog, o nouă platformă",
+      "post_url": "https://thinkroot.xyz/jurnal/un-nou-blog-o-noua-platforma",
+      "published": "2026-11-01T15:45:00Z",
+      "summary": "ThinkRoot introduces ThinkGarden, replacing the Fediverse-focused Calamus platform with a digital garden incorporating a museum and bazaar, while ending English-language articles."
     },
     {
-      "blog_title": "Brennan Day",
-      "blog_url": "https://brennan.day/",
-      "feed_url": "https://brennan.day/feed.xml",
-      "post_title": "I Am Relentless and Undaunted",
-      "post_url": "https://brennan.day/i-am-relentless-and-undaunted/",
-      "published": "2026-11-01T02:00:00Z",
-      "summary": "Brennan Day reflects on AO3’s security breach, rising hardware costs, community infrastructure, and ways to share technology, bandwidth, and repair skills."
+      "blog_title": "Frostilyte Writes",
+      "blog_url": "https://frostilyte.ca/",
+      "feed_url": "https://frostilyte.ca/feed/",
+      "post_title": "Month in Review: Well Dweller, Valheim, & More!",
+      "post_url": "https://frostilyte.ca/2026/11/01/month-in-review-well-dweller-valheim-more/",
+      "published": "2026-11-01T15:43:18Z",
+      "summary": "October’s gaming recap covers Well Dweller’s platforming, Valheim’s tedious progression, Pokémon Silver plans, Dog in the Machine, and Next Fest coverage."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "PROLED XDR Display Technology Overview",
+      "post_url": "https://www.apple.com/macbook-pro/proled-xdr-display/pdf/PROLED_XDR_Display_Technical_Paper.pdf",
+      "published": "2026-11-01T15:28:24Z",
+      "summary": "Apple’s “PROLED XDR Display Technology Overview” PDF presents features and capabilities of new MacBook Pro displays, excluding information about touchscreen functionality."
     }
   ]
 }
