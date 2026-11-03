@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-11-03T01:35:39.709521Z",
-  "source_generated_at": "2026-11-03T01:35:11.200039Z",
+  "generated_at": "2026-11-03T15:06:05.166804Z",
+  "source_generated_at": "2026-11-03T15:05:46.276938Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 19,
+  "summary_count": 18,
   "posts": [
     {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "7500万曲のAIスラムを消したSpotify、次はAIリミックスの有料化を計画。月5ドル追加で2027年提供か",
-      "post_url": "https://joho-todai.com/spotify-removes-ai-spam-plans-paid-ai-remixes/",
-      "published": "2026-11-03T01:20:59Z",
-      "summary": null
+      "blog_title": "The Nosy Gamer",
+      "blog_url": "https://nosygamer.blogspot.com/",
+      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
+      "post_title": "A Quick Look At EVE Online Player Concurrency Before Fractured Skies",
+      "post_url": "https://nosygamer.blogspot.com/2026/11/a-quick-look-at-eve-online-player.html",
+      "published": "2026-11-03T15:00:00Z",
+      "summary": "EVE Online’s concurrency trends show October’s 24,201 average accounts and a 6.1% yearly increase, positioning 2026 strongly ahead of Fractured Skies’ launch."
+    },
+    {
+      "blog_title": "Heartlessgamer",
+      "blog_url": "http://www.heartlessgamer.com/",
+      "feed_url": "http://feeds.feedburner.com/Heartless_Gamer",
+      "post_title": "Mistfall Hunter Is a Strange Combination",
+      "post_url": "http://www.heartlessgamer.com/2026/11/mistfall-hunter-is-strange-combination.html",
+      "published": "2026-11-03T14:35:19Z",
+      "summary": "Mistfall Hunter combines grim fantasy, Souls-like combat, and extraction mechanics, offering tense melee encounters before repetitive looting and complex progression systems become tiresome."
+    },
+    {
+      "blog_title": "Blog - 鳥啼く頃に",
+      "blog_url": "https://torinakukoroni.blog.fc2.com/",
+      "feed_url": "https://torinakukoroni.blog.fc2.com/?xml",
+      "post_title": "映画『ゴジラ-0.0』を観た",
+      "post_url": "https://torinakukoroni.blog.fc2.com/blog-entry-408.html",
+      "published": "2026-11-03T14:19:03Z",
+      "summary": "A spoiler-filled review of 『ゴジラ-0.0』 emphasizes its terrifying disaster imagery, animal violence, tragic characters, striking King Ghidorah design, and emotionally intense storytelling."
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "８番出口で出会えない人たち～２～",
+      "post_url": "https://elve.club/entry/2026/11/03/224750?utm_source=feed",
+      "published": "2026-11-03T13:47:50Z",
+      "summary": "A family trip features mislaid tickets, teasing, an izakaya dinner, sleeping mishaps, breakfast at おかげ庵, and an unexpected detour from Yokohama to Haneda."
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Guild Wars 2: Saving the future by protecting the past",
+      "post_url": "https://chasingdings.com/2026/11/03/guild-wars-2-saving-the-future-by-protecting-the-past/",
+      "published": "2026-11-03T13:27:52Z",
+      "summary": "A humorous Guild Wars 2 account examines Asura Vloxx’s attempt to rewrite reality, the challenging godlike final battle, and its consequences for Tyria’s balance of power."
     },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "KDE Develops Kwi Alongside Konsole: GPU Rendering With Ghostty's libghostty-vt",
-      "post_url": "https://joho-todai.com/en/kde-kwi-terminal-gpu-rendering/",
-      "published": "2026-11-03T00:48:39Z",
-      "summary": "KDE’s Kwi terminal emulator uses libghostty-vt and Qt Quick GPU rendering to modernize Konsole’s architecture, embedding, performance, and terminal feature support."
+      "post_title": "Why Even Bilingual Readers Miss AI Translation's Fluent Errors",
+      "post_url": "https://joho-todai.com/en/ai-translation-fluent-errors-bilingual-detection/",
+      "published": "2026-11-03T13:03:25Z",
+      "summary": "AI translation can sound fluent while distorting terminology, tense, context, cohesion, interpersonal tone, and evolving socially sensitive language across English, Chinese, and other languages."
     },
     {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "🎬 M3GAN 2.0 (2025)",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/02/mgan.html",
-      "published": "2026-11-03T00:14:53Z",
-      "summary": "M3GAN’s creator Gemma resurrects and upgrades the stolen technology’s original android to confront Amelia, a military-grade weapon developed by a defense contractor."
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "AI翻訳の「流暢な誤り」、なぜバイリンガルでも見抜けないのか",
+      "post_url": "https://joho-todai.com/ai-translation-fluent-errors-bilingual-detection/",
+      "published": "2026-11-03T13:03:25Z",
+      "summary": null
     },
     {
-      "blog_title": "Heart Soul Machine",
-      "blog_url": "https://heartsoulmachine.com/",
-      "feed_url": "https://heartsoulmachine.com/feed.xml",
-      "post_title": "Delving into Dimensions",
-      "post_url": "https://heartsoulmachine.com/blog/2026/11-03-delving-into-dimensions/",
-      "published": "2026-11-03T00:00:00Z",
-      "summary": "Bloom’s 3D framework replaces hierarchical learning levels with six dimensions—perceptual, conceptual, contextual, practical, critical, and original—across cognitive, affective, and psychomotor domains."
-    },
-    {
-      "blog_title": "コーポ雪原",
-      "blog_url": "https://coop-setsugen.com/",
-      "feed_url": "https://coop-setsugen.com/feed.xml",
-      "post_title": "黒と白の祝詞",
-      "post_url": "https://coop-setsugen.com/text/short/poem-003/",
-      "published": "2026-11-03T00:00:00Z",
-      "summary": "A Japanese incantation invokes darkness and snow, portraying guilt, blood, coldness, death, self-judgment, and a conflicted desire for redemption."
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "Youth (2026) — ⭐⭐⭐½ (3.5/5)",
-      "post_url": "https://michaelharley.net/watching/2026/11/02/youth-s1/",
-      "published": "2026-11-02T23:19:03Z",
-      "summary": "Youth (2026) is a comedy-drama series about a 50-year-old divorcee seeking sex and love while caring for her parents and parenting her adult son."
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "product of being productive",
-      "post_url": "https://write.as/blog-x2600/product-of-being-productive?pk_campaign=rss-feed",
-      "published": "2026-11-02T23:08:16Z",
-      "summary": "The writer reports updating Social Security information, spending time with a friend, working on Unix, and planning online-lore blogging additions."
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Getting my Casio G-Shock to sync",
-      "post_url": "https://sals.place/blog/casio-gshock-syncing/",
-      "published": "2026-11-02T22:37:02Z",
-      "summary": "Sal describes troubleshooting a Casio G-Shock GW-M5610’s failed Multiband 6 synchronization, explaining WWVB reception, daylight-saving updates, and relocating the watch for successful calibration."
-    },
-    {
-      "blog_title": "Cobb.land",
-      "blog_url": "https://cobb.land/",
-      "feed_url": "https://cobb.land/feed.xml",
-      "post_title": "Star Wars: Galactic Racer",
-      "post_url": "https://cobb.land/media/shelved/galactic-racer/",
-      "published": "2026-11-02T22:30:00Z",
-      "summary": "A review of Fuse Games’ Star Wars: Galactic Racer compares it with Episode I: Racer, describing its enjoyable roguelike racing loop, frustrating unpredictability, and customizable vehicle builds."
-    },
-    {
-      "blog_title": "MMO One Night a Week",
-      "blog_url": "http://mmoonenight.blogspot.com/",
-      "feed_url": "http://mmoonenight.blogspot.com/feeds/posts/default",
-      "post_title": "September/October Check In, Midnight and Mosaic of the Strange",
-      "post_url": "http://mmoonenight.blogspot.com/2026/11/septemberoctober-check-in-midnight-and.html",
-      "published": "2026-11-02T22:29:21Z",
-      "summary": "The writer recounts completing Midnight’s initial campaign in World of Warcraft, anticipating WoW Forever, and finishing the Minesweeper-like mystery game Mosaic of the Strange."
-    },
-    {
-      "blog_title": "The Tangent Space",
-      "blog_url": "https://thetangent.space/",
-      "feed_url": "https://thetangent.space/feed.xml",
-      "post_title": "Weekly digest 79",
-      "post_url": "https://thetangent.space/2026/digest79/",
-      "published": "2026-11-02T22:12:49Z",
-      "summary": "Weekly family activities include Halloween traditions, walks, and a memorable kingfisher sighting, alongside enthusiasm for Symphony of the Night and Aristotle’s account of friendship."
-    },
-    {
-      "blog_title": "The Works of Egan",
-      "blog_url": "https://theworksofegan.net/",
-      "feed_url": "https://theworksofegan.net/feed.xml",
-      "post_title": "What Else Is On? November 2nd, 2026",
-      "post_url": "https://theworksofegan.net/posts/2026-11-2-what-else-is-on-november-2nd-2026/",
-      "published": "2026-11-02T21:00:00Z",
-      "summary": "A November 2026 roundup shares music, essays, videos, games, digital tools, and unusual websites, including Casiopea, No Man’s Sky, college radio, and restroom archives."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "John Ternus to Host His First Earnings Call as Apple CEO",
-      "post_url": "https://www.apple.com/investor/earnings-call/",
-      "published": "2026-11-02T20:42:22Z",
-      "summary": "Apple CEO John Ternus’s first earnings call is presented alongside technical requirements for accessing its livestream across Apple devices and modern browsers."
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Death at a Funeral (2007) — The best anti-drug PSA ever made",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/03/death-at-a-funeral-2007-the-best-anti-drug-psa-ever-made/",
+      "published": "2026-11-03T13:00:51Z",
+      "summary": "Frank Oz’s 2007 dark comedy Death at a Funeral follows a British family’s dignified service unraveling through blackmail, drugs, rivalries, and escalating farce."
     },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "MONDAY CLEANING: DINING TABLE, BEDROOM",
-      "post_url": "https://pretendtypewriter.net/monday-cleaning-bedroom-living-room/",
-      "published": "2026-11-02T20:33:00Z",
-      "summary": "A weekly home-cleaning entry covers tidying the dining table, bedroom, dish drainer, and laundry while reflecting on finances, decorations, chores, and replacing a broken vacuum."
+      "post_title": "note - pumpkin pancakes",
+      "post_url": "https://pretendtypewriter.net/note-pumpkin-pancakes/",
+      "published": "2026-11-03T12:48:43Z",
+      "summary": "A November 2026 note humorously recounts making pumpkin pancakes, declaring 7.5 pancakes excessive for one person and describing Daniel’s similarly overwhelming portion."
     },
     {
-      "blog_title": "The Nosy Gamer",
-      "blog_url": "https://nosygamer.blogspot.com/",
-      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
-      "post_title": "Final Fantasy XIV Calendar Up To Evercold",
-      "post_url": "https://nosygamer.blogspot.com/2026/11/final-fantasy-xiv-calendar-up-to.html",
-      "published": "2026-11-02T19:00:00Z",
-      "summary": "A calendar outlines Final Fantasy XIV events, maintenance periods, pre-orders, Early Access, and the February 2027 launch of Evercold."
+      "blog_title": "そのうち33歳 せいかつブログ",
+      "blog_url": "https://wakanatrium.site/",
+      "feed_url": "https://wakanatrium.site/?mode=rss",
+      "post_title": "イベントって楽しい！",
+      "post_url": "https://wakanatrium.site/?postid=48",
+      "published": "2026-11-03T12:39:51Z",
+      "summary": null
     },
     {
-      "blog_title": "Newsonaut",
-      "blog_url": "https://www.newsonaut.com/",
-      "feed_url": "https://www.newsonaut.com/rss",
-      "post_title": "I think I like ThinkPad",
-      "post_url": "https://www.newsonaut.com/articles/i-think-i-like-thinkpad",
-      "published": "2026-11-02T18:13:42Z",
-      "summary": "A Linux-based ThinkPad user describes adopting GhostWriter, replacing an unreliable trackpad with an inexpensive glass model, and publishing a first post entirely on Linux."
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Redwings",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/03/redwings/",
+      "published": "2026-11-03T11:05:08Z",
+      "summary": "A haiku celebrates redwings arriving in an autumn garden, describing their movement through rowan trees while feeding on red berries."
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "blog with the wind",
+      "post_url": "https://write.as/blog-x2600/blog-with-the-wind?pk_campaign=rss-feed",
+      "published": "2026-11-03T10:56:04Z",
+      "summary": "Strong winds, shifting clouds, cemetery coffee, thunderstorms, phone charging, battery maintenance, shopping, cash storage, and dark roast coffee shape the narrator’s day."
+    },
+    {
+      "blog_title": "Yordi - A Lifelong Journey of Growth",
+      "blog_url": "https://yordi.me/",
+      "feed_url": "https://yordi.me/feed/",
+      "post_title": "Where The Light Is",
+      "post_url": "https://yordi.me/where-the-light-is/",
+      "published": "2026-11-03T08:12:08Z",
+      "summary": "A nighttime photograph from Vienna captures a food-stall queue illuminated against surrounding darkness, while pedestrians, cyclists, and city life unfold beyond the frame."
+    },
+    {
+      "blog_title": "Overage-Gaming",
+      "blog_url": "https://overage-gaming.com/",
+      "feed_url": "https://overage-gaming.com/feed/",
+      "post_title": "Cosmo Tales: A Family-Friendly Roguelite With Genuinely Deep Combat (Gameplay)",
+      "post_url": "https://overage-gaming.com/2026/11/03/cosmo-tales-a-family-friendly-roguelite-with-genuinely-deep-combat-gameplay/",
+      "published": "2026-11-03T08:01:00Z",
+      "summary": "A Let’s Play of Bohemia Interactive’s Cosmo Tales showcases dimension-shifting space combat, creative roguelite builds, and a talking car battling Glitchbots."
     },
     {
       "blog_title": "Gamer Of Passion",
       "blog_url": "https://gamerofpassion.com/",
       "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Bannerlord Troop Tier List: Best Troops for Every Role (War Sails, v1.4.8)",
-      "post_url": "https://gamerofpassion.com/bannerlord-troop-tier-list/",
-      "published": "2026-11-02T18:00:47Z",
-      "summary": "Bannerlord’s v1.4.8 War Sails troop tier list ranks tier-five and tier-six units by roles, highlighting updated strengths, equipment, skills, wages, and battle-tested recommendations."
+      "post_title": "No Man’s Sky Best Freighter: Tier List (Forsaken)",
+      "post_url": "https://gamerofpassion.com/no-mans-sky-best-freighter/",
+      "published": "2026-11-03T08:00:00Z",
+      "summary": "A No Man’s Sky freighter tier list ranks ships by class and type, comparing slot capacity, statistics, acquisition methods, upgrades, and ownership limitations."
     },
     {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "All our eggs in one archive",
-      "post_url": "https://francescrossley.com/all-our-eggs-in-one-archive/",
-      "published": "2026-11-02T18:00:00Z",
-      "summary": "Fran reflects on AO3’s outage, the risks of centralized fanfiction archives, and plans to host personal works independently while encouraging downloads, backups, and smaller archives."
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Journal – Week 44, October/November 2026",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/03/journal-week-44-october-november-2026/",
+      "published": "2026-11-03T06:00:00Z",
+      "summary": "Cynni’s week covers autumn weather, disrupted sleep, health challenges, caring for Koa, family arrangements, and cautious progress during three gym visits."
     },
     {
-      "blog_title": "Beto Dealmeida",
-      "blog_url": "https://robida.net/",
-      "feed_url": "https://robida.net/feed.xml",
-      "post_title": "Halloween 2026",
-      "post_url": "https://robida.net/entries/2026/11/02/halloween-2026",
-      "published": "2026-11-02T17:23:29Z",
-      "summary": "Beto Dealmeida’s “Halloween 2026” describes a costume portraying eyeballs, prompted by comparisons to Elizabeth Holmes and The Residents."
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Dear developer",
+      "post_url": "https://rishidass.net/posts/dear-developer",
+      "published": "2026-11-03T05:44:00Z",
+      "summary": "Rishi Dass asks developers to let users choose when to update frequently revised productivity apps, rather than interrupting work with recurring mandatory prompts."
     },
     {
-      "blog_title": "The EOFFTV Review",
-      "blog_url": "https://eofftvreview.wordpress.com",
-      "feed_url": "https://eofftvreview.wordpress.com/feed/",
-      "post_title": "Boorman and the Devil (2026)",
-      "post_url": "https://eofftvreview.wordpress.com/2026/11/02/boorman-and-the-devil-2026/",
-      "published": "2026-11-02T17:02:06Z",
-      "summary": "Boorman and the Devil examines John Boorman’s troubled Exorcist II: The Heretic, exploring its production, critical failure, financial aftermath, and the director’s career."
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Apple Reports Fourth Quarter Results in Its ‘Best Fiscal Year Yet’",
+      "post_url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "published": "2026-11-03T05:30:24Z",
+      "summary": "Apple’s investor release outlines its fourth-quarter results, describes its fiscal year as its best yet, and includes forward-looking statements and associated business risks."
+    },
+    {
+      "blog_title": "素生",
+      "blog_url": "https://z.arlmy.me/",
+      "feed_url": "http://z.arlmy.me/atom.xml",
+      "post_title": "普鲁斯特问卷 2026",
+      "post_url": "https://z.arlmy.me/posts/Questionnaire/ProustQuestionnaire_2026/",
+      "published": "2026-11-03T04:25:09Z",
+      "summary": "A 2026 Proust Questionnaire records arlmy’s reflections on happiness, fears, values, relationships, tastes, achievements, aspirations, and mortality."
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "Divinity Original Sin 2 - Act 4 - Lady Vengeance 28hr16",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-02-dos2/",
+      "published": "2026-11-03T03:13:16Z",
+      "summary": "A gameplay diary recounts exploring the Lady Vengeance, acquiring teleporter pyramids, battling Dallis, protecting Malady, visiting the gods’ realm, and reaching level nine."
     }
   ]
 }
