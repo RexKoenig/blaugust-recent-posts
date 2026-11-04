@@ -1,10 +1,130 @@
 {
-  "generated_at": "2026-11-03T23:58:45.003865Z",
+  "generated_at": "2026-11-04T15:25:54.377000Z",
   "feed_count": 356,
-  "successful_feeds": 327,
-  "failed_feeds": 29,
+  "successful_feeds": 326,
+  "failed_feeds": 30,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "I held no hopes but last night was a batshit midterm",
+      "post_url": "https://angrybunnyman.com/i-held-no-hopes-but-last-night-was-a-batshit-midterm/",
+      "published": "2026-11-04T15:15:00Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Cum să găsești locația exactă a aproape oricărui fișier audio",
+      "post_url": "https://thinkroot.xyz/jurnal/cum-sa-gasesti-locatia-exacta-a-aproape-oricarui-fisier-audio",
+      "published": "2026-11-04T15:11:00Z"
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "Revised Proposal Adds File Data Corruption Detection to XFS, With Conventional SSDs Also in Scope",
+      "post_url": "https://joho-todai.com/en/xfs-file-corruption-detection-proposal-revised/",
+      "published": "2026-11-04T15:07:18Z"
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "XFSにファイルデータの破損検知を追加する提案、改訂版が公開。通常SSDも視野に",
+      "post_url": "https://joho-todai.com/xfs-file-corruption-detection-proposal-revised/",
+      "published": "2026-11-04T15:07:18Z"
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "The Left Hand of Darkness",
+      "post_url": "https://joelchrono.xyz/blog/the-left-hand-of-darkness/",
+      "published": "2026-11-04T14:00:00Z"
+    },
+    {
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "October 2026 Books",
+      "post_url": "https://syls.blog/october-2026-books/",
+      "published": "2026-11-04T13:51:00Z"
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Lake Placid vs. Anaconda (2015) — Can a lake actually fight a snake?",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/04/lake-placid-vs-anaconda-2015-can-a-lake-actually-fight-a-snake/",
+      "published": "2026-11-04T13:00:15Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - banquet",
+      "post_url": "https://pretendtypewriter.net/note-banquet/",
+      "published": "2026-11-04T12:09:00Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Vegetable smile",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/04/vegetable-smile/",
+      "published": "2026-11-04T11:53:09Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "キャンプ用具はなぜ地味なのか",
+      "post_url": "https://elve.club/entry/2026/11/04/203128?utm_source=feed",
+      "published": "2026-11-04T11:31:28Z"
+    },
+    {
+      "blog_title": "Heartlessgamer",
+      "blog_url": "http://www.heartlessgamer.com/",
+      "feed_url": "http://feeds.feedburner.com/Heartless_Gamer",
+      "post_title": "Where Oh Where Art Thou, BioWare?",
+      "post_url": "http://www.heartlessgamer.com/2026/11/where-oh-where-art-thou-bioware.html",
+      "published": "2026-11-04T11:00:00Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "No Man’s Sky Best Ships: Starship Tier List (Forsaken)",
+      "post_url": "https://gamerofpassion.com/no-mans-sky-best-ships/",
+      "published": "2026-11-04T08:00:00Z"
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Frosthaven Digital Recommendation",
+      "post_url": "http://tobolds.blogspot.com/2026/11/frosthaven-digital-recommendation.html",
+      "published": "2026-11-04T07:27:04Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "#FitIn2026 – October edition",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/04/fitin2026-october-edition/",
+      "published": "2026-11-04T06:00:00Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Modern slavery",
+      "post_url": "https://rishidass.net/posts/modern-slavery",
+      "published": "2026-11-04T05:34:00Z"
+    },
     {
       "blog_title": "Beto Dealmeida",
       "blog_url": "https://robida.net/",
@@ -14,20 +134,20 @@
       "published": "2026-11-04T00:10:25Z"
     },
     {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Binance、63億ドル流出の経路を公開。出庫停止でも止まらないオンチェーン権限",
-      "post_url": "https://joho-todai.com/binance-6-3-billion-outflow-onchain-authority/",
-      "published": "2026-11-03T23:57:20Z"
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Wednesday, 4 November 2026",
+      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-04.html",
+      "published": "2026-11-04T00:00:00Z"
     },
     {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Windows 11 Multitasking Gets Up to 40% Faster on 8GB PCs With Retuned Memory Compression",
-      "post_url": "https://joho-todai.com/en/windows-11-8gb-multitasking-40-percent-faster/",
-      "published": "2026-11-03T23:47:30Z"
+      "blog_title": "Tommyeveryday",
+      "blog_url": "https://tommyeveryday.mataroa.blog",
+      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
+      "post_title": "Wednesday November 4, 2026",
+      "post_url": "https://tommyeveryday.mataroa.blog/blog/wednesday-november-4-2026/",
+      "published": "2026-11-04T00:00:00Z"
     },
     {
       "blog_title": "JVT Workshop",
@@ -44,126 +164,6 @@
       "post_title": "Where have I been lately?",
       "post_url": "https://sag.sadesignz.org/where-have-i-been-lately/",
       "published": "2026-11-03T22:42:41Z"
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "🔁 Reposted: NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-      "post_url": "https://michaelharley.net/links/2026/11/03/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-      "published": "2026-11-03T22:37:49Z"
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "[Louie.]",
-      "post_url": "https://jasonjournals.com/posts/2026-11-03-louie",
-      "published": "2026-11-03T22:36:07Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Why No AI?",
-      "post_url": "https://whynoai.info/",
-      "published": "2026-11-03T22:22:40Z"
-    },
-    {
-      "blog_title": "Calishat",
-      "blog_url": "https://www.calishat.com/",
-      "feed_url": "https://www.calishat.com/feed/",
-      "post_title": "Congress Corral Offline Until Next Year",
-      "post_url": "https://www.calishat.com/2026/11/03/congress-corral-offline-until-next-year/",
-      "published": "2026-11-03T21:47:22Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - journaling again",
-      "post_url": "https://pretendtypewriter.net/note-journaling-again/",
-      "published": "2026-11-03T21:37:59Z"
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Five joyful things for week 44",
-      "post_url": "https://sylvia.studio/posts/five-joyful-things-for-week-44",
-      "published": "2026-11-03T21:31:23Z"
-    },
-    {
-      "blog_title": "ComradeNerdy",
-      "blog_url": "https://comradenerdy.com/",
-      "feed_url": "https://comradenerdy.com/feed/",
-      "post_title": "Subathon Autumn 2026 Edition. Degen No Sleep Marathon Too",
-      "post_url": "https://comradenerdy.com/subathon-autumn-2026-edition-degen-no-sleep-marathon-too/",
-      "published": "2026-11-03T21:04:02Z"
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Live concert, vacation, Ghibli films - W44",
-      "post_url": "https://joelchrono.xyz/blog/2026-w44/",
-      "published": "2026-11-03T20:45:00Z"
-    },
-    {
-      "blog_title": "Cotswold Diary",
-      "blog_url": "https://diary.uncountable.uk/",
-      "feed_url": "https://diary.uncountable.uk/feed/",
-      "post_title": "Walking Stinchcombe’s Grassland",
-      "post_url": "https://diary.uncountable.uk/2026/11/walking-stinchcombes-grassland/",
-      "published": "2026-11-03T20:43:31Z"
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "a little rain to end the day",
-      "post_url": "https://write.as/blog-x2600/a-little-rain-to-end-the-day?pk_campaign=rss-feed",
-      "published": "2026-11-03T20:18:02Z"
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - November 03, 2026 19:15",
-      "post_url": "https://martinschuhmann.com/blog/481df57a",
-      "published": "2026-11-03T18:15:00Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Messrs Hoover, Biro, Sandwich, and associates",
-      "post_url": "https://francescrossley.com/messrs-hoover-biro-sandwich-and-associates/",
-      "published": "2026-11-03T18:00:00Z"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris DLC Tier List: Which DLCs Are Worth It (4.5)",
-      "post_url": "https://gamerofpassion.com/stellaris-dlc-tier-list/",
-      "published": "2026-11-03T17:25:16Z"
-    },
-    {
-      "blog_title": "Newsonaut",
-      "blog_url": "https://www.newsonaut.com/",
-      "feed_url": "https://www.newsonaut.com/rss",
-      "post_title": "Mr. Business Man",
-      "post_url": "https://www.newsonaut.com/articles/mr-business-man",
-      "published": "2026-11-03T16:43:05Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "In The Palace Of The Odd",
-      "post_url": "https://bhagpuss.blogspot.com/2026/11/in-palace-of-odd.html",
-      "published": "2026-11-03T16:37:12Z"
     }
   ]
 }

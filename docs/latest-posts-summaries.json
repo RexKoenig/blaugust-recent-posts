@@ -1,12 +1,147 @@
 {
-  "generated_at": "2026-11-03T23:59:36.936743Z",
-  "source_generated_at": "2026-11-03T23:58:45.003865Z",
+  "generated_at": "2026-11-04T15:26:36.010312Z",
+  "source_generated_at": "2026-11-04T15:25:54.377000Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 18,
+  "summary_count": 19,
   "posts": [
+    {
+      "blog_title": "Portrait of the Man as a...",
+      "blog_url": "https://angrybunnyman.com/",
+      "feed_url": "https://angrybunnyman.com/feed/",
+      "post_title": "I held no hopes but last night was a batshit midterm",
+      "post_url": "https://angrybunnyman.com/i-held-no-hopes-but-last-night-was-a-batshit-midterm/",
+      "published": "2026-11-04T15:15:00Z",
+      "summary": "The writer reflects on surprising 2026 midterm results, Wisconsin’s legislative shift, and historic firsts involving Black, Native American, Muslim, gay, and Latina candidates."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Cum să găsești locația exactă a aproape oricărui fișier audio",
+      "post_url": "https://thinkroot.xyz/jurnal/cum-sa-gasesti-locatia-exacta-a-aproape-oricarui-fisier-audio",
+      "published": "2026-11-04T15:11:00Z",
+      "summary": "ThinkRoot’s post presents a YouTube video about finding the exact location of nearly any audio file."
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "Revised Proposal Adds File Data Corruption Detection to XFS, With Conventional SSDs Also in Scope",
+      "post_url": "https://joho-todai.com/en/xfs-file-corruption-detection-proposal-revised/",
+      "published": "2026-11-04T15:07:18Z",
+      "summary": "A revised XFS proposal adds CRC32C or CRC64 checksums for file data, using zoned allocation to prevent inconsistencies and potentially supporting conventional SSDs."
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "XFSにファイルデータの破損検知を追加する提案、改訂版が公開。通常SSDも視野に",
+      "post_url": "https://joho-todai.com/xfs-file-corruption-detection-proposal-revised/",
+      "published": "2026-11-04T15:07:18Z",
+      "summary": null
+    },
+    {
+      "blog_title": "Joelchrono's blog",
+      "blog_url": "https://joelchrono.xyz/",
+      "feed_url": "https://joelchrono.xyz/feed.xml",
+      "post_title": "The Left Hand of Darkness",
+      "post_url": "https://joelchrono.xyz/blog/the-left-hand-of-darkness/",
+      "published": "2026-11-04T14:00:00Z",
+      "summary": "A review of Ursula K. Le Guin’s The Left Hand of Darkness examines Gethen’s genderless society, political tensions, narrative structure, worldbuilding, and dated perspectives."
+    },
+    {
+      "blog_title": "Syl's Blog",
+      "blog_url": "https://syls.blog/",
+      "feed_url": "https://syls.blog/feed/",
+      "post_title": "October 2026 Books",
+      "post_url": "https://syls.blog/october-2026-books/",
+      "published": "2026-11-04T13:51:00Z",
+      "summary": "Syl reviews October’s three books: Hideaki Sena’s body-horror novel Parasite Eve, Mary Shelley’s Frankenstein, and Holly Black’s fantasy finale The Queen of Nothing."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Lake Placid vs. Anaconda (2015) — Can a lake actually fight a snake?",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/04/lake-placid-vs-anaconda-2015-can-a-lake-actually-fight-a-snake/",
+      "published": "2026-11-04T13:00:15Z",
+      "summary": "A review of Lake Placid vs. Anaconda examines its creature-feature plot, cast, campy humor, reptile battles, cheap CGI, and shortcomings as a franchise crossover."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - banquet",
+      "post_url": "https://pretendtypewriter.net/note-banquet/",
+      "published": "2026-11-04T12:09:00Z",
+      "summary": "The writer plans to perform Magnolian’s “Banquet” at queerspace’s talent show and is practicing the song while considering memorizing others."
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Vegetable smile",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/04/vegetable-smile/",
+      "published": "2026-11-04T11:53:09Z",
+      "summary": "A DailyCreate and DS106 entry presents a smiling vegetable craft made from potatoes, featuring googly eyes and a drawn smile."
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "キャンプ用具はなぜ地味なのか",
+      "post_url": "https://elve.club/entry/2026/11/04/203128?utm_source=feed",
+      "published": "2026-11-04T11:31:28Z",
+      "summary": "The writer questions muted and camouflage-colored camping gear, favoring visible or colorful equipment while noting safety concerns around solo camping and privacy."
+    },
+    {
+      "blog_title": "Heartlessgamer",
+      "blog_url": "http://www.heartlessgamer.com/",
+      "feed_url": "http://feeds.feedburner.com/Heartless_Gamer",
+      "post_title": "Where Oh Where Art Thou, BioWare?",
+      "post_url": "http://www.heartlessgamer.com/2026/11/where-oh-where-art-thou-bioware.html",
+      "published": "2026-11-04T11:00:00Z",
+      "summary": "BioWare’s reported closure and cancellation of the next Mass Effect prompt reflections on its influential games, declining identity, EA’s involvement, and lasting legacy."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "No Man’s Sky Best Ships: Starship Tier List (Forsaken)",
+      "post_url": "https://gamerofpassion.com/no-mans-sky-best-ships/",
+      "published": "2026-11-04T08:00:00Z",
+      "summary": "A No Man’s Sky starship tier list compares ship types by statistics, inventory, technology, acquisition difficulty, and suitability for combat, exploration, trading, and daily use."
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Frosthaven Digital Recommendation",
+      "post_url": "http://tobolds.blogspot.com/2026/11/frosthaven-digital-recommendation.html",
+      "published": "2026-11-04T07:27:04Z",
+      "summary": "Tobold recommends Frosthaven Digital’s story mode, whose relaxed card-resting rules and doubled health remove frustrating time limits while preserving tactical challenge and campaign progression."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "#FitIn2026 – October edition",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/04/fitin2026-october-edition/",
+      "published": "2026-11-04T06:00:00Z",
+      "summary": "Cynni reflects on October weight gain, renewed gym and treadmill exercise, inadequate sleep, persistent pain, and body-composition measurements from Silvergear Fit reports."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Modern slavery",
+      "post_url": "https://rishidass.net/posts/modern-slavery",
+      "published": "2026-11-04T05:34:00Z",
+      "summary": "Rishi Dass criticizes Indian officials and CEOs for glorifying long working hours, arguing that employee well-being, personal boundaries, and sustainable organizational success matter more."
+    },
     {
       "blog_title": "Beto Dealmeida",
       "blog_url": "https://robida.net/",
@@ -17,22 +152,22 @@
       "summary": "Beto Dealmeida announces moving his blog from DigitalOcean to Hetzner, switching to the Forth-based Quintana engine, and temporarily losing feeds."
     },
     {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Binance、63億ドル流出の経路を公開。出庫停止でも止まらないオンチェーン権限",
-      "post_url": "https://joho-todai.com/binance-6-3-billion-outflow-onchain-authority/",
-      "published": "2026-11-03T23:57:20Z",
-      "summary": null
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Wednesday, 4 November 2026",
+      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-04.html",
+      "published": "2026-11-04T00:00:00Z",
+      "summary": "Gaming and technology bloggers cover WoW Forever, Guild Wars 2, Ridiculous Space Battles, indie games, Nintendo history, AI tools, and France’s proposed internet tax."
     },
     {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Windows 11 Multitasking Gets Up to 40% Faster on 8GB PCs With Retuned Memory Compression",
-      "post_url": "https://joho-todai.com/en/windows-11-8gb-multitasking-40-percent-faster/",
-      "published": "2026-11-03T23:47:30Z",
-      "summary": "Microsoft outlines Windows 11 memory and multitasking optimizations for 8GB PCs, including retuned compression, app savings, faster responsiveness, and limitations of Microsoft’s testing."
+      "blog_title": "Tommyeveryday",
+      "blog_url": "https://tommyeveryday.mataroa.blog",
+      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
+      "post_title": "Wednesday November 4, 2026",
+      "post_url": "https://tommyeveryday.mataroa.blog/blog/wednesday-november-4-2026/",
+      "published": "2026-11-04T00:00:00Z",
+      "summary": "A daily account describes closing a campsite for winter, relocating trailers and storing equipment, followed by meals, films, online videos, and Ryu Murakami’s death."
     },
     {
       "blog_title": "JVT Workshop",
@@ -51,141 +186,6 @@
       "post_url": "https://sag.sadesignz.org/where-have-i-been-lately/",
       "published": "2026-11-03T22:42:41Z",
       "summary": "The writer describes creating chatbots on Cycle AI and transforming dark thoughts into song lyrics and songs since their previous blog post."
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "🔁 Reposted: NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-      "post_url": "https://michaelharley.net/links/2026/11/03/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-      "published": "2026-11-03T22:37:49Z",
-      "summary": "Michael Harley highlights Ars Technica’s report that the New York Times demanded Brave disable its paywall blocker and end agreements with AI firms."
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "[Louie.]",
-      "post_url": "https://jasonjournals.com/posts/2026-11-03-louie",
-      "published": "2026-11-03T22:36:07Z",
-      "summary": null
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Why No AI?",
-      "post_url": "https://whynoai.info/",
-      "published": "2026-11-03T22:22:40Z",
-      "summary": "The article outlines objections to AI, citing copyright theft, abuse, environmental damage, economic risks, deskilling, bias, addiction, exploitation, misinformation, and degraded communication."
-    },
-    {
-      "blog_title": "Calishat",
-      "blog_url": "https://www.calishat.com/",
-      "feed_url": "https://www.calishat.com/feed/",
-      "post_title": "Congress Corral Offline Until Next Year",
-      "post_url": "https://www.calishat.com/2026/11/03/congress-corral-offline-until-next-year/",
-      "published": "2026-11-03T21:47:22Z",
-      "summary": "CongressCorral.com is offline during the elections and expected to relaunch with the new legislators in early 2025, alongside possible upgrades and work on NosyRaleigh.com."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - journaling again",
-      "post_url": "https://pretendtypewriter.net/note-journaling-again/",
-      "published": "2026-11-03T21:37:59Z",
-      "summary": "A brief journal entry notes repeatedly drawing the Three of Wands tarot card that evening and wonders about the odds."
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Five joyful things for week 44",
-      "post_url": "https://sylvia.studio/posts/five-joyful-things-for-week-44",
-      "published": "2026-11-03T21:31:23Z",
-      "summary": "Sylvia celebrates a Dublin trip, a perfect backpack, seeing Stevie Wonder in concert, vivid autumn colours, and feeling physically capable."
-    },
-    {
-      "blog_title": "ComradeNerdy",
-      "blog_url": "https://comradenerdy.com/",
-      "feed_url": "https://comradenerdy.com/feed/",
-      "post_title": "Subathon Autumn 2026 Edition. Degen No Sleep Marathon Too",
-      "post_url": "https://comradenerdy.com/subathon-autumn-2026-edition-degen-no-sleep-marathon-too/",
-      "published": "2026-11-03T21:04:02Z",
-      "summary": "ComradeNerdy announces a November 2026 Subathon featuring marathon streaming, viewer incentives, planned gaming sessions, Armenian activities, travel streams, and fundraising for TwitchCon EU 2027."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Live concert, vacation, Ghibli films - W44",
-      "post_url": "https://joelchrono.xyz/blog/2026-w44/",
-      "published": "2026-11-03T20:45:00Z",
-      "summary": "Weeknotes recount a first solo flight to Monterrey, concert, food and purchases, family visits, Ghibli films, Death Note, and Dune Messiah."
-    },
-    {
-      "blog_title": "Cotswold Diary",
-      "blog_url": "https://diary.uncountable.uk/",
-      "feed_url": "https://diary.uncountable.uk/feed/",
-      "post_title": "Walking Stinchcombe’s Grassland",
-      "post_url": "https://diary.uncountable.uk/2026/11/walking-stinchcombes-grassland/",
-      "published": "2026-11-03T20:43:31Z",
-      "summary": "A walk around Stinchcombe’s SSSI observes fencing, grazing, grassland restoration, tree removal, and promising signs of future species-rich habitat after extensive volunteer efforts."
-    },
-    {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "a little rain to end the day",
-      "post_url": "https://write.as/blog-x2600/a-little-rain-to-end-the-day?pk_campaign=rss-feed",
-      "published": "2026-11-03T20:18:02Z",
-      "summary": "A rainy evening under a pavilion includes improvised cigarette-case repairs, plans for laundry and bathing, phone charging, and discoveries involving webrings, ^nix, and IRC."
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - November 03, 2026 19:15",
-      "post_url": "https://martinschuhmann.com/blog/481df57a",
-      "published": "2026-11-03T18:15:00Z",
-      "summary": "Martin Schuhmann announces a return to creating small actions for Drafts after a long break, expressing uncertainty about how the renewed effort will develop."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Messrs Hoover, Biro, Sandwich, and associates",
-      "post_url": "https://francescrossley.com/messrs-hoover-biro-sandwich-and-associates/",
-      "published": "2026-11-03T18:00:00Z",
-      "summary": "The piece explores brand names and inventors’ surnames becoming everyday terms, including Hoover, biro, Sellotape, Velcro, sandwich, tarmac, montgolfière, and genericisation."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris DLC Tier List: Which DLCs Are Worth It (4.5)",
-      "post_url": "https://gamerofpassion.com/stellaris-dlc-tier-list/",
-      "published": "2026-11-03T17:25:16Z",
-      "summary": "The guide ranks Stellaris PC DLC for patch 4.5.2, explaining included content, multiplayer effects, prices, playstyle suitability, and recommended purchases or skips."
-    },
-    {
-      "blog_title": "Newsonaut",
-      "blog_url": "https://www.newsonaut.com/",
-      "feed_url": "https://www.newsonaut.com/rss",
-      "post_title": "Mr. Business Man",
-      "post_url": "https://www.newsonaut.com/articles/mr-business-man",
-      "published": "2026-11-03T16:43:05Z",
-      "summary": "An old Globe newspaper advertisement highlights American advertising’s influence on Canadian purchasing, prompting reflection on brand familiarity and support for Canadian businesses."
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "In The Palace Of The Odd",
-      "post_url": "https://bhagpuss.blogspot.com/2026/11/in-palace-of-odd.html",
-      "published": "2026-11-03T16:37:12Z",
-      "summary": "The writer previews Silver Palace and Ordinary Oddness, comparing their genres, visual styles, inspirations, developers, release details, and anticipated gameplay."
     }
   ]
 }
