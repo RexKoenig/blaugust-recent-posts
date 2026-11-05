@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-11-05T00:22:56.743619Z",
-  "source_generated_at": "2026-11-05T00:22:07.131833Z",
+  "generated_at": "2026-11-05T15:27:22.890769Z",
+  "source_generated_at": "2026-11-05T15:27:03.128408Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 20,
+  "summary_count": 19,
   "posts": [
     {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "運動能力が低い人間は集団に馴染めない",
-      "post_url": "https://elve.club/entry/2026/11/05/091627?utm_source=feed",
-      "published": "2026-11-05T00:16:27Z",
-      "summary": "The writer reflects on lifelong difficulty with physical activities and group participation, linking delayed motor development to feelings of isolation, pride, and inferiority."
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - budgeting win",
+      "post_url": "https://pretendtypewriter.net/note-budgeting-win/",
+      "published": "2026-11-05T15:18:16Z",
+      "summary": "A November note celebrates spending CHF 100 less on food and other expenses in October than the previous month, despite Halloween purchases."
     },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Malware Lurked in NIKKE's PC Launcher for Five Weeks, With Remote Control and Password Theft Capabilities Confirmed",
-      "post_url": "https://joho-todai.com/en/nikke-pc-launcher-malware-remote-access-password-theft/",
-      "published": "2026-11-05T00:10:44Z",
-      "summary": "A supply-chain attack on NIKKE’s PC launcher injected malware enabling remote control, credential theft, browser-data harvesting, and possible persistence from September 27 into early November."
+      "post_title": "Google Cloud Traces London Outage to Redundant Controllers That Both Misread the Power Supply and Kept Backup Generators Offline",
+      "post_url": "https://joho-todai.com/en/google-cloud-london-outage-redundant-power-failure/",
+      "published": "2026-11-05T14:59:15Z",
+      "summary": "Google’s incident report attributes the London cloud outage to redundant PLCs misreading an open power feed, preventing generators from starting before UPS exhaustion."
     },
     {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "『NIKKE』PCランチャーに5週間マルウェアが潜伏、遠隔操作とパスワード窃取の機能を確認",
-      "post_url": "https://joho-todai.com/nikke-pc-launcher-malware-remote-access-password-theft/",
-      "published": "2026-11-05T00:10:44Z",
-      "summary": "A supply-chain attack on NIKKE’s PC launcher injected malware enabling remote control, credential theft, persistence, and cryptocurrency targeting before staged remediation."
+      "post_title": "Google Cloudロンドン障害の原因判明。二重化した発電制御が同じ誤判定を行い、予備電源が起動せず",
+      "post_url": "https://joho-todai.com/google-cloud-london-outage-redundant-power-failure/",
+      "published": "2026-11-05T14:59:15Z",
+      "summary": null
     },
     {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 45 Links",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-04-week-45-links/",
-      "published": "2026-11-04T23:43:03Z",
-      "summary": "An Archaeopteryx’s 2026 Week 45 links cover healthcare access, online harms, technology, gaming, economic history, power grids, media, and blogging costs."
-    },
-    {
-      "blog_title": "The Capsule Critic",
-      "blog_url": "https://thecapsulecritic.com/blog/",
-      "feed_url": "https://thecapsulecritic.com/feed/",
-      "post_title": "THE WOMAN IN BLACK (1989): One Of My Litmus Tests For Ghost Stories On Film…",
-      "post_url": "https://thecapsulecritic.com/2026/11/04/__trashed-2/",
-      "published": "2026-11-04T23:27:08Z",
-      "summary": "The 1989 adaptation of Susan Hill’s The Woman in Black follows a young lawyer haunted by a vengeful spirit amid atmospheric house and marsh settings."
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "Small Prophets (2026) — ⭐⭐⭐⭐ (4/5)",
-      "post_url": "https://michaelharley.net/watching/2026/11/04/small-prophets-s1/",
-      "published": "2026-11-04T23:05:21Z",
-      "summary": "Small Prophets is a 2026 comedy-drama mystery series about a lonely man discovering the supernatural in a suburban shed after a mysterious disappearance."
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Enjoying reading news for the first time in a long time",
-      "post_url": "https://sals.place/blog/enjoying-the-news/",
-      "published": "2026-11-04T22:11:21Z",
-      "summary": "Sal’s Blog expresses relief at an apparent political setback for Donald Trump, criticizes Republican leaders who supported him, and ends with a dinner aside."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Dune Messiah",
-      "post_url": "https://joelchrono.xyz/blog/dune-messiah/",
-      "published": "2026-11-04T21:30:00Z",
-      "summary": "A review of Frank Herbert’s Dune Messiah examines Paul Atreides’ rule, religious legacy, resistance conspiracies, prophecy, political intrigue, character perspectives, and criticisms of its female characters."
-    },
-    {
-      "blog_title": "Cotswold Diary",
-      "blog_url": "https://diary.uncountable.uk/",
-      "feed_url": "https://diary.uncountable.uk/feed/",
-      "post_title": "Trimming back on Hawthorn",
-      "post_url": "https://diary.uncountable.uk/2026/11/trimming-back-on-hawthorn/",
-      "published": "2026-11-04T21:18:16Z",
-      "summary": "A habitat management session at a Cotswold grassland site involved trimming young hawthorn shoots, clearing cut scrub, and dealing with a damaged brush cutter."
-    },
-    {
-      "blog_title": "MMO Casual",
-      "blog_url": "http://wowaltaddiction.blogspot.com/",
-      "feed_url": "http://wowaltaddiction.blogspot.com/feeds/posts/default",
-      "post_title": "October Month In Review",
-      "post_url": "http://wowaltaddiction.blogspot.com/2026/11/october-month-in-review.html",
-      "published": "2026-11-04T20:27:43Z",
-      "summary": "Joar reviews October’s limited gaming time, covering brief sessions in Final Fantasy XIV, Aion 2, and World of Warcraft alongside settling into a new home."
-    },
-    {
-      "blog_title": "Varun Barad - Curious Developer",
-      "blog_url": "https://varunbarad.com/",
-      "feed_url": "https://varunbarad.com/feed.xml",
-      "post_title": "I made a notebook I am proud of",
-      "post_url": "https://varunbarad.com/blog/bookbinding-notebooks.html",
-      "published": "2026-11-04T20:24:20Z",
-      "summary": "Varun Barad describes improving his handmade notebook through DAS Bookbinding’s pamphlet method, better materials, refined tools, and producing gifts for friends."
-    },
-    {
-      "blog_title": "Alligators and aneurysms!",
-      "blog_url": "https://alligatorsandaneurysms.wordpress.com/",
-      "feed_url": "http://alligatorsandaneurysms.wordpress.com/feed/",
-      "post_title": "Stairs in the Sand: Looking Back on 1932’s Horror Classic, ‘The Mummy’ with Boris Karloff!",
-      "post_url": "https://alligatorsandaneurysms.wordpress.com/2026/11/04/stairs-in-the-sand-looking-back-on-1932s-horror-classic-the-mummy-with-boris-karloff/",
-      "published": "2026-11-04T20:16:13Z",
-      "summary": "The post examines The Mummy (1932), comparing Boris Karloff’s Imhotep with the 1999 remake and exploring Egyptian history, mythology, and archaeological influences."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Apparently ‘Repudiated’ Is Too Strong a Word for The New York Times Editorial Board",
-      "post_url": "https://www.nytimes.com/2026/11/03/opinion/democracy-midterms-trump.html?unlocked_article_code=1.N1E.4wzn.LMEWbrg57am_&smid=url-share",
-      "published": "2026-11-04T20:15:43Z",
-      "summary": "JAG’s Workshop examines The New York Times Editorial Board’s headline change from “The American People Have Repudiated Trump” to “Trump Has Met His Match.”"
-    },
-    {
-      "blog_title": "Musings Over Pints and Coffee",
-      "blog_url": "https://musingsoverpintsandcoffee.wordpress.com",
-      "feed_url": "https://musingsoverpintsandcoffee.wordpress.com/feed/",
-      "post_title": "The Nine-Year Gap",
-      "post_url": "https://musingsoverpintsandcoffee.wordpress.com/2026/11/04/the-nine-year-gap/",
-      "published": "2026-11-04T18:54:30Z",
-      "summary": "The post examines early-retirement health coverage, moving from COBRA to ACA insurance before Medicare, while forecasting premiums, enrollment deadlines, subsidies, and household timelines."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Perils of plot armour",
-      "post_url": "https://francescrossley.com/perils-of-plot-armour/",
-      "published": "2026-11-04T18:00:00Z",
-      "summary": "The piece critiques plot armour in Monarch, arguing that apparent near-deaths should emotionally affect characters and meaningfully shape their subsequent choices and relationships."
-    },
-    {
-      "blog_title": "Priest with a Cause",
-      "blog_url": "https://priestwithacause.blogspot.com/",
-      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Pre-Forever Retail Roundup",
-      "post_url": "https://priestwithacause.blogspot.com/2026/11/pre-forever-retail-roundup.html",
-      "published": "2026-11-04T17:26:28Z",
-      "summary": "The roundup covers Brewfest Chowdown, Mythic+ Season 2 commitments, chaotic Venomous Abyss LFR experiences, and the Labyrinth of Kindo'jan delve."
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Remember, Remember...",
+      "post_url": "https://bhagpuss.blogspot.com/2026/11/remember-remember.html",
+      "published": "2026-11-05T14:44:12Z",
+      "summary": "The writer reflects on unreliable memory while exploring Amazon Luna, locating free games, Legacy Games’ closure, and the growing role of AI in everyday services."
     },
     {
       "blog_title": "Gamer Of Passion",
       "blog_url": "https://gamerofpassion.com/",
       "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris Federation Types Ranked: Best Federation (4.5)",
-      "post_url": "https://gamerofpassion.com/stellaris-federation-types/",
-      "published": "2026-11-04T17:26:16Z",
-      "summary": "The guide ranks Stellaris federation types for patch 4.5.2, comparing their perks, founding requirements, ideal empire types, and changes introduced by new federation laws."
+      "post_title": "Stellaris Beginner Guide (4.5): What to Do First, Step by Step",
+      "post_url": "https://gamerofpassion.com/stellaris-beginner-guide/",
+      "published": "2026-11-05T14:30:45Z",
+      "summary": "A step-by-step Stellaris 4.5.3 beginner guide covers galaxy settings, early exploration, resource management, colonization, difficulty, tutorials, and choosing the United Nations of Earth."
     },
     {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Tokyo Lost Its Crown",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/04/tokyo-lost-its-crown.html",
-      "published": "2026-11-04T16:36:19Z",
-      "summary": "The United Nations’ revised city rankings place Jakarta first, Dhaka second, and Tokyo third, while megacities continue growing amid environmental and demographic challenges."
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "Umekomi",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1290",
+      "published": "2026-11-05T13:34:10Z",
+      "summary": "The post mentions a Faust idol, difficulty obtaining maps for the Bubble City, practicing on small paper, and preparing for an original-creation event."
     },
     {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "WoW Forever is Soon",
-      "post_url": "https://tagn.wordpress.com/2026/11/04/wow-forever-is-soon/",
-      "published": "2026-11-04T16:15:16Z",
-      "summary": "World of Warcraft Forever’s launch, class changes, creature respawn adjustments, Discord community, and updated gamepad controls are examined ahead of opening day."
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Python: check for new Fedora version",
+      "post_url": "https://www.kgadams.net/coding-and-hacks/python-check-for-new-fedora-version",
+      "published": "2026-11-05T13:30:00Z",
+      "summary": "A Python script parses Fedora’s release data, emails notifications about new stable versions, and uses macOS launchd to schedule daily checks."
     },
     {
       "blog_title": "Mutant Reviewers",
       "blog_url": "https://mutantreviewersmovies.com",
       "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Join the Mutant Reviewers team — if you dare!",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/04/join-the-mutant-reviewers-team-if-you-dare/",
-      "published": "2026-11-04T15:41:35Z",
-      "summary": "Mutant Reviewers invites writers interested in cult, B-movie, science-fiction, fantasy, horror, comedy, and unconventional films to apply with writing samples and a biography."
+      "post_title": "At the Earth’s Core (1976) — Drilling into danger",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/05/at-the-earths-core-1976-drilling-into-danger/",
+      "published": "2026-11-05T13:00:07Z",
+      "summary": "A nostalgic review of At the Earth’s Core praises its playful subterranean adventure, Victorian scientists, monsters, and Peter Cushing and Doug McClure’s performances despite dated effects."
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "三峰神社③",
+      "post_url": "https://elve.club/entry/2026/11/05/204823?utm_source=feed",
+      "published": "2026-11-05T11:48:23Z",
+      "summary": "A visit to Mitsumine Shrine features the sacred tree, a mountain worship site, walnut soba, local snacks, fading daylight, and catching the final bus."
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Bonfire Night Fireworks",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/05/bonfire-night-fireworks/",
+      "published": "2026-11-05T11:48:12Z",
+      "summary": "A Bonfire Night-themed DailyCreate and DS106 entry shares the traditional “Remember, remember the fifth of November” rhyme alongside fireworks imagery."
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "MMO Simulator",
+      "post_url": "http://tobolds.blogspot.com/2026/11/mmo-simulator.html",
+      "published": "2026-11-05T10:07:53Z",
+      "summary": "MMO Simulator lets players manage an MMORPG, designing systems and character classes while observing player reactions through in-game behavior and message-board posts."
+    },
+    {
+      "blog_title": "Overage-Gaming",
+      "blog_url": "https://overage-gaming.com/",
+      "feed_url": "https://overage-gaming.com/feed/",
+      "post_title": "Little Prince Tyger: Single-Screen Levels of Pure Archery Violence (Playtest Gameplay)",
+      "post_url": "https://overage-gaming.com/2026/11/05/little-prince-tyger-single-screen-levels-of-pure-archery-violence-playtest-gameplay/",
+      "published": "2026-11-05T08:01:00Z",
+      "summary": "A Let’s Play showcases Little Prince Tyger’s playtest, featuring precision archery, physics-driven combat, and single-screen roguelike arenas across a dark fantasy world."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Mental toughness",
+      "post_url": "https://rishidass.net/posts/mental-toughness",
+      "published": "2026-11-05T06:36:29Z",
+      "summary": "Rishi Dass challenges conventional mental toughness, arguing that non-judgment, acceptance, and non-resistance provide a gentler way to face life’s difficulties."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Thursday Trust & Courage Quote",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/05/thursday-trust-courage-quote/",
+      "published": "2026-11-05T06:00:00Z",
+      "summary": "A quote graphic featuring Maya Angelou’s words about trusting love again overlays a portrait of Koa, a chocolate Labrador Retriever, with red hearts."
+    },
+    {
+      "blog_title": "#デザイン 記事まとめ",
+      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
+      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
+      "post_title": "私たちは、どこにダンスを見つけられるのか ー「働く体たち」の現在地",
+      "post_url": "https://note.com/uss_un/n/nf6c77bf99d5f",
+      "published": "2026-11-05T04:06:17Z",
+      "summary": "The article explores how dance emerges through bodily communication, playful workshops, and resistance to adaptive pressures in work and family life."
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "Divinity Original Sin 2 - Act 4 - Reaper's Coast 29h48",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-04-dos2/",
+      "published": "2026-11-05T03:22:00Z",
+      "summary": "A playthrough of Divinity: Original Sin 2’s Reaper’s Coast covers voidwoken encounters, rescuing a lizard, investigating chickens, meeting Tarquin, and preparing to confront Magisters."
+    },
+    {
+      "blog_title": "Nosrednayduj's Blog",
+      "blog_url": "https://nosrednayduj.dreamwidth.org/",
+      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
+      "post_title": "Apparently it was worth it!",
+      "post_url": "https://nosrednayduj.dreamwidth.org/190639.html",
+      "published": "2026-11-05T02:20:32Z",
+      "summary": "The writer recounts canvassing for Jackson, partnering with a new volunteer, and working election day at polling stations processing ballots, errors, and vote counts."
+    },
+    {
+      "blog_title": "The Works of Egan",
+      "blog_url": "https://theworksofegan.net/",
+      "feed_url": "https://theworksofegan.net/feed.xml",
+      "post_title": "Machinarium (2009)",
+      "post_url": "https://theworksofegan.net/posts/2026-11-04-machinarium/",
+      "published": "2026-11-05T01:50:00Z",
+      "summary": "Machinarium is praised as a timeless adventure game, highlighting its hand-drawn world, wordless storytelling, puzzles, soundtrack, accessible hints, and enduring appeal across platforms."
+    },
+    {
+      "blog_title": "JVT Workshop",
+      "blog_url": "http://josephskyrim.blogspot.com/",
+      "feed_url": "http://josephskyrim.blogspot.com/feeds/posts/default",
+      "post_title": "More than Nothing: The Hollows",
+      "post_url": "http://josephskyrim.blogspot.com/2026/11/more-than-nothing-hollows.html",
+      "published": "2026-11-05T00:55:48Z",
+      "summary": "The crew journeys to the haunted Hollows, facing ghost ships, submerged vessels, a centipede, and ninjas before flashbacks reveal their witchcraft accusations."
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Thursday, 5 November 2026",
+      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-05.html",
+      "published": "2026-11-05T00:00:00Z",
+      "summary": "The Daily Blogroll surveys gaming diaries, tabletop reviews, MMO updates, political reactions, and literary commentary from various contributors."
     }
   ]
 }
