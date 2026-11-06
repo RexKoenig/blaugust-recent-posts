@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-11-06T00:15:50.969488Z",
+  "generated_at": "2026-11-06T15:01:43.692552Z",
   "feed_count": 356,
-  "successful_feeds": 325,
-  "failed_feeds": 31,
+  "successful_feeds": 326,
+  "failed_feeds": 30,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "Superior Realities",
+      "blog_url": "https://superior-realities.com",
+      "feed_url": "https://superior-realities.com/feed/",
+      "post_title": "Some X-Rated Reading",
+      "post_url": "https://superior-realities.com/2026/11/06/some-x-rated-reading/",
+      "published": "2026-11-06T15:00:45Z"
+    },
+    {
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "Grab Bag for the First Week of November, 2026",
+      "post_url": "https://scopique.com/2026/11/06/grab-bag-for-the-first-week-of-november-2026/",
+      "published": "2026-11-06T14:57:01Z"
+    },
     {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Windows 11 27H2、3年ぶりのフルOSスワップへ。壁紙刷新とAPX対応を準備、Windows 12は見送り継続",
-      "post_url": "https://joho-todai.com/windows-11-27h2-major-update-wallpaper-apx/",
-      "published": "2026-11-06T00:08:20Z"
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "zlib 1.4 Fixes More Than 10 Compression and Decompression Flaws and Renames Windows Libraries",
-      "post_url": "https://joho-todai.com/en/zlib-1-4-released-compression-decompression-fixes/",
-      "published": "2026-11-05T23:48:20Z"
-    },
-    {
-      "blog_title": "Priest with a Cause",
-      "blog_url": "https://priestwithacause.blogspot.com/",
-      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Forever Starts Today",
-      "post_url": "https://priestwithacause.blogspot.com/2026/11/forever-starts-today.html",
-      "published": "2026-11-05T23:17:06Z"
-    },
-    {
-      "blog_title": "Monocyte’s blog",
-      "blog_url": "https://monocyte.blog/",
-      "feed_url": "https://monocyte.bearblog.dev/feed/?type=rss",
-      "post_title": "56",
-      "post_url": "https://monocyte.blog/56/",
-      "published": "2026-11-05T21:40:00Z"
-    },
-    {
-      "blog_title": "Nosrednayduj's Blog",
-      "blog_url": "https://nosrednayduj.dreamwidth.org/",
-      "feed_url": "https://nosrednayduj.dreamwidth.org/data/rss",
-      "post_title": "Fall sports",
-      "post_url": "https://nosrednayduj.dreamwidth.org/190936.html",
-      "published": "2026-11-05T20:33:57Z"
-    },
-    {
-      "blog_title": "Kay Talks Games",
-      "blog_url": "https://kaytalksgames.wordpress.com/",
-      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
-      "post_title": "What I’m Playing – November 2026",
-      "post_url": "https://kaytalksgames.wordpress.com/2026/11/05/what-im-playing-november-2026/",
-      "published": "2026-11-05T18:14:04Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Ten new things in November",
-      "post_url": "https://francescrossley.com/ten-new-things-in-november/",
-      "published": "2026-11-05T18:00:00Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Perpend",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/05/word-nerd-alert-perpend.html",
-      "published": "2026-11-05T17:58:17Z"
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Wildwood",
-      "post_url": "https://sals.place/blog/wildwood/",
-      "published": "2026-11-05T17:06:37Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "BEDTIME ROUTINE V2.0",
-      "post_url": "https://pretendtypewriter.net/bedtime-routine-v2/",
-      "published": "2026-11-05T16:29:00Z"
-    },
-    {
-      "blog_title": "Frostilyte Writes",
-      "blog_url": "https://frostilyte.ca/",
-      "feed_url": "https://frostilyte.ca/feed/",
-      "post_title": "A Low-Tier Playthrough of Pokémon Silver: Part 9",
-      "post_url": "https://frostilyte.ca/2026/11/05/a-low-tier-playthrough-of-pokemon-silver-part-9/",
-      "published": "2026-11-05T16:23:53Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "WoW Forever Opening Night",
-      "post_url": "https://tagn.wordpress.com/2026/11/05/wow-forever-opening-night/",
-      "published": "2026-11-05T16:15:27Z"
+      "post_title": "TikTokの「おすすめ」、EUがDSA違反と予備的認定。同種動画への繰り返し誘導が問題に",
+      "post_url": "https://joho-todai.com/tiktok-recommended-eu-dsa-violation-preliminary/",
+      "published": "2026-11-06T14:56:53Z"
     },
     {
       "blog_title": "Inventory Full",
       "blog_url": "https://bhagpuss.blogspot.com/",
       "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Remember, Remember...",
-      "post_url": "https://bhagpuss.blogspot.com/2026/11/remember-remember.html",
-      "published": "2026-11-05T14:44:12Z"
+      "post_title": "Going By The Book",
+      "post_url": "https://bhagpuss.blogspot.com/2026/11/going-by-book.html",
+      "published": "2026-11-06T14:37:40Z"
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "Inkling 2 Small: Apache 2.0 Release Planned Next Week for 594 Billion-Parameter MoE",
+      "post_url": "https://joho-todai.com/en/inkling-2-small-moe-apache-2-0-release/",
+      "published": "2026-11-06T14:33:01Z"
+    },
+    {
+      "blog_title": "The Friendly Necromancer",
+      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
+      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
+      "post_title": "Something more awesome than god slaying in EverQuest Legends?",
+      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/11/something-more-awesome-than-god-slaying.html",
+      "published": "2026-11-06T14:23:32Z"
     },
     {
       "blog_title": "Gamer Of Passion",
       "blog_url": "https://gamerofpassion.com/",
       "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris Beginner Guide (4.5): What to Do First, Step by Step",
-      "post_url": "https://gamerofpassion.com/stellaris-beginner-guide/",
-      "published": "2026-11-05T14:30:45Z"
+      "post_title": "Stellaris Bioships Guide (4.5): Best Designs and Growth",
+      "post_url": "https://gamerofpassion.com/stellaris-bioships/",
+      "published": "2026-11-06T14:17:54Z"
     },
     {
-      "blog_title": "TGLG",
-      "blog_url": "https://392ms.witchserver.jp/kb/",
-      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "Umekomi",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1290",
-      "published": "2026-11-05T13:34:10Z"
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 45 Digest",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-06-week-45-digest/",
+      "published": "2026-11-06T14:00:00Z"
     },
     {
       "blog_title": "Ubergeek Kelly's World",
       "blog_url": "https://www.kgadams.net/",
       "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "Python: check for new Fedora version",
-      "post_url": "https://www.kgadams.net/coding-and-hacks/python-check-for-new-fedora-version",
-      "published": "2026-11-05T13:30:00Z"
+      "post_title": "The Republicans take a beating",
+      "post_url": "https://www.kgadams.net/global-events/the-republicans-take-a-beating",
+      "published": "2026-11-06T13:30:00Z"
+    },
+    {
+      "blog_title": "Reay Jespersen",
+      "blog_url": "https://www.reayjespersen.com/",
+      "feed_url": "https://www.reayjespersen.com/feed/",
+      "post_title": "New trend?",
+      "post_url": "https://www.reayjespersen.com/blog-1/2026/11/06/new-trend/?utm_source=rss&utm_medium=rss&utm_campaign=new-trend",
+      "published": "2026-11-06T13:02:13Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - lambchop",
+      "post_url": "https://pretendtypewriter.net/note-lambchop/",
+      "published": "2026-11-06T13:02:00Z"
     },
     {
       "blog_title": "Mutant Reviewers",
       "blog_url": "https://mutantreviewersmovies.com",
       "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "At the Earth’s Core (1976) — Drilling into danger",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/05/at-the-earths-core-1976-drilling-into-danger/",
-      "published": "2026-11-05T13:00:07Z"
+      "post_title": "Prey of the Jaguar (1996) — Rex Manning is a superhero!",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/06/prey-of-the-jaguar-1996-rex-manning-is-a-superhero/",
+      "published": "2026-11-06T13:00:52Z"
     },
     {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "三峰神社③",
-      "post_url": "https://elve.club/entry/2026/11/05/204823?utm_source=feed",
-      "published": "2026-11-05T11:48:23Z"
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "good morning, blog",
+      "post_url": "https://write.as/blog-x2600/good-morning-blog?pk_campaign=rss-feed",
+      "published": "2026-11-06T12:55:22Z"
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Românii încă nu înțeleg intimitatea și anonimitatea",
+      "post_url": "https://thinkroot.xyz/jurnal/romanii-inca-nu-inteleg-intimitatea-si-anonimitatea",
+      "published": "2026-11-06T11:52:00Z"
     },
     {
       "blog_title": "NomadWarMachine",
       "blog_url": "https://nomadwarmachine.co.uk/",
       "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Bonfire Night Fireworks",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/05/bonfire-night-fireworks/",
-      "published": "2026-11-05T11:48:12Z"
+      "post_title": "Eastern Bloc Visuals",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/06/eastern-bloc-visuals/",
+      "published": "2026-11-06T10:57:48Z"
     },
     {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "MMO Simulator",
-      "post_url": "http://tobolds.blogspot.com/2026/11/mmo-simulator.html",
-      "published": "2026-11-05T10:07:53Z"
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "The only teacher",
+      "post_url": "https://rishidass.net/posts/the-only-teacher",
+      "published": "2026-11-06T07:13:11Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Sleep, discomforts, and (lack of) energy 🪫",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/06/sleep-discomforts-and-lack-of-energy-%f0%9f%aa%ab/",
+      "published": "2026-11-06T06:00:26Z"
+    },
+    {
+      "blog_title": "#デザイン 記事まとめ",
+      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
+      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
+      "post_title": "今週のグッドデザインを紹介します（10/31 〜11/6）",
+      "post_url": "https://note.com/gooddesignaward/n/n9ca5fa8e65de",
+      "published": "2026-11-06T05:24:27Z"
+    },
+    {
+      "blog_title": "Taxodium",
+      "blog_url": "https://taxodium.ink/",
+      "feed_url": "https://taxodium.ink/index.xml",
+      "post_title": "學習網頁內容無障礙",
+      "post_url": "https://taxodium.ink/learn-web-content-accessibility.html",
+      "published": "2026-11-06T05:20:00Z"
+    },
+    {
+      "blog_title": "The Works of Egan",
+      "blog_url": "https://theworksofegan.net/",
+      "feed_url": "https://theworksofegan.net/feed.xml",
+      "post_title": "Someone please free Card of Darkness from Apple Arcade",
+      "post_url": "https://theworksofegan.net/posts/2026-11-05-card-of-darkness-apple-arcade/",
+      "published": "2026-11-06T02:20:00Z"
     }
   ]
 }
