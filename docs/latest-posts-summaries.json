@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-11-06T15:02:08.695914Z",
-  "source_generated_at": "2026-11-06T15:01:43.692552Z",
+  "generated_at": "2026-11-07T14:01:26.697148Z",
+  "source_generated_at": "2026-11-07T14:01:01.116685Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 18,
+  "summary_count": 19,
   "posts": [
     {
-      "blog_title": "Superior Realities",
-      "blog_url": "https://superior-realities.com",
-      "feed_url": "https://superior-realities.com/feed/",
-      "post_title": "Some X-Rated Reading",
-      "post_url": "https://superior-realities.com/2026/11/06/some-x-rated-reading/",
-      "published": "2026-11-06T15:00:45Z",
-      "summary": "The writer reflects on discovering X-Men comics, comparing classic storylines with modern X-Men and Uncanny X-Men runs, characters, social themes, and found-family dynamics."
-    },
-    {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Grab Bag for the First Week of November, 2026",
-      "post_url": "https://scopique.com/2026/11/06/grab-bag-for-the-first-week-of-november-2026/",
-      "published": "2026-11-06T14:57:01Z",
-      "summary": "Scopique’s November 2026 roundup covers acquiring a Switch 2, playing Underkeep, exploring Spelunkr.tv’s archival programming, and awaiting Star Citizen’s version 5.0."
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "TikTokの「おすすめ」、EUがDSA違反と予備的認定。同種動画への繰り返し誘導が問題に",
-      "post_url": "https://joho-todai.com/tiktok-recommended-eu-dsa-violation-preliminary/",
-      "published": "2026-11-06T14:56:53Z",
-      "summary": null
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Going By The Book",
-      "post_url": "https://bhagpuss.blogspot.com/2026/11/going-by-book.html",
-      "published": "2026-11-06T14:37:40Z",
-      "summary": "A bookseller reflects on reading habits, free publishers’ proofs, reviewing constraints, and the wasteful distribution of unsolicited advance copies to bookshops."
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Cost of Being Online",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-07-cost-of-being-online/",
+      "published": "2026-11-07T14:00:00Z",
+      "summary": "An inventory of CAD expenses for internet, mobile data, computing hardware, storage, smartphone, blogging, accessories, and possible future online purchases."
     },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Inkling 2 Small: Apache 2.0 Release Planned Next Week for 594 Billion-Parameter MoE",
-      "post_url": "https://joho-todai.com/en/inkling-2-small-moe-apache-2-0-release/",
-      "published": "2026-11-06T14:33:01Z",
-      "summary": "Thinking Machines Lab’s Inkling 2 Small is a 594-billion-parameter multimodal MoE model with 17 billion active parameters, planned for Apache 2.0 release."
+      "post_title": "Asahi Linux Begins Moving From MIT to GPLv2 or Later: M3 Sleep and Windows Gaming Experiments Advance",
+      "post_url": "https://joho-todai.com/en/asahi-linux-gplv2-migration-m3-sleep-windows-games/",
+      "published": "2026-11-07T13:39:47Z",
+      "summary": "Asahi Linux’s progress report covers its GPL licensing transition, M3 sleep and GPU development, Thunderbolt support, M4 and M5 analysis, and Windows gaming experiments."
     },
     {
-      "blog_title": "The Friendly Necromancer",
-      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
-      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
-      "post_title": "Something more awesome than god slaying in EverQuest Legends?",
-      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/11/something-more-awesome-than-god-slaying.html",
-      "published": "2026-11-06T14:23:32Z",
-      "summary": "The writer earns EverQuest Legends’ Godslayer title, weighs continuing its progression against Enshrouded and creative projects, and cites injury and hockey commitments."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris Bioships Guide (4.5): Best Designs and Growth",
-      "post_url": "https://gamerofpassion.com/stellaris-bioships/",
-      "published": "2026-11-06T14:17:54Z",
-      "summary": "A Stellaris 4.5.3 guide ranks bioship designs, explains their growth mechanics, compares biological weapons and hulls, and recommends builds for different empires and fleet roles."
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Week 45 Digest",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-06-week-45-digest/",
-      "published": "2026-11-06T14:00:00Z",
-      "summary": "A personal weekly digest covers work stress, birthday plans, home rearrangement, mystery novels, television, music archiving, fanfiction publishing, and games."
-    },
-    {
-      "blog_title": "Ubergeek Kelly's World",
-      "blog_url": "https://www.kgadams.net/",
-      "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "The Republicans take a beating",
-      "post_url": "https://www.kgadams.net/global-events/the-republicans-take-a-beating",
-      "published": "2026-11-06T13:30:00Z",
-      "summary": "Kelly’s World examines Democratic victories in the U.S. midterms, key Senate races, potential constraints on Trump, and uncertainty over voter motivations and future governance."
-    },
-    {
-      "blog_title": "Reay Jespersen",
-      "blog_url": "https://www.reayjespersen.com/",
-      "feed_url": "https://www.reayjespersen.com/feed/",
-      "post_title": "New trend?",
-      "post_url": "https://www.reayjespersen.com/blog-1/2026/11/06/new-trend/?utm_source=rss&utm_medium=rss&utm_campaign=new-trend",
-      "published": "2026-11-06T13:02:13Z",
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Asahi Linux、MITからGPLv2以降へ移行開始。M3のスリープとWindowsゲーム実験も進展",
+      "post_url": "https://joho-todai.com/asahi-linux-gplv2-migration-m3-sleep-windows-games/",
+      "published": "2026-11-07T13:39:47Z",
       "summary": null
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - lambchop",
-      "post_url": "https://pretendtypewriter.net/note-lambchop/",
-      "published": "2026-11-06T13:02:00Z",
-      "summary": "A visit to a Swiss pet store finds Lambchop and Paul Frank toys discounted, prompting a battery-operated heartbeat companion purchase for Boba’s anxiety."
     },
     {
       "blog_title": "Mutant Reviewers",
       "blog_url": "https://mutantreviewersmovies.com",
       "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Prey of the Jaguar (1996) — Rex Manning is a superhero!",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/06/prey-of-the-jaguar-1996-rex-manning-is-a-superhero/",
-      "published": "2026-11-06T13:00:52Z",
-      "summary": "Prey of the Jaguar follows grieving agent Derek as he becomes a costumed, non-lethal martial-arts vigilante pursuing the drug lord responsible for his family’s deaths."
+      "post_title": "Six Canadian slasher horror flicks from the ’80s",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/07/six-canadian-slasher-horror-flicks-from-the-80s/",
+      "published": "2026-11-07T13:00:08Z",
+      "summary": "Six Canadian horror films from the 1980s are highlighted, including supernatural revenge tales, summer-camp slashers, psychological thrillers, and David Cronenberg’s Scanners."
     },
     {
-      "blog_title": "X2600",
-      "blog_url": "https://write.as/blog-x2600/",
-      "feed_url": "https://write.as/blog-x2600/feed/",
-      "post_title": "good morning, blog",
-      "post_url": "https://write.as/blog-x2600/good-morning-blog?pk_campaign=rss-feed",
-      "published": "2026-11-06T12:55:22Z",
-      "summary": "A morning update covers coffee, central heating, laundry, an unsuccessful search for a wool blanket, online purchasing preferences, and transferring phone data to a MicroSD card."
+      "blog_title": "Another Dayu",
+      "blog_url": "https://anotherdayu.com/",
+      "feed_url": "https://anotherdayu.com/feed/",
+      "post_title": "ChatGPT Dot 日常使用记录",
+      "post_url": "https://anotherdayu.com/how-i-use-dots/",
+      "published": "2026-11-07T12:27:00Z",
+      "summary": "Another Dayu describes using ChatGPT Dots as a personal assistant for ad hoc requests, recurring tasks, proactive reminders, information management, and health monitoring across connected services."
     },
     {
-      "blog_title": "ThinkRoot",
-      "blog_url": "https://thinkroot.xyz/",
-      "feed_url": "https://thinkroot.xyz/feed.php",
-      "post_title": "Românii încă nu înțeleg intimitatea și anonimitatea",
-      "post_url": "https://thinkroot.xyz/jurnal/romanii-inca-nu-inteleg-intimitatea-si-anonimitatea",
-      "published": "2026-11-06T11:52:00Z",
-      "summary": "The text distinguishes privacy from anonymity, emphasizing how linking public social-media identities to anonymous accounts can compromise both."
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "今回は写真多めです",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1291",
+      "published": "2026-11-07T12:20:19Z",
+      "summary": "A photo-heavy lifelog recounts visits to Kori Cafe, tasting CBSC and 消し炭, noticing cookie texture, arranging two figures, and unboxing a pink humidifier filter."
     },
     {
       "blog_title": "NomadWarMachine",
       "blog_url": "https://nomadwarmachine.co.uk/",
       "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Eastern Bloc Visuals",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/06/eastern-bloc-visuals/",
-      "published": "2026-11-06T10:57:48Z",
-      "summary": "Eastern Bloc Visuals compares Prague’s Cube building with Lancaster Services’ Pennine Tower, highlighting their shared Brutalist architectural style and historical imagery."
+      "post_title": "Troll",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/07/troll/",
+      "published": "2026-11-07T12:07:42Z",
+      "summary": "A DS106 Daily Create prompt about depicting trolls accompanies a personal account of an online troll who made spiteful comments and was eventually blocked."
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "イキりたいお年頃なのか？",
+      "post_url": "https://elve.club/entry/2026/11/07/204859?utm_source=feed",
+      "published": "2026-11-07T11:48:59Z",
+      "summary": "The writer reflects on difficult workplace interactions with error-intolerant colleagues, perceived condescension, gendered dynamics, and differing compatibility among coworkers."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "BANDCAMP FRIDAY: NOVEMBER 6, 2026",
+      "post_url": "https://pretendtypewriter.net/bandcamp-friday-november-6-2026/",
+      "published": "2026-11-07T11:41:00Z",
+      "summary": "The post recounts Bandcamp Friday purchases, highlighting music by 2 Mello and Magnolian, the story behind “Someday,” and future wishlist plans."
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com/",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Stalk’s Videogame Corner: Drop Duchy",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/11/07/stalks-videogame-corner-drop-duchy/",
+      "published": "2026-11-07T07:00:00Z",
+      "summary": "Drop Duchy combines Tetris-style terrain placement, roguelike progression, deckbuilding, base-building, and faction-specific strategies in randomized battles."
     },
     {
       "blog_title": "Rishi Dass",
       "blog_url": "https://rishidass.net",
       "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "The only teacher",
-      "post_url": "https://rishidass.net/posts/the-only-teacher",
-      "published": "2026-11-06T07:13:11Z",
-      "summary": "Rishi Dass reflects on discomfort as a teacher, encouraging curiosity toward difficult thoughts and emotions, emotional space, nonjudgmental observation, and rational action."
+      "post_title": "Dealing with situations",
+      "post_url": "https://rishidass.net/posts/dealing-with-situations",
+      "published": "2026-11-07T06:05:18Z",
+      "summary": "Rishi Dass outlines three responses to difficult situations: accept what cannot change, change what is unacceptable, or remove yourself, while avoiding complaints and lingering emotions."
     },
     {
       "blog_title": "Cynni’s Blog",
       "blog_url": "https://cynnisblog.wordpress.com/",
       "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Sleep, discomforts, and (lack of) energy 🪫",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/06/sleep-discomforts-and-lack-of-energy-%f0%9f%aa%ab/",
-      "published": "2026-11-06T06:00:26Z",
-      "summary": "Cynni describes how raising puppy Koa has worsened longstanding sleep and energy difficulties linked to ADHD, autism, fibromyalgia, medication changes, and health challenges."
+      "post_title": "Health is so precious…",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/07/health-is-so-precious/",
+      "published": "2026-11-07T06:00:53Z",
+      "summary": "Cynni’s Blog recounts lifelong hip problems, chronic illness, ADHD, trauma, binge eating, declining mental health, and ongoing efforts to regain strength and stability."
     },
     {
-      "blog_title": "#デザイン 記事まとめ",
-      "blog_url": "https://note.com/notemagazine/m/m57787022cedc",
-      "feed_url": "https://note.mu/notemag/m/m57787022cedc/rss",
-      "post_title": "今週のグッドデザインを紹介します（10/31 〜11/6）",
-      "post_url": "https://note.com/gooddesignaward/n/n9ca5fa8e65de",
-      "published": "2026-11-06T05:24:27Z",
-      "summary": "Six Good Design Award winners are introduced, including an exhibition, retail technology platform, regional magazine, disaster-support convenience store, cat health device, and chair."
+      "blog_title": "Sylvia's Studio",
+      "blog_url": "https://sylvia.studio/",
+      "feed_url": "https://sylvia.studio/feed.xml",
+      "post_title": "Knowember",
+      "post_url": "https://sylvia.studio/posts/knowember",
+      "published": "2026-11-07T05:23:00Z",
+      "summary": "Sylvia answers Knowember prompts about her nickname, travels from Dublin to the Netherlands, creative blog themes, and favorite posts about doodling."
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "Recovering From Surgery",
+      "post_url": "https://jasonjournals.com/posts/recovering-from-surgery",
+      "published": "2026-11-07T04:20:00Z",
+      "summary": "Jason Journals recounts surgery, early recovery challenges, activity and work restrictions, family support, gratitude for medical care, and gradual efforts to resume normal routines."
     },
     {
       "blog_title": "Taxodium",
       "blog_url": "https://taxodium.ink/",
       "feed_url": "https://taxodium.ink/index.xml",
-      "post_title": "學習網頁內容無障礙",
-      "post_url": "https://taxodium.ink/learn-web-content-accessibility.html",
-      "published": "2026-11-06T05:20:00Z",
-      "summary": "This guide explains WCAG 2.2’s layered structure, covering four principles, 13 guidelines, testable success criteria with A–AAA levels, and implementation techniques."
+      "post_title": "Album#49 - Music For Programming",
+      "post_url": "https://taxodium.ink/album-49.html",
+      "published": "2026-11-07T02:50:00Z",
+      "summary": "Album #49 introduces Datassette’s Music For Programming, ambient mixes designed to support concentration through noise, drones, arpeggios, field recordings, and atmospheric textures."
     },
     {
-      "blog_title": "The Works of Egan",
-      "blog_url": "https://theworksofegan.net/",
-      "feed_url": "https://theworksofegan.net/feed.xml",
-      "post_title": "Someone please free Card of Darkness from Apple Arcade",
-      "post_url": "https://theworksofegan.net/posts/2026-11-05-card-of-darkness-apple-arcade/",
-      "published": "2026-11-06T02:20:00Z",
-      "summary": "The piece praises Card of Darkness while criticizing Apple Arcade’s subscription model and advocating standalone purchases for games such as Mini Motorways."
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "The Pendulum Cycles",
+      "post_url": "https://brennan.day/the-pendulum-cycles/",
+      "published": "2026-11-07T02:00:00Z",
+      "summary": "Brennan Day reflects on political and economic upheaval, human cooperation and security, fragile independent media, and optimism within recurring historical cycles."
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Saturday, 7 November 2026",
+      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-07.html",
+      "published": "2026-11-07T00:00:00Z",
+      "summary": "The blogroll highlights gaming impressions, progress updates, historical analysis, sleep tracking, and Dave Winer’s BonBonWeb prototype for a decentralized writers web."
+    },
+    {
+      "blog_title": "Tommyeveryday",
+      "blog_url": "https://tommyeveryday.mataroa.blog",
+      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
+      "post_title": "Saturday November 7, 2026",
+      "post_url": "https://tommyeveryday.mataroa.blog/blog/saturday-november-7-2026/",
+      "published": "2026-11-07T00:00:00Z",
+      "summary": "A daily journal recounts computer troubleshooting, Chromebook setup, equipment organization, blog-platform migration research, scripting challenges, meals, and the reported death of John D. Rockefeller IV."
+    },
+    {
+      "blog_title": "Cheshire Gaming",
+      "blog_url": "https://www.cheshiregaming.com/",
+      "feed_url": "https://www.cheshiregaming.com/feeds/posts/default",
+      "post_title": "Jade Shadows: Constellations",
+      "post_url": "https://www.cheshiregaming.com/2026/11/jade-shadows-constellations.html",
+      "published": "2026-11-06T23:50:46Z",
+      "summary": "The Jade Shadows: Constellations update adds a story quest, Sirius & Orion Warframe, Railjack missions, currencies, equipment, vendors, and hidden cosmetics."
+    },
+    {
+      "blog_title": "Tome of the Ancient",
+      "blog_url": "https://tomeoftheancient.wordpress.com/",
+      "feed_url": "https://tomeoftheancient.wordpress.com/feed/",
+      "post_title": "My Apologies to Cat, Sy, Yansee, Cim and … everyone else",
+      "post_url": "https://tomeoftheancient.wordpress.com/2026/11/06/my-apologies-to-cat-sy-yansee-cim-and-everyone-else/",
+      "published": "2026-11-06T23:32:52Z",
+      "summary": "A player apologizes for neglecting characters while enjoying Forever, describing new Druid, Mage, and Warlock characters, crowded chat, starter quests, and pursuing cat form."
     }
   ]
 }
