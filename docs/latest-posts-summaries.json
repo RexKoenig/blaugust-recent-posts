@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T14:17:43.370384Z",
-  "source_generated_at": "2026-11-08T14:17:07.012922Z",
+  "generated_at": "2026-11-08T22:53:18.855159Z",
+  "source_generated_at": "2026-11-08T22:52:43.721534Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -8,13 +8,121 @@
   "summary_count": 19,
   "posts": [
     {
+      "blog_title": "Leekscosycorner",
+      "blog_url": "https://leekscosycorner.com/",
+      "feed_url": "https://leekscosycorner.com/feed/",
+      "post_title": "RATATAN – Patapon’s Spiritual Successor Delivers Catchy Chaos",
+      "post_url": "https://leekscosycorner.com/2026/11/08/ratatan/",
+      "published": "2026-11-08T22:51:56Z",
+      "summary": "RATATAN is a rhythm-based roguelike action game and spiritual successor to Patapon, featuring cooperative battles, customizable teams, catchy music, and Steam Deck support."
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "あなたが私にくれたもの",
+      "post_url": "https://elve.club/entry/2026/11/09/072845?utm_source=feed",
+      "published": "2026-11-08T22:28:45Z",
+      "summary": "A reflection on a lost LED light with an emergency whistle, a gift from the writer’s former husband, Marusei, and their distant relationship."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "⚙︎ Apple Increases Trade-In Values",
+      "post_url": "https://jagsworkshop.com/2026/11/apple-increases-trade-in-values/",
+      "published": "2026-11-08T22:01:16Z",
+      "summary": "Apple’s trade-in values for older Macs and iPads have risen sharply amid increased memory and storage prices, prompting consideration of trading or selling devices soon."
+    },
+    {
+      "blog_title": "The Nosy Gamer",
+      "blog_url": "https://nosygamer.blogspot.com/",
+      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
+      "post_title": "Nine Employees Laid Off The EVE Frontier Development Team",
+      "post_url": "https://nosygamer.blogspot.com/2026/11/nine-employees-laid-off-eve-frontier.html",
+      "published": "2026-11-08T20:09:51Z",
+      "summary": "Fenris Creations laid off nine full-time employees from the EVE Frontier development team after reviewing the project’s priorities, structure, and development plans."
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Democrats won. Now what?",
+      "post_url": "https://michaelharley.net/posts/2026/11/08/democrats-won-now-what/",
+      "published": "2026-11-08T18:46:00Z",
+      "summary": "Michael Harley outlines Democratic priorities after a midterm victory, emphasizing ethics investigations, accountability, democratic reforms, campaign finance, judicial terms, and momentum toward 2028."
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "Word Nerd Alert: Blatherskite",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/08/word-nerd-alert-blatherskite.html",
+      "published": "2026-11-08T18:03:16Z",
+      "summary": "“Blatherskite” is defined as a noun meaning a person who speaks nonsense or nonsense itself, with Scots roots and usage dating to around 1650."
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Crosswritten between the lines",
+      "post_url": "https://francescrossley.com/crosswritten-between-the-lines/",
+      "published": "2026-11-08T18:00:00Z",
+      "summary": "Crosswriting, a space-saving letter-writing practice using perpendicular or angled text, is illustrated through historical postage costs, Jane Austen’s correspondence, and Victorian postal reforms."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Stellaris Endgame Crisis Guide (4.5): Spawn Years and Counters",
+      "post_url": "https://gamerofpassion.com/stellaris-endgame-crisis/",
+      "published": "2026-11-08T17:00:00Z",
+      "summary": "Stellaris 4.5.3’s endgame crisis guide explains spawn timing, probability, settings, and tailored fleet counters for the Unbidden, Prethoryn, Contingency, and Cetana."
+    },
+    {
+      "blog_title": "Indiecator",
+      "blog_url": "https://indiecator.org/",
+      "feed_url": "https://indiecator.home.blog/feed/",
+      "post_title": "Sephiria is one of the most outstanding Roguelikes to come out this year! (Review)",
+      "post_url": "https://indiecator.org/2026/11/08/sephiria-review/",
+      "published": "2026-11-08T16:39:12Z",
+      "summary": "Sephiria is a top-down action roguelike featuring inventory-based builds, diverse weapons, customizable upgrades, procedurally generated floors, and challenging bosses in a demon-threatened world."
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "TAGN Fantasy Critic League 2026 – Week Forty-Five and The Legend of Zelda: Ocarina of Time",
+      "post_url": "https://tagn.wordpress.com/2026/11/08/tagn-fantasy-critic-league-2026-week-forty-five-and-the-legend-of-zelda-ocarina-of-time/",
+      "published": "2026-11-08T16:15:58Z",
+      "summary": "Week 45 of the TAGN Fantasy Critic League covers World of Warcraft: Forever, The Legend of Zelda: Ocarina of Time, standings changes, bids, and upcoming releases."
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "AMD GPU Driver Bug That Writes Continuously to SSDs Returns: Fix Due in November Release",
+      "post_url": "https://joho-todai.com/en/amd-gpu-driver-ssd-write-bug-november-fix/",
+      "published": "2026-11-08T16:08:16Z",
+      "summary": "An AMD Radeon driver bug involving atieclxx.exe causes continuous SSD writes, with workarounds including disabling the service, ReBAR, downgrading drivers, or replacing files."
+    },
+    {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "有機ELテレビの画面端に画素欠損、旧世代WOLEDの長期試験で確認",
-      "post_url": "https://joho-todai.com/oled-tv-pixel-defects-woled-long-term-test/",
-      "published": "2026-11-08T14:11:20Z",
-      "summary": null
+      "post_title": "AMDのGPUドライバ、SSDに常時書き込みを続けるバグが再発。修正は11月中のリリースまで届かない",
+      "post_url": "https://joho-todai.com/amd-gpu-driver-ssd-write-bug-november-fix/",
+      "published": "2026-11-08T16:08:16Z",
+      "summary": "AMD Radeon drivers reportedly cause atieclxx.exe to write continuously to SSDs, affecting performance and potentially wear, with workarounds available before version 26.11.1."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "WOCHE 45",
+      "post_url": "https://pretendtypewriter.net/2026-week-45/",
+      "published": "2026-11-08T16:07:00Z",
+      "summary": "Woche 45 beschreibt Müdigkeit, eine hilfreiche neue Routine, Entspannungsübungen, Ukulele-Vorbereitungen für eine queerspace-Talentshow und geplante Aktivitäten."
     },
     {
       "blog_title": "Parallel Spirals",
@@ -26,15 +134,6 @@
       "summary": "Weekly Notes 45/2026 covers a Logan’s ECM repair, course certification, reading and television habits, Diwali preparations, AI perspectives, technical writing, finance, and space startups."
     },
     {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Linux 7.4 Automates PerfOpt for AMD Integrated GPUs: The Bypass Is Disabled Before Switching to VFIO",
-      "post_url": "https://joho-todai.com/en/linux-74-amd-gpu-perfopt-auto-control-vfio/",
-      "published": "2026-11-08T13:50:20Z",
-      "summary": "Linux 7.4 moves AMD integrated GPU PerfOpt management from AMDGPU to IOMMU domains, disabling its translation bypass before VFIO or protected-domain transitions."
-    },
-    {
       "blog_title": "TGLG",
       "blog_url": "https://392ms.witchserver.jp/kb/",
       "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
@@ -42,6 +141,15 @@
       "post_url": "https://392ms.witchserver.jp/kb/?postid=1293",
       "published": "2026-11-08T12:42:08Z",
       "summary": "A creator begins practicing character design for an original work, postponing decisions about clothing and color while regaining motivation to draw."
+    },
+    {
+      "blog_title": "素生",
+      "blog_url": "https://z.arlmy.me/",
+      "feed_url": "http://z.arlmy.me/atom.xml",
+      "post_title": "摘：《六论自发性》",
+      "post_url": "https://z.arlmy.me/posts/Note/Note_JamesCScott_TwoCheersForAnarchism/",
+      "published": "2026-11-08T11:27:46Z",
+      "summary": null
     },
     {
       "blog_title": "NomadWarMachine",
@@ -78,114 +186,6 @@
       "post_url": "https://thinkroot.xyz/manifestul-cripto-anarhist",
       "published": "2026-11-08T10:00:00Z",
       "summary": "Timothy C. May’s 1988 manifesto explores cryptographically enabled anonymous communication, commerce, and contracts, predicting profound changes to government, taxation, secrecy, reputation, and intellectual property."
-    },
-    {
-      "blog_title": "Tobold's Blog",
-      "blog_url": "http://tobolds.blogspot.com/",
-      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
-      "post_title": "Going into surgery",
-      "post_url": "http://tobolds.blogspot.com/2026/11/going-into-surgery.html",
-      "published": "2026-11-08T09:13:26Z",
-      "summary": "Tobold describes undergoing surgery for a benign enlarged prostate, his expected four-day hospital stay, recovery pause from blogging, and concerns about possible after-effects."
-    },
-    {
-      "blog_title": "Stories by Audrey Zetta on Medium",
-      "blog_url": "https://medium.com/@audreyzetta?source=rss-529ca56efa34------2",
-      "feed_url": "https://medium.com/feed/@audreyzetta",
-      "post_title": "Aluminum Foil Wars",
-      "post_url": "https://medium.com/read-or-die/aluminum-foil-wars-31cd76e56b82?source=rss-529ca56efa34------2",
-      "published": "2026-11-08T08:46:43Z",
-      "summary": "Audrey Zetta recounts caring for her mother with Alzheimer’s, focusing on repeated conversations, household routines, and the complicated effort to preserve her independence."
-    },
-    {
-      "blog_title": "Dear Angel",
-      "blog_url": "https://dearangelblog.tumblr.com/",
-      "feed_url": "https://dearangelblog.tumblr.com/rss",
-      "post_title": "A Room of One’s Own",
-      "post_url": "https://dearangelblog.tumblr.com/post/832702602646077440",
-      "published": "2026-11-08T08:38:05Z",
-      "summary": "Highgate’s Holly Lodge Estate combined historic charm with purpose-built housing, amenities, and financial independence for working women in interwar London."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Bannerlord Beginner Guide (War Sails, v1.4.8): What to Do First, Step by Step",
-      "post_url": "https://gamerofpassion.com/bannerlord-beginner-guide/",
-      "published": "2026-11-08T08:00:00Z",
-      "summary": "A Bannerlord v1.4.8 beginner guide explains starting choices, early recruitment, food, combat, progression, character creation, and advancement toward mercenary and vassal status."
-    },
-    {
-      "blog_title": "わくパンの思考のかけら",
-      "blog_url": "https://wakupanbouquet.hatenablog.com/",
-      "feed_url": "https://wakupanbouquet.hatenablog.com/rss",
-      "post_title": "2026-W45 週報 引っ越し完！！！（無限部屋ぐちゃぐちゃ編）",
-      "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/11/08/170000",
-      "published": "2026-11-08T08:00:00Z",
-      "summary": "A weekly report describes the strain of moving, an unsettled home, lifestyle changes, switching psychiatrists, fatigue, breathlessness, and plans for exercise and commissions."
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Mad Man Jaga – Wakabout",
-      "post_url": "https://amf.didiermary.fr/mad-man-jaga-wakabout/",
-      "published": "2026-11-08T07:32:30Z",
-      "summary": "Mad Man Jaga’s 1978 Nigerian LP Wakabout, released on Sir Victor Uwaifo’s JOROMI label, combines percussive afrobeat funk, deep soul vocals, brass, keyboards, and African reggae."
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "#SilentSunday – Cuteness 💜🩵🩷 overload",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/08/silentsunday-cuteness-%f0%9f%92%9c%f0%9f%a9%b5%f0%9f%a9%b7-overload/",
-      "published": "2026-11-08T06:00:00Z",
-      "summary": "A Silent Sunday post features a close-up portrait of Koa, an adolescent chocolate Labrador Retriever, with one ear humorously flipped inside out."
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Stop complaining",
-      "post_url": "https://rishidass.net/posts/stop-complaining",
-      "published": "2026-11-08T05:55:00Z",
-      "summary": "Rishi Dass argues that habitual complaining drains energy, encourages pessimism and blame, and avoids personal responsibility, while allowing occasional rational criticism."
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "Match (2014) — ⭐⭐⭐⭐ (4/5)",
-      "post_url": "https://michaelharley.net/watching/2026/11/07/match/",
-      "published": "2026-11-08T00:30:07Z",
-      "summary": "Match follows a Seattle couple interviewing former dancer Tobi for dance-dissertation research, as personal questions erode social graces and complicate the interview’s purpose."
-    },
-    {
-      "blog_title": "Daily Blogroll",
-      "blog_url": "http://westkarana.xyz",
-      "feed_url": "https://westkarana.xyz/rss.xml",
-      "post_title": "The Daily Blogroll — Sunday, 8 November 2026",
-      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-08.html",
-      "published": "2026-11-08T00:00:00Z",
-      "summary": "The Daily Blogroll surveys gaming, politics, gardening, health, technology, television, online costs, creative tools, and efforts to build a more open web."
-    },
-    {
-      "blog_title": "Juha-Matti Santala",
-      "blog_url": "https://hamatti.org/",
-      "feed_url": "https://hamatti.org/feed/feed.xml",
-      "post_title": "Djangonaut Log 4: Avoiding asteroids",
-      "post_url": "https://hamatti.org/posts/djangonaut-log-4-avoiding-asteroids/",
-      "published": "2026-11-08T00:00:00Z",
-      "summary": "Juha-Matti Santala reflects on an anxious week in Djangonaut Space, community participation, conversations with Alex, and plans for a fireside chat about note-taking."
-    },
-    {
-      "blog_title": "Heart Soul Machine",
-      "blog_url": "https://heartsoulmachine.com/",
-      "feed_url": "https://heartsoulmachine.com/feed.xml",
-      "post_title": "October 2026",
-      "post_url": "https://heartsoulmachine.com/blog/2026/11-08-october-2026/",
-      "published": "2026-11-08T00:00:00Z",
-      "summary": "October 2026 recounts family experiences, possible relocation, professional and cultural events, entertainment opinions, and enthusiasm for the Stalked podcast."
     }
   ]
 }
