@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-11-07T22:45:03.104922Z",
+  "generated_at": "2026-11-08T14:17:07.012922Z",
   "feed_count": 356,
-  "successful_feeds": 327,
-  "failed_feeds": 29,
+  "successful_feeds": 325,
+  "failed_feeds": 31,
   "post_count": 20,
   "posts": [
     {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Stephen Miller: ‘A Colossal Mistake’",
-      "post_url": "https://www.cnn.com/2026/11/06/politics/video/tillis-on-trump-making-stephen-miller-wh-chief-of-staff-the-worst-of-all-possible-choices-the-lead-jake-tapper",
-      "published": "2026-11-07T21:34:33Z"
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "有機ELテレビの画面端に画素欠損、旧世代WOLEDの長期試験で確認",
+      "post_url": "https://joho-todai.com/oled-tv-pixel-defects-woled-long-term-test/",
+      "published": "2026-11-08T14:11:20Z"
     },
     {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris Biomorphosis Guide (4.5): Best Path and Picks",
-      "post_url": "https://gamerofpassion.com/stellaris-biomorphosis/",
-      "published": "2026-11-07T20:00:00Z"
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Knowember 2026",
-      "post_url": "https://sals.place/blog/knowember-2026/",
-      "published": "2026-11-07T19:24:27Z"
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "Birthday Blessings",
-      "post_url": "https://jasonjournals.com/posts/birthday-blessings",
-      "published": "2026-11-07T18:02:57Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Soulframe Pre-Alpha - First Impressions - Set-Up, Cinematic, Character Creation And Tutorial",
-      "post_url": "https://bhagpuss.blogspot.com/2026/11/soulframe-alpha-first-impressions-set.html",
-      "published": "2026-11-07T17:12:56Z"
+      "blog_title": "Parallel Spirals",
+      "blog_url": "https://pradx.in",
+      "feed_url": "https://pradx.in/feed/",
+      "post_title": "Weekly Notes 45/2026",
+      "post_url": "https://pradx.in/2026/11/08/weekly-notes-45-2026/",
+      "published": "2026-11-08T14:01:50Z"
     },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Intel's Razor Lake-S Could Arrive in 2028: LGA 1954 May Span Multiple Generations",
-      "post_url": "https://joho-todai.com/en/razor-lake-s-2028-lga-1954/",
-      "published": "2026-11-07T17:00:58Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Intel「Razor Lake-S」は2028年投入か。LGA 1954を複数世代で使う構想",
-      "post_url": "https://joho-todai.com/razor-lake-s-2028-lga-1954/",
-      "published": "2026-11-07T17:00:58Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Knowember 2026",
-      "post_url": "https://francescrossley.com/knowember-2026/",
-      "published": "2026-11-07T17:00:00Z"
-    },
-    {
-      "blog_title": "Priest with a Cause",
-      "blog_url": "https://priestwithacause.blogspot.com/",
-      "feed_url": "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Forever: Visiting the Neighbours",
-      "post_url": "https://priestwithacause.blogspot.com/2026/11/forever-visiting-neighbours.html",
-      "published": "2026-11-07T16:57:04Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - woods",
-      "post_url": "https://pretendtypewriter.net/note-woods/",
-      "published": "2026-11-07T16:25:00Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Introducing Your CSM21 Representatives",
-      "post_url": "https://tagn.wordpress.com/2026/11/07/introducing-your-csm21-representatives/",
-      "published": "2026-11-07T16:15:57Z"
-    },
-    {
-      "blog_title": "Bavatuesdays",
-      "blog_url": "https://bavatuesdays.com",
-      "feed_url": "http://bavatuesdays.com/feed/",
-      "post_title": "Online Learning – The Musical starring Terry Greene",
-      "post_url": "https://bavatuesdays.com/online-learning-the-musical-starring-terry-greene/",
-      "published": "2026-11-07T14:57:40Z"
+      "post_title": "Linux 7.4 Automates PerfOpt for AMD Integrated GPUs: The Bypass Is Disabled Before Switching to VFIO",
+      "post_url": "https://joho-todai.com/en/linux-74-amd-gpu-perfopt-auto-control-vfio/",
+      "published": "2026-11-08T13:50:20Z"
     },
     {
       "blog_title": "TGLG",
       "blog_url": "https://392ms.witchserver.jp/kb/",
       "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "(Loading...)...",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1292",
-      "published": "2026-11-07T14:04:13Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "2026 Cost of Being Online",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-07-cost-of-being-online/",
-      "published": "2026-11-07T14:00:00Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "Six Canadian slasher horror flicks from the ’80s",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/07/six-canadian-slasher-horror-flicks-from-the-80s/",
-      "published": "2026-11-07T13:00:08Z"
-    },
-    {
-      "blog_title": "Another Dayu",
-      "blog_url": "https://anotherdayu.com/",
-      "feed_url": "https://anotherdayu.com/feed/",
-      "post_title": "ChatGPT Dot 日常使用记录",
-      "post_url": "https://anotherdayu.com/how-i-use-dots/",
-      "published": "2026-11-07T12:27:00Z"
+      "post_title": "No.1293",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1293",
+      "published": "2026-11-08T12:42:08Z"
     },
     {
       "blog_title": "NomadWarMachine",
       "blog_url": "https://nomadwarmachine.co.uk/",
       "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Troll",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/07/troll/",
-      "published": "2026-11-07T12:07:42Z"
+      "post_title": "Moving Image Archives",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/08/moving-image-archives/",
+      "published": "2026-11-08T11:16:45Z"
     },
     {
-      "blog_title": "スナックエルベ",
-      "blog_url": "https://elve.club/",
-      "feed_url": "https://elve.club/feed",
-      "post_title": "イキりたいお年頃なのか？",
-      "post_url": "https://elve.club/entry/2026/11/07/204859?utm_source=feed",
-      "published": "2026-11-07T11:48:59Z"
+      "blog_title": "A Pixel Nomad",
+      "blog_url": "https://pixelnomad.ca/",
+      "feed_url": "https://pixelnomad.ca/feed/",
+      "post_title": "[WoW] Aelwyn Mossbottom – A Rather Unfortunate Druid",
+      "post_url": "https://pixelnomad.ca/2026/11/08/wow-aelwyn-mossbottom-a-rather-unfortunate-druid/",
+      "published": "2026-11-08T10:55:43Z"
     },
     {
-      "blog_title": "Beyond the Horizon",
-      "blog_url": "https://blog.spencermagnusson.com",
-      "feed_url": "https://blog.spencermagnusson.com/feed.xml",
-      "post_title": "My Gear",
-      "post_url": "https://blog.spencermagnusson.com/my_gear/",
-      "published": "2026-11-07T07:00:00Z"
+      "blog_title": "Yordi - A Lifelong Journey of Growth",
+      "blog_url": "https://yordi.me/",
+      "feed_url": "https://yordi.me/feed/",
+      "post_title": "Knowember",
+      "post_url": "https://yordi.me/knowember/",
+      "published": "2026-11-08T10:36:00Z"
     },
     {
-      "blog_title": "Cubic Creativity",
-      "blog_url": "https://cubiccreativity.wordpress.com/",
-      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
-      "post_title": "Stalk’s Videogame Corner: Drop Duchy",
-      "post_url": "https://cubiccreativity.wordpress.com/2026/11/07/stalks-videogame-corner-drop-duchy/",
-      "published": "2026-11-07T07:00:00Z"
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Manifestul criptoanarhist",
+      "post_url": "https://thinkroot.xyz/manifestul-cripto-anarhist",
+      "published": "2026-11-08T10:00:00Z"
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Going into surgery",
+      "post_url": "http://tobolds.blogspot.com/2026/11/going-into-surgery.html",
+      "published": "2026-11-08T09:13:26Z"
+    },
+    {
+      "blog_title": "Stories by Audrey Zetta on Medium",
+      "blog_url": "https://medium.com/@audreyzetta?source=rss-529ca56efa34------2",
+      "feed_url": "https://medium.com/feed/@audreyzetta",
+      "post_title": "Aluminum Foil Wars",
+      "post_url": "https://medium.com/read-or-die/aluminum-foil-wars-31cd76e56b82?source=rss-529ca56efa34------2",
+      "published": "2026-11-08T08:46:43Z"
+    },
+    {
+      "blog_title": "Dear Angel",
+      "blog_url": "https://dearangelblog.tumblr.com/",
+      "feed_url": "https://dearangelblog.tumblr.com/rss",
+      "post_title": "A Room of One’s Own",
+      "post_url": "https://dearangelblog.tumblr.com/post/832702602646077440",
+      "published": "2026-11-08T08:38:05Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Bannerlord Beginner Guide (War Sails, v1.4.8): What to Do First, Step by Step",
+      "post_url": "https://gamerofpassion.com/bannerlord-beginner-guide/",
+      "published": "2026-11-08T08:00:00Z"
+    },
+    {
+      "blog_title": "わくパンの思考のかけら",
+      "blog_url": "https://wakupanbouquet.hatenablog.com/",
+      "feed_url": "https://wakupanbouquet.hatenablog.com/rss",
+      "post_title": "2026-W45 週報 引っ越し完！！！（無限部屋ぐちゃぐちゃ編）",
+      "post_url": "https://wakupanbouquet.hatenablog.com/entry/2026/11/08/170000",
+      "published": "2026-11-08T08:00:00Z"
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "Mad Man Jaga – Wakabout",
+      "post_url": "https://amf.didiermary.fr/mad-man-jaga-wakabout/",
+      "published": "2026-11-08T07:32:30Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "#SilentSunday – Cuteness 💜🩵🩷 overload",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/08/silentsunday-cuteness-%f0%9f%92%9c%f0%9f%a9%b5%f0%9f%a9%b7-overload/",
+      "published": "2026-11-08T06:00:00Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Stop complaining",
+      "post_url": "https://rishidass.net/posts/stop-complaining",
+      "published": "2026-11-08T05:55:00Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Match (2014) — ⭐⭐⭐⭐ (4/5)",
+      "post_url": "https://michaelharley.net/watching/2026/11/07/match/",
+      "published": "2026-11-08T00:30:07Z"
+    },
+    {
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Sunday, 8 November 2026",
+      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-08.html",
+      "published": "2026-11-08T00:00:00Z"
+    },
+    {
+      "blog_title": "Juha-Matti Santala",
+      "blog_url": "https://hamatti.org/",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "post_title": "Djangonaut Log 4: Avoiding asteroids",
+      "post_url": "https://hamatti.org/posts/djangonaut-log-4-avoiding-asteroids/",
+      "published": "2026-11-08T00:00:00Z"
+    },
+    {
+      "blog_title": "Heart Soul Machine",
+      "blog_url": "https://heartsoulmachine.com/",
+      "feed_url": "https://heartsoulmachine.com/feed.xml",
+      "post_title": "October 2026",
+      "post_url": "https://heartsoulmachine.com/blog/2026/11-08-october-2026/",
+      "published": "2026-11-08T00:00:00Z"
     }
   ]
 }
