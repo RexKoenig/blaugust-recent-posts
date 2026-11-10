@@ -1,191 +1,191 @@
 {
-  "generated_at": "2026-11-10T02:08:01.290142Z",
-  "source_generated_at": "2026-11-10T02:07:32.640144Z",
+  "generated_at": "2026-11-10T15:35:49.858155Z",
+  "source_generated_at": "2026-11-10T15:35:05.773592Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 19,
+  "summary_count": 18,
   "posts": [
     {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Qubole連携のIAMロール経由で複数企業に侵入、使われていないロールが入口に",
-      "post_url": "https://joho-todai.com/qubole-iam-role-multiple-companies-breach/",
-      "published": "2026-11-10T01:42:19Z",
+      "post_title": "X.Org ServerとXWaylandに8件の脆弱性、10月の12件に続く追加修正",
+      "post_url": "https://joho-todai.com/xorg-xwayland-8-vulnerabilities-security-patches/",
+      "published": "2026-11-10T15:27:07Z",
       "summary": null
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "Soir Au Village – Manu Dibango",
+      "post_url": "https://amf.didiermary.fr/soir-au-village-manu-dibango/",
+      "published": "2026-11-10T15:21:28Z",
+      "summary": "Manu Dibango’s 1974 Fiesta EP “Soir au Village,” released after “Soul Makossa,” features a hit alongside “Mwasa Makossa” and later alternate versions."
+    },
+    {
+      "blog_title": "Frostilyte Writes",
+      "blog_url": "https://frostilyte.ca/",
+      "feed_url": "https://frostilyte.ca/feed/",
+      "post_title": "Annihilated Review",
+      "post_url": "https://frostilyte.ca/2026/11/10/annihilated-review/",
+      "published": "2026-11-10T15:05:40Z",
+      "summary": "Annihilated follows a doomed rescue expedition through branching narrative routes, varied companions, uneven writing, well-paced revelations, and distinctive turn-based combat built around degrading equipment."
     },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Meta Unveils Muse Ember, a Small Model for AI Agents: $0.10 per Million Input Tokens",
-      "post_url": "https://joho-todai.com/en/meta-muse-ember-ai-agent-model/",
-      "published": "2026-11-10T01:20:08Z",
-      "summary": "Meta announced Muse Ember, a low-cost multimodal model for repetitive AI-agent tasks, offering extensive context, benchmarked performance, cloud availability, and usage-dependent pricing."
+      "post_title": "GitHub Actions Preview Detects Credentials in Workflow Logs and Keeps Alerts After Log Deletion",
+      "post_url": "https://joho-todai.com/en/github-actions-credentials-leak-detection-preview/",
+      "published": "2026-11-10T15:05:07Z",
+      "summary": "GitHub’s public preview scans Actions workflow logs for provider-specific credentials, retaining alerts after log deletion while requiring manual review and remediation."
     },
     {
-      "blog_title": "Kelson Vibber: New Posts",
-      "blog_url": "https://kvibber.com/",
-      "feed_url": "https://kvibber.com/feed.xml",
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - blank negatives",
+      "post_url": "https://pretendtypewriter.net/note-blank-negatives/",
+      "published": "2026-11-10T15:04:58Z",
+      "summary": "A note recounts a photo studio reporting that film from a two-year-old Paris trip developed completely blank, prompting concern about an aging family camera."
+    },
+    {
+      "blog_title": "BurgeonLab",
+      "blog_url": "https://burgeonlab.com/",
+      "feed_url": "https://burgeonlab.com/all/feed.xml",
+      "post_title": "Back From Self Hosting Networking Hell and Back",
+      "post_url": "https://burgeonlab.com/notes/2026/1110-2256/",
+      "published": "2026-11-10T14:56:32Z",
+      "summary": "A Raspberry Pi upgrade broke Indiekit authentication, leading to troubleshooting involving Docker, Caddy, Tailscale, and networking before Render restored access."
+    },
+    {
+      "blog_title": "ThinkRoot",
+      "blog_url": "https://thinkroot.xyz/",
+      "feed_url": "https://thinkroot.xyz/feed.php",
+      "post_title": "Cinemaraton Play, o platformă de streaming doar cu filme românești",
+      "post_url": "https://thinkroot.xyz/jurnal/cinemaraton-play-o-platforma-de-streaming-doar-cu-filme-romanesti",
+      "published": "2026-11-10T14:10:00Z",
+      "summary": "Cinemaraton Play, lansată de Clever Media la 1 decembrie 2026, va oferi filme românești, producții independente, documentare, interviuri și transmisii live ale canalului Cinemaraton."
+    },
+    {
+      "blog_title": "Chasing Dings!",
+      "blog_url": "https://chasingdings.com/",
+      "feed_url": "https://chasingdings.com/?feed=rss2",
+      "post_title": "Frosthaven Scenario #120: Under the Influence",
+      "post_url": "https://chasingdings.com/2026/11/10/frosthaven-scenario-120-under-the-influence/",
+      "published": "2026-11-10T13:21:23Z",
+      "summary": "A Frosthaven party tackles Scenario #120, “Under the Influence,” navigating randomized card choices, battling guards and Vermlings, and destroying a Mind Thief-created orb."
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "7周年特番見た！",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1294",
+      "published": "2026-11-10T13:17:06Z",
+      "summary": "The writer celebrates a seven-year special announcement, highlighting progress on Main Story Part Three, voice additions, upgraded content, and appealing scarf designs."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "TekWar: TekLords (1994) — Virus Checker: The Movie",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/10/tekwar-teklords-1994-virus-checker-the-movie/",
+      "published": "2026-11-10T13:00:28Z",
+      "summary": "TekLords follows ex-cop Jake Cardigan investigating a mind-infecting computer virus while navigating crime bosses, family tensions, and elaborate 1990s cyberpunk technology."
+    },
+    {
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Martin Schuhmann - November 10, 2026 13:45",
+      "post_url": "https://martinschuhmann.com/blog/bf0349a1",
+      "published": "2026-11-10T12:45:00Z",
+      "summary": null
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Literary Clock",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/10/literary-clock/",
+      "published": "2026-11-10T10:47:00Z",
+      "summary": "The post explores Literary Clock, a website displaying time-specific literary quotations, and depicts a 10:38 passage from Sophie Kinsella’s The Undomestic Goddess using NightCafe."
+    },
+    {
+      "blog_title": "Overage-Gaming",
+      "blog_url": "https://overage-gaming.com/",
+      "feed_url": "https://overage-gaming.com/feed/",
+      "post_title": "The Alighieri Circle Dante’s Bloodline: The Horror Game With No Combat and All Dread (Gameplay)",
+      "post_url": "https://overage-gaming.com/2026/11/10/the-alighieri-circle-dantes-bloodline-the-horror-game-with-no-combat-and-all-dread-gameplay/",
+      "published": "2026-11-10T08:01:00Z",
+      "summary": "The Alighieri Circle: Dante’s Bloodline is a combat-free psychological horror game where Gabriele Alighieri explores an Italian villa, solves literary puzzles, and reseals Hell’s gates."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "⚙︎ Celebrating Citizenship, Year Nine",
+      "post_url": "https://jagsworkshop.com/2026/11/celebrating-citizenship-year-nine/",
+      "published": "2026-11-10T07:31:39Z",
+      "summary": "JAG’s ninth citizenship anniversary reflects on an election’s Democratic victories, historic firsts, Elon Musk’s failed political spending, and cautious optimism about America’s future."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Finding stillness",
+      "post_url": "https://rishidass.net/posts/finding-stillness",
+      "published": "2026-11-10T07:06:20Z",
+      "summary": "Rishi Dass reflects on finding stillness amid busyness, arguing that quiet can underlie productive work and that analog or digital tools need not determine focus."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Journal – Week 45, November 2026",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/10/journal-week-45-november-2026/",
+      "published": "2026-11-10T06:00:00Z",
+      "summary": "Cynni’s week with Koa covers poor sleep, fluctuating health and energy, gym visits, household chores, writing, walks, and preparations for suspected mouse activity."
+    },
+    {
+      "blog_title": "Everything is bad for you",
+      "blog_url": "https://sonatano1.wordpress.com",
+      "feed_url": "https://sonatano1.wordpress.com/feed/",
+      "post_title": "Audiobook review: The Conspiracy Against the Human Race by Thomas Ligotti",
+      "post_url": "https://sonatano1.wordpress.com/2026/11/09/audiobook-review-the-conspiracy-against-the-human-race-by-thomas-ligotti/",
+      "published": "2026-11-10T04:43:10Z",
+      "summary": "Thomas Ligotti’s The Conspiracy Against the Human Race prompts reflections on philosophical pessimism, consciousness, suffering, existential meaning, religion, and antinatalism."
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "Divinity Original Sin 2 - Act 4 - Driftwood Underground 36h00",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-09-dos2/",
+      "published": "2026-11-10T04:40:24Z",
+      "summary": "A gameplay diary recounts exploring Driftwood’s underground tunnels, investigating tangled quests, negotiating with Magisters, solving a puzzle, meeting suspicious characters, and experimenting with crafting."
+    },
+    {
+      "blog_title": "K-Squared Ramblings",
+      "blog_url": "https://journal.kvibber.com/",
+      "feed_url": "http://www.hyperborea.org/journal/feed/",
       "post_title": "I’m becoming the old man who writes to businesses about their screw-ups",
       "post_url": "https://journal.kvibber.com/2026/11/old-man-writing/",
       "published": "2026-11-10T00:20:11Z",
       "summary": "Kelson Vibber recounts a delivery order misdirected by Uber’s software, requiring sick customer and driver to resolve the incorrect dropoff location through messaging."
     },
     {
-      "blog_title": "World of Matticus",
-      "blog_url": "https://worldofmatticus.com/",
-      "feed_url": "https://worldofmatticus.com/feed/",
-      "post_title": "Matt’s Notebook: The Forever Edition",
-      "post_url": "https://worldofmatticus.com/matts-notebook-the-forever-edition/",
-      "published": "2026-11-09T22:10:09Z",
-      "summary": "Matticus recounts raid progress, recruitment difficulties, and leveling as a Mage in World of Warcraft: Forever, including zone crowding and new dungeon experiences."
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Soulframe Pre-Alpha - First Impressions - World, Combat, Mechanics",
-      "post_url": "https://bhagpuss.blogspot.com/2026/11/soulframe-pre-alpha-first-impressions.html",
-      "published": "2026-11-09T20:42:41Z",
-      "summary": "Soulframe’s pre-alpha world features open exploration across a war-torn wasteland, human-focused combat, guided objectives, and a contrasting flower-filled underground city."
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Five joyful things in week 45",
-      "post_url": "https://sylvia.studio/posts/five-joyful-things-in-week-45",
-      "published": "2026-11-09T19:30:05Z",
-      "summary": "Sylvia recounts five joyful highlights from a Dublin vacation, including magnificent weather, extensive walks, café and park rests, St Patrick’s Cathedral, a gel pen, and reunited cats."
-    },
-    {
-      "blog_title": "AppAddict",
-      "blog_url": "https://appaddict.app/",
-      "feed_url": "https://apps.louplummer.lol/feed.atom",
-      "post_title": "AppAddict on Temporary Hiatus",
-      "post_url": "https://appaddict.app/post/appaddict-on-temporary-hiatus",
-      "published": "2026-11-09T18:52:52Z",
-      "summary": "AppAddict is temporarily pausing operations while its operator recovers from cycling injuries, leaving existing reviews online and considering a return in 2027."
-    },
-    {
-      "blog_title": "Battle Stance",
-      "blog_url": "https://battlestance.org/",
-      "feed_url": "https://battlestance.org/feed/",
-      "post_title": "WoW Forever launches",
-      "post_url": "https://battlestance.org/2026/11/09/wow-forever-launches/",
-      "published": "2026-11-09T18:04:16Z",
-      "summary": "The writer reports playing WoW Forever extensively, leveling Tauren Shaman and Orc Rogue characters, and healing several dungeons despite occasional layer issues."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "An attempt at a place",
-      "post_url": "https://francescrossley.com/an-attempt-at-a-place/",
-      "published": "2026-11-09T18:00:00Z",
-      "summary": "The piece explores intimate relationships with places through poetry, psychogeography, gardening, and vivid memories of a field shaped by observation, creativity, and grief."
-    },
-    {
-      "blog_title": "Bavatuesdays",
-      "blog_url": "https://bavatuesdays.com",
-      "feed_url": "http://bavatuesdays.com/feed/",
-      "post_title": "The Mario Challenge at SFSCON",
-      "post_url": "https://bavatuesdays.com/the-mario-challenge-at-sfscon/",
-      "published": "2026-11-09T17:57:10Z",
-      "summary": "A Mario Challenge at SFSCON compares Super Mario Bros. on original NES hardware, MiSTer FPGA, and Raspberry Pi emulation using vintage PAL CRT televisions."
-    },
-    {
-      "blog_title": "Dear Angel",
-      "blog_url": "https://dearangelblog.tumblr.com/",
-      "feed_url": "https://dearangelblog.tumblr.com/rss",
-      "post_title": "Beneath the serene exterior of Japanese culture lies a deep well of melancholy and hidden sorrows…",
-      "post_url": "https://dearangelblog.tumblr.com/post/832827244926959616",
-      "published": "2026-11-09T17:39:13Z",
-      "summary": "The essay examines Silent Hill f, contested meanings of “woke,” and Western idealization of Japanese culture, linking gaming criticism to gender and cultural politics."
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "R.I.P Mama Afrika",
-      "post_url": "https://amf.didiermary.fr/rip-mama-afrika-miriam-makeba/",
-      "published": "2026-11-09T17:30:00Z",
-      "summary": "Miriam Makeba’s life, Google’s birthday Doodle, her death in Italy, and Xhosa language features are presented alongside performances of “Qongqothwane,” the “Click Song.”"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "How to Make Money in No Man’s Sky (Forsaken): Fastest Units",
-      "post_url": "https://gamerofpassion.com/no-mans-sky-make-money/",
-      "published": "2026-11-09T17:00:00Z",
-      "summary": "The guide ranks No Man’s Sky income methods from early scanning and salvage to mid-game Interceptor scrapping and late-game Stasis Device crafting."
-    },
-    {
-      "blog_title": "Joelchrono's blog",
-      "blog_url": "https://joelchrono.xyz/",
-      "feed_url": "https://joelchrono.xyz/feed.xml",
-      "post_title": "Kaijus, Spelunking, Badminton - W45",
-      "post_url": "https://joelchrono.xyz/blog/2026-w45/",
-      "published": "2026-11-09T17:00:00Z",
-      "summary": "Joelchrono’s November 3–9 weeknotes cover game tracking, solo cinema attendance, card magic, church activities, badminton, reading Frankenstein, and playing Castlevania and Spelunky."
-    },
-    {
-      "blog_title": "Scormus Fails",
-      "blog_url": "https://scormey.com/",
-      "feed_url": "https://scormey.com/feed/",
-      "post_title": "Casual Dailies?",
-      "post_url": "https://scormey.com/2026/11/09/casual-dailies/",
-      "published": "2026-11-09T17:00:00Z",
-      "summary": "The creator plans a third daily YouTube series featuring short, rotating game sessions after analytics showed Casual Sunday videos outperforming weekday content."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "MONDAY CLEANING: BATHROOM, (SLOWLY) PUTTING H'WEEN DECOR AWAY",
-      "post_url": "https://pretendtypewriter.net/monday-cleaning-bathroom-slowly-putting-hween-decor-away/",
-      "published": "2026-11-09T16:34:00Z",
-      "summary": "A weekly cleaning routine covers kitchen and bathroom chores, gradually storing Halloween decorations, celebrating improved habits, and enjoying upgraded tea and seasonal Spitzbuben cookies."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "WoW Forever – First Weekend Notes",
-      "post_url": "https://tagn.wordpress.com/2026/11/09/wow-forever-first-weekend-notes/",
-      "published": "2026-11-09T16:15:11Z",
-      "summary": "Early WoW Forever weekend experiences cover nostalgic questing, multiple character progression, hunter pets, auction-house changes, and forming the Crag Boar Rebellion guild."
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Incendiary",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/09/word-nerd-alert-incendiary.html",
-      "published": "2026-11-09T16:14:37Z",
-      "summary": "The entry defines “incendiary” as fire-starting, fire-related, or inflammatory, tracing its Latin roots, related terms, and first known use in the 15th century."
-    },
-    {
-      "blog_title": "Heartlessgamer",
-      "blog_url": "http://www.heartlessgamer.com/",
-      "feed_url": "http://feeds.feedburner.com/Heartless_Gamer",
-      "post_title": "Packers Beat Patriots",
-      "post_url": "http://www.heartlessgamer.com/2026/11/packers-beat-patriots.html",
-      "published": "2026-11-09T16:05:08Z",
-      "summary": "The Green Bay Packers’ victory over the Patriots featured strong passing from Jordan Love, concerns about the running game, and Josh Jacobs’ injury."
-    },
-    {
-      "blog_title": "BurgeonLab",
-      "blog_url": "https://burgeonlab.com/",
-      "feed_url": "https://burgeonlab.com/all/feed.xml",
-      "post_title": "Site Refresh Before 2026 Ends",
-      "post_url": "https://burgeonlab.com/notes/2026/1109-2327/",
-      "published": "2026-11-09T15:27:29Z",
-      "summary": "BurgeonLab describes a Hugo site refresh involving CSS cleanup, reusable classes, accessibility improvements, theme styling, light and dark modes, footer changes, and Git workflow reflections."
+      "blog_title": "Daily Blogroll",
+      "blog_url": "http://westkarana.xyz",
+      "feed_url": "https://westkarana.xyz/rss.xml",
+      "post_title": "The Daily Blogroll — Tuesday, 10 November 2026",
+      "post_url": "https://westkarana.xyz/2026/11/daily-blogroll-2026-11-10.html",
+      "published": "2026-11-10T00:00:00Z",
+      "summary": "The Daily Blogroll surveys gaming sessions, sports, technology frustrations, cybersecurity, web interoperability, personal weeknotes, and Ubuntu’s changing desktop fortunes."
     }
   ]
 }
