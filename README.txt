@@ -1,6 +1,6 @@
 BLAUGUST BLOGROLL - MAINTENANCE AND DATA NOTES
 =============================================
-Last revised: 23 October 2026
+Last revised: 12th November 2026
 
 PURPOSE
 -------
