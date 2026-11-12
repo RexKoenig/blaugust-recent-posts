@@ -1,38 +1,110 @@
 {
-  "generated_at": "2026-11-12T11:16:20.084374Z",
-  "source_generated_at": "2026-11-12T11:15:52.061694Z",
+  "generated_at": "2026-11-12T15:58:48.896287Z",
+  "source_generated_at": "2026-11-12T15:58:03.313848Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 17,
+  "summary_count": 19,
   "posts": [
+    {
+      "blog_title": "Kay Talks Games",
+      "blog_url": "https://kaytalksgames.wordpress.com/",
+      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
+      "post_title": "The Twisted Artistry of Oddworld: Abe’s Oddysee",
+      "post_url": "https://kaytalksgames.wordpress.com/2026/11/12/the-twisted-artistry-of-oddworld-abes-oddysee/",
+      "published": "2026-11-12T15:49:32Z",
+      "summary": "Oddworld: Abe’s Oddysee combines challenging puzzle-platforming, distinctive visual design, dark humor, and critiques of slavery, environmental destruction, and corporate greed."
+    },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "19 IGF Judges Refuse to Vote for Games That Use AI: Big Walk Draws Scrutiny Over Less Than 0.1% of Its Code",
-      "post_url": "https://joho-todai.com/en/ai-art-controversy-igf-judges-boycott-big-walk/",
-      "published": "2026-11-12T10:54:23Z",
-      "summary": "Nineteen IGF judges rejected generative AI use, while House House disclosed limited LLM-assisted coding in Big Walk, prompting scrutiny and misinformation about disqualification."
+      "post_title": "AMD's Rumored Siren Halo Pairs Dedicated GDDR7 With LPDDR: Can It Preserve the Benefits of 192 GB of Unified Memory?",
+      "post_url": "https://joho-todai.com/en/amd-siren-halo-gddr7-lpddr-memory-192gb/",
+      "published": "2026-11-12T15:16:46Z",
+      "summary": "AMD’s rumored Siren Halo may combine dedicated GDDR7 with shared LPDDR, potentially balancing higher GPU bandwidth against unified memory capacity for gaming and local AI."
     },
     {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "IGF審査員19人がAI利用作品への投票を拒否、『Big Walk』はコード0.1%未満の利用でも論争に",
-      "post_url": "https://joho-todai.com/ai-art-controversy-igf-judges-boycott-big-walk/",
-      "published": "2026-11-12T10:54:23Z",
-      "summary": null
+      "post_title": "AMD「Siren Halo」に専用GDDR7とLPDDR併用の噂。192GB統合メモリ路線との両立が焦点",
+      "post_url": "https://joho-todai.com/amd-siren-halo-gddr7-lpddr-memory-192gb/",
+      "published": "2026-11-12T15:16:46Z",
+      "summary": "Rumors suggest AMD’s Siren Halo may combine dedicated GDDR7 with LPDDR, raising questions about memory access, bandwidth, capacity, and potential Xbox connections."
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Getting an Innoview display to work with Macbook",
+      "post_url": "https://www.kgadams.net/gear/getting-an-innoview-display-to-work-with-macbook",
+      "published": "2026-11-12T13:30:00Z",
+      "summary": "Kelly’s World explains how a high-speed USB-C cable enables an Innoview INVPM406 portable display to connect and receive power from a MacBook Air."
+    },
+    {
+      "blog_title": "Muliama's Diaries",
+      "blog_url": "https://www.muliama.blog/",
+      "feed_url": "https://www.muliama.blog/feed/",
+      "post_title": "I'll be present",
+      "post_url": "https://www.muliama.blog/be-there/",
+      "published": "2026-11-12T13:27:00Z",
+      "summary": "Muliama reflects on withdrawing from loved ones, neglecting personal wellbeing and creative hobbies, and committing to gradual change beginning with renewed blogging."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "The Hitcher (1986) — Would you stop for Rutger Hauer?",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/12/the-hitcher-1986-would-you-stop-for-rutger-hauer/",
+      "published": "2026-11-12T13:00:23Z",
+      "summary": "The Hitcher follows Jim Halsey, pursued across West Texas by serial killer John Ryder after offering him a ride, in an atmospheric 1980s thriller."
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "#OC",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1295",
+      "published": "2026-11-12T12:49:39Z",
+      "summary": "A personal update covers completing an original-character base, securing tickets for two visits to Kori Cafe, and expectations about the timing of Obligate and Part Three."
+    },
+    {
+      "blog_title": "Alligators and aneurysms!",
+      "blog_url": "https://alligatorsandaneurysms.wordpress.com/",
+      "feed_url": "http://alligatorsandaneurysms.wordpress.com/feed/",
+      "post_title": "The Quest Continues! Tackling Sir Thomas Malory’s Le Morte D’Arthur",
+      "post_url": "https://alligatorsandaneurysms.wordpress.com/2026/11/12/the-quest-continues-tackling-sir-thomas-malorys-le-morte-darthur/",
+      "published": "2026-11-12T12:46:07Z",
+      "summary": "A personal reading of Sir Thomas Malory’s Le Morte D’Arthur examines its repetitive style, morally flawed knights, limited Merlin, and influence on later fantasy, including George R. R. Martin."
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "Gesture Your Opus",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/12/gesture-your-opus/",
+      "published": "2026-11-12T12:06:24Z",
+      "summary": "Gesture Your Opus presents gesture.live, a browser tool for creating music with webcam hand movements, changing chords, and recording a 30-second DS106 composition."
+    },
+    {
+      "blog_title": "Parallel Spirals",
+      "blog_url": "https://pradx.in",
+      "feed_url": "https://pradx.in/feed/",
+      "post_title": "Genrobotics to build a Robotic Arm for ISRO",
+      "post_url": "https://pradx.in/2026/11/12/genrobotics-to-build-a-robotic-arm-for-isro/",
+      "published": "2026-11-12T11:54:11Z",
+      "summary": "Genrobotics’ Bandicoot sanitation robots, rehabilitation devices, planned Genbot, and ISRO contract for GARUDA space-grade robotic arms are highlighted."
     },
     {
       "blog_title": "Pretend Typewriter",
       "blog_url": "https://pretendtypewriter.net/",
       "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - matcha Thursday",
-      "post_url": "https://pretendtypewriter.net/note-matcha-thursday/",
-      "published": "2026-11-12T09:54:42Z",
-      "summary": "A brief note records finally figuring out how to whisk matcha correctly on a Thursday."
+      "post_title": "note - tea and cookies",
+      "post_url": "https://pretendtypewriter.net/note-tea-and-cookies/",
+      "published": "2026-11-12T11:24:56Z",
+      "summary": "A note describes preparing tea and homemade cookies in a Miffy jar for a friend named K’s upcoming visit."
     },
     {
       "blog_title": "Taxodium",
@@ -114,78 +186,6 @@
       "post_url": "https://nosygamer.blogspot.com/2026/11/rip-eikichi-iwai-bassist-for-ffxivs.html",
       "published": "2026-11-12T01:11:04Z",
       "summary": "The post reports bassist Eikichi Iwai’s sudden death, memorializes his role in Final Fantasy XIV’s band The Primals, and shares condolences from Jason Charles Miller."
-    },
-    {
-      "blog_title": "Michael Harley",
-      "blog_url": "https://michaelharley.net",
-      "feed_url": "https://obsolete29.com/feed/feed.xml",
-      "post_title": "The Day After Tomorrow (2004) — ⭐⭐⭐½ (3.5/5)",
-      "post_url": "https://michaelharley.net/watching/2026/11/11/the-day-after-tomorrow/",
-      "published": "2026-11-12T00:13:33Z",
-      "summary": "A review of Roland Emmerich’s 2004 science-fiction thriller, following paleoclimatologist Jack Hall’s rescue mission amid catastrophic global weather and a new Ice Age."
-    },
-    {
-      "blog_title": "The Weekly Miscellaneous",
-      "blog_url": "https://theweeklymiscellaneous.co.uk/",
-      "feed_url": "https://theweeklymiscellaneous.co.uk/index.xml",
-      "post_title": "A Few Cool Things I Found On The Web",
-      "post_url": "https://theweeklymiscellaneous.co.uk/posts/2026/11/a-few-cool-websites/",
-      "published": "2026-11-12T00:00:00Z",
-      "summary": "The writer reflects on discovering amusing web videos, websites, and comics through RSS and Mastodon, celebrating remnants of the Old Web and niche online creativity."
-    },
-    {
-      "blog_title": "粉红路",
-      "blog_url": "https://pinkway.mataroa.blog/",
-      "feed_url": "https://pinkway.mataroa.blog/rss/",
-      "post_title": "双重标准",
-      "post_url": "https://pinkway.mataroa.blog/blog/69d-86-687/",
-      "published": "2026-11-12T00:00:00Z",
-      "summary": null
-    },
-    {
-      "blog_title": "Gamers Esoteric",
-      "blog_url": "https://www.gamersesoteric.com/",
-      "feed_url": "https://www.gamersesoteric.com/feeds/posts/default",
-      "post_title": "Challistein: A Holiday for the In-Between",
-      "post_url": "https://www.gamersesoteric.com/2026/11/challistein-holiday-for-in-between.html",
-      "published": "2026-11-11T23:44:00Z",
-      "summary": "Challistein is a fictional November 27 holiday bridging Halloween and Christmas, marked by candles, seasonal foods, masks, gratitude, storytelling, and communal gatherings."
-    },
-    {
-      "blog_title": "The Friendly Necromancer",
-      "blog_url": "http://thefriendlynecromancer.blogspot.com/",
-      "feed_url": "http://thefriendlynecromancer.blogspot.com/feeds/posts/default",
-      "post_title": "Tom Purdue \"Cosmic Radiation and Bad Luck\" Album Launch!",
-      "post_url": "http://thefriendlynecromancer.blogspot.com/2026/11/tom-purdue-cosmic-radiation-and-bad.html",
-      "published": "2026-11-11T22:43:25Z",
-      "summary": "Tom Purdue announces Cosmic Radiation and Bad Luck, an experimental electronic album exploring his lung cancer experience, caregiving, anxiety, resilience, and family support."
-    },
-    {
-      "blog_title": "Another Dayu",
-      "blog_url": "https://anotherdayu.com/",
-      "feed_url": "https://anotherdayu.com/feed/",
-      "post_title": "空白处有我",
-      "post_url": "https://anotherdayu.com/1384/",
-      "published": "2026-11-11T22:00:00Z",
-      "summary": "Another Dayu reflects on self-understanding through writing, reading, data analysis, and candid conversations with ChatGPT’s personal Agent, Dots."
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "Discovered a cool simple way to log books...",
-      "post_url": "https://jasonjournals.com/posts/2026-11-11-discovered-a-cool-simple",
-      "published": "2026-11-11T21:52:33Z",
-      "summary": "Jason describes using Sebastian’s Library at bstn.info to log books, apply custom ratings, and link entries to blog reviews."
-    },
-    {
-      "blog_title": "Battle Stance",
-      "blog_url": "https://battlestance.org/",
-      "feed_url": "https://battlestance.org/feed/",
-      "post_title": "Raiding the Venomous Abyss – Week 12",
-      "post_url": "https://battlestance.org/2026/11/11/raiding-the-venomous-abyss-week-12/",
-      "published": "2026-11-11T20:44:53Z",
-      "summary": "Week 12 of Raiding the Venomous Abyss covers progression attempts on Coiled Altar, including phase-two progress, roster issues, and a cancelled Tuesday raid."
     }
   ]
 }
