@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T01:31:27.618716Z",
-  "blog_count": 357,
+  "generated_at": "2026-11-12T11:15:52.061694Z",
+  "blog_count": 360,
   "other_language_count": 10,
   "blogs": [
     {
@@ -408,6 +408,22 @@
       "site_url": "https://www.bongotwisty.blog/",
       "feed_url": "https://www.bongotwisty.blog/index.xml",
       "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "B"
+    },
+    {
+      "name": "Born for Media",
+      "site_url": "https://bornformedia.com/",
+      "feed_url": "https://bornformedia.com/feed/",
+      "language": "English",
+      "directory_group": "alphabetical",
+      "initial": "B"
+    },
+    {
+      "name": "BossAtlas",
+      "site_url": "https://bossatlas.com/",
+      "feed_url": "https://bossatlas.com/feed",
+      "language": "English",
       "directory_group": "alphabetical",
       "initial": "B"
     },
@@ -1592,6 +1608,14 @@
       "site_url": "https://monsterladysdiary.wordpress.com/",
       "feed_url": "https://monsterladysdiary.wordpress.com/feed/",
       "language": "Unspecified",
+      "directory_group": "alphabetical",
+      "initial": "M"
+    },
+    {
+      "name": "Moon Sweepers Hub",
+      "site_url": "https://moonsweepershub.com/",
+      "feed_url": "https://moonsweepershub.com/",
+      "language": "English",
       "directory_group": "alphabetical",
       "initial": "M"
     },
