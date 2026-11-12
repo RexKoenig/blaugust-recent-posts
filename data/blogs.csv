@@ -200,7 +200,7 @@ Model Trains in the Cinema,https://modeltrainsinthecinema.blogspot.com,https://m
 MogBlog,https://mogblog.pika.page/,https://mogblog.pika.page/posts_feed,Unspecified,alphabetical,included,yes,yes,
 Monocyte’s blog,https://monocyte.blog/,https://monocyte.bearblog.dev/feed/?type=rss,Unspecified,alphabetical,included,yes,yes,
 Monsterlady's Diary,https://monsterladysdiary.wordpress.com/,https://monsterladysdiary.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
-Moon Sweepers Hub,https://moonsweepershub.com/,,English,alphabetical,included,yes,no,No RSS/Atom feed found; directory listing only until a feed is confirmed.
+Moon Sweepers Hub,https://moonsweepershub.com/,https://moonsweepershub.com/,English,alphabetical,included,yes,no,No RSS/Atom feed confirmed. feed_url uses website URL solely to satisfy required URL validation; include_in_latest=no prevents feed requests.
 Mormoroi,https://mormoroi.com/,https://journal.miso.town/atom?url=https://mormoroi.com/_parts/rss.html,Unspecified,alphabetical,included,yes,yes,
 Muliama's Diaries,https://www.muliama.blog/,https://www.muliama.blog/feed/,Unspecified,alphabetical,included,yes,yes,
 Musings And Mumblings,https://nothe.purplellamas.net/,https://nothe.purplellamas.net/feed.xml,Unspecified,alphabetical,included,yes,yes,
