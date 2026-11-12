@@ -1,5 +1,4 @@
 name,site_url,feed_url,language,directory_group,status,show_in_directory,include_in_latest,notes
-#デザイン 記事まとめ,https://note.com/notemagazine/m/m57787022cedc,https://note.mu/notemag/m/m57787022cedc/rss,Japanese,other-languages,included,yes,yes,
 20ily April,https://20ilyapril.wordpress.com/,https://20ilyapril.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
 26g,https://26g.netlify.app/,https://26g.netlify.app/feed.xml,Unspecified,alphabetical,included,yes,yes,
 82MHz,http://82mhz.net/posts/,http://82mhz.net/index.xml,Unspecified,alphabetical,included,yes,yes,
@@ -47,11 +46,12 @@ Bio Break,https://biobreak.wordpress.com/,https://biobreak.wordpress.com/feed/,U
 Bitterly Indifferent,https://pmjg.blogspot.com/,https://pmjg.blogspot.com/feeds/posts/default,Unspecified,alphabetical,included,yes,yes,
 Black Hole Reviews,https://blackholereviews.blogspot.com,https://blackholereviews.blogspot.com/feeds/posts/default,Unspecified,alphabetical,included,yes,yes,
 Blessing of Kings,https://blessingofkings.blogspot.com/,https://blessingofkings.blogspot.com/feeds/posts/default,Unspecified,alphabetical,included,yes,yes,Blogger feed currently redirects to FeedBurner; feed delivery not independently confirmed.
-Blog - 鳥啼く頃に,https://torinakukoroni.blog.fc2.com/,https://torinakukoroni.blog.fc2.com/?xml,Japanese,other-languages,included,yes,yes,
 Blog of the Grubby Dog,https://your-local-grubdog.neocities.org/blog/,https://your-local-grubdog.neocities.org/feed.xml,Unspecified,alphabetical,included,yes,yes,
 Blogging on Toby Geeks Out!,https://tobygeeksout.micro.blog/categories/blogging/,https://tobygeeksout.micro.blog/categories/blogging/feed.xml,Unspecified,alphabetical,included,yes,yes,
 Blogging with Dragons,https://bloggingwithdragons.com/,https://www.bloggingwithdragons.com/feed/,Unspecified,alphabetical,included,yes,yes,
 Bongo Twisty,https://www.bongotwisty.blog/,https://www.bongotwisty.blog/index.xml,Unspecified,alphabetical,included,yes,yes,
+Born for Media,https://bornformedia.com/,https://bornformedia.com/feed/,English,alphabetical,included,yes,yes,
+BossAtlas,https://bossatlas.com/,https://bossatlas.com/feed,English,alphabetical,included,yes,yes,
 Brennan Day,https://brennan.day/,https://brennan.day/feed.xml,Unspecified,alphabetical,included,yes,yes,
 Broken Star,https://brokenstar.blog/,https://brokenstar.blog/feed/,Unspecified,alphabetical,included,yes,yes,
 BurgeonLab,https://burgeonlab.com/,https://burgeonlab.com/all/feed.xml,Unspecified,alphabetical,included,yes,yes,
@@ -200,6 +200,7 @@ Model Trains in the Cinema,https://modeltrainsinthecinema.blogspot.com,https://m
 MogBlog,https://mogblog.pika.page/,https://mogblog.pika.page/posts_feed,Unspecified,alphabetical,included,yes,yes,
 Monocyte’s blog,https://monocyte.blog/,https://monocyte.bearblog.dev/feed/?type=rss,Unspecified,alphabetical,included,yes,yes,
 Monsterlady's Diary,https://monsterladysdiary.wordpress.com/,https://monsterladysdiary.wordpress.com/feed/,Unspecified,alphabetical,included,yes,yes,
+Moon Sweepers Hub,https://moonsweepershub.com/,,English,alphabetical,included,yes,no,No RSS/Atom feed found; directory listing only until a feed is confirmed.
 Mormoroi,https://mormoroi.com/,https://journal.miso.town/atom?url=https://mormoroi.com/_parts/rss.html,Unspecified,alphabetical,included,yes,yes,
 Muliama's Diaries,https://www.muliama.blog/,https://www.muliama.blog/feed/,Unspecified,alphabetical,included,yes,yes,
 Musings And Mumblings,https://nothe.purplellamas.net/,https://nothe.purplellamas.net/feed.xml,Unspecified,alphabetical,included,yes,yes,
@@ -349,6 +350,8 @@ Wry Writer,https://wrywriter.ca,https://wrywriter.ca/posts_feed,Unspecified,alph
 WW0CJ,https://ww0cj.radio/,https://ww0cj.radio/feed/,Unspecified,alphabetical,included,yes,yes,
 X2600,https://write.as/blog-x2600/,https://write.as/blog-x2600/feed/,Unspecified,alphabetical,included,yes,yes,
 Yordi - A Lifelong Journey of Growth,https://yordi.me/,https://yordi.me/feed/,Unspecified,alphabetical,included,yes,yes,
+#デザイン 記事まとめ,https://note.com/notemagazine/m/m57787022cedc,https://note.mu/notemag/m/m57787022cedc/rss,Japanese,other-languages,included,yes,yes,
+Blog - 鳥啼く頃に,https://torinakukoroni.blog.fc2.com/,https://torinakukoroni.blog.fc2.com/?xml,Japanese,other-languages,included,yes,yes,
 そのうち33歳 せいかつブログ,https://wakanatrium.site/,https://wakanatrium.site/?mode=rss,Japanese,other-languages,included,yes,yes,
 わくパンの思考のかけら,https://wakupanbouquet.hatenablog.com/,https://wakupanbouquet.hatenablog.com/rss,Japanese,other-languages,included,yes,yes,
 コーポ雪原,https://coop-setsugen.com/,https://coop-setsugen.com/feed.xml,Japanese,other-languages,included,yes,yes,
