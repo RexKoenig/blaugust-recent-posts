@@ -1,10 +1,162 @@
 {
-  "generated_at": "2026-11-12T15:58:03.313848Z",
+  "generated_at": "2026-11-13T00:21:52.953178Z",
   "feed_count": 358,
-  "successful_feeds": 330,
-  "failed_feeds": 28,
+  "successful_feeds": 331,
+  "failed_feeds": 27,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Google検索のAIモデルを世界規模で更新、Gemini 4 Hydrogen。リンク拡大の実効性は未検証",
+      "post_url": "https://joho-todai.com/google-search-gemini-4-hydrogen-ai-update/",
+      "published": "2026-11-13T00:16:34Z"
+    },
+    {
+      "blog_title": "Gaudete Theology",
+      "blog_url": "https://gaudetetheology.wordpress.com/",
+      "feed_url": "http://gaudetetheology.wordpress.com/feed/",
+      "post_title": "Action for USians: Protect refugees – time critical",
+      "post_url": "https://gaudetetheology.wordpress.com/2026/11/12/action-for-usians-protect-refugees-time-critical/",
+      "published": "2026-11-13T00:16:20Z"
+    },
+    {
+      "blog_title": "粉红路",
+      "blog_url": "https://pinkway.mataroa.blog/",
+      "feed_url": "https://pinkway.mataroa.blog/rss/",
+      "post_title": "初尝意大利牛肉",
+      "post_url": "https://pinkway.mataroa.blog/blog/091-98-ac8/",
+      "published": "2026-11-13T00:00:00Z"
+    },
+    {
+      "blog_title": "Sal's Blog",
+      "blog_url": "https://sals.place/",
+      "feed_url": "https://sals.place/feed/",
+      "post_title": "Tasty treats in the pico.sh fall update",
+      "post_url": "https://sals.place/blog/pico-sh-fall-update/",
+      "published": "2026-11-12T23:44:39Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "Isometric San Francisco (A Variation)",
+      "post_url": "https://isometricsanfrancisco.com/",
+      "published": "2026-11-12T23:37:24Z"
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "A Bumpy iPad Upgrade Path",
+      "post_url": "https://jasonjournals.com/posts/a-bumpy-ipad-upgrade-path",
+      "published": "2026-11-12T22:55:44Z"
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "Adrenalin 26.11.1 Fixes Radeon SSD Write Bug: Check Smart Access Memory on Windows 10",
+      "post_url": "https://joho-todai.com/en/adrenalin-26-11-1-radeon-ssd-bug-fix/",
+      "published": "2026-11-12T22:42:41Z"
+    },
+    {
+      "blog_title": "Mailvaltar",
+      "blog_url": "https://mailvaltar.wordpress.com/",
+      "feed_url": "https://mailvaltar.wordpress.com/feed/",
+      "post_title": "Getting ganked is good (occasionally)!",
+      "post_url": "https://mailvaltar.wordpress.com/2026/11/12/getting-ganked-is-good-occasionally/",
+      "published": "2026-11-12T21:17:40Z"
+    },
+    {
+      "blog_title": "Toby Geeks Out",
+      "blog_url": "https://tobygeeksout.micro.blog/",
+      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
+      "post_title": "🎬 Crazy Rich, Incredibly Broke (2026)",
+      "post_url": "https://tobygeeksout.micro.blog/2026/11/12/crazy-rich-incredibly-broke.html",
+      "published": "2026-11-12T20:32:36Z"
+    },
+    {
+      "blog_title": "The Weekly Miscellaneous",
+      "blog_url": "https://theweeklymiscellaneous.co.uk/",
+      "feed_url": "https://theweeklymiscellaneous.co.uk/index.xml",
+      "post_title": "Return",
+      "post_url": "https://theweeklymiscellaneous.co.uk/posts/2026/11/return/",
+      "published": "2026-11-12T20:24:00Z"
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Getting out from under Facebook’s thumb- not so easy",
+      "post_url": "https://www.kgadams.net/geekdom/getting-out-from-under-facebooks-thumb-not-so-easy",
+      "published": "2026-11-12T20:16:25Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - lose",
+      "post_url": "https://pretendtypewriter.net/note-lose/",
+      "published": "2026-11-12T20:00:52Z"
+    },
+    {
+      "blog_title": "African Music Forum",
+      "blog_url": "https://amf.didiermary.fr/",
+      "feed_url": "https://amf.didiermary.fr/feed/",
+      "post_title": "Musi O Tunya – Wings of Africa",
+      "post_url": "https://amf.didiermary.fr/musi-o-tunya-wings-of-africa/",
+      "published": "2026-11-12T18:05:25Z"
+    },
+    {
+      "blog_title": "What the Fran",
+      "blog_url": "https://francescrossley.com/",
+      "feed_url": "https://francescrossley.com/feed/",
+      "post_title": "Re: What's the point?",
+      "post_url": "https://francescrossley.com/re-whats-the-point/",
+      "published": "2026-11-12T18:00:00Z"
+    },
+    {
+      "blog_title": "ComradeNerdy",
+      "blog_url": "https://comradenerdy.com/",
+      "feed_url": "https://comradenerdy.com/feed/",
+      "post_title": "End of Subathon 2026. Some Info and Plans",
+      "post_url": "https://comradenerdy.com/end-of-subathon-2026-some-info-and-plans/",
+      "published": "2026-11-12T17:10:39Z"
+    },
+    {
+      "blog_title": "Inventory Full",
+      "blog_url": "https://bhagpuss.blogspot.com/",
+      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
+      "post_title": "Every Night, When The Stars Come Out",
+      "post_url": "https://bhagpuss.blogspot.com/2026/11/every-night-when-stars-come-out.html",
+      "published": "2026-11-12T16:24:02Z"
+    },
+    {
+      "blog_title": "The Ancient Gaming Noob",
+      "blog_url": "https://tagn.wordpress.com/",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "post_title": "The Imperium Returns from Siseide",
+      "post_url": "https://tagn.wordpress.com/2026/11/12/the-imperium-returns-from-siseide/",
+      "published": "2026-11-12T16:15:38Z"
+    },
+    {
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "Squadron 42 Event – Gameplay Footage",
+      "post_url": "https://scopique.com/2026/11/12/squadron-42-event-gameplay-footage/",
+      "published": "2026-11-12T16:04:35Z"
+    },
+    {
+      "blog_title": "BurgeonLab",
+      "blog_url": "https://burgeonlab.com/",
+      "feed_url": "https://burgeonlab.com/all/feed.xml",
+      "post_title": "Running Quartz on Android",
+      "post_url": "https://burgeonlab.com/notes/2026/1112-2359/",
+      "published": "2026-11-12T15:59:43Z"
+    },
     {
       "blog_title": "Kay Talks Games",
       "blog_url": "https://kaytalksgames.wordpress.com/",
@@ -12,158 +164,6 @@
       "post_title": "The Twisted Artistry of Oddworld: Abe’s Oddysee",
       "post_url": "https://kaytalksgames.wordpress.com/2026/11/12/the-twisted-artistry-of-oddworld-abes-oddysee/",
       "published": "2026-11-12T15:49:32Z"
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "AMD's Rumored Siren Halo Pairs Dedicated GDDR7 With LPDDR: Can It Preserve the Benefits of 192 GB of Unified Memory?",
-      "post_url": "https://joho-todai.com/en/amd-siren-halo-gddr7-lpddr-memory-192gb/",
-      "published": "2026-11-12T15:16:46Z"
-    },
-    {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "AMD「Siren Halo」に専用GDDR7とLPDDR併用の噂。192GB統合メモリ路線との両立が焦点",
-      "post_url": "https://joho-todai.com/amd-siren-halo-gddr7-lpddr-memory-192gb/",
-      "published": "2026-11-12T15:16:46Z"
-    },
-    {
-      "blog_title": "Ubergeek Kelly's World",
-      "blog_url": "https://www.kgadams.net/",
-      "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "Getting an Innoview display to work with Macbook",
-      "post_url": "https://www.kgadams.net/gear/getting-an-innoview-display-to-work-with-macbook",
-      "published": "2026-11-12T13:30:00Z"
-    },
-    {
-      "blog_title": "Muliama's Diaries",
-      "blog_url": "https://www.muliama.blog/",
-      "feed_url": "https://www.muliama.blog/feed/",
-      "post_title": "I'll be present",
-      "post_url": "https://www.muliama.blog/be-there/",
-      "published": "2026-11-12T13:27:00Z"
-    },
-    {
-      "blog_title": "Mutant Reviewers",
-      "blog_url": "https://mutantreviewersmovies.com",
-      "feed_url": "https://mutantreviewersmovies.com/feed/",
-      "post_title": "The Hitcher (1986) — Would you stop for Rutger Hauer?",
-      "post_url": "https://mutantreviewersmovies.com/2026/11/12/the-hitcher-1986-would-you-stop-for-rutger-hauer/",
-      "published": "2026-11-12T13:00:23Z"
-    },
-    {
-      "blog_title": "TGLG",
-      "blog_url": "https://392ms.witchserver.jp/kb/",
-      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
-      "post_title": "#OC",
-      "post_url": "https://392ms.witchserver.jp/kb/?postid=1295",
-      "published": "2026-11-12T12:49:39Z"
-    },
-    {
-      "blog_title": "Alligators and aneurysms!",
-      "blog_url": "https://alligatorsandaneurysms.wordpress.com/",
-      "feed_url": "http://alligatorsandaneurysms.wordpress.com/feed/",
-      "post_title": "The Quest Continues! Tackling Sir Thomas Malory’s Le Morte D’Arthur",
-      "post_url": "https://alligatorsandaneurysms.wordpress.com/2026/11/12/the-quest-continues-tackling-sir-thomas-malorys-le-morte-darthur/",
-      "published": "2026-11-12T12:46:07Z"
-    },
-    {
-      "blog_title": "NomadWarMachine",
-      "blog_url": "https://nomadwarmachine.co.uk/",
-      "feed_url": "https://nomadwarmachine.co.uk/feed/",
-      "post_title": "Gesture Your Opus",
-      "post_url": "https://nomadwarmachine.co.uk/2026/11/12/gesture-your-opus/",
-      "published": "2026-11-12T12:06:24Z"
-    },
-    {
-      "blog_title": "Parallel Spirals",
-      "blog_url": "https://pradx.in",
-      "feed_url": "https://pradx.in/feed/",
-      "post_title": "Genrobotics to build a Robotic Arm for ISRO",
-      "post_url": "https://pradx.in/2026/11/12/genrobotics-to-build-a-robotic-arm-for-isro/",
-      "published": "2026-11-12T11:54:11Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - tea and cookies",
-      "post_url": "https://pretendtypewriter.net/note-tea-and-cookies/",
-      "published": "2026-11-12T11:24:56Z"
-    },
-    {
-      "blog_title": "Taxodium",
-      "blog_url": "https://taxodium.ink/",
-      "feed_url": "https://taxodium.ink/index.xml",
-      "post_title": "Album#51 - 阁楼的影像 & 家",
-      "post_url": "https://taxodium.ink/album-51.html",
-      "published": "2026-11-12T09:19:00Z"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "Stellaris Energy Credits Guide (4.5): Income, Deficits and the Market",
-      "post_url": "https://gamerofpassion.com/stellaris-energy-credits/",
-      "published": "2026-11-12T08:00:00Z"
-    },
-    {
-      "blog_title": "Sylvia's Studio",
-      "blog_url": "https://sylvia.studio/",
-      "feed_url": "https://sylvia.studio/feed.xml",
-      "post_title": "Those pesky garden gnomes!",
-      "post_url": "https://sylvia.studio/posts/those-pesky-garden-gnomes",
-      "published": "2026-11-12T07:34:09Z"
-    },
-    {
-      "blog_title": "Cynni’s Blog",
-      "blog_url": "https://cynnisblog.wordpress.com/",
-      "feed_url": "https://cynnisblog.wordpress.com/feed/",
-      "post_title": "Thursday Courage Quote",
-      "post_url": "https://cynnisblog.wordpress.com/2026/11/12/thursday-courage-quote-7/",
-      "published": "2026-11-12T06:00:00Z"
-    },
-    {
-      "blog_title": "Rishi Dass",
-      "blog_url": "https://rishidass.net",
-      "feed_url": "https://rishidass.net/posts_feed",
-      "post_title": "Weekends off",
-      "post_url": "https://rishidass.net/posts/weekends-off",
-      "published": "2026-11-12T05:44:06Z"
-    },
-    {
-      "blog_title": "MMORPG Blog",
-      "blog_url": "https://mmoblogg.wordpress.com",
-      "feed_url": "https://mmoblogg.wordpress.com/feed/",
-      "post_title": "idle in missions",
-      "post_url": "https://mmoblogg.wordpress.com/2026/11/12/idle-in-missions/",
-      "published": "2026-11-12T05:22:38Z"
-    },
-    {
-      "blog_title": "Divergent Rays' Blog",
-      "blog_url": "https://divergentrays.com/blog/",
-      "feed_url": "https://divergentrays.com/blog/blogfeed.xml",
-      "post_title": "Fruity Tiaras",
-      "post_url": "https://divergentrays.com/blog/posts/2026-11-11-Fruity-Tiaras.html",
-      "published": "2026-11-12T04:42:00Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Republicans Are the Anti-Democracy Party",
-      "post_url": "https://www.washingtonpost.com/politics/2026/11/09/texas-lt-gov-dan-patrick-r-supports-stripping-democratic-successor-powers/",
-      "published": "2026-11-12T01:19:57Z"
-    },
-    {
-      "blog_title": "The Nosy Gamer",
-      "blog_url": "https://nosygamer.blogspot.com/",
-      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
-      "post_title": "R.I.P. - Eikichi Iwai, Bassist For FFXIV's The Primals",
-      "post_url": "https://nosygamer.blogspot.com/2026/11/rip-eikichi-iwai-bassist-for-ffxivs.html",
-      "published": "2026-11-12T01:11:04Z"
     }
   ]
 }
