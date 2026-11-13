@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T00:22:39.723203Z",
-  "source_generated_at": "2026-11-13T00:21:52.953178Z",
+  "generated_at": "2026-11-13T15:23:23.206729Z",
+  "source_generated_at": "2026-11-13T15:22:58.090375Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
@@ -8,13 +8,175 @@
   "summary_count": 20,
   "posts": [
     {
+      "blog_title": "The Virtual Moose",
+      "blog_url": "https://virtualmoose.org/",
+      "feed_url": "https://virtualmoose.org/feed/",
+      "post_title": "Indie Game Roundup (Nov. 13, 2026)",
+      "post_url": "https://virtualmoose.org/2026/11/13/indie-game-roundup-nov-13-2026/",
+      "published": "2026-11-13T14:33:02Z",
+      "summary": "The roundup highlights indie games including collage exploration, point-and-click adventure, solar-system education, platforming, retro releases, and museum-themed experimentation."
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 46 Digest",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-13-week-46-digest/",
+      "published": "2026-11-13T14:00:00Z",
+      "summary": "The digest covers web design, reading mysteries, older horror films, music archiving, and gaming, alongside personal stress, work, health issues, and ongoing projects."
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "No.1296",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1296",
+      "published": "2026-11-13T13:58:15Z",
+      "summary": "A gaming note celebrates obtaining Faust and Nero in 33 pulls, reflects on Alec’s voiced role in the fourth-anniversary story, and mentions plans to draw him."
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Falling for stupid propaganda",
+      "post_url": "https://www.kgadams.net/tiny-thoughts/falling-for-stupid-propaganda",
+      "published": "2026-11-13T13:30:00Z",
+      "summary": "The piece examines susceptibility to propaganda, group identity, emotional reactions, and how embracing far-fetched beliefs can deepen social allegiance."
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "Intel's Next-Generation \"Razor Lake\" CPU Is a Nova Lake Alias in GCC: Coral Rapids Is a Separate New Target",
+      "post_url": "https://joho-todai.com/en/intel-razor-lake-nova-lake-coral-rapids/",
+      "published": "2026-11-13T13:29:12Z",
+      "summary": "GCC patches classify Razor Lake as a Nova Lake alias, while Coral Rapids receives a separate Diamond Rapids-derived target with new instruction and tuning support."
+    },
+    {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Google検索のAIモデルを世界規模で更新、Gemini 4 Hydrogen。リンク拡大の実効性は未検証",
-      "post_url": "https://joho-todai.com/google-search-gemini-4-hydrogen-ai-update/",
-      "published": "2026-11-13T00:16:34Z",
-      "summary": "Google’s Gemini 4 Hydrogen update expands search query fan-out and AI answers worldwide, while its performance, safety, access, and website traffic effects remain condition-dependent."
+      "post_title": "Intel次世代CPU「Razor Lake」、GCCではNova Lakeの別名に。Coral Rapidsは独立した新ターゲット",
+      "post_url": "https://joho-todai.com/intel-razor-lake-nova-lake-coral-rapids/",
+      "published": "2026-11-13T13:29:12Z",
+      "summary": "Intel GCC patches identify Razor Lake as a Nova Lake alias with shared instruction sets, while Coral Rapids becomes an independent Diamond Rapids-derived target with extensions."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Guardians of the Galaxy Vol 2 (2017) — Brought to you by Microsoft Zune",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/13/guardians-of-the-galaxy-vol-2-2017-brought-to-you-by-microsoft-zune/",
+      "published": "2026-11-13T13:00:13Z",
+      "summary": "A review of Guardians of the Galaxy Vol. 2 praises its eccentric ensemble, humor, music, visual spectacle, and emotional family conflicts while noting pacing issues."
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "cold. blog.",
+      "post_url": "https://write.as/blog-x2600/cold-blog?pk_campaign=rss-feed",
+      "published": "2026-11-13T12:32:43Z",
+      "summary": "A brief morning update mentions 30°F weather, coffee, lurking on IRC, catching up on RSS feeds, and signing off."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "LONDON 2015-01-22",
+      "post_url": "https://pretendtypewriter.net/london-2015-01-22/",
+      "published": "2026-11-13T12:17:34Z",
+      "summary": "A diary entry recalls a January 2015 London trip, covering Doc Martens, breakfast, workplace travel, historic architecture, Albert Bridge, and an upcoming Natural History Museum visit."
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "the view from the telescope",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/13/the-view-from-the-telescope/",
+      "published": "2026-11-13T11:43:01Z",
+      "summary": "A DailyCreate post reflects on gaining perspective through a telescope, featuring a magpie photograph and lighthearted speculation about birds carrying messages during an email outage."
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "閑話休題。消し炭と木炭は違う",
+      "post_url": "https://elve.club/entry/2026/11/13/201048?utm_source=feed",
+      "published": "2026-11-13T11:10:48Z",
+      "summary": "The post distinguishes partially burned消し炭 from kiln-produced木炭, comparing their production, ignition, burning duration, density, and typical uses."
+    },
+    {
+      "blog_title": "The Nosy Gamer",
+      "blog_url": "https://nosygamer.blogspot.com/",
+      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
+      "post_title": "The Pearl Abyss Q3 2026 Earnings Letter",
+      "post_url": "https://nosygamer.blogspot.com/2026/11/the-pearl-abyss-q3-2026-earnings-letter.html",
+      "published": "2026-11-13T11:00:00Z",
+      "summary": "Pearl Abyss’s Q3 2026 earnings letter covers normalized Crimson Desert sales, Black Desert revenue, currency-related losses, corporate restructuring, buybacks, and Q4 guidance."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Stellaris Pop Growth Guide (4.5): How to Grow Pops Faster",
+      "post_url": "https://gamerofpassion.com/stellaris-pop-growth/",
+      "published": "2026-11-13T08:00:00Z",
+      "summary": "Stellaris 4.5’s pop growth guide explains growth mechanics, planet capacity, scaling, resettlement, buildings, species differences, and strategies for faster expansion."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Slow progress 🐾",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/13/slow-progress-%f0%9f%90%be/",
+      "published": "2026-11-13T06:00:12Z",
+      "summary": "Cynni describes Koa’s setback during puberty, efforts to reduce his separation anxiety, and gradual progress practicing being alone outside his crate."
+    },
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Knowvember: Where Are You At?!",
+      "post_url": "https://brennan.day/knowvember-where-are-you-at/",
+      "published": "2026-11-13T05:49:22Z",
+      "summary": "Brennan Day answers Knowvember and IndieWeb carnival questions about his identity, Calgary home, water, ecology, climate, Indigenous history, and native plants."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Put the phone away",
+      "post_url": "https://rishidass.net/posts/put-the-phone-away",
+      "published": "2026-11-13T05:29:00Z",
+      "summary": "Rishi Dass describes reducing phone-related distraction by keeping the silent device in another room while working, checking it only when genuinely necessary."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "‘The Dreamer’—Apple’s Holiday Film, Featuring MacBook Neo",
+      "post_url": "https://jagsworkshop.com/2026/11/the-dreamer-apple-holiday-film/",
+      "published": "2026-11-13T00:54:25Z",
+      "summary": "Apple’s holiday film “The Dreamer” follows a child whose parents’ gift of a MacBook Neo helps him rediscover creativity, featuring artwork by Hebru Brantley."
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "Surgery recovery update: overall doing better, healing...",
+      "post_url": "https://jasonjournals.com/posts/2026-11-12-surgery-recovery-update-overall",
+      "published": "2026-11-13T00:31:57Z",
+      "summary": "A surgery recovery update describes improving mobility, persistent nerve pain and numbness, continued light-duty restrictions, medical follow-up, and delaying bicycling while regaining fitness."
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Bad Sisters (2022) — ⭐⭐⭐½ (3.5/5)",
+      "post_url": "https://michaelharley.net/watching/2026/11/12/bad-sisters-s1/",
+      "published": "2026-11-13T00:17:32Z",
+      "summary": "Bad Sisters follows the close-knit Garvey sisters after their toxic brother-in-law dies, testing their loyalty and bond amid family, crime, and darkly comic drama."
     },
     {
       "blog_title": "Gaudete Theology",
@@ -24,168 +186,6 @@
       "post_url": "https://gaudetetheology.wordpress.com/2026/11/12/action-for-usians-protect-refugees-time-critical/",
       "published": "2026-11-13T00:16:20Z",
       "summary": "Gaudete Theology urges readers to oppose a proposed DHS rule shortening refugee-status appeal periods from 30 days to 10, with the notice date starting the deadline."
-    },
-    {
-      "blog_title": "粉红路",
-      "blog_url": "https://pinkway.mataroa.blog/",
-      "feed_url": "https://pinkway.mataroa.blog/rss/",
-      "post_title": "初尝意大利牛肉",
-      "post_url": "https://pinkway.mataroa.blog/blog/091-98-ac8/",
-      "published": "2026-11-13T00:00:00Z",
-      "summary": "A diner samples an Italian beef sandwich, describing tender but bland beef, soggy bread, and reservations about its preparation and accompanying roll."
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Tasty treats in the pico.sh fall update",
-      "post_url": "https://sals.place/blog/pico-sh-fall-update/",
-      "published": "2026-11-12T23:44:39Z",
-      "summary": "Sal highlights pico.sh’s fall update, especially rsync receiver support for --checksum, which streamlines Hugo site deployments by uploading only changed files."
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Isometric San Francisco (A Variation)",
-      "post_url": "https://isometricsanfrancisco.com/",
-      "published": "2026-11-12T23:37:24Z",
-      "summary": "An interactive isometric map depicts San Francisco’s buildings, offering labeled places and companies, zoomable exploration, and an optional pixel-art rendering."
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "A Bumpy iPad Upgrade Path",
-      "post_url": "https://jasonjournals.com/posts/a-bumpy-ipad-upgrade-path",
-      "published": "2026-11-12T22:55:44Z",
-      "summary": "A user weighs upgrading an iPad A16 against staying content, comparing trade-in values, refurbished models, storage needs, future-proofing, platform choices, timing, and purchasing options."
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Adrenalin 26.11.1 Fixes Radeon SSD Write Bug: Check Smart Access Memory on Windows 10",
-      "post_url": "https://joho-todai.com/en/adrenalin-26-11-1-radeon-ssd-bug-fix/",
-      "published": "2026-11-12T22:42:41Z",
-      "summary": "AMD’s optional Adrenalin 26.11.1 driver fixes excessive SSD writes caused by atieclxx.exe, while Windows 10 users should verify Smart Access Memory remains enabled."
-    },
-    {
-      "blog_title": "Mailvaltar",
-      "blog_url": "https://mailvaltar.wordpress.com/",
-      "feed_url": "https://mailvaltar.wordpress.com/feed/",
-      "post_title": "Getting ganked is good (occasionally)!",
-      "post_url": "https://mailvaltar.wordpress.com/2026/11/12/getting-ganked-is-good-occasionally/",
-      "published": "2026-11-12T21:17:40Z",
-      "summary": "A player’s ambush in ArcheAge inspires a long-dormant enthusiast to switch from an Ebonsong bow to a Gunslinger rifle and resume varied activities."
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "🎬 Crazy Rich, Incredibly Broke (2026)",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/12/crazy-rich-incredibly-broke.html",
-      "published": "2026-11-12T20:32:36Z",
-      "summary": "Crazy Rich, Incredibly Broke follows the wealthy AlThahabi family as they discover their financial collapse and pretend to remain affluent to survive."
-    },
-    {
-      "blog_title": "The Weekly Miscellaneous",
-      "blog_url": "https://theweeklymiscellaneous.co.uk/",
-      "feed_url": "https://theweeklymiscellaneous.co.uk/index.xml",
-      "post_title": "Return",
-      "post_url": "https://theweeklymiscellaneous.co.uk/posts/2026/11/return/",
-      "published": "2026-11-12T20:24:00Z",
-      "summary": "The writer describes easing depression through university activities, connecting a careers event to Boltanski and Chiapello’s The New Spirit of Capitalism, and questioning conventional business culture."
-    },
-    {
-      "blog_title": "Ubergeek Kelly's World",
-      "blog_url": "https://www.kgadams.net/",
-      "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "Getting out from under Facebook’s thumb- not so easy",
-      "post_url": "https://www.kgadams.net/geekdom/getting-out-from-under-facebooks-thumb-not-so-easy",
-      "published": "2026-11-12T20:16:25Z",
-      "summary": "Escaping Meta’s tracking requires difficult account changes, privacy tools, and device adjustments, while the piece advocates stronger laws establishing privacy by default."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - lose",
-      "post_url": "https://pretendtypewriter.net/note-lose/",
-      "published": "2026-11-12T20:00:52Z",
-      "summary": "A mistaken purchase of regular needles and a broken threader leaves the writer unable to return the items and out six francs."
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Musi O Tunya – Wings of Africa",
-      "post_url": "https://amf.didiermary.fr/musi-o-tunya-wings-of-africa/",
-      "published": "2026-11-12T18:05:25Z",
-      "summary": "Musi O Tunya’s 1975 album “Wings of Africa” blends Zambian musical traditions and rhythms with psychedelic rock, influenced notably by Osibisa."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Re: What's the point?",
-      "post_url": "https://francescrossley.com/re-whats-the-point/",
-      "published": "2026-11-12T18:00:00Z",
-      "summary": "The post reflects on blogging’s intrinsic value through writing, thinking, creativity, community, site-building, and connection, independent of readership, monetization, or outcomes."
-    },
-    {
-      "blog_title": "ComradeNerdy",
-      "blog_url": "https://comradenerdy.com/",
-      "feed_url": "https://comradenerdy.com/feed/",
-      "post_title": "End of Subathon 2026. Some Info and Plans",
-      "post_url": "https://comradenerdy.com/end-of-subathon-2026-some-info-and-plans/",
-      "published": "2026-11-12T17:10:39Z",
-      "summary": "ComradeNerdy recaps a 7.5-day gaming Subathon, outlines longer streams and content plans, discusses travel, equipment, savings, and possible future Subathons."
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Every Night, When The Stars Come Out",
-      "post_url": "https://bhagpuss.blogspot.com/2026/11/every-night-when-stars-come-out.html",
-      "published": "2026-11-12T16:24:02Z",
-      "summary": "A review of Cyberpunk: Edgerunners Season 2 compares its soundtrack, setting, characters, storytelling, and sequel structure with the iconic first season."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "The Imperium Returns from Siseide",
-      "post_url": "https://tagn.wordpress.com/2026/11/12/the-imperium-returns-from-siseide/",
-      "published": "2026-11-12T16:15:38Z",
-      "summary": "The Imperium returns from Siseide after a low-sec deployment featuring structure attacks, major battles, carrier conduit jumps, and substantial loot recovery."
-    },
-    {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Squadron 42 Event – Gameplay Footage",
-      "post_url": "https://scopique.com/2026/11/12/squadron-42-event-gameplay-footage/",
-      "published": "2026-11-12T16:04:35Z",
-      "summary": "Gameplay footage from Squadron 42 introduces its opening narrative, character reconstruction, military assignments, shipboard training, combat simulation, fitness mechanics, and dynamic ship damage."
-    },
-    {
-      "blog_title": "BurgeonLab",
-      "blog_url": "https://burgeonlab.com/",
-      "feed_url": "https://burgeonlab.com/all/feed.xml",
-      "post_title": "Running Quartz on Android",
-      "post_url": "https://burgeonlab.com/notes/2026/1112-2359/",
-      "published": "2026-11-12T15:59:43Z",
-      "summary": "BurgeonLab describes configuring Quartz to build, serve, and deploy the EclecticPassions.net site from an Android phone using Termux, without remote CI/CD."
-    },
-    {
-      "blog_title": "Kay Talks Games",
-      "blog_url": "https://kaytalksgames.wordpress.com/",
-      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
-      "post_title": "The Twisted Artistry of Oddworld: Abe’s Oddysee",
-      "post_url": "https://kaytalksgames.wordpress.com/2026/11/12/the-twisted-artistry-of-oddworld-abes-oddysee/",
-      "published": "2026-11-12T15:49:32Z",
-      "summary": "Oddworld: Abe’s Oddysee combines challenging puzzle-platforming, distinctive visual design, dark humor, and critiques of slavery, environmental destruction, and corporate greed."
     }
   ]
 }

@@ -1,17 +1,161 @@
 {
-  "generated_at": "2026-11-13T00:21:52.953178Z",
+  "generated_at": "2026-11-13T15:22:58.090375Z",
   "feed_count": 358,
-  "successful_feeds": 331,
-  "failed_feeds": 27,
+  "successful_feeds": 335,
+  "failed_feeds": 23,
   "post_count": 20,
   "posts": [
+    {
+      "blog_title": "The Virtual Moose",
+      "blog_url": "https://virtualmoose.org/",
+      "feed_url": "https://virtualmoose.org/feed/",
+      "post_title": "Indie Game Roundup (Nov. 13, 2026)",
+      "post_url": "https://virtualmoose.org/2026/11/13/indie-game-roundup-nov-13-2026/",
+      "published": "2026-11-13T14:33:02Z"
+    },
+    {
+      "blog_title": "An Archaeopteryx",
+      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
+      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
+      "post_title": "2026 Week 46 Digest",
+      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-13-week-46-digest/",
+      "published": "2026-11-13T14:00:00Z"
+    },
+    {
+      "blog_title": "TGLG",
+      "blog_url": "https://392ms.witchserver.jp/kb/",
+      "feed_url": "https://392ms.witchserver.jp/kb/?mode=rss",
+      "post_title": "No.1296",
+      "post_url": "https://392ms.witchserver.jp/kb/?postid=1296",
+      "published": "2026-11-13T13:58:15Z"
+    },
+    {
+      "blog_title": "Ubergeek Kelly's World",
+      "blog_url": "https://www.kgadams.net/",
+      "feed_url": "https://www.kgadams.net/feed",
+      "post_title": "Falling for stupid propaganda",
+      "post_url": "https://www.kgadams.net/tiny-thoughts/falling-for-stupid-propaganda",
+      "published": "2026-11-13T13:30:00Z"
+    },
+    {
+      "blog_title": "Joho Todai (English)",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/en/rss/",
+      "post_title": "Intel's Next-Generation \"Razor Lake\" CPU Is a Nova Lake Alias in GCC: Coral Rapids Is a Separate New Target",
+      "post_url": "https://joho-todai.com/en/intel-razor-lake-nova-lake-coral-rapids/",
+      "published": "2026-11-13T13:29:12Z"
+    },
     {
       "blog_title": "情報の灯台",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Google検索のAIモデルを世界規模で更新、Gemini 4 Hydrogen。リンク拡大の実効性は未検証",
-      "post_url": "https://joho-todai.com/google-search-gemini-4-hydrogen-ai-update/",
-      "published": "2026-11-13T00:16:34Z"
+      "post_title": "Intel次世代CPU「Razor Lake」、GCCではNova Lakeの別名に。Coral Rapidsは独立した新ターゲット",
+      "post_url": "https://joho-todai.com/intel-razor-lake-nova-lake-coral-rapids/",
+      "published": "2026-11-13T13:29:12Z"
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Guardians of the Galaxy Vol 2 (2017) — Brought to you by Microsoft Zune",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/13/guardians-of-the-galaxy-vol-2-2017-brought-to-you-by-microsoft-zune/",
+      "published": "2026-11-13T13:00:13Z"
+    },
+    {
+      "blog_title": "X2600",
+      "blog_url": "https://write.as/blog-x2600/",
+      "feed_url": "https://write.as/blog-x2600/feed/",
+      "post_title": "cold. blog.",
+      "post_url": "https://write.as/blog-x2600/cold-blog?pk_campaign=rss-feed",
+      "published": "2026-11-13T12:32:43Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "LONDON 2015-01-22",
+      "post_url": "https://pretendtypewriter.net/london-2015-01-22/",
+      "published": "2026-11-13T12:17:34Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "the view from the telescope",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/13/the-view-from-the-telescope/",
+      "published": "2026-11-13T11:43:01Z"
+    },
+    {
+      "blog_title": "スナックエルベ",
+      "blog_url": "https://elve.club/",
+      "feed_url": "https://elve.club/feed",
+      "post_title": "閑話休題。消し炭と木炭は違う",
+      "post_url": "https://elve.club/entry/2026/11/13/201048?utm_source=feed",
+      "published": "2026-11-13T11:10:48Z"
+    },
+    {
+      "blog_title": "The Nosy Gamer",
+      "blog_url": "https://nosygamer.blogspot.com/",
+      "feed_url": "https://nosygamer.blogspot.com/feeds/posts/default",
+      "post_title": "The Pearl Abyss Q3 2026 Earnings Letter",
+      "post_url": "https://nosygamer.blogspot.com/2026/11/the-pearl-abyss-q3-2026-earnings-letter.html",
+      "published": "2026-11-13T11:00:00Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Stellaris Pop Growth Guide (4.5): How to Grow Pops Faster",
+      "post_url": "https://gamerofpassion.com/stellaris-pop-growth/",
+      "published": "2026-11-13T08:00:00Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "Slow progress 🐾",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/13/slow-progress-%f0%9f%90%be/",
+      "published": "2026-11-13T06:00:12Z"
+    },
+    {
+      "blog_title": "Brennan Day",
+      "blog_url": "https://brennan.day/",
+      "feed_url": "https://brennan.day/feed.xml",
+      "post_title": "Knowvember: Where Are You At?!",
+      "post_url": "https://brennan.day/knowvember-where-are-you-at/",
+      "published": "2026-11-13T05:49:22Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Put the phone away",
+      "post_url": "https://rishidass.net/posts/put-the-phone-away",
+      "published": "2026-11-13T05:29:00Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "‘The Dreamer’—Apple’s Holiday Film, Featuring MacBook Neo",
+      "post_url": "https://jagsworkshop.com/2026/11/the-dreamer-apple-holiday-film/",
+      "published": "2026-11-13T00:54:25Z"
+    },
+    {
+      "blog_title": "JASON JOURNALS",
+      "blog_url": "https://jasonjournals.com/",
+      "feed_url": "https://jasonjournals.com/feed/",
+      "post_title": "Surgery recovery update: overall doing better, healing...",
+      "post_url": "https://jasonjournals.com/posts/2026-11-12-surgery-recovery-update-overall",
+      "published": "2026-11-13T00:31:57Z"
+    },
+    {
+      "blog_title": "Michael Harley",
+      "blog_url": "https://michaelharley.net",
+      "feed_url": "https://obsolete29.com/feed/feed.xml",
+      "post_title": "Bad Sisters (2022) — ⭐⭐⭐½ (3.5/5)",
+      "post_url": "https://michaelharley.net/watching/2026/11/12/bad-sisters-s1/",
+      "published": "2026-11-13T00:17:32Z"
     },
     {
       "blog_title": "Gaudete Theology",
@@ -20,150 +164,6 @@
       "post_title": "Action for USians: Protect refugees – time critical",
       "post_url": "https://gaudetetheology.wordpress.com/2026/11/12/action-for-usians-protect-refugees-time-critical/",
       "published": "2026-11-13T00:16:20Z"
-    },
-    {
-      "blog_title": "粉红路",
-      "blog_url": "https://pinkway.mataroa.blog/",
-      "feed_url": "https://pinkway.mataroa.blog/rss/",
-      "post_title": "初尝意大利牛肉",
-      "post_url": "https://pinkway.mataroa.blog/blog/091-98-ac8/",
-      "published": "2026-11-13T00:00:00Z"
-    },
-    {
-      "blog_title": "Sal's Blog",
-      "blog_url": "https://sals.place/",
-      "feed_url": "https://sals.place/feed/",
-      "post_title": "Tasty treats in the pico.sh fall update",
-      "post_url": "https://sals.place/blog/pico-sh-fall-update/",
-      "published": "2026-11-12T23:44:39Z"
-    },
-    {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Isometric San Francisco (A Variation)",
-      "post_url": "https://isometricsanfrancisco.com/",
-      "published": "2026-11-12T23:37:24Z"
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "A Bumpy iPad Upgrade Path",
-      "post_url": "https://jasonjournals.com/posts/a-bumpy-ipad-upgrade-path",
-      "published": "2026-11-12T22:55:44Z"
-    },
-    {
-      "blog_title": "Joho Todai (English)",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "Adrenalin 26.11.1 Fixes Radeon SSD Write Bug: Check Smart Access Memory on Windows 10",
-      "post_url": "https://joho-todai.com/en/adrenalin-26-11-1-radeon-ssd-bug-fix/",
-      "published": "2026-11-12T22:42:41Z"
-    },
-    {
-      "blog_title": "Mailvaltar",
-      "blog_url": "https://mailvaltar.wordpress.com/",
-      "feed_url": "https://mailvaltar.wordpress.com/feed/",
-      "post_title": "Getting ganked is good (occasionally)!",
-      "post_url": "https://mailvaltar.wordpress.com/2026/11/12/getting-ganked-is-good-occasionally/",
-      "published": "2026-11-12T21:17:40Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "🎬 Crazy Rich, Incredibly Broke (2026)",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/12/crazy-rich-incredibly-broke.html",
-      "published": "2026-11-12T20:32:36Z"
-    },
-    {
-      "blog_title": "The Weekly Miscellaneous",
-      "blog_url": "https://theweeklymiscellaneous.co.uk/",
-      "feed_url": "https://theweeklymiscellaneous.co.uk/index.xml",
-      "post_title": "Return",
-      "post_url": "https://theweeklymiscellaneous.co.uk/posts/2026/11/return/",
-      "published": "2026-11-12T20:24:00Z"
-    },
-    {
-      "blog_title": "Ubergeek Kelly's World",
-      "blog_url": "https://www.kgadams.net/",
-      "feed_url": "https://www.kgadams.net/feed",
-      "post_title": "Getting out from under Facebook’s thumb- not so easy",
-      "post_url": "https://www.kgadams.net/geekdom/getting-out-from-under-facebooks-thumb-not-so-easy",
-      "published": "2026-11-12T20:16:25Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - lose",
-      "post_url": "https://pretendtypewriter.net/note-lose/",
-      "published": "2026-11-12T20:00:52Z"
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "Musi O Tunya – Wings of Africa",
-      "post_url": "https://amf.didiermary.fr/musi-o-tunya-wings-of-africa/",
-      "published": "2026-11-12T18:05:25Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Re: What's the point?",
-      "post_url": "https://francescrossley.com/re-whats-the-point/",
-      "published": "2026-11-12T18:00:00Z"
-    },
-    {
-      "blog_title": "ComradeNerdy",
-      "blog_url": "https://comradenerdy.com/",
-      "feed_url": "https://comradenerdy.com/feed/",
-      "post_title": "End of Subathon 2026. Some Info and Plans",
-      "post_url": "https://comradenerdy.com/end-of-subathon-2026-some-info-and-plans/",
-      "published": "2026-11-12T17:10:39Z"
-    },
-    {
-      "blog_title": "Inventory Full",
-      "blog_url": "https://bhagpuss.blogspot.com/",
-      "feed_url": "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss",
-      "post_title": "Every Night, When The Stars Come Out",
-      "post_url": "https://bhagpuss.blogspot.com/2026/11/every-night-when-stars-come-out.html",
-      "published": "2026-11-12T16:24:02Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "The Imperium Returns from Siseide",
-      "post_url": "https://tagn.wordpress.com/2026/11/12/the-imperium-returns-from-siseide/",
-      "published": "2026-11-12T16:15:38Z"
-    },
-    {
-      "blog_title": "Scopique’s",
-      "blog_url": "https://scopique.com/",
-      "feed_url": "https://scopique.com/feed/",
-      "post_title": "Squadron 42 Event – Gameplay Footage",
-      "post_url": "https://scopique.com/2026/11/12/squadron-42-event-gameplay-footage/",
-      "published": "2026-11-12T16:04:35Z"
-    },
-    {
-      "blog_title": "BurgeonLab",
-      "blog_url": "https://burgeonlab.com/",
-      "feed_url": "https://burgeonlab.com/all/feed.xml",
-      "post_title": "Running Quartz on Android",
-      "post_url": "https://burgeonlab.com/notes/2026/1112-2359/",
-      "published": "2026-11-12T15:59:43Z"
-    },
-    {
-      "blog_title": "Kay Talks Games",
-      "blog_url": "https://kaytalksgames.wordpress.com/",
-      "feed_url": "https://kaytalksgames.wordpress.com/feed/",
-      "post_title": "The Twisted Artistry of Oddworld: Abe’s Oddysee",
-      "post_url": "https://kaytalksgames.wordpress.com/2026/11/12/the-twisted-artistry-of-oddworld-abes-oddysee/",
-      "published": "2026-11-12T15:49:32Z"
     }
   ]
 }
