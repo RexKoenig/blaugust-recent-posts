@@ -1,38 +1,146 @@
 {
-  "generated_at": "2026-11-14T00:20:07.757371Z",
-  "source_generated_at": "2026-11-14T00:19:24.800611Z",
+  "generated_at": "2026-11-14T14:08:54.907420Z",
+  "source_generated_at": "2026-11-14T14:08:27.198926Z",
   "summary_provider": "openai",
   "summary_model": "gpt-5.6-luna",
   "summary_prompt_version": "2026-09-13-v2",
   "post_count": 20,
-  "summary_count": 18,
+  "summary_count": 20,
   "posts": [
     {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Windows 11月更新で印刷が失敗。透かしやレイアウト用の不可視画像が引き金に",
-      "post_url": "https://joho-todai.com/windows-11-print-failure-invisible-images/",
-      "published": "2026-11-14T00:06:43Z",
-      "summary": null
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "RSI Galaxy",
+      "post_url": "https://scopique.com/2026/11/14/rsi-galaxy/",
+      "published": "2026-11-14T13:42:11Z",
+      "summary": "Scopique evaluates the RSI Galaxy’s modular medical and cargo configurations, hangar capabilities, crewed combat limitations, and anticipated refinery module in Star Citizen."
     },
     {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Electoral College on ‘Life Support’",
-      "post_url": "https://www.youtube.com/watch?v=u54bcl1lCeo",
-      "published": "2026-11-14T00:05:46Z",
-      "summary": "Mike Sacks’s LegalEagle presentation traces the Electoral College’s origins and examines growing support for the National Popular Vote Interstate Compact as a potential alternative."
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Martin Schuhmann - November 14, 2026 14:35",
+      "post_url": "https://martinschuhmann.com/blog/6a3c03ea",
+      "published": "2026-11-14T13:35:00Z",
+      "summary": "Martin Schuhmann shares his excitement about buying pens and other supplies to create a personal zine, reflecting on creativity, tools, and zine-making."
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - after",
+      "post_url": "https://pretendtypewriter.net/note-after/",
+      "published": "2026-11-14T13:28:38Z",
+      "summary": "A note records feeling tired and wanting a nap after walking 10,000 steps and grocery shopping."
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Six fun spoof movies from the ’90s",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/14/six-fun-spoof-movies-from-the-90s/",
+      "published": "2026-11-14T13:00:16Z",
+      "summary": "A roundup of six 1990s spoof films—Wrongfully Accused, Jane Austen’s Mafia!, Loaded Weapon 1, Don’t Be a Menace, High School High, and Fatal Instinct."
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Concentration risk",
+      "post_url": "http://tobolds.blogspot.com/2026/11/concentration-risk.html",
+      "published": "2026-11-14T12:34:33Z",
+      "summary": "Tobold examines Nvidia’s valuation decline as a concentration-risk problem, emphasizing Jensen Huang’s centralized control, lack of succession planning, and broader economic dependence on major companies."
     },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "The Day Microsoft 365 Went Down Worldwide: The Environmental Cost of Digital Dependence",
-      "post_url": "https://joho-todai.com/en/microsoft-365-outage-digital-dependency-environmental-cost/",
-      "published": "2026-11-13T23:28:23Z",
-      "summary": "The piece examines Microsoft 365’s global outage, digital dependence, data-center emissions, electronic waste, software-driven hardware replacement, and switching costs affecting competition and sustainability."
+      "post_title": "Wine 11.22 Emulates x86 AVX Instructions on ARM64, Adds Memory Layout Randomization and 34 Fixes",
+      "post_url": "https://joho-todai.com/en/wine-11-22-arm64-x86-avx-emulation/",
+      "published": "2026-11-14T12:24:05Z",
+      "summary": "Wine 11.22 adds ARM64 AVX emulation, ASLR, Vulkan rendering fixes, MSXML validation, Tahoma improvements, updated locale data, and 34 bug fixes."
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Wine 11.22、ARM64上でx86のAVX命令をエミュレーション。メモリ配置のランダム化と34件の修正も",
+      "post_url": "https://joho-todai.com/wine-11-22-arm64-x86-avx-emulation/",
+      "published": "2026-11-14T12:24:05Z",
+      "summary": "Wine 11.22 adds ARM64 emulation for x86 AVX instructions, ASLR, Vulkan fixes, MSXML and font improvements, CLDR 49, and 34 bug fixes."
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "A Dozen of Anything EXCEPT Eggs",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/14/a-dozen-of-anything-except-eggs/",
+      "published": "2026-11-14T11:00:46Z",
+      "summary": "A photo presents twelve LEGO Doctor Who adversaries—seven Daleks and five Cybermen—positioned opposite each other before a row of poetry books."
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Stellaris Best Galaxy Settings (4.5): Shape Tier List, Size and Difficulty",
+      "post_url": "https://gamerofpassion.com/stellaris-galaxy-settings/",
+      "published": "2026-11-14T08:00:00Z",
+      "summary": "The guide recommends Stellaris 4.5 galaxy shapes, sizes, hyperlane densities, difficulty settings, and rule configurations for varied playstyles and performance goals."
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com/",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Stalk’s Videogame Corner: Celestial Decks",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/11/14/stalks-videogame-corner-celestial-decks/",
+      "published": "2026-11-14T07:00:00Z",
+      "summary": "Celestial Decks is an online trading card game featuring storytelling rituals, flexible fifteen-card decks, resource management, color-based archetypes, and alternating rounds to five wins."
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "What next?",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/14/what-next/",
+      "published": "2026-11-14T06:00:00Z",
+      "summary": "Cynni reflects on sustaining a daily blog, its personal origins, writing challenges, AI-related criticism, grief, recovery, and hopes for more positive experiences."
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Packing for travel",
+      "post_url": "https://rishidass.net/posts/packing-for-travel",
+      "published": "2026-11-14T05:05:53Z",
+      "summary": "Rishi Dass describes packing travel essentials into a single carry-on, organizing clothing, toiletries, and technology while using checklists, laundry, and a timed routine."
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "‘The Odd Couple,’ Starring Steve Carell and John C. Reilly, Returning to Broadway",
+      "post_url": "https://playbill.com/article/steve-carell-john-c-reilly-will-star-in-broadway-the-odd-couple",
+      "published": "2026-11-14T02:21:44Z",
+      "summary": "A 2027 Broadway revival of Neil Simon’s The Odd Couple will star Steve Carell and John C. Reilly, directed by Thomas Kail in a limited engagement."
+    },
+    {
+      "blog_title": "Leekscosycorner",
+      "blog_url": "https://leekscosycorner.com/",
+      "feed_url": "https://leekscosycorner.com/feed/",
+      "post_title": "The Legend of Zelda Ocarina of Time First Impressions and a Journey Through Time",
+      "post_url": "https://leekscosycorner.com/2026/11/14/the-legend-of-zelda-switch2/",
+      "published": "2026-11-14T00:59:57Z",
+      "summary": "The piece shares first impressions of The Legend of Zelda: Ocarina of Time’s Nintendo Switch 2 remake alongside memories of experiencing earlier versions."
+    },
+    {
+      "blog_title": "Tommyeveryday",
+      "blog_url": "https://tommyeveryday.mataroa.blog",
+      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
+      "post_title": "Saturday November 14, 2026",
+      "post_url": "https://tommyeveryday.mataroa.blog/blog/saturday-november-14-2026/",
+      "published": "2026-11-14T00:00:00Z",
+      "summary": "A personal diary recounts gloomy weather, family concerns, errands, interview planning, neighborhood walking, Thanksgiving preparations, and evening viewing."
     },
     {
       "blog_title": "Michael Harley",
@@ -42,15 +150,6 @@
       "post_url": "https://michaelharley.net/photos/2026/11/13/linus-chilling/",
       "published": "2026-11-13T23:02:48Z",
       "summary": "A photograph shows Linus relaxing in Richmond, Virginia, accompanied by the caption “If it fits, it sits” and camera details from a Google Pixel 9 Pro XL."
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - returns/exchanges are possible",
-      "post_url": "https://pretendtypewriter.net/note-returnsexchanges-are-possible/",
-      "published": "2026-11-13T21:51:22Z",
-      "summary": "The writer notes exchanging knitting needles at a local hardware store after initially reacting with panic to receiving an inappropriate one."
     },
     {
       "blog_title": "スナックエルベ",
@@ -87,105 +186,6 @@
       "post_url": "https://priestwithacause.blogspot.com/2026/11/when-they-go-high-i-go-wide.html",
       "published": "2026-11-13T19:21:30Z",
       "summary": "The writer reflects on a week in WoW Forever, embracing multiple characters, limited social ties, and subtle improvements to professions, quests, and starter zones."
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "Medical self-tracking",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-13-medical-self-tracking/",
-      "published": "2026-11-13T19:11:53Z",
-      "summary": "The writer explains using calendar-based symptom and medication tracking to compensate for poor memory, identify patterns, and provide doctors with specific medical histories."
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "More attempts to capture the golden glow of...",
-      "post_url": "https://jasonjournals.com/posts/2026-11-13-more-attempts-to-capture",
-      "published": "2026-11-13T19:06:31Z",
-      "summary": null
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - November 13, 2026 19:15",
-      "post_url": "https://martinschuhmann.com/blog/9064b717",
-      "published": "2026-11-13T18:15:00Z",
-      "summary": "Martin Schuhmann provides a brief update about making progress on a music playlist."
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Winter prep in the garden",
-      "post_url": "https://francescrossley.com/winter-prep-in-the-garden/",
-      "published": "2026-11-13T18:00:00Z",
-      "summary": "A gardener prepares for frost by harvesting crops, tidying beds, protecting herbs and seedlings, maintaining compost and habitat areas, and repairing the greenhouse."
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Desultory",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/13/word-nerd-alert-desultory.html",
-      "published": "2026-11-13T17:40:07Z",
-      "summary": "The post defines “desultory” as lacking purpose or regularity, unrelated to the main subject, or disappointing in progress, performance, or quality."
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "African Jazz Pioneers – Mantonoro",
-      "post_url": "https://amf.didiermary.fr/african-jazz-pioneers-mantonoro/",
-      "published": "2026-11-13T17:28:20Z",
-      "summary": "African Jazz Pioneers revive South African jive by blending Marabi, township jazz, and big-band swing, tracing their history from the 1950s through apartheid and beyond."
-    },
-    {
-      "blog_title": "The Digital Antiquarian",
-      "blog_url": "https://www.filfre.net/",
-      "feed_url": "https://www.filfre.net/feed/",
-      "post_title": "This Week on The Analog Antiquarian",
-      "post_url": "https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/",
-      "published": "2026-11-13T17:07:18Z",
-      "summary": "The page announces “Opus 7: Titus Andronicus,” published November 13, 2026, on The Digital Antiquarian."
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "How to Increase Relations in Bannerlord (War Sails, v1.5.7): Notables, Lords and Your Spouse",
-      "post_url": "https://gamerofpassion.com/bannerlord-relations/",
-      "published": "2026-11-13T17:00:00Z",
-      "summary": "Bannerlord relations with notables, lords, clans, and spouses are explained, including gains, modifiers, recruitment thresholds, supporters, contracts, and effects on AI behavior."
-    },
-    {
-      "blog_title": "Scormus Fails",
-      "blog_url": "https://scormey.com/",
-      "feed_url": "https://scormey.com/feed/",
-      "post_title": "This is what’s wrong with D&D",
-      "post_url": "https://scormey.com/2026/11/13/this-is-whats-wrong-with-dd/",
-      "published": "2026-11-13T17:00:00Z",
-      "summary": "The piece criticizes Dungeons & Dragons’ World of Warcraft setting book for relying on reskinned classes, races, spells, and limited setting content."
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Friday Bullet Points about Coming Attractions",
-      "post_url": "https://tagn.wordpress.com/2026/11/13/friday-bullet-points-about-coming-attractions/",
-      "published": "2026-11-13T16:15:05Z",
-      "summary": "Upcoming expansions and updates are outlined for Guild Wars Afterlife, EverQuest Legends: Rulers of Kunark, Prosperous Universe: Orchestration, and Outbound: Meet the Locals."
-    },
-    {
-      "blog_title": "Syl's Blog",
-      "blog_url": "https://syls.blog/",
-      "feed_url": "https://syls.blog/feed/",
-      "post_title": "World of Warcraft Forever",
-      "post_url": "https://syls.blog/world-of-warcraft-forever/",
-      "published": "2026-11-13T16:12:27Z",
-      "summary": "A returning player explores World of Warcraft Forever as Tala Snowshear, a level-13 dwarf hunter, revisiting Azeroth, classic locations, roleplay communities, and casual gameplay."
     }
   ]
 }

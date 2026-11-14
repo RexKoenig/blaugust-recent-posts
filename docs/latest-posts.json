@@ -1,33 +1,129 @@
 {
-  "generated_at": "2026-11-14T00:19:24.800611Z",
+  "generated_at": "2026-11-14T14:08:27.198926Z",
   "feed_count": 358,
-  "successful_feeds": 332,
-  "failed_feeds": 26,
+  "successful_feeds": 331,
+  "failed_feeds": 27,
   "post_count": 20,
   "posts": [
     {
-      "blog_title": "情報の灯台",
-      "blog_url": "https://joho-todai.com/",
-      "feed_url": "https://joho-todai.com/pinterest-rss/",
-      "post_title": "Windows 11月更新で印刷が失敗。透かしやレイアウト用の不可視画像が引き金に",
-      "post_url": "https://joho-todai.com/windows-11-print-failure-invisible-images/",
-      "published": "2026-11-14T00:06:43Z"
+      "blog_title": "Scopique’s",
+      "blog_url": "https://scopique.com/",
+      "feed_url": "https://scopique.com/feed/",
+      "post_title": "RSI Galaxy",
+      "post_url": "https://scopique.com/2026/11/14/rsi-galaxy/",
+      "published": "2026-11-14T13:42:11Z"
     },
     {
-      "blog_title": "JAG’s Workshop",
-      "blog_url": "https://jagsworkshop.com/",
-      "feed_url": "https://jagsworkshop.com/rss/",
-      "post_title": "Electoral College on ‘Life Support’",
-      "post_url": "https://www.youtube.com/watch?v=u54bcl1lCeo",
-      "published": "2026-11-14T00:05:46Z"
+      "blog_title": "Martin Schuhmann",
+      "blog_url": "https://martinschuhmann.com/",
+      "feed_url": "https://martinschuhmann.com/feed/",
+      "post_title": "Martin Schuhmann - November 14, 2026 14:35",
+      "post_url": "https://martinschuhmann.com/blog/6a3c03ea",
+      "published": "2026-11-14T13:35:00Z"
+    },
+    {
+      "blog_title": "Pretend Typewriter",
+      "blog_url": "https://pretendtypewriter.net/",
+      "feed_url": "https://pretendtypewriter.net/feed/",
+      "post_title": "note - after",
+      "post_url": "https://pretendtypewriter.net/note-after/",
+      "published": "2026-11-14T13:28:38Z"
+    },
+    {
+      "blog_title": "Mutant Reviewers",
+      "blog_url": "https://mutantreviewersmovies.com",
+      "feed_url": "https://mutantreviewersmovies.com/feed/",
+      "post_title": "Six fun spoof movies from the ’90s",
+      "post_url": "https://mutantreviewersmovies.com/2026/11/14/six-fun-spoof-movies-from-the-90s/",
+      "published": "2026-11-14T13:00:16Z"
+    },
+    {
+      "blog_title": "Tobold's Blog",
+      "blog_url": "http://tobolds.blogspot.com/",
+      "feed_url": "http://feeds2.feedburner.com/ToboldsBlog",
+      "post_title": "Concentration risk",
+      "post_url": "http://tobolds.blogspot.com/2026/11/concentration-risk.html",
+      "published": "2026-11-14T12:34:33Z"
     },
     {
       "blog_title": "Joho Todai (English)",
       "blog_url": "https://joho-todai.com/",
       "feed_url": "https://joho-todai.com/en/rss/",
-      "post_title": "The Day Microsoft 365 Went Down Worldwide: The Environmental Cost of Digital Dependence",
-      "post_url": "https://joho-todai.com/en/microsoft-365-outage-digital-dependency-environmental-cost/",
-      "published": "2026-11-13T23:28:23Z"
+      "post_title": "Wine 11.22 Emulates x86 AVX Instructions on ARM64, Adds Memory Layout Randomization and 34 Fixes",
+      "post_url": "https://joho-todai.com/en/wine-11-22-arm64-x86-avx-emulation/",
+      "published": "2026-11-14T12:24:05Z"
+    },
+    {
+      "blog_title": "情報の灯台",
+      "blog_url": "https://joho-todai.com/",
+      "feed_url": "https://joho-todai.com/pinterest-rss/",
+      "post_title": "Wine 11.22、ARM64上でx86のAVX命令をエミュレーション。メモリ配置のランダム化と34件の修正も",
+      "post_url": "https://joho-todai.com/wine-11-22-arm64-x86-avx-emulation/",
+      "published": "2026-11-14T12:24:05Z"
+    },
+    {
+      "blog_title": "NomadWarMachine",
+      "blog_url": "https://nomadwarmachine.co.uk/",
+      "feed_url": "https://nomadwarmachine.co.uk/feed/",
+      "post_title": "A Dozen of Anything EXCEPT Eggs",
+      "post_url": "https://nomadwarmachine.co.uk/2026/11/14/a-dozen-of-anything-except-eggs/",
+      "published": "2026-11-14T11:00:46Z"
+    },
+    {
+      "blog_title": "Gamer Of Passion",
+      "blog_url": "https://gamerofpassion.com/",
+      "feed_url": "https://gamerofpassion.com/feed/",
+      "post_title": "Stellaris Best Galaxy Settings (4.5): Shape Tier List, Size and Difficulty",
+      "post_url": "https://gamerofpassion.com/stellaris-galaxy-settings/",
+      "published": "2026-11-14T08:00:00Z"
+    },
+    {
+      "blog_title": "Cubic Creativity",
+      "blog_url": "https://cubiccreativity.wordpress.com/",
+      "feed_url": "https://cubiccreativity.wordpress.com/feed/",
+      "post_title": "Stalk’s Videogame Corner: Celestial Decks",
+      "post_url": "https://cubiccreativity.wordpress.com/2026/11/14/stalks-videogame-corner-celestial-decks/",
+      "published": "2026-11-14T07:00:00Z"
+    },
+    {
+      "blog_title": "Cynni’s Blog",
+      "blog_url": "https://cynnisblog.wordpress.com/",
+      "feed_url": "https://cynnisblog.wordpress.com/feed/",
+      "post_title": "What next?",
+      "post_url": "https://cynnisblog.wordpress.com/2026/11/14/what-next/",
+      "published": "2026-11-14T06:00:00Z"
+    },
+    {
+      "blog_title": "Rishi Dass",
+      "blog_url": "https://rishidass.net",
+      "feed_url": "https://rishidass.net/posts_feed",
+      "post_title": "Packing for travel",
+      "post_url": "https://rishidass.net/posts/packing-for-travel",
+      "published": "2026-11-14T05:05:53Z"
+    },
+    {
+      "blog_title": "JAG’s Workshop",
+      "blog_url": "https://jagsworkshop.com/",
+      "feed_url": "https://jagsworkshop.com/rss/",
+      "post_title": "‘The Odd Couple,’ Starring Steve Carell and John C. Reilly, Returning to Broadway",
+      "post_url": "https://playbill.com/article/steve-carell-john-c-reilly-will-star-in-broadway-the-odd-couple",
+      "published": "2026-11-14T02:21:44Z"
+    },
+    {
+      "blog_title": "Leekscosycorner",
+      "blog_url": "https://leekscosycorner.com/",
+      "feed_url": "https://leekscosycorner.com/feed/",
+      "post_title": "The Legend of Zelda Ocarina of Time First Impressions and a Journey Through Time",
+      "post_url": "https://leekscosycorner.com/2026/11/14/the-legend-of-zelda-switch2/",
+      "published": "2026-11-14T00:59:57Z"
+    },
+    {
+      "blog_title": "Tommyeveryday",
+      "blog_url": "https://tommyeveryday.mataroa.blog",
+      "feed_url": "https://tommyeveryday.mataroa.blog/rss/",
+      "post_title": "Saturday November 14, 2026",
+      "post_url": "https://tommyeveryday.mataroa.blog/blog/saturday-november-14-2026/",
+      "published": "2026-11-14T00:00:00Z"
     },
     {
       "blog_title": "Michael Harley",
@@ -36,14 +132,6 @@
       "post_title": "Linus chilling (Richmond, VA)",
       "post_url": "https://michaelharley.net/photos/2026/11/13/linus-chilling/",
       "published": "2026-11-13T23:02:48Z"
-    },
-    {
-      "blog_title": "Pretend Typewriter",
-      "blog_url": "https://pretendtypewriter.net/",
-      "feed_url": "https://pretendtypewriter.net/feed/",
-      "post_title": "note - returns/exchanges are possible",
-      "post_url": "https://pretendtypewriter.net/note-returnsexchanges-are-possible/",
-      "published": "2026-11-13T21:51:22Z"
     },
     {
       "blog_title": "スナックエルベ",
@@ -76,94 +164,6 @@
       "post_title": "When They Go High, I Go Wide",
       "post_url": "https://priestwithacause.blogspot.com/2026/11/when-they-go-high-i-go-wide.html",
       "published": "2026-11-13T19:21:30Z"
-    },
-    {
-      "blog_title": "An Archaeopteryx",
-      "blog_url": "https://anarchaeopteryx.bearblog.dev/",
-      "feed_url": "https://anarchaeopteryx.bearblog.dev/feed/",
-      "post_title": "Medical self-tracking",
-      "post_url": "https://anarchaeopteryx.bearblog.dev/2026-11-13-medical-self-tracking/",
-      "published": "2026-11-13T19:11:53Z"
-    },
-    {
-      "blog_title": "JASON JOURNALS",
-      "blog_url": "https://jasonjournals.com/",
-      "feed_url": "https://jasonjournals.com/feed/",
-      "post_title": "More attempts to capture the golden glow of...",
-      "post_url": "https://jasonjournals.com/posts/2026-11-13-more-attempts-to-capture",
-      "published": "2026-11-13T19:06:31Z"
-    },
-    {
-      "blog_title": "Martin Schuhmann",
-      "blog_url": "https://martinschuhmann.com/",
-      "feed_url": "https://martinschuhmann.com/feed/",
-      "post_title": "Martin Schuhmann - November 13, 2026 19:15",
-      "post_url": "https://martinschuhmann.com/blog/9064b717",
-      "published": "2026-11-13T18:15:00Z"
-    },
-    {
-      "blog_title": "What the Fran",
-      "blog_url": "https://francescrossley.com/",
-      "feed_url": "https://francescrossley.com/feed/",
-      "post_title": "Winter prep in the garden",
-      "post_url": "https://francescrossley.com/winter-prep-in-the-garden/",
-      "published": "2026-11-13T18:00:00Z"
-    },
-    {
-      "blog_title": "Toby Geeks Out",
-      "blog_url": "https://tobygeeksout.micro.blog/",
-      "feed_url": "https://tobygeeksout.micro.blog/feed.xml",
-      "post_title": "Word Nerd Alert: Desultory",
-      "post_url": "https://tobygeeksout.micro.blog/2026/11/13/word-nerd-alert-desultory.html",
-      "published": "2026-11-13T17:40:07Z"
-    },
-    {
-      "blog_title": "African Music Forum",
-      "blog_url": "https://amf.didiermary.fr/",
-      "feed_url": "https://amf.didiermary.fr/feed/",
-      "post_title": "African Jazz Pioneers – Mantonoro",
-      "post_url": "https://amf.didiermary.fr/african-jazz-pioneers-mantonoro/",
-      "published": "2026-11-13T17:28:20Z"
-    },
-    {
-      "blog_title": "The Digital Antiquarian",
-      "blog_url": "https://www.filfre.net/",
-      "feed_url": "https://www.filfre.net/feed/",
-      "post_title": "This Week on The Analog Antiquarian",
-      "post_url": "https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/",
-      "published": "2026-11-13T17:07:18Z"
-    },
-    {
-      "blog_title": "Gamer Of Passion",
-      "blog_url": "https://gamerofpassion.com/",
-      "feed_url": "https://gamerofpassion.com/feed/",
-      "post_title": "How to Increase Relations in Bannerlord (War Sails, v1.5.7): Notables, Lords and Your Spouse",
-      "post_url": "https://gamerofpassion.com/bannerlord-relations/",
-      "published": "2026-11-13T17:00:00Z"
-    },
-    {
-      "blog_title": "Scormus Fails",
-      "blog_url": "https://scormey.com/",
-      "feed_url": "https://scormey.com/feed/",
-      "post_title": "This is what’s wrong with D&D",
-      "post_url": "https://scormey.com/2026/11/13/this-is-whats-wrong-with-dd/",
-      "published": "2026-11-13T17:00:00Z"
-    },
-    {
-      "blog_title": "The Ancient Gaming Noob",
-      "blog_url": "https://tagn.wordpress.com/",
-      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-      "post_title": "Friday Bullet Points about Coming Attractions",
-      "post_url": "https://tagn.wordpress.com/2026/11/13/friday-bullet-points-about-coming-attractions/",
-      "published": "2026-11-13T16:15:05Z"
-    },
-    {
-      "blog_title": "Syl's Blog",
-      "blog_url": "https://syls.blog/",
-      "feed_url": "https://syls.blog/feed/",
-      "post_title": "World of Warcraft Forever",
-      "post_url": "https://syls.blog/world-of-warcraft-forever/",
-      "published": "2026-11-13T16:12:27Z"
     }
   ]
 }
